@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[MENU_SALES] (
+    [MENU_ID]            VARCHAR (10) NOT NULL,
+    [MENU_DESCRIPTION]   VARCHAR (64) NULL,
+    [INTERNAL_NAME_MENU] VARCHAR (48) NULL,
+    [IS_VISIBLE]         BIT          NOT NULL
+);
+

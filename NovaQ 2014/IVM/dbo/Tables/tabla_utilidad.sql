@@ -1,0 +1,25 @@
+﻿CREATE TABLE [dbo].[tabla_utilidad] (
+    [DOCUMENT_ID]         VARCHAR (2)     NULL,
+    [NUMBER_SERIE]        VARCHAR (3)     NULL,
+    [NUMBER_DOCUMENT]     VARCHAR (7)     NULL,
+    [DOCUMENT_DATE]       DATETIME        NULL,
+    [CUSTOMER_NAME]       VARCHAR (150)   NULL,
+    [SELL_RATE]           NUMERIC (15, 6) NULL,
+    [CURRENCY_ID]         VARCHAR (2)     NULL,
+    [PART_ID]             VARCHAR (20)    NULL,
+    [QTY]                 NUMERIC (15, 6) NULL,
+    [PRICE_ORI]           NUMERIC (15, 6) NULL,
+    [DISCOUNT]            NUMERIC (15, 6) NULL,
+    [TAX_PERCENT]         NUMERIC (15, 6) NULL,
+    [UNIT]                VARCHAR (6)     NULL,
+    [PART_DESCRIPTION]    VARCHAR (64)    NULL,
+    [DISCOUNT_CUSTOMER]   NUMERIC (15, 6) NULL,
+    [DISCOUNT_SP]         NUMERIC (15, 6) NULL,
+    [PART_TAX]            BIT             NULL,
+    [UNIT_OF_MEASUREMENT] VARCHAR (6)     NULL,
+    [COST_AVG]            NUMERIC (15, 6) NULL,
+    [COST_AVG_US]         NUMERIC (15, 6) NULL,
+    [MODEL]               VARCHAR (8)     NULL,
+    [DESCRIPTION_OPT]     VARCHAR (64)    NULL
+);
+

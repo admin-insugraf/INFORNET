@@ -1,0 +1,19 @@
+﻿CREATE TABLE [dbo].[PART_QTY] (
+    [WAREHOUSE_ID]       VARCHAR (2)     NOT NULL,
+    [PART_ID]            VARCHAR (20)    NOT NULL,
+    [QTY_ON_HAND]        NUMERIC (15, 6) NULL,
+    [MIN_QTY]            NUMERIC (15, 6) NULL,
+    [MAX_QTY]            NUMERIC (15, 6) NULL,
+    [QTY_ON_ORDER]       NUMERIC (15, 6) NULL,
+    [WEEK_SUPPLY]        NUMERIC (15, 6) NULL,
+    [CLASIFICATION_ID]   VARCHAR (1)     NULL,
+    [WHS_LOCATION]       VARCHAR (10)    NULL,
+    [TYPE_BUY]           VARCHAR (3)     NULL,
+    [QTY_RESERVE]        NUMERIC (15, 6) NULL,
+    [COST_AVG]           NUMERIC (15, 6) NULL,
+    [LAST_PRICE]         NUMERIC (15, 6) NULL,
+    [LAST_RECEIVED_DATE] SMALLDATETIME   NULL,
+    [COST_AVG_US]        NUMERIC (15, 6) NULL,
+    [QTY_REFERENCE]      NUMERIC (15, 6) CONSTRAINT [DF_PART_QTY_QTY_REFERENCE] DEFAULT (0) NULL
+);
+

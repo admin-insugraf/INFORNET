@@ -1,0 +1,71 @@
+07/02/2014 10:05:07 p.m.	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'IVM' del equipo 'SOVERO' por el usuario 'Jose Luis'.
+07/02/2014 10:05:07 p.m.	Se inició la importación del esquema de la base de datos.
+07/02/2014 10:05:17 p.m.	Recopilando opciones de base de datos
+07/02/2014 10:05:17 p.m.	Recopilando usuarios
+07/02/2014 10:05:17 p.m.	Recopilando roles
+07/02/2014 10:05:17 p.m.	Recopilando roles de aplicación
+07/02/2014 10:05:17 p.m.	Recopilando pertenencias a roles
+07/02/2014 10:05:17 p.m.	Recopilando grupos de archivos
+07/02/2014 10:05:17 p.m.	Recopilando catálogos de texto completo
+07/02/2014 10:05:17 p.m.	Recopilando ensamblados
+07/02/2014 10:05:17 p.m.	Recopilando certificados
+07/02/2014 10:05:17 p.m.	Recopilando claves asimétricas
+07/02/2014 10:05:17 p.m.	Recopilando claves simétricas
+07/02/2014 10:05:17 p.m.	Recopilando claves simétricas cifradas
+07/02/2014 10:05:17 p.m.	Recopilando esquemas
+07/02/2014 10:05:17 p.m.	Recopilando colecciones de esquemas XML
+07/02/2014 10:05:17 p.m.	Recopilando tipos de datos definidos por el usuario
+07/02/2014 10:05:17 p.m.	Recopilando tipos definidos por el usuario
+07/02/2014 10:05:17 p.m.	Recopilando tipos de tabla
+07/02/2014 10:05:17 p.m.	Recopilando claves únicas para tipos de tabla
+07/02/2014 10:05:17 p.m.	Recopilando claves principales para tipos de tabla
+07/02/2014 10:05:17 p.m.	Recopilando restricciones CHECK para tipos de tabla
+07/02/2014 10:05:17 p.m.	Recopilando restricciones DEFAULT para tipos de tabla
+07/02/2014 10:05:17 p.m.	Recopilando funciones de partición
+07/02/2014 10:05:17 p.m.	Recopilando esquemas de partición
+07/02/2014 10:05:17 p.m.	Recopilando funciones
+07/02/2014 10:05:17 p.m.	Recopilando funciones cifradas
+07/02/2014 10:05:17 p.m.	Recopilando agregados
+07/02/2014 10:05:17 p.m.	Recopilando procedimientos
+07/02/2014 10:05:18 p.m.	Recopilando procedimientos cifrados
+07/02/2014 10:05:18 p.m.	Recopilando tablas
+07/02/2014 10:05:19 p.m.	Recopilando claves principales
+07/02/2014 10:05:19 p.m.	Recopilando restricciones UNIQUE
+07/02/2014 10:05:19 p.m.	Recopilando claves externas
+07/02/2014 10:05:19 p.m.	Recopilando restricciones DEFAULT
+07/02/2014 10:05:20 p.m.	Recopilando restricciones CHECK
+07/02/2014 10:05:20 p.m.	Recopilando vistas
+07/02/2014 10:05:20 p.m.	Recopilando vistas cifradas
+07/02/2014 10:05:20 p.m.	Recopilando índices
+07/02/2014 10:05:20 p.m.	Recopilando estadísticas
+07/02/2014 10:05:20 p.m.	Recopilando listas de palabras irrelevantes de índices de texto completo
+07/02/2014 10:05:20 p.m.	Recopilando índices de texto completo
+07/02/2014 10:05:20 p.m.	Recopilando índices espaciales
+07/02/2014 10:05:20 p.m.	Recopilando índices XML
+07/02/2014 10:05:20 p.m.	Recopilando desencadenadores cifrados
+07/02/2014 10:05:20 p.m.	Recopilando desencadenadores
+07/02/2014 10:05:20 p.m.	Recopilando DDL triggers cifrados y de CLR
+07/02/2014 10:05:20 p.m.	Recopilando DDL triggers
+07/02/2014 10:05:20 p.m.	Recopilando sinónimos
+07/02/2014 10:05:20 p.m.	Recopilando valores predeterminados
+07/02/2014 10:05:20 p.m.	Recopilando enlaces UDDT de restricción de datos
+07/02/2014 10:05:20 p.m.	Recopilando reglas
+07/02/2014 10:05:20 p.m.	Recopilando enlaces UDDT de restricción de datos
+07/02/2014 10:05:20 p.m.	Recopilando tipos de mensaje
+07/02/2014 10:05:20 p.m.	Recopilando colas
+07/02/2014 10:05:20 p.m.	Recopilando contratos
+07/02/2014 10:05:20 p.m.	Recopilando servicios
+07/02/2014 10:05:20 p.m.	Recopilando notificaciones de eventos
+07/02/2014 10:05:20 p.m.	Recopilando enlaces de servicio remoto
+07/02/2014 10:05:20 p.m.	Recopilando prioridades de Broker
+07/02/2014 10:05:20 p.m.	Recopilando firmas
+07/02/2014 10:05:20 p.m.	Recopilando opciones de compresión de datos
+07/02/2014 10:05:20 p.m.	Recopilando propiedades extendidas
+07/02/2014 10:05:20 p.m.	Recopilando credenciales
+07/02/2014 10:05:20 p.m.	Recopilando inicios de sesión
+07/02/2014 10:05:20 p.m.	Recopilando auditorías de servidor
+07/02/2014 10:05:21 p.m.	Buscando elementos duplicados en el proyecto
+07/02/2014 10:05:21 p.m.	Ha finalizado el procesamiento de los elementos duplicados
+07/02/2014 10:05:28 p.m.	Finalizó la importación de la base de datos.
+07/02/2014 10:05:28 p.m.	Se guardó un resumen de la importación en la siguiente ubicación: D:\Fuentes\EnovaQ\Main\NovaQ\IVM\Registros de importación de esquemas\IVM_20140208030507.log
+07/02/2014 10:05:28 p.m.	Haga clic en Finalizar para continuar...

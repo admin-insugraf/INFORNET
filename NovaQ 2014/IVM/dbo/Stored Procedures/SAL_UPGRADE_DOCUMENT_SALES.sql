@@ -1,0 +1,172 @@
+﻿CREATE PROC [dbo].[SAL_UPGRADE_DOCUMENT_SALES]            
+--DECLARE            
+@TIPO VARCHAR(2),@SERIE VARCHAR(3),@NUMERO VARCHAR(7),            
+@FECHA VARCHAR(10),@DH VARCHAR(1),@VENDEDOR VARCHAR(11),            
+@PTOVTA VARCHAR(2),@COD_CLI VARCHAR(11),@RUC VARCHAR(11),            
+@ALMA VARCHAR(2),@RAZONSOCIAL VARCHAR(100),@DIRECCION VARCHAR(100),            
+@PAGO VARCHAR(2),@MONTO VARCHAR(15),@MONEDA VARCHAR(2),            
+@DIAS_CREDITO VARCHAR(10),@TIPCAMB VARCHAR(10),@USER VARCHAR(8),            
+@TD_REF VARCHAR(2),@SER_REF VARCHAR(3),@NUM_REF VARCHAR(7),            
+@TIPFAC VARCHAR(2),@COD_TARJ VARCHAR(2),@NUM_TARJ VARCHAR(20),            
+@MONTO_TARJ_DOL VARCHAR(15),@MONTO_TARJ_SOL VARCHAR(15),@BANCO VARCHAR(3),            
+@NUM_BANCO VARCHAR(15),@MONTO_CHK_DOL VARCHAR(15),@MONTO_CHK_SOL VARCHAR(15),            
+@MONTOIGV VARCHAR(15),@COTIZACION VARCHAR(10),@ORDENCOMPRA VARCHAR(20),            
+@PEDIDO VARCHAR(7),@GLOSA VARCHAR(80),@IDE VARCHAR(30),            
+@FLAG_REF INT,@HORA VARCHAR(15),@SER_GUIA VARCHAR(3),            
+@NUM_GUIA VARCHAR(7),@DESCCLI VARCHAR(10),@DESCESP VARCHAR(10),            
+@TRANS VARCHAR(11),@ANOMES VARCHAR(6),@FECHA_VEN VARCHAR(10)            
+AS            
+            
+/*SET NOCOUNT ON            
+SET @TIPO='FT'            
+SET @SERIE='001'            
+SET @NUMERO='0100100'            
+SET @FECHA='39186'            
+SET @DH='D'            
+SET @VENDEDOR='01'            
+SET @PTOVTA='01'            
+SET @COD_CLI='00000000011'            
+SET @RUC='121345678912'            
+SET @ALMA='01'            
+SET @RAZONSOCIAL='MARCO'            
+SET @DIRECCION='DRGDRGDFGDF'            
+SET @PAGO='00'            
+SET @MONTO='500.25'            
+SET @MONEDA='MN'            
+SET @TIPCAMB='3.22'            
+SET @TD_REF=''            
+SET @SER_REF=''            
+SET @NUM_REF=''            
+SET @TIPFAC='FT'            
+SET @COD_TARJ='01'            
+SET @NUM_TARJ='11111111'            
+SET @MONTO_TARJ_DOL='150'            
+SET @MONTO_TARJ_SOL='500.25'            
+SET @BANCO=''            
+SET @NUM_BANCO=''            
+SET @MONTO_CHK_DOL=''            
+SET @MONTO_CHK_SOL=''            
+SET @MONTOIGV='100'            
+SET @COTIZACION='3216549877'            
+SET @ORDENCOMPRA='43165498732165498777'            
+SET @PEDIDO='12345678'            
+SET @GLOSA='GHFGHFGHF'            
+SET @IDE='DEVELOPER6'            
+SET @DIAS_CREDITO='0'            
+SET @FLAG_REF='0'            
+SET @HORA='12:38:06'            
+SET @USER='NovaQ'            
+SET @SER_GUIA='001'            
+SET @NUM_GUIA='0100102'            
+SET @DESCCLI='10'            
+SET @DESCESP='20'            
+SET @TRANS='01'            
+SET @ANOMES='200704'*/            
+            
+declare @TABLA_cab varchar(50)            
+declare @TABLA_det varchar(50)            
+declare @TRAN1 int            
+declare @TRAN2 int            
+declare @TRAN3 int            
+declare @TRAN4 int            
+declare @TRAN5 int            
+declare @TRAN6 int            
+declare @TRAN7 int            
+declare @TRAN8 int            
+            
+declare @NUMBER_REF varchar(10)            
+declare @NUMBER_DOC varchar(10)            
+            
+SET @TRAN1=0            
+SET @TRAN2=0            
+SET @TRAN3=0            
+SET @TRAN4=0            
+SET @TRAN5=0            
+SET @TRAN6=0            
+SET @TRAN7=0            
+SET @TRAN8=0            
+            
+set @TABLA_cab='tempdb.dbo.'+@IDE+'FACWORCAB'            
+set @TABLA_det='tempdb.dbo.'+@IDE+'FACWORDET'            
+SET @NUMBER_REF=@SER_REF+@NUM_REF            
+SET @NUMBER_DOC=@SERIE+@NUMERO            
+            
+BEGIN TRAN UPDATE_DOCUMENT_SALES            
+EXEC('set quoted_identifier off INSERT INTO RECEIVABLE (DOCUMENT_ID,NUMBER_SERIE,NUMBER_DOCUMENT,DOCUMENT_DATE,            
+DR_CR,SALES_REP_ID,PLACE_SALES,CUSTOMER_ID,VAT_REGISTRATION,WAREHOUSE_ID,CUSTOMER_NAME,CUSTOMER_ADDR,TERMS_ID,AMOUNT,            
+CURRENCY_ID,BALANCE,CADUCATE_DATE,SELL_RATE,USER_ID,STATUS,DOCUMENT_REF,SERIE_REF,NUMBER_REF,RECEIVABLE_TYPE,            
+DISCOUNT_PERCENT,DISCOUNT_PERCENT_SP,CARD_ID,NUMBER_CARD,AMOUNT_CARD_US,AMOUNT_CARD,BANK_CHECK,NUMBER_CHECK,            
+AMOUNT_CH_US,AMOUNT_CH,AMOUNT_TAX,DISCOUNT_RECIVABLE,LIST_GUIA,NUMBER_QUOTE,NUMBER_ORDER_PUR,NUMBER_ORDER,COMMENT,ISC)            
+SELECT "'+@TIPO+'","'+@SERIE+'","'+@NUMERO+'",'+@FECHA+',"'+@DH+'","'+@VENDEDOR+'","'+@PTOVTA+'","'+@COD_CLI+'","'+@RUC+'","'+@ALMA+'",            
+"'+@RAZONSOCIAL+'","'+@DIRECCION+'","'+@PAGO+'",'+@MONTO+',"'+@MONEDA+'",(CASE WHEN "'+@DIAS_CREDITO+'">0 THEN cfIMPORTE ELSE 0 END),            
+cfFECVEN,"'+@TIPCAMB+'","'+@USER+'","V","'+@TD_REF+'","'+@SER_REF+'","'+@NUM_REF+'","'+@TIPFAC+'",CFPORDESCL,            
+CFPORDESES,"'+@COD_TARJ+'","'+@NUM_TARJ+'","'+@MONTO_TARJ_DOL+'","'+@MONTO_TARJ_SOL+'","'+@BANCO+'","'+@NUM_BANCO+'",            
+"'+@MONTO_CHK_DOL+'","'+@MONTO_CHK_SOL+'","'+@MONTOIGV+'",CFDESVAL,CFTEXGUIA,"'+@COTIZACION+'","'+@ORDENCOMPRA+'","'+@PEDIDO+'","'+@GLOSA+'"            
+,CFISC FROM '+@TABLA_cab+'')            
+            
+SET @TRAN1 =@@ERROR            
+            
+IF @FLAG_REF=1            
+ BEGIN            
+ EXEC('set quoted_identifier off Insert Into RECEIVABLE_LINE (DOCUMENT_ID,NUMBER_SERIE,NUMBER_DOCUMENT,ITEM,            
+ PART_ID,PART_DESCRIPTION,TEXT_DESCRIPTION,PRICE_ORI,PRICE_SALES,QTY,DISCOUNT_CUSTOMER,DISCOUNT_SP,            
+ DISCOUNT_PERCENT,DISCOUNT,STOCK,STATUS,AMOUNT_TAX,TAX_PERCENT,AMOUNT_US,AMOUNT,PART_SERIE,PART_LOT,WAREHOUSE_ID,            
+ DFTR,PART_TAX,PRICE_LIST_ID,UNIT,BUDGET_ID,ORDER_ID,UMREFERENCIA,CANTREFERENCIA,COMISION,TIPOISC,ISCPOR,ISC)            
+ SELECT "'+@TIPO+'","'+@SERIE+'","'+@NUMERO+'",DFSECUEN,dfCODIGO,DFDESCRI,dfTEXTO,DFPREC_ORI,DFPREC_VEN,            
+ dfCANTID,DFDESCLI,DFDESESP,DFPORDES,dfDESCTO,dfstock,"V",DFIGV,DFIGVPOR,dfIMPUS,dfIMPMN,DFSERIE,DFLOTE,            
+ "'+@ALMA+'",dfTR,DFARTIGV,DFCODLIS,DFUNIDAD,DFPRESU,DFORD,UMREFERENCIA,CANTREFERENCIA,COMISION            
+ ,TIPOISC,ISCPOR,ISC FROM '+@TABLA_det+'')            
+ SET @TRAN2=@@ERROR            
+ END            
+ELSE            
+ BEGIN            
+ EXEC('set quoted_identifier off Insert Into RECEIVABLE_LINE (DOCUMENT_ID,NUMBER_SERIE,NUMBER_DOCUMENT,ITEM,            
+ PART_ID,PART_DESCRIPTION,TEXT_DESCRIPTION,PRICE_ORI,PRICE_SALES,QTY,DISCOUNT_CUSTOMER,DISCOUNT_SP,            
+ DISCOUNT_PERCENT,DISCOUNT,STOCK,STATUS,AMOUNT_TAX,TAX_PERCENT,AMOUNT_US,AMOUNT,PART_SERIE,PART_LOT,WAREHOUSE_ID,            
+ DFTR,PART_TAX,PRICE_LIST_ID,UNIT,BUDGET_ID,ORDER_ID,COMISION,TIPOISC,ISCPOR,ISC)            
+ SELECT "'+@TIPO+'","'+@SERIE+'","'+@NUMERO+'",DFSECUEN,dfCODIGO,DFDESCRI,dfTEXTO,DFPREC_ORI,DFPREC_VEN,            
+ dfCANTID,DFDESCLI,DFDESESP,DFPORDES,dfDESCTO,dfstock,"V",DFIGV,DFIGVPOR,dfIMPUS,dfIMPMN,DFSERIE,DFLOTE,            
+ "'+@ALMA+'",dfTR,DFARTIGV,DFCODLIS,DFUNIDAD,DFPRESU,DFORD,COMISION,TIPOISC,ISCPOR,ISC            
+ FROM '+@TABLA_det+'')            
+ SET @TRAN2=@@ERROR            
+ END            
+            
+EXEC SAL_UPGRADE_WHO_TRANS_SALES @TIPO,@ALMA,@NUMBER_DOC,@FECHA,@TIPCAMB,@TD_REF,@NUMBER_REF,@USER,@COD_CLI,@RUC,@RAZONSOCIAL,@PAGO,@MONEDA,@MONTO,@HORA,@ORDENCOMPRA,@COTIZACION,@PEDIDO,@GLOSA,@IDE,@FLAG_REF,@ANOMES,@TRAN3 OUTPUT            
+IF ISNULL(@SER_GUIA,' ')<>' '            
+ BEGIN            
+  EXEC SAL_UPGRADE_GUIA_TRANS @ALMA,@TIPO,@SERIE,@NUMERO,@FECHA,@VENDEDOR,@COD_CLI,@RUC,@RAZONSOCIAL,@DIRECCION,@PAGO,@MONTO,            
+  @MONEDA,@TIPCAMB,@USER,@TD_REF,@NUMBER_REF,@DESCCLI,@DESCESP,@HORA,@TRANS,@ORDENCOMPRA,@COTIZACION,@PEDIDO,@GLOSA,@SER_GUIA,@NUM_GUIA,@FLAG_REF,@IDE,@TRAN4 OUTPUT            
+ END            
+            
+IF @DIAS_CREDITO>0            
+ BEGIN            
+  EXEC SAL_INSERT_CARTERA @COD_CLI,@TIPO,@NUMBER_DOC,@FECHA,@FECHA_VEN,@TD_REF,@NUMBER_REF,@VENDEDOR,@MONTO,@MONTO,@MONTO,            
+   @MONEDA,@TIPCAMB,@DH,@USER,@TIPFAC,@PAGO,@PTOVTA,@TRAN5 OUTPUT    
+          
+ UPDATE CUSTOMER_BALANCE SET SERIE_AUX=@SERIE,NUM_DOC_AUX=@NUMERO     
+ WHERE DOCUMENT_ID=@TIPO AND NUMBER_DOC=@NUMBER_DOC          
+ END            
+            
+EXEC('set quoted_identifier off Update WAREHOUSE_TRANS set STATUS_GUIA="F"  where  WAREHOUSE_ID = "'+@ALMA+'" and  DOCUMENT_ID = "GS" and SUBSTRING(NUMBER_DOCUMENT,1,3) = "'+@SER_GUIA+'" and SUBSTRING(NUMBER_DOCUMENT,4,7) = "'+@NUM_GUIA+'"')            
+SET @TRAN6=@@ERROR            
+            
+IF @TD_REF='CT'            
+ BEGIN            
+  EXEC('set quoted_identifier off Update QUOTE set STATUS="F" Where NUMBER_QUOTE = "'+@NUM_REF+'" and PLACE_SALES="'+@PTOVTA+'"')         
+  SET @TRAN7=@@ERROR            
+ END            
+IF @TD_REF='PD'            
+ BEGIN            
+  EXEC('set quoted_identifier off Update ORDERS set STATUS="F" Where ID = "'+@NUM_REF+'" and PLACE_SALES="'+@PTOVTA+'"')            
+  SET @TRAN8=@@ERROR            
+ END            
+            
+            
+IF (@TRAN1<>0 OR @TRAN2<>0 OR @TRAN3<>0 OR @TRAN4<>0 OR @TRAN5<>0 OR @TRAN6<>0 OR @TRAN7<>0 OR @TRAN8<>0)             
+ BEGIN            
+  ROLLBACK TRAN UPDATE_DOCUMENT_SALES            
+ END            
+ELSE            
+ BEGIN            
+  COMMIT TRAN UPDATE_DOCUMENT_SALES            
+ END

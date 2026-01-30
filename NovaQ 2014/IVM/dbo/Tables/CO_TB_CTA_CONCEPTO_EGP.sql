@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[CO_TB_CTA_CONCEPTO_EGP] (
+    [CC_CUENTA]   VARCHAR (20) NULL,
+    [CC_CONCEPTO] INT          NULL
+);
+

@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[CX_TB_COD_TMP] (
+    [CODIGO] VARCHAR (50)  NULL,
+    [PC]     VARCHAR (100) NULL,
+    [AUX]    VARCHAR (5)   NULL
+);
+

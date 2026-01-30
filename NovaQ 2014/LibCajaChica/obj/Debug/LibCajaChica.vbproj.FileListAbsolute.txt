@@ -1,0 +1,276 @@
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe.config
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmConceptos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmDocumentos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmMovimientosCaja.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmPersonal.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.exe
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.pdb
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe.config
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.pdb
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.xml
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.dll
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.dll
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.dll
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.dll
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.xml
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.xml
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.pdb
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.xml
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.pdb
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.xml
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.pdb
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.xml
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.Resources.resources
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmConceptos.resources
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmDocumentos.resources
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmMovimientosCaja.resources
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmPersonal.resources
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.vbproj.GenerateResource.Cache
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.exe
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.xml
+D:\ALFONSO\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe.config
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.vbprojResolveAssemblyReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.Resources.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmConceptos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmDocumentos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmMovimientosCaja.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmPersonal.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.exe
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe.config
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibVentas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\WSConsultaSUNAT.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\BillService.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibManufactura.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\Ionic.Zip.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\itextsharp.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibVentas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibVentas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibManufactura.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibManufactura.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.vbprojResolveAssemblyReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.Resources.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmConceptos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmDocumentos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmMovimientosCaja.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmPersonal.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmRep_Gasto_Movilidad.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.exe
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe.config
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibVentas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibBillService.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\Newtonsoft.Json.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\WSConsultaSUNAT.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibManufactura.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\Ionic.Zip.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\zxing.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibVentas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibVentas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibManufactura.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\bin\Debug\LibManufactura.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.Resources.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmConceptos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmDocumentos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmMovimientosCaja.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmPersonal.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmRep_Gasto_Movilidad.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.exe
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe.config
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibVentas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibBillService.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\Newtonsoft.Json.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibActivo.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibManufactura.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\WSConsultaSUNAT.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\Ionic.Zip.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\zxing.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibVentas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibVentas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibActivo.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibActivo.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibManufactura.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibManufactura.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.vbprojResolveAssemblyReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.Resources.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmConceptos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmDocumentos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmMovimientosCaja.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmPersonal.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmRep_Gasto_Movilidad.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.exe
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe.config
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.exe
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCajaChica.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibVentas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibBillService.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\Newtonsoft.Json.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibActivo.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibManufactura.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\WSConsultaSUNAT.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\Ionic.Zip.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\zxing.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibCobranzas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibContabilidad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibReportes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibSeguridad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibVentas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibVentas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibActivo.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibActivo.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibManufactura.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\bin\Debug\LibManufactura.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.vbprojResolveAssemblyReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.Resources.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmConceptos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmDocumentos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmMovimientosCaja.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmPersonal.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.FrmRep_Gasto_Movilidad.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.exe
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCajaChica\obj\Debug\LibCajaChica.pdb

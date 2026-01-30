@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[UBICATION] (
+    [WAREHOUSE_ID] VARCHAR (2)  NULL,
+    [ID]           VARCHAR (20) NULL,
+    [DESCRIPTION]  VARCHAR (45) NULL
+);
+

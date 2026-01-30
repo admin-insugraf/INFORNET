@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[JULIO_RL] (
+    [NUMBER_DOCUMET] VARCHAR (15)    NULL,
+    [AMOUNT]         NUMERIC (22, 9) NULL,
+    [AMOUNT_TAX]     NUMERIC (22, 9) NULL
+);
+

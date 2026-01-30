@@ -1,0 +1,49 @@
+﻿--dEMO    
+CREATE PROC [dbo].[HSP_LIST_COTIZACION]    
+--DECLARE        
+  @EMP AS VARCHAR(50),      /*CODIGO DE EMPRESA BDCOMUN*/      
+  @OPCION AS VARCHAR(1),   /*FILTRO POR RANGO DE FECHAS */      
+  @ESTADO AS VARCHAR(1),   /*FILTRO POR ESTADO*/      
+  @FECHAINI  AS VARCHAR(10),  /*FECHA INICIAL*/       
+  @FECHAFIN AS VARCHAR(10),   /*FECHA FINAL*/      
+  @NUMPED AS VARCHAR(7)       /*NUMPEDIDO*/      
+        
+  /*SET @OPCION='1'        
+   SET @ESTADO=''    
+  SET @EMP='DEMO'        
+  SET @FECHAINI='01/01/2007'        
+  SET @FECHAFIN='31/01/2007'        
+  SET @NUMPED=''      
+  --*/      
+AS        
+  DECLARE @STRcadena NVARCHAR(400)    
+        
+--SELECT PLACE_SALES,ID AS COL1,ORDER_DATE,CADUCATE_DATE,CUSTOMER_NAME,TERMS,CURRENCY_ID,     
+--    AMOUNT AS COL2,STATUS_ORDER,CUSTOMER_ID,VAT_REGISTRATION,SALES_ID,SELL_RATE,STATUS,    
+--    COMMENT     
+--FROM   DBO.ORDERS    
+    
+  SET @STRcadena='SELECT PLACE_SALES,ID AS COL1,ORDER_DATE,CUSTOMER_NAME,TERMS,CURRENCY_ID,     
+    AMOUNT AS COL2,STATUS_ORDER,CUSTOMER_ID,VAT_REGISTRATION,SALES_ID,SELL_RATE,STATUS,    
+    COMMENT  FROM ' + @EMP + '.DBO.QUOTE WHERE 1=1 '     
+  
+        
+ IF @OPCION='1'         
+    SET @STRcadena=@strcadena + ' AND YEAR(ORDER_DATE) ='+(@FECHAINI)+' AND MONTH(ORDER_DATE)='+@FECHAFIN+''        
+        
+ IF @OPCION='2'        
+     SET @STRcadena=@strcadena + '  AND ORDER_DATE BETWEEN @FECHAINI AND @FECHAFIN'        
+        
+ IF @OPCION='3'        
+     SET @STRcadena=@strcadena        
+ IF @OPCION='4'        
+    SET @STRcadena='SELECT * FROM ' + @EMP + '.DBO.QUOTE WHERE ID='''+@NUMPED+''''        
+        
+ IF @ESTADO='1'        
+     SET @STRcadena=@strcadena + ' AND (STATUS_ORDER=''AUTORIZADO'' OR STATUS_ORDER=''PARCIAL'' )'        
+        
+        
+ SET @STRcadena=@strcadena+' ORDER BY ID'        
+        
+EXEC SP_EXECUTESQL @STRcadena,N'@EMP VARCHAR(3),@OPCION VARCHAR(1),@ESTADO VARCHAR(1),@FECHAINI VARCHAR(10),@FECHAFIN VARCHAR(10)'        
+                  ,@EMP,@OPCION,@ESTADO,@FECHAINI,@FECHAFIN 

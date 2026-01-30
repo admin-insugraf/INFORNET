@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[COMISION] (
+    [COD_VEN] VARCHAR (2)     NULL,
+    [COD_FP]  VARCHAR (4)     NULL,
+    [TASA]    NUMERIC (12, 5) NULL
+);
+

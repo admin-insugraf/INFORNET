@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[CO_TB_OPERACION] (
+    [OP_ID]          INT          NOT NULL,
+    [OP_DESCRIPCION] VARCHAR (20) NOT NULL
+);
+

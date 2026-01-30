@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{190B5A92-3D70-4524-A715-AFD2DE2CFF9C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>LibActivo</RootNamespace>
+    <AssemblyName>LibActivo</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LibActivo.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LibActivo.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\ClsEntidades.vb" />
+    <Compile Include="Clases\ClsOperaciones.vb" />
+    <Compile Include="Clases\SQLHelper.vb" />
+    <Compile Include="Modulos\ModBas.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_Deprecioacion_Anual.Designer.vb">
+      <DependentUpon>frm_AF_LT_Deprecioacion_Anual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_Deprecioacion_Anual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_ListaInvs.Designer.vb">
+      <DependentUpon>frm_AF_LT_ListaInvs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_ListaInvs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_Mejoras.Designer.vb">
+      <DependentUpon>frm_AF_LT_Mejoras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_Mejoras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_RP_Lista_Transfe.Designer.vb">
+      <DependentUpon>frm_AF_RP_Lista_Transfe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_RP_Lista_Transfe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_RP_Lis_Activos.Designer.vb">
+      <DependentUpon>frm_AF_RP_Lis_Activos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_RP_Lis_Activos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frmError.Designer.vb">
+      <DependentUpon>frmError.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frmError.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_AyudaActivo.Designer.vb">
+      <DependentUpon>frm_AF_LT_AyudaActivo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_AyudaActivo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_BajaActivo.Designer.vb">
+      <DependentUpon>frm_AF_LT_BajaActivo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_BajaActivo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_Contabilizar.Designer.vb">
+      <DependentUpon>frm_AF_LT_Contabilizar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_Contabilizar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_Mantenimientos.Designer.vb">
+      <DependentUpon>frm_AF_LT_Mantenimientos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_Mantenimientos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_Proc_Depreciar.Designer.vb">
+      <DependentUpon>frm_AF_LT_Proc_Depreciar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_Proc_Depreciar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_TomaInventario.Designer.vb">
+      <DependentUpon>frm_AF_LT_TomaInventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_TomaInventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_Transferencias.Designer.vb">
+      <DependentUpon>frm_AF_LT_Transferencias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_LT_Transferencias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Activo.Designer.vb">
+      <DependentUpon>frm_AF_MA_Activo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Activo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Area.Designer.vb">
+      <DependentUpon>frm_AF_MA_Area.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Area.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Categoria.Designer.vb">
+      <DependentUpon>frm_AF_MA_Categoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Categoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_CentroCosto.Designer.vb">
+      <DependentUpon>frm_AF_MA_CentroCosto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_CentroCosto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Clase.Designer.vb">
+      <DependentUpon>frm_AF_MA_Clase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Clase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_EstadoFisico.Designer.vb">
+      <DependentUpon>frm_AF_MA_EstadoFisico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_EstadoFisico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Familia.Designer.vb">
+      <DependentUpon>frm_AF_MA_Familia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Familia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Grupo.Designer.vb">
+      <DependentUpon>frm_AF_MA_Grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Marca.Designer.vb">
+      <DependentUpon>frm_AF_MA_Marca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Marca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_NivelObso.Designer.vb">
+      <DependentUpon>frm_AF_MA_NivelObso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_NivelObso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Responsable_activo.Designer.vb">
+      <DependentUpon>frm_AF_MA_Responsable_activo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Responsable_activo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_SubGrupo.Designer.vb">
+      <DependentUpon>frm_AF_MA_SubGrupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_SubGrupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_TercerosEje.Designer.vb">
+      <DependentUpon>frm_AF_MA_TercerosEje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_TercerosEje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_TipoManteni.Designer.vb">
+      <DependentUpon>frm_AF_MA_TipoManteni.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_TipoManteni.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_TipoPago.Designer.vb">
+      <DependentUpon>frm_AF_MA_TipoPago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_TipoPago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Ubicacion.Designer.vb">
+      <DependentUpon>frm_AF_MA_Ubicacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Ubicacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Uso.Designer.vb">
+      <DependentUpon>frm_AF_MA_Uso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_Uso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_RP_Depre_x_Activo.Designer.vb">
+      <DependentUpon>frm_AF_RP_Depre_x_Activo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_RP_Depre_x_Activo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_RP_deter_depreci.Designer.vb">
+      <DependentUpon>frm_AF_RP_deter_depreci.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_RP_deter_depreci.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_ResponsableEje.Designer.vb">
+      <DependentUpon>frm_AF_MA_ResponsableEje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frm_AF_MA_ResponsableEje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_LT_Deprecioacion_Anual.resx">
+      <DependentUpon>frm_AF_LT_Deprecioacion_Anual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_LT_ListaInvs.resx">
+      <DependentUpon>frm_AF_LT_ListaInvs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_LT_Mejoras.resx">
+      <DependentUpon>frm_AF_LT_Mejoras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_RP_Lista_Transfe.resx">
+      <DependentUpon>frm_AF_RP_Lista_Transfe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_RP_Lis_Activos.resx">
+      <DependentUpon>frm_AF_RP_Lis_Activos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frmError.resx">
+      <DependentUpon>frmError.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_LT_AyudaActivo.resx">
+      <DependentUpon>frm_AF_LT_AyudaActivo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_LT_BajaActivo.resx">
+      <DependentUpon>frm_AF_LT_BajaActivo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_LT_Contabilizar.resx">
+      <DependentUpon>frm_AF_LT_Contabilizar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_LT_Mantenimientos.resx">
+      <DependentUpon>frm_AF_LT_Mantenimientos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_LT_Proc_Depreciar.resx">
+      <DependentUpon>frm_AF_LT_Proc_Depreciar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_LT_TomaInventario.resx">
+      <DependentUpon>frm_AF_LT_TomaInventario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_LT_Transferencias.resx">
+      <DependentUpon>frm_AF_LT_Transferencias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_Activo.resx">
+      <DependentUpon>frm_AF_MA_Activo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_Area.resx">
+      <DependentUpon>frm_AF_MA_Area.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_Categoria.resx">
+      <DependentUpon>frm_AF_MA_Categoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_CentroCosto.resx">
+      <DependentUpon>frm_AF_MA_CentroCosto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_Clase.resx">
+      <DependentUpon>frm_AF_MA_Clase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_EstadoFisico.resx">
+      <DependentUpon>frm_AF_MA_EstadoFisico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_Familia.resx">
+      <DependentUpon>frm_AF_MA_Familia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_Grupo.resx">
+      <DependentUpon>frm_AF_MA_Grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_Marca.resx">
+      <DependentUpon>frm_AF_MA_Marca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_NivelObso.resx">
+      <DependentUpon>frm_AF_MA_NivelObso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_ResponsableEje.resx">
+      <DependentUpon>frm_AF_MA_ResponsableEje.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_Responsable_activo.resx">
+      <DependentUpon>frm_AF_MA_Responsable_activo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_SubGrupo.resx">
+      <DependentUpon>frm_AF_MA_SubGrupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_TercerosEje.resx">
+      <DependentUpon>frm_AF_MA_TercerosEje.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_TipoManteni.resx">
+      <DependentUpon>frm_AF_MA_TipoManteni.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_TipoPago.resx">
+      <DependentUpon>frm_AF_MA_TipoPago.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_Ubicacion.resx">
+      <DependentUpon>frm_AF_MA_Ubicacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_MA_Uso.resx">
+      <DependentUpon>frm_AF_MA_Uso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_RP_Depre_x_Activo.resx">
+      <DependentUpon>frm_AF_RP_Depre_x_Activo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frm_AF_RP_deter_depreci.resx">
+      <DependentUpon>frm_AF_RP_deter_depreci.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Reportes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LibComunVar\LibComunVar.vbproj">
+      <Project>{6329a850-1fa1-48cc-8042-e575102bb6b8}</Project>
+      <Name>LibComunVar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibConexion\LibConexion.vbproj">
+      <Project>{c4d1109c-6e79-4de3-9bd4-a071b622a669}</Project>
+      <Name>LibConexion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibContabilidad\LibContabilidad.vbproj">
+      <Project>{10273af9-6687-40c1-a70a-325a94fbe4d4}</Project>
+      <Name>LibContabilidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibReportes\LibReportes.vbproj">
+      <Project>{9ab5ba6b-dce3-4b73-b9d2-ce8479603b87}</Project>
+      <Name>LibReportes</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16 %28Exit%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16 %28Configure%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16 %28File new 2%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\003.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16 %28Card edit%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16 %28Cancel%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16 %28Delete%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16 %28Ok%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16 %28Doc excel%29.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

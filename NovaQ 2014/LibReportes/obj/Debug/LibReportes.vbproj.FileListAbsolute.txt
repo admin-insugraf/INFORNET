@@ -1,0 +1,196 @@
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\bin\Debug\LibReportes.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\bin\Debug\LibReportes.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\bin\Debug\LibReportes.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\obj\Debug\LibReportes.vbproj.ResolveComReference.cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\obj\Debug\LibReportes.frmError.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\obj\Debug\LibReportes.frmReporte.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\obj\Debug\LibReportes.Resources.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\obj\Debug\LibReportes.vbproj.GenerateResource.Cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\obj\Debug\LibReportes.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\obj\Debug\LibReportes.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\obj\Debug\LibReportes.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\obj\Debug\LibReportes.vbprojResolveAssemblyReference.cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\obj\Debug\Interop.CRAXDRT.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\bin\Debug\LibComunVar.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\bin\Debug\LibConexion.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\bin\Debug\LibComunVar.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\bin\Debug\LibComunVar.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\bin\Debug\LibConexion.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibReportes\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\Interop.CRAXDRT.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.ResolveComReference.cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmError.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporte.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporteI.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.Resources.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibReportes.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibReportes.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibReportes.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibConexion.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibConexion.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibConexion.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbprojResolveAssemblyReference.cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\Interop.CRAXDRT.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.ResolveComReference.cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmError.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporte.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporteI.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.Resources.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.GenerateResource.Cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\Interop.CRAXDRT.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.ResolveComReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmError.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporte.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporteI.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibReportes\obj\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\Interop.CRAXDRT.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.ResolveComReference.cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmError.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporte.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporteI.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.Resources.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibReportes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibReportes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibReportes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbprojResolveAssemblyReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\Interop.CRAXDRT.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.ResolveComReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmError.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporte.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporteI.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.Resources.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibReportes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibReportes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibReportes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbprojResolveAssemblyReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\Interop.CRAXDRT.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.ResolveComReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmError.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporte.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporteI.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.Resources.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibReportes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibReportes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibReportes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\bin\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbprojResolveAssemblyReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\Interop.CRAXDRT.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.ResolveComReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmError.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporte.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporteI.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.Resources.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibReportes\obj\Debug\LibReportes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibReportes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibReportes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibReportes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbprojResolveAssemblyReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\Interop.CRAXDRT.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.ResolveComReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmError.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporte.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporteI.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.Resources.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibReportes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibReportes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibReportes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\bin\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbprojResolveAssemblyReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\Interop.CRAXDRT.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.ResolveComReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmError.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporte.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporteI.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.Resources.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.pdb

@@ -1,0 +1,95 @@
+D:\Fuentes\EnovaQ\Main\NovaQ\IVM\bin\Debug\IVM.dacpac
+D:\Fuentes\EnovaQ\Main\NovaQ\IVM\bin\Debug\IVM.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\IVM\bin\Debug\IVM.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\IVM\obj\Debug\IVM.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\IVM\obj\Debug\IVM.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\IVM\obj\Debug\Model.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\IVM\obj\Debug\refactor.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\IVM\obj\Debug\postdeploy.sql
+D:\Fuentes\EnovaQ\Main\NovaQ\IVM\obj\Debug\predeploy.sql
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\IVM\bin\Debug\IVM.dacpac
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\IVM\bin\Debug\IVM.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\IVM\bin\Debug\IVM.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\IVM\obj\Debug\IVM.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\IVM\obj\Debug\IVM.pdb
+D:\ALFONSO\NovaQ 2014\IVM\bin\Debug\IVM.dacpac
+D:\ALFONSO\NovaQ 2014\IVM\bin\Debug\IVM.dll
+D:\ALFONSO\NovaQ 2014\IVM\bin\Debug\IVM.pdb
+D:\ALFONSO\NovaQ 2014\IVM\obj\Debug\Model.xml
+D:\ALFONSO\NovaQ 2014\IVM\obj\Debug\refactor.xml
+D:\ALFONSO\NovaQ 2014\IVM\obj\Debug\postdeploy.sql
+D:\ALFONSO\NovaQ 2014\IVM\obj\Debug\predeploy.sql
+D:\ALFONSO\NovaQ 2014\IVM\obj\Debug\IVM.dll
+D:\ALFONSO\NovaQ 2014\IVM\obj\Debug\IVM.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\IVM\bin\Debug\IVM.dacpac
+X:\sistema novaq\LUSA\NovaQ 2014\IVM\bin\Debug\IVM.dll
+X:\sistema novaq\LUSA\NovaQ 2014\IVM\bin\Debug\IVM.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\Model.xml
+X:\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\refactor.xml
+X:\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\postdeploy.sql
+X:\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\predeploy.sql
+X:\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\IVM.dll
+X:\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\IVM.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\IVM\bin\Debug\IVM.dacpac
+Z:\sistema novaq\LUSA\NovaQ 2014\IVM\bin\Debug\IVM.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\IVM\bin\Debug\IVM.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\Model.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\refactor.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\postdeploy.sql
+Z:\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\predeploy.sql
+Z:\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\IVM.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\IVM.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\IVM\bin\Debug\IVM.dacpac
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\IVM\bin\Debug\IVM.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\IVM\bin\Debug\IVM.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\Model.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\refactor.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\postdeploy.sql
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\predeploy.sql
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\IVM.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\IVM\obj\Debug\IVM.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\IVM\bin\Debug\IVM.dacpac
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\IVM\bin\Debug\IVM.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\IVM\bin\Debug\IVM.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\Model.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\refactor.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\postdeploy.sql
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\predeploy.sql
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\IVM.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\IVM.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\bin\Debug\IVM.dacpac
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\bin\Debug\IVM.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\bin\Debug\IVM.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\Model.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\refactor.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\postdeploy.sql
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\predeploy.sql
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\IVM.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\IVM.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\bin\Debug\IVM.dacpac
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\bin\Debug\IVM.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\bin\Debug\IVM.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\Model.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\refactor.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\postdeploy.sql
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\predeploy.sql
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\IVM.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\IVM.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\bin\Debug\IVM.dacpac
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\bin\Debug\IVM.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\bin\Debug\IVM.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\Model.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\refactor.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\postdeploy.sql
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\predeploy.sql
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\IVM.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\IVM\obj\Debug\IVM.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\IVM\bin\Debug\IVM.dacpac
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\IVM\bin\Debug\IVM.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\IVM\bin\Debug\IVM.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\IVM\obj\Debug\Model.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\IVM\obj\Debug\refactor.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\IVM\obj\Debug\postdeploy.sql
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\IVM\obj\Debug\predeploy.sql
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\IVM\obj\Debug\IVM.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\IVM\obj\Debug\IVM.pdb

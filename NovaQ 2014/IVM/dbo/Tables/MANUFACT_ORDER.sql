@@ -1,0 +1,13 @@
+﻿CREATE TABLE [dbo].[MANUFACT_ORDER] (
+    [WAREHOUSE_ID]    VARCHAR (2)     NULL,
+    [MANUFACT_NUMBER] VARCHAR (10)    NULL,
+    [CUSTOMER_ID]     VARCHAR (15)    NULL,
+    [PART_ID]         VARCHAR (20)    NULL,
+    [QTY]             NUMERIC (15, 6) NULL,
+    [BEGIN_DATE]      SMALLDATETIME   NULL,
+    [END_DATE]        SMALLDATETIME   NULL,
+    [TRANS_DATE]      SMALLDATETIME   NULL,
+    [USER_ID]         VARCHAR (15)    NULL,
+    [COMMENT]         VARCHAR (255)   NULL
+);
+

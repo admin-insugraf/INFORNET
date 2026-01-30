@@ -1,0 +1,17 @@
+﻿CREATE TABLE [dbo].[RPTCCOSTO] (
+    [ALM]       VARCHAR (2)  NULL,
+    [CENCOS]    VARCHAR (10) NULL,
+    [FAMILIA]   VARCHAR (8)  NULL,
+    [CODIGO]    VARCHAR (20) NULL,
+    [CONSUMO]   FLOAT (53)   NULL,
+    [DEVOL]     FLOAT (53)   NULL,
+    [NETO]      FLOAT (53)   NULL,
+    [CONSUMOMN] FLOAT (53)   NULL,
+    [CONSUMOME] FLOAT (53)   NULL,
+    [DEVOLMN]   FLOAT (53)   NULL,
+    [DEVOLME]   FLOAT (53)   NULL,
+    [NETOMN]    FLOAT (53)   NULL,
+    [NETOME]    FLOAT (53)   NULL,
+    [DESCENCOS] VARCHAR (50) NULL
+);
+

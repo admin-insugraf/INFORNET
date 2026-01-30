@@ -1,0 +1,25 @@
+﻿CREATE TABLE [dbo].[MIGRADOR_HISTORIAL_DE_CLIENTES] (
+    [EMPRESA]        VARCHAR (14)     NULL,
+    [NUM_REFERENCIA] VARCHAR (7)      NULL,
+    [ALMACEN]        VARCHAR (2)      NULL,
+    [TD]             VARCHAR (2)      NULL,
+    [NUM_DOC]        VARCHAR (10)     NULL,
+    [FECHA]          VARCHAR (30)     NULL,
+    [COD_ARTICULO]   VARCHAR (20)     NULL,
+    [ARTICULO]       VARCHAR (64)     NULL,
+    [UNIDAD]         VARCHAR (6)      NULL,
+    [SERIE]          VARCHAR (20)     NULL,
+    [VENDEDOR]       VARCHAR (2)      NULL,
+    [NOM_VENDEDOR]   VARCHAR (30)     NULL,
+    [ID_CLIENTE]     VARCHAR (11)     NULL,
+    [NOM_CLIENTE]    VARCHAR (150)    NULL,
+    [TM]             VARCHAR (2)      NULL,
+    [CANTIDAD]       NUMERIC (15, 6)  NULL,
+    [IGV]            NUMERIC (31, 12) NULL,
+    [TOTAL_DOLARES]  NUMERIC (15, 6)  NULL,
+    [TOTAL_SOLES]    NUMERIC (15, 6)  NULL,
+    [TIPO]           VARCHAR (2)      NULL,
+    [VALOR_VENTA]    NUMERIC (16, 6)  NULL,
+    [PRECIO_VENTA]   NUMERIC (15, 6)  NULL
+);
+

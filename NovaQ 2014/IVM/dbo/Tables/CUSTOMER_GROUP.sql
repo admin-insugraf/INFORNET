@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[CUSTOMER_GROUP] (
+    [ID]   VARCHAR (11) NOT NULL,
+    [NAME] VARCHAR (70) NULL
+);
+

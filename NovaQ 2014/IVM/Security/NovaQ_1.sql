@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [NovaQ]
+    AUTHORIZATION [NovaQ];
+

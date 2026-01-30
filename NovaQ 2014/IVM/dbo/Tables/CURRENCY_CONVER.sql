@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[CURRENCY_CONVER] (
+    [ID]          VARCHAR (3)  NULL,
+    [DESCRIPTION] VARCHAR (15) NULL
+);
+

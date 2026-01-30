@@ -1,0 +1,55 @@
+﻿CREATE procedure [dbo].[SAL_GENERA_PEDIDO_DET]
+	@ID varchar(7),
+	@ITEM varchar(3),
+	@PART_ID varchar(20),
+	@PART_DESCRIPTION varchar(64),
+	@QTY numeric(15,6),
+	@PRICE_SALES numeric(15,6),
+	@PRICE_ORI numeric(15,6),
+	@AMOUNT_TAX numeric(15,6),
+	@PERCENT_TAX numeric(15,6),
+	@AMOUNT_ISC numeric(15,6),
+	@PERCENT_ISC numeric(15,6),
+	@AMOUNT_US numeric(15,6),
+	@AMOUNT numeric(15,6),
+	@WAREHOUSE_ID varchar(2),
+	@LOT varchar(20),
+	@UNIT varchar(6)
+as
+insert into ORDER_LINE
+	(
+	ID,
+	ITEM,
+	PART_ID,
+	PART_DESCRIPTION,
+	QTY,
+	PRICE_SALES,
+	PRICE_ORI,
+	AMOUNT_TAX,
+	PERCENT_TAX,
+	AMOUNT_ISC,
+	PERCENT_ISC,
+	AMOUNT_US,
+	AMOUNT,
+	WAREHOUSE_ID,
+	LOT,
+	UNIT)
+values
+	(
+	@ID,
+	@ITEM,
+	@PART_ID,
+	@PART_DESCRIPTION,
+	@QTY,
+	@PRICE_SALES,
+	@PRICE_ORI,
+	@AMOUNT_TAX,
+	@PERCENT_TAX,
+	@AMOUNT_ISC,
+	@PERCENT_ISC,
+	@AMOUNT_US,
+	@AMOUNT,
+	@WAREHOUSE_ID,
+	@LOT,
+	@UNIT
+	)

@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[UNITS_CONVERSION] (
+    [FROM_UM] VARCHAR (6)     NOT NULL,
+    [TO_UM]   VARCHAR (6)     NOT NULL,
+    [FACTOR]  NUMERIC (15, 6) NULL
+);
+

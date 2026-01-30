@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[TYPE_IMPORT] (
+    [ID]          VARCHAR (2)  NOT NULL,
+    [DESCRIPTION] VARCHAR (50) NULL
+);
+

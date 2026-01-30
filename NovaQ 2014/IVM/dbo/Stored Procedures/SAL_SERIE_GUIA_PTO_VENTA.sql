@@ -1,0 +1,10 @@
+﻿create procedure SAL_SERIE_GUIA_PTO_VENTA
+		(
+		@PTO_VENTA VARCHAR(2)
+		)
+	as
+	select NUMBER_SERIE
+	from DOCUMENT_PLACE_SALES
+	where DOCUMENT_TYPE='GS'
+	and PLACE_SALES_ID=@PTO_VENTA
+	order by NUMBER_SERIE

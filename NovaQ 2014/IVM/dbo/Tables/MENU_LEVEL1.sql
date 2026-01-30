@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[MENU_LEVEL1] (
+    [MENU_ID]          VARCHAR (2)  NOT NULL,
+    [MENU_DESCRIPTION] VARCHAR (80) NULL,
+    [MENU_IMAGE]       VARCHAR (80) NULL,
+    [MENU_HOTKEY]      VARCHAR (1)  NULL,
+    [MENU_STATUS]      VARCHAR (1)  NULL,
+    [ORDER_COL]        VARCHAR (3)  NULL
+);
+

@@ -1,0 +1,104 @@
+﻿Imports System.Windows.Forms
+
+Public Class bscProveedor
+    ' Public Property Objeto As Proveedor
+    Public Property Objeto As String
+    Public Property ObjetoDescripcion As String
+
+
+    Private STRTitulo As String
+    Private INTTipoAyuda As Integer
+    Public dtData As DataTable
+    Public dtv As DataView
+    Private STRorden As String
+    Private STRCodAlmacen As String
+    Protected dtHelp As New DataTable
+    Public CadenaSql As String = String.Empty
+    Public CodigoAlmacen As String = String.Empty
+    Public clsBusquedaBl As ClsBuscar
+
+
+    Private Sub MostrandoProveedores()
+        Try
+            Dim sql As String = String.Empty
+            sql = "ALM_SP_S_WAREHOUSE_PROVEEDORES"
+            clsBusquedaBl = New ClsBuscar
+            dtv = New DataView
+            dtData = New DataTable
+            dtData = clsBusquedaBl.Get_MostrarDescripcion(sql)
+            DataGridView1.DataSource = Nothing
+            If dtData.Rows.Count() <> 0 Then
+                dtv = dtData.DefaultView
+                DataGridView1.DataSource = dtv
+                DataGridView1.Columns(1).Width = 300
+                STRorden = DataGridView1.Columns(0).Name.Substring(0, 6) & "+" & DataGridView1.Columns(1).Name.Substring(0, 6)
+                clsBusquedaBl = Nothing
+            End If
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub DataGridView1_CellDoubleClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridView1.CellDoubleClick
+        'Objeto = CType(bsProveedor.Current, Proveedor)
+        'DialogResult = DialogResult.OK
+        If Me.DataGridView1.CurrentRow Is Nothing Then Exit Sub
+        Objeto = Me.DataGridView1.Item(0, DataGridView1.CurrentRow.Index).Value
+        ObjetoDescripcion = Me.DataGridView1.Item(1, DataGridView1.CurrentRow.Index).Value
+        DialogResult = DialogResult.OK
+    End Sub
+
+    Private Sub Paginacion1_CargarLista(inicio As Integer, registros As Integer)
+        Using context = AlmacenContext.CrearContext() 'New AlmacenContext()
+            Dim qry = (From a In context.Proveedores
+                       Order By a.Codigo
+                       Select a)
+            bsProveedor.DataSource = qry.Skip(inicio).Take(registros).ToList()
+        End Using
+    End Sub
+
+    Private Sub bscProveedor_Shown(sender As Object, e As EventArgs) Handles MyBase.Shown
+        'Dim totalRegistros As Integer = 0
+        'Using context = AlmacenContext.CrearContext() 'New AlmacenContext()
+        '    Dim qry = (From a In context.Proveedores
+        '               Select a)
+        '    totalRegistros = qry.Count()
+        'End Using
+        'Paginacion1.Inicializar(totalRegistros)
+        MostrandoProveedores()
+        txtFiltro.Focus()
+    End Sub
+
+
+    Private Sub DataGridView1_ColumnHeaderMouseClick(sender As Object, e As DataGridViewCellMouseEventArgs) Handles DataGridView1.ColumnHeaderMouseClick
+        STRorden = DataGridView1.Columns(e.ColumnIndex).Name.Substring(0, 6)
+        txtFiltro.Focus()
+    End Sub
+
+    Private Sub txtFiltro_TextChanged(sender As Object, e As EventArgs) Handles txtFiltro.TextChanged
+        'dtv.Sort = STRorden
+        Dim wbusqueda As String = UCase(txtFiltro.Text)
+        Dim myCurrencyManager As CurrencyManager
+        myCurrencyManager = CType(Me.BindingContext(dtv), CurrencyManager)
+        Dim INTnewpos As Integer
+        dtv.RowFilter = STRorden & " like '%" & txtFiltro.Text & "%'"
+        myCurrencyManager.Position = INTnewpos
+    End Sub
+
+    Private Sub txtFiltro_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtFiltro.KeyPress
+        If Char.IsLower(e.KeyChar) Then
+            'Convert to uppercase, and put at the caret position in the TextBox.
+            txtFiltro.SelectedText = Char.ToUpper(e.KeyChar)
+            e.Handled = True
+        End If
+
+        Select Case Asc(e.KeyChar)
+            Case 13
+                If DataGridView1.SelectedRows.Count > 0 Then
+                    Objeto = Me.DataGridView1.Item(0, DataGridView1.CurrentRow.Index).Value
+                    ObjetoDescripcion = Me.DataGridView1.Item(1, DataGridView1.CurrentRow.Index).Value
+                    DialogResult = DialogResult.OK
+                End If
+        End Select
+    End Sub
+End Class

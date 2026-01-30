@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[CO_TB_TIPO_DOC_ANE] (
+    [TD_ID]          VARCHAR (2)   NULL,
+    [TD_DESCRIPCION] VARCHAR (100) NULL
+);
+

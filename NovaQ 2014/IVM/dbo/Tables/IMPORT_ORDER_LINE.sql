@@ -1,0 +1,26 @@
+﻿CREATE TABLE [dbo].[IMPORT_ORDER_LINE] (
+    [ID]               VARCHAR (13)    NOT NULL,
+    [ITEM]             VARCHAR (3)     NOT NULL,
+    [PART_ID]          VARCHAR (20)    NULL,
+    [PART_DESCRIPTION] VARCHAR (64)    NULL,
+    [UNIT]             VARCHAR (6)     NULL,
+    [UNIT_REF]         VARCHAR (6)     NULL,
+    [FACTOR]           FLOAT (53)      NULL,
+    [QTY]              FLOAT (53)      NULL,
+    [PRICE]            FLOAT (53)      NULL,
+    [PRICE_NET]        FLOAT (53)      NULL,
+    [PRICE_REF]        FLOAT (53)      NULL,
+    [TOTAL_SALES]      FLOAT (53)      NULL,
+    [QTY_IN]           FLOAT (53)      NULL,
+    [QTY_BALANCE]      FLOAT (53)      NULL,
+    [RECEIVE]          FLOAT (53)      NULL,
+    [VALUE_CIF]        FLOAT (53)      NULL,
+    [PERCEN_CIF]       FLOAT (53)      NULL,
+    [VALUE_AMOUNT]     FLOAT (53)      NULL,
+    [COMMENT]          VARCHAR (250)   NULL,
+    [COMMENT1]         VARCHAR (60)    NULL,
+    [FACTOR1]          FLOAT (53)      NULL,
+    [QTY_NAC]          NUMERIC (20, 2) NULL,
+    [NUMBER_IMPOR_INT] VARCHAR (13)    NULL
+);
+

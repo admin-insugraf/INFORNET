@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[VOUCHER_EXCHANGE] (
+    [ID]         VARCHAR (2) NULL,
+    [VOUCHER_ID] VARCHAR (4) NULL,
+    [MONTH]      VARCHAR (6) NULL,
+    [LIST]       VARCHAR (6) NULL
+);
+

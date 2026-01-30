@@ -1,0 +1,982 @@
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.vbprojResolveAssemblyReference.cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibCobranzas.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibCobranzas.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibCobranzas.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibConexion.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibComunVar.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibConexion.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibConexion.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibComunVar.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibComunVar.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.Resources.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaClientes.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Letras.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaCob.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.vbproj.GenerateResource.Cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibContabilidad.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibReportes.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibContabilidad.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibContabilidad.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibReportes.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\bin\Debug\LibReportes.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaArticulos.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_NotaCredito.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Cliente.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConcepCob.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TipoPago.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Vendedores.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Ayuda.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_RE_PlanillaFechas.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_RE_SaldosClientes.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Articulo.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia_Lineas.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Lotes.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Proveedor.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TransaccionTipo.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_GuiaRemision.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_RE_GuiasRemi.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.Resources.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.CX_04.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.FrmTipoNumeracion.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frmBuscar.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Ayuda.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaArticulos.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaClientes.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_GuiaRemision.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Letras.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_NotaCredito.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaCob.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Articulo.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Cliente.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConcepCob.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia_Lineas.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Lotes.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TipoPago.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Proveedor.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TransaccionTipo.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Vendedores.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_RE_GuiasRemi.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_RE_PlanillaFechas.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_RE_SaldosClientes.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibCobranzas\obj\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Resources.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.CX_04.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Articulo.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_TipoPago_pago.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro_Pago.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Ayuda.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaArticulos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna_Materia_Prima.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloInventario.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento_Pago.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados_Pago.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes_Pagos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_Pagos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta_Pago.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos_Pagos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConceptosPago.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaPagos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosTipoCobranzas.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetras.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionDescuentos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmAgregarLote.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionPrecio.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloOrdenCompra.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_OC.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteLetras.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmTipoNumeracion.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_Ingreso_Orden_Compra.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_Transferencia.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmBuscar.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_GuiaRemision.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaCobs.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Articulo.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Cliente.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConcepCob.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia_Lineas.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Lotes.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TipoPago.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Proveedor.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TransaccionTipo.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Vendedores.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.CX_04.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Articulo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_TipoPago_pago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro_Pago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Ayuda.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaArticulos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna_Materia_Prima.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloInventario.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento_Pago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados_Pago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes_Pagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_Pagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta_Pago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos_Pagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConceptosPago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaPagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosTipoCobranzas.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetras.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionDescuentos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmAgregarLote.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionPrecio.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloOrdenCompra.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_OC.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteLetras.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmTipoNumeracion.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_Ingreso_Orden_Compra.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_Transferencia.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmBuscar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_GuiaRemision.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaCobs.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Articulo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Cliente.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConcepCob.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia_Lineas.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Lotes.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TipoPago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Proveedor.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TransaccionTipo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Vendedores.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbprojResolveAssemblyReference.cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Resources.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.CX_04.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Articulo.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_TipoPago_pago.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro_Pago.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Ayuda.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaArticulos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna_Materia_Prima.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloInventario.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento_Pago.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados_Pago.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes_Pagos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_Pagos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta_Pago.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos_Pagos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConceptosPago.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaPagos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosTipoCobranzas.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetras.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionDescuentos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmAgregarLote.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionPrecio.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloOrdenCompra.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_OC.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteLetras.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmTipoNumeracion.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_Ingreso_Orden_Compra.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_Transferencia.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmBuscar.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_GuiaRemision.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaCobs.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Articulo.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Cliente.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConcepCob.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia_Lineas.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Lotes.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TipoPago.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Proveedor.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TransaccionTipo.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Vendedores.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbproj.GenerateResource.Cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.CX_04.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetrasPagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCalendario.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCentroCostosCompra.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCheques.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmChequesPagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmDetalleGuiaAnalisisCob.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasCobranzas.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasPagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmGuiaAnalisisCob.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmListaPrecios.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Articulo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_TipoPago_pago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro_Pago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Ayuda.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaArticulos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna_Materia_Prima.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloInventario.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento_Pago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados_Pago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes_Pagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_Pagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta_Pago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos_Pagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConceptosPago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaPagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosTipoCobranzas.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetras.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionDescuentos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmAgregarLote.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionPrecio.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloOrdenCompra.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_OC.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteLetras.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmTipoNumeracion.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_Ingreso_Orden_Compra.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_Transferencia.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmBuscar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_GuiaRemision.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaCobs.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Articulo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Cliente.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConcepCob.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia_Lineas.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Lotes.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TipoPago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Proveedor.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TransaccionTipo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Vendedores.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Resources.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.CX_04.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetrasPagos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCalendario.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCentroCostosCompra.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCheques.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmChequesPagos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmDetalleGuiaAnalisisCob.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmDetalles_Ingreso_OrdenCompra.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasCobranzas.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasPagos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmGuiaAnalisisCob.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmListaPrecios.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Articulo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_TipoPago_pago.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro_Pago.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Ayuda.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaArticulos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna_Materia_Prima.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloInventario.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento_Pago.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados_Pago.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes_Pagos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_Pagos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta_Pago.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos_Pagos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConceptosPago.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaPagos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosTipoCobranzas.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetras.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionDescuentos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmAgregarLote.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionPrecio.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloOrdenCompra.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_OC.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteLetras.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmTipoNumeracion.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_Ingreso_Orden_Compra.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_Transferencia.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmBuscar.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_GuiaRemision.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaCobs.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Articulo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Cliente.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConcepCob.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia_Lineas.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Lotes.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TipoPago.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Proveedor.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TransaccionTipo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Vendedores.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloAct_Mat_Empaque.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbprojResolveAssemblyReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Resources.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.CX_04.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetrasPagos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloAct_Mat_Empaque.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCalendario.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCentroCostosCompra.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCheques.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmChequesPagos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmDetalleGuiaAnalisisCob.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmDetalles_Ingreso_OrdenCompra.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasCobranzas.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasPagos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmGuiaAnalisisCob.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmListaPrecios.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Articulo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_TipoPago_pago.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro_Pago.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Ayuda.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaArticulos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna_Materia_Prima.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloInventario.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento_Pago.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados_Pago.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes_Pagos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_Pagos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta_Pago.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos_Pagos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConceptosPago.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaPagos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosTipoCobranzas.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetras.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionDescuentos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmAgregarLote.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionPrecio.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloOrdenCompra.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_OC.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteLetras.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmTipoNumeracion.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_Ingreso_Orden_Compra.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_Transferencia.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmBuscar.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_GuiaRemision.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaCobs.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Articulo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Cliente.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConcepCob.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia_Lineas.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Lotes.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TipoPago.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Proveedor.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TransaccionTipo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Vendedores.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbprojResolveAssemblyReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Resources.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.CX_04.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetrasPagos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloAct_Mat_Empaque.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmBuscar_Anticipos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCalendario.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCentroCostosCompra.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCheques.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmChequesPagos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmDetalleGuiaAnalisisCob.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmDetalles_Ingreso_OrdenCompra.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasCobranzas.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasPagos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmGuiaAnalisisCob.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmListaPrecios.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmVentasMensualArticulo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_CX_LT_PlanillaCob_CR.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_CX_LT_PlanillaCob_PF.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Articulo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_TipoPago_pago.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro_Pago.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Ayuda.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaArticulos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna_Materia_Prima.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloInventario.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento_Pago.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados_Pago.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes_Pagos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_Pagos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta_Pago.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos_Pagos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConceptosPago.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaPagos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosTipoCobranzas.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetras.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionDescuentos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmAgregarLote.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionPrecio.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloOrdenCompra.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_OC.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteLetras.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmTipoNumeracion.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_Ingreso_Orden_Compra.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_Transferencia.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmBuscar.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_GuiaRemision.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaCobs.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Articulo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Cliente.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConcepCob.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia_Lineas.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Lotes.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TipoPago.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Proveedor.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TransaccionTipo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Vendedores.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Documento.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\Ionic.Zip.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\itextsharp.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibBillService.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\Newtonsoft.Json.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\WSConsultaSUNAT.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\zxing.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbprojResolveAssemblyReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Resources.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.CX_04.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetrasPagos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloAct_Mat_Empaque.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmBuscar_Anticipos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCalendario.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCentroCostosCompra.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCheques.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmChequesPagos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock_Mensual.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmDetalleGuiaAnalisisCob.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmDetalles_Ingreso_OrdenCompra.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasCobranzas.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasPagos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmGuiaAnalisisCob.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmListaPrecios.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmVentasMensualArticulo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_CX_LT_PlanillaCob_CR.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_CX_LT_PlanillaCob_PF.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Articulo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_TipoPago_pago.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro_Pago.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Ayuda.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaArticulos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna_Materia_Prima.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloInventario.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento_Pago.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados_Pago.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes_Pagos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_Pagos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta_Pago.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos_Pagos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConceptosPago.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaPagos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosTipoCobranzas.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetras.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionDescuentos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmAgregarLote.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionPrecio.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloOrdenCompra.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_OC.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteLetras.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmTipoNumeracion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_Ingreso_Orden_Compra.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_Transferencia.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmBuscar.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_GuiaRemision.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaCobs.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Articulo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Cliente.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConcepCob.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia_Lineas.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Lotes.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TipoPago.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Proveedor.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TransaccionTipo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Vendedores.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Documento.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConceptosGenerales.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Bancos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Cargos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Categorias.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Conceptos_Variables.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Establecimientos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Fondo_Pensiones.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Personal_RR_HH.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_PR_Adelanto_Quincena.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_PR_Calculo_Planilla.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibActivo.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibActivo.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibActivo.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbprojResolveAssemblyReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Resources.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.CX_04.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetrasPagos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloAct_Mat_Empaque.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmBuscar_Anticipos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCalendario.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCentroCostosCompra.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCheques.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmChequesPagos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCierresModulos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock_Mensual.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock_Mensual_OrdenImportacion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmDetalleGuiaAnalisisCob.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmDetalles_Ingreso_OrdenCompra.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasCobranzas.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasPagos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmGuiaAnalisisCob.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmListaPrecios.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmVentasMensualArticulo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_CX_LT_PlanillaCob_CR.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_CX_LT_PlanillaCob_PF.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_CX_MA_Oportunidad_clientes.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_OP_Planta_Parte_Produccion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Articulo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_TipoPago_pago.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro_Pago.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Ayuda.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaArticulos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna_Materia_Prima.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloInventario.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento_Pago.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados_Pago.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes_Pagos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_Pagos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta_Pago.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos_Pagos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConceptosPago.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaPagos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosTipoCobranzas.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetras.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionDescuentos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmAgregarLote.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionPrecio.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloOrdenCompra.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_OC.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteLetras.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmTipoNumeracion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_Ingreso_Orden_Compra.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_Transferencia.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmBuscar.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_GuiaRemision.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaCobs.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Articulo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Cliente.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConcepCob.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia_Lineas.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Lotes.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TipoPago.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Proveedor.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TransaccionTipo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Vendedores.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Documento.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConceptosGenerales.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Calculo_Envio_Boletas_Pago.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Contabilizar_Planilla.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Bancos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Cargos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Categorias.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Conceptos_Variables.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Establecimientos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Fondo_Pensiones.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Personal_RR_HH.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_PR_Adelanto_Quincena.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_PR_Calculo_Planilla.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibCobranzas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibActivo.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibActivo.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibActivo.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibContabilidad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibReportes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\bin\Debug\LibSeguridad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbprojResolveAssemblyReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Resources.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.CX_04.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetrasPagos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloAct_Mat_Empaque.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloAct_Unidad_Medida.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloRapido.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmBuscar_Anticipos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCalendario.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCentroCostosCompra.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCheques.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmChequesPagos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmCierresModulos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock_Mensual.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock_Mensual_OrdenImportacion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmDetalleGuiaAnalisisCob.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmDetalles_Ingreso_OrdenCompra.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEnvioEmail.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasCobranzas.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmEstadoLetrasPagos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmfacturacionTienda_Cantidad.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmFacturacion_Tienda.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmGuiaAnalisisCob.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmListaPrecios.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmTipoNumeracion_Fact_rapida.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmVentasMensualArticulo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_CX_LT_PlanillaCob_CR.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_CX_LT_PlanillaCob_PF.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_CX_MA_Oportunidad_clientes.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_OP_Planta_Parte_Produccion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Articulo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_TipoPago_pago.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro_Pago.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_Ayuda.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_BuscaArticulos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna_Materia_Prima.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloInventario.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento_Pago.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados_Pago.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes_Pagos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_Pagos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta_Pago.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos_Pagos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConceptosPago.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaPagos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosTipoCobranzas.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDoc_Pend_Vencimiento.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAceptacionLetras.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionDescuentos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmAgregarLote.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmArticuloActualizacionPrecio.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticuloOrdenCompra.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_OC.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConsultaStock.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmLetras_ManejoDocumentosPendientes.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteDocumentosCancelados.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReporteLetras.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmReportePendienteCobro.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmTipoNumeracion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_Ingreso_Orden_Compra.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo_Transferencia.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_GuiaRemision_tranferencia_Interna.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmAsignarArticulo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frmBuscar.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_GuiaRemision.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_LT_PlanillaCobs.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Articulo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Bancos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Banco_Cuenta.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Cliente.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_ConcepCob.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Familia_Lineas.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Lotes.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TipoPago.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Proveedor.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_TransaccionTipo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.frm_CX_MA_Vendedores.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Tipo_Documento.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.FrmConceptosGenerales.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Calculo_Envio_Boletas_Pago.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Contabilizar_Planilla.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Bancos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Cargos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Categorias.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Conceptos_Variables.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Establecimientos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_MA_Fondo_Pensiones.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_Personal_RR_HH.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_PR_Adelanto_Quincena.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.Frm_PR_Calculo_Planilla.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCobranzas\obj\Debug\LibCobranzas.pdb

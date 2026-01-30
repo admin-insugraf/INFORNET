@@ -1,0 +1,17 @@
+﻿CREATE TABLE [dbo].[TABLA] (
+    [DOCUMENT_DATE]    VARCHAR (30)     NULL,
+    [CADUCATE_DATE]    VARCHAR (30)     NULL,
+    [DOCUMENT_ID]      VARCHAR (2)      NULL,
+    [NUMBER_SERIE]     VARCHAR (3)      NULL,
+    [NUMBER_DOCUMENT]  VARCHAR (7)      NULL,
+    [NAME]             VARCHAR (30)     NULL,
+    [VAT_REGISTRATION] VARCHAR (11)     NULL,
+    [CUSTOMER_NAME]    VARCHAR (150)    NULL,
+    [CURRENCY_ID]      VARCHAR (2)      NULL,
+    [VALOR_VENTA]      NUMERIC (38, 10) NULL,
+    [AMOUNT_TAX]       NUMERIC (38, 6)  NULL,
+    [TOTAL]            NUMERIC (38, 10) NULL,
+    [COMISION]         NUMERIC (22, 9)  NULL,
+    [COMISION_SOLES]   NUMERIC (38, 6)  NULL
+);
+

@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[KITS] (
+    [PART_ID]  VARCHAR (20)    NOT NULL,
+    [KIT_ID]   VARCHAR (20)    NOT NULL,
+    [QTY_PART] NUMERIC (15, 6) NULL
+);
+

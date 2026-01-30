@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[CO_TB_TMP_SALDO_CUENTA] (
+    [SC_IDCUENTA] VARCHAR (20)  NULL,
+    [SC_SALDO_D]  FLOAT (53)    NULL,
+    [SC_SALDO_H]  FLOAT (53)    NULL,
+    [SC_PC]       VARCHAR (100) NULL
+);
+

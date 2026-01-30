@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[PURCHASE_STATUS] (
+    [ID]          VARCHAR (2)  NOT NULL,
+    [DESCRIPTION] VARCHAR (40) NULL
+);
+

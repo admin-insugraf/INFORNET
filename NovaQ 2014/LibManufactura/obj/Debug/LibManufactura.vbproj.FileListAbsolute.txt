@@ -1,0 +1,516 @@
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.exe.config
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.exe
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.pdb
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.xml
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.dll
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.dll
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.dll
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.pdb
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.pdb
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Resources.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Generacion_Orden_Fabricacion.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle_OrdenCompra.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.frmBuscar.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Orden_Compra.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_ListaMateriales.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Planeamiento.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmEnvioEmail.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Formulas.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Verificacion_Stock.resources
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.GenerateResource.Cache
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.exe
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.xml
+D:\ALFONSO\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll.config
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Resources.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod_PT.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_PT.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Generacion_Orden_Fabricacion.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle_OrdenCompra.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.frmBuscar.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Orden_Compra.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_ListaMateriales.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Planeamiento.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmEnvioEmail.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Formulas.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Verificacion_Stock.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll.config
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbprojResolveAssemblyReference.cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Resources.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod_PT.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_PT.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Generacion_Orden_Fabricacion.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle_OrdenCompra.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.frmBuscar.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Orden_Compra.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_ListaMateriales.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Planeamiento.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmEnvioEmail.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Formulas.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Verificacion_Stock.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.GenerateResource.Cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll.config
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticuloLiquidacion.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod_PT.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_PT.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Generacion_Orden_Fabricacion.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle_OrdenCompra.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.frmBuscar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Liquidacion.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Orden_Compra.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_ListaMateriales.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Planeamiento.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmEnvioEmail.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Formulas.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Verificacion_Stock.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll.config
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Resources.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticuloLiquidacion.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod_PT.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_PT.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Generacion_Orden_Fabricacion.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle_OrdenCompra.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.frmBuscar.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Liquidacion.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Orden_Compra.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_ListaMateriales.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Planeamiento.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmEnvioEmail.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Formulas.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Verificacion_Stock.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll.config
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbprojResolveAssemblyReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Resources.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticuloLiquidacion.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod_PT.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_PT.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Generacion_Orden_Fabricacion.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle_OrdenCompra.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.frmBuscar.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Liquidacion.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Orden_Compra.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_ListaMateriales.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Planeamiento.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmEnvioEmail.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Formulas.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Verificacion_Stock.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll.config
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbprojResolveAssemblyReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\Interop.DllInventario.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.ResolveComReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Resources.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticuloLiquidacion.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod_PT.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_PT.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Generacion_Orden_Fabricacion.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle_OrdenCompra.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.frmBuscar.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Liquidacion.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Orden_Compra.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_ListaMateriales.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Planeamiento.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmEnvioEmail.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Formulas.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Verificacion_Stock.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Generar_OP.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Liquidar_OP.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll.config
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibBillService.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\Newtonsoft.Json.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\Ionic.Zip.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\zxing.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbprojResolveAssemblyReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\Interop.DllInventario.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.ResolveComReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Resources.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignacionArticuloAdicional.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticuloLiquidacion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod_PT.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_PT.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Formulas.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle_OrdenCompra.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.frmBuscar.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Generacion_Orden_Fabricacion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Liquidacion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_ListaMateriales.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Orden_Compra.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmEnvioEmail.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Planeamiento.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Verificacion_Stock.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Generar_OP.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Liquidar_OP.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll.config
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\AxInterop.AcroPDFLib.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibBillService.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\Newtonsoft.Json.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibActivo.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\Ionic.Zip.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\zxing.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibActivo.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibActivo.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbprojResolveAssemblyReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\Interop.DllInventario.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.ResolveComReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Resources.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignacionArticuloAdicional.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticuloLiquidacion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo_MP.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo_Pt.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod_PT.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_PT.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmListaPrecios.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Costeo_Losaro.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Formulas.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle_OrdenCompra.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.frmBuscar.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Generacion_Orden_Fabricacion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Liquidacion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_ListaMateriales.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Orden_Compra.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmEnvioEmail.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Planeamiento.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Verificacion_Stock.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Consulta_Stock.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Envio_Email_Rpta_Pre_Flyte.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Equipos_Maquinaria.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Generar_OP.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Generar_Orden_Desarrollo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Gestion_Muestra_Desarrollo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Linea_Produccion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Liquidar_OP.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_Planta_Act_No_Programada.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_PLanta_Bandeja_Despachos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_PLanta_Bandeja_Despachos_Alamax.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_Planta_Bandeja_Mantenimiento_Informes_Tecnico.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_PLanta_Bandeja_Programacion_Despachos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_PLanta_Bandeja_Programacion_Despachos_Prog_Recojo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_Planta_No_Actividad.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_Planta_Parte_Produccion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_Planta_Preparacion_Especial_Equipo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Personal.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Procesos_Produccion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Reporte_BI.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Requerimiento_OP.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_PLanta_Bandeja_Lista_Despachos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll.config
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibManufactura.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\AxInterop.AcroPDFLib.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibBillService.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\Newtonsoft.Json.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibActivo.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\Ionic.Zip.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\zxing.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibCobranzas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibReportes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibContabilidad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibSeguridad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibActivo.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\bin\Debug\LibActivo.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbprojResolveAssemblyReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\Interop.DllInventario.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.ResolveComReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Resources.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignacionArticuloAdicional.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticuloLiquidacion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo_MP.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarArticulo_Pt.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod_PT.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_PT.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmListaPrecios.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Costeo_Losaro.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Formulas.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmAsignarDetalle_OrdenCompra.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.frmBuscar.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Formulas_Consulta.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Formulas_HC.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Generacion_Orden_Fabricacion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Liquidacion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_ListaMateriales.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Orden_Compra.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmControl_Liberacion_Modificar_Prod.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmEnvioEmail.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Planeamiento.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.FrmManufactura_Verificacion_Stock.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Consulta_Ops_Vs_Descargas.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Consulta_Stock.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Envio_Email_Rpta_Pre_Flyte.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Equipos_Maquinaria.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Generar_OP.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Generar_Orden_Desarrollo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Gestion_Muestra_Desarrollo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Linea_Produccion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Liquidar_OP.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_Planta_Act_No_Programada.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_PLanta_Bandeja_Despachos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_PLanta_Bandeja_Despachos_Alamax.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_PLanta_Bandeja_Lista_Despachos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_Planta_Bandeja_Mantenimiento_Informes_Tecnico.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_PLanta_Bandeja_Programacion_Despachos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_PLanta_Bandeja_Programacion_Despachos_Prog_Recojo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_Planta_No_Actividad.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_Planta_Parte_Produccion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_OP_Planta_Preparacion_Especial_Equipo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Personal.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Procesos_Produccion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Reporte_BI.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.Frm_Requerimiento_OP.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibManufactura\obj\Debug\LibManufactura.pdb

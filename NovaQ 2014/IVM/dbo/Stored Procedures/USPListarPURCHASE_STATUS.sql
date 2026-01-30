@@ -1,0 +1,4 @@
+﻿
+CREATE PROCEDURE    [dbo].[USPListarPURCHASE_STATUS]
+AS                  
+SELECT * FROM  dbo.PURCHASE_STATUS

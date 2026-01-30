@@ -1,0 +1,24 @@
+﻿create procedure [dbo].[SAL_LIST_DOCUMENTOS_FECHA]
+	(
+	  @fecha_ini DATE,
+	  @fecha_fin DATE
+	)
+AS
+select r.DOCUMENT_ID,r.NUMBER_SERIE,r.NUMBER_DOCUMENT,
+	   r.DOCUMENT_DATE,r.CADUCATE_DATE,
+	   r.CUSTOMER_ID,r.CUSTOMER_NAME,r.CUSTOMER_ADDR,
+	   r.VAT_REGISTRATION,r.AMOUNT,r.SELL_RATE,r.CURRENCY_ID,
+	   r.DOCUMENT_REF,r.SERIE_REF,r.NUMBER_REF,
+	   r.NUMBER_ORDER,r.COMMENT,r.AMOUNT_TAX,
+	   rl.ITEM,rl.PART_ID,rl.PART_DESCRIPTION,
+	   rl.QTY,rl.PRICE_SALES,rl.PRICE_ORI,
+	   rl.AMOUNT_TAX,rl.TAX_PERCENT,rl.AMOUNT_US,rl.AMOUNT,
+	   rl.UNIT
+from receivable r
+inner join RECEIVABLE_LINE rl
+	on r.DOCUMENT_ID=rl.DOCUMENT_ID
+	and r.NUMBER_SERIE=rl.NUMBER_SERIE
+	and r.NUMBER_DOCUMENT=rl.NUMBER_DOCUMENT
+where
+	convert(varchar(10),R.CREATE_DATE,103) between @fecha_ini and @fecha_fin
+order by r.CREATE_DATE

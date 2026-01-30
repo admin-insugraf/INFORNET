@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[SALES_PLACE] (
+    [SALES_PLACE_ID]          VARCHAR (2)  NULL,
+    [SALES_PLACE_DESCRIPTION] VARCHAR (30) NULL,
+    [SALES_PLACE_ADDR]        VARCHAR (60) NULL,
+    [WAREHOUSE_ID]            VARCHAR (2)  NULL,
+    [CCOST_ID]                VARCHAR (10) NULL
+);
+
+
+

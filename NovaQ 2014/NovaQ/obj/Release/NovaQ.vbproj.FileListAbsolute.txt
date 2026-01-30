@@ -1,0 +1,2 @@
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Release\NovaQ.exe.config
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Release\NovaQ.vbproj.ResolveComReference.cache

@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[DOCUMENT_STATUS] (
+    [ID]          VARCHAR (1)  NOT NULL,
+    [DESCRIPTION] VARCHAR (40) NULL,
+    [DOCUM_OBLIG] BIT          NOT NULL
+);
+

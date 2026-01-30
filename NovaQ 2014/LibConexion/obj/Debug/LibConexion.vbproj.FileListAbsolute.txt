@@ -1,0 +1,117 @@
+D:\Fuentes\EnovaQ\Main\NovaQ\LibConexion\bin\Debug\LibConexion.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibConexion\bin\Debug\LibConexion.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibConexion\bin\Debug\LibConexion.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibConexion\bin\Debug\LibComunVar.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibConexion\bin\Debug\LibComunVar.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibConexion\bin\Debug\LibComunVar.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibConexion\obj\Debug\LibConexion.vbprojResolveAssemblyReference.cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibConexion\obj\Debug\LibConexion.frmError.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibConexion\obj\Debug\LibConexion.Resources.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibConexion\obj\Debug\LibConexion.vbproj.GenerateResource.Cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibConexion\obj\Debug\LibConexion.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibConexion\obj\Debug\LibConexion.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibConexion\obj\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.frmError.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.Resources.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibConexion.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibConexion.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibConexion.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbprojResolveAssemblyReference.cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.frmError.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.Resources.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbproj.GenerateResource.Cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.frmError.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibConexion\obj\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbprojResolveAssemblyReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.frmError.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.Resources.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbprojResolveAssemblyReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.frmError.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.Resources.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbprojResolveAssemblyReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.frmError.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.Resources.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibConexion\obj\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\bin\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\bin\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\bin\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbprojResolveAssemblyReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.frmError.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.Resources.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\bin\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\bin\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\bin\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbprojResolveAssemblyReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.frmError.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.Resources.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.pdb

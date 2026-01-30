@@ -1,0 +1,16 @@
+﻿--Vista obligatorias para el proceso de revalorizacion
+create view [vWMoresmesING] 
+as 
+	select A.WAREHOUSE_ID,A.PART_ID,A.QTY as ENTRADA,A.AVERAGE_COST, 
+		B.CURRENCY_TYPE,B.CURRENCY_EXCHANGE,A.UNIT_PART,B.DATE_DOCUMENT,B.TYPE_TRANS,
+		B.TRANS_ID,B.DOCUMENT_ID,B.NUMBER_DOCUMENT,A.ITEM,A.STATUS_VALUE 
+	from WAREHOUSE_TRANS as B 
+		inner join (WAREHOUSE_TRANS_LINE as A left join PART as M on A.PART_ID=M.ID) 
+		on (B.WAREHOUSE_ID=A.WAREHOUSE_ID) and (B.DOCUMENT_ID=A.DOCUMENT_ID) 
+		and (B.NUMBER_DOCUMENT=A.NUMBER_DOCUMENT) 
+	where (((B.TYPE_TRANS)='I') and (not (B.DOCUMENT_ID='GS' 
+		and B.TRANS_ID='GF' and B.STATUS_GUIA='F')) and ((B.STATUS_GUIA)<>'A') 
+		and (not(M.IS_STOCKED='N' and M.IS_LOT='N' and M.SERIES='N'))
+		and A.PART_ID<>'TEXTO')
+
+

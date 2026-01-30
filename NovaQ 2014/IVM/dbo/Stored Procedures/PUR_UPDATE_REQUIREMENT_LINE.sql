@@ -1,0 +1,40 @@
+﻿CREATE PROC [dbo].[PUR_UPDATE_REQUIREMENT_LINE]  
+--DECLARE  
+@NUMERO VARCHAR(10),  
+@TIPO VARCHAR(2),  
+@IDE VARCHAR(50),  
+@CANT_ERROR INT OUTPUT  
+  
+  
+/*  
+SET @NUMERO='0000000016'  
+SET @TIPO='RQ'  
+SET @IDE='DEVELOPER04'  
+SET @CANT_ERROR=0  
+*/  
+AS  
+  
+declare @TABLA varchar(50)  
+DECLARE @ERROR1 INT  
+DECLARE @ERROR2 INT  
+  
+SET NOCOUNT ON  
+set @TABLA='tempdb.dbo.'+@IDE+'REQUIREMENT_LINE'  
+  
+SET @ERROR1=0  
+--Elimina los detalles para volver a insertarlos  
+EXEC('set quoted_identifier off DELETE FROM REQUIREMENT_LINE WHERE ID= "'+@NUMERO+'" AND TYPE="'+@TIPO+'"')  
+IF @@ERROR<>0   
+    SET @ERROR1=1  
+--Inserta los detalles  
+  
+SET @ERROR2=0  
+EXEC('set quoted_identifier off Insert Into REQUIREMENT_LINE (ID,TYPE,ITEM,PART_ID,PART_DESCRIPTION,UNIT,QTY,  
+          STATUS,DOCUMENT_DATE,AMOUNT_BALANCE,CCOST_ID,COMMENT,PROJECT_ID)   
+          SELECT "'+@NUMERO+'","'+@TIPO+'",ITEM,PART_ID,PART_DESCRIPTION,UNIT,QTY,  
+          STATUS,DOCUMENT_DATE,AMOUNT_BALANCE,CCOST_ID,COMMENT,PROJECT FROM '+@TABLA+'')  
+  
+         IF  @ERROR1<>0 AND @ERROR2<>0  
+                SET @CANT_ERROR=1
+
+

@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[delete_user] (
+    [USER_ID]         VARCHAR (20) NULL,
+    [DOCUMENT_ID]     VARCHAR (15) NULL,
+    [NUMBER_SERIE]    VARCHAR (15) NULL,
+    [NUMBER_DOCUMENT] VARCHAR (15) NULL,
+    [DATE_DELETE]     VARCHAR (10) NULL,
+    [TABLE_NAME]      VARCHAR (40) NULL,
+    [HORA]            VARCHAR (50) NULL
+);
+

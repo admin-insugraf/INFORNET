@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[VOUCHER_LETTER] (
+    [ID]         VARCHAR (2)  NULL,
+    [VOUCHER_ID] VARCHAR (4)  NULL,
+    [MONTH]      VARCHAR (6)  NULL,
+    [LETTER_ID]  VARCHAR (12) NULL,
+    [STATUS]     VARCHAR (4)  NULL
+);
+

@@ -1,0 +1,845 @@
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\CustomConfigFile.config
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\NovaQ.exe.config
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\NovaQ.exe
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\NovaQ.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\NovaQ.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibAdministracion.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibComunVar.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibConexion.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibContabilidad.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibProveedores.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibSeguridad.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibVentas.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibReportes.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibAdministracion.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibAdministracion.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibComunVar.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibComunVar.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibConexion.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibConexion.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibContabilidad.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibContabilidad.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibProveedores.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibProveedores.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibSeguridad.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibSeguridad.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibVentas.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibVentas.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibReportes.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibReportes.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\obj\Debug\NovaQ.vbprojResolveAssemblyReference.cache
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\obj\Debug\AppNovaQ.frmAccesoUsuario.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\obj\Debug\AppNovaQ.frmError.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\obj\Debug\AppNovaQ.frmLogin.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\obj\Debug\AppNovaQ.frmMenu.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\obj\Debug\NovaQ.vbproj.GenerateResource.Cache
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\obj\Debug\NovaQ.exe
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\obj\Debug\NovaQ.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\obj\Debug\NovaQ.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibConsultasComun.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibConsultasComun.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibConsultasComun.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibCobranzas.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibCobranzas.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibCobranzas.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\obj\Debug\AppNovaQ.frmTipoCambio.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\obj\Debug\AppNovaQ.Resource1.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibAlmacenes.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\EntityFramework.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\EntityFramework.SqlServer.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibAlmacenes.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibAlmacenes.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\EntityFramework.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\EntityFramework.SqlServer.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibControlUser.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibControlUser.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\NovaQ\bin\Debug\LibControlUser.xml
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\CustomConfigFile.config
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe.config
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\NovaQ.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\NovaQ.xml
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibVentas.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibVentas.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibVentas.xml
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.xml
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.xml
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.xml
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmAccesoUsuario.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmError.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmLogin.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmMenu.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmTipoCambio.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.Resource1.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\obj\Debug\NovaQ.exe
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\obj\Debug\NovaQ.xml
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\NovaQ\obj\Debug\NovaQ.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\NovaQ.exe.config
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\obj\Debug\NovaQ.exe
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\obj\Debug\NovaQ.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\obj\Debug\NovaQ.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\CustomConfigFile.config
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\NovaQ.exe
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\NovaQ.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\NovaQ.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibAdministracion.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibAlmacenes.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibConsultasComun.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibProveedores.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibSeguridad.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibVentas.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\EntityFramework.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\EntityFramework.SqlServer.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibConsultasComun.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibConsultasComun.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibAdministracion.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibAdministracion.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibAlmacenes.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibAlmacenes.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibProveedores.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibProveedores.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibSeguridad.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibSeguridad.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibVentas.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibVentas.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\EntityFramework.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\bin\Debug\EntityFramework.SqlServer.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\obj\Debug\NovaQ.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\obj\Debug\AppNovaQ.frmAccesoUsuario.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\obj\Debug\AppNovaQ.frmError.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\obj\Debug\AppNovaQ.frmLogin.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\obj\Debug\AppNovaQ.frmMenu.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\obj\Debug\AppNovaQ.frmTipoCambio.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\obj\Debug\AppNovaQ.Resource1.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\NovaQ\obj\Debug\NovaQ.vbproj.GenerateResource.Cache
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\CustomConfigFile.config
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe.config
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\NovaQ.pdb
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\NovaQ.xml
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.dll
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.dll
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.dll
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibConexion.dll
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.dll
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.exe
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.dll
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.dll
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibVentas.dll
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.dll
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibReportes.dll
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.dll
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.pdb
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.pdb
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.pdb
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.xml
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibConexion.pdb
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.pdb
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.xml
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.pdb
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.pdb
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibVentas.pdb
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibVentas.xml
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.xml
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\LibReportes.pdb
+D:\ALFONSO\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.xml
+D:\ALFONSO\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+D:\ALFONSO\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmAccesoUsuario.resources
+D:\ALFONSO\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmError.resources
+D:\ALFONSO\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmLogin.resources
+D:\ALFONSO\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmMenu.resources
+D:\ALFONSO\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmTipoCambio.resources
+D:\ALFONSO\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.Resource1.resources
+D:\ALFONSO\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.GenerateResource.Cache
+D:\ALFONSO\NovaQ 2014\NovaQ\obj\Debug\NovaQ.exe
+D:\ALFONSO\NovaQ 2014\NovaQ\obj\Debug\NovaQ.xml
+D:\ALFONSO\NovaQ 2014\NovaQ\obj\Debug\NovaQ.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\CustomConfigFile.config
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe.config
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\NovaQ.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\NovaQ.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibActivo.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCompras.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibVentas.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibActivo.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibActivo.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCompras.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCompras.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibVentas.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibVentas.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmAccesoUsuario.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmError.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmLogin.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmMenu.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmTipoCambio.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.Resource1.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.exe
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\CustomConfigFile.config
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe.config
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\NovaQ.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\NovaQ.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibActivo.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCompras.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConexion.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibVentas.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibReportes.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.dll
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibActivo.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibActivo.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCompras.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCompras.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConexion.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConexion.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibVentas.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibVentas.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibReportes.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibReportes.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbprojResolveAssemblyReference.cache
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmAccesoUsuario.resources
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmError.resources
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmLogin.resources
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmMenu.resources
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmTipoCambio.resources
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.Resource1.resources
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.GenerateResource.Cache
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.exe
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.xml
+X:\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\CustomConfigFile.config
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe.config
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\NovaQ.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\NovaQ.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibActivo.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.exe
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCompras.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibVentas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibActivo.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibActivo.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCompras.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibCompras.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibVentas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibVentas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmAccesoUsuario.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmError.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmLogin.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmMenu.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmTipoCambio.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.Resource1.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.exe
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\NovaQ\obj\Debug\NovaQ.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\CustomConfigFile.config
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe.config
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\NovaQ.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\NovaQ.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibActivo.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.exe
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCompras.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibVentas.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibActivo.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibActivo.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCompras.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCompras.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibVentas.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibVentas.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\Interop.ShockwaveFlashObjects.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\Interop.ShockwaveFlashObjects.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmAccesoUsuario.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmError.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmLogin.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmMenu.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmTipoCambio.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.Resource1.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.exe
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\CustomConfigFile.config
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe.config
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\NovaQ.exe
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\NovaQ.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\NovaQ.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibActivo.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.exe
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCompras.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibVentas.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibReportes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibActivo.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibActivo.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCompras.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCompras.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibVentas.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibVentas.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibReportes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibReportes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbprojResolveAssemblyReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmAccesoUsuario.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmError.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmLogin.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmMenu.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmTipoCambio.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.Resource1.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.exe
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\CustomConfigFile.config
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\INFORNET.exe.config
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\INFORNET.exe
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\INFORNET.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\INFORNET.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibActivo.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.exe
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCompras.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibVentas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibReportes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\WSConsultaSUNAT.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\BillService.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\Ionic.Zip.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\itextsharp.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibActivo.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibActivo.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCompras.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCompras.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibVentas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibVentas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibReportes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibReportes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbprojResolveAssemblyReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmAccesoUsuario.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmError.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmLogin.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.FrmLogin2.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmMenu.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmTipoCambio.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.Resource1.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\INFORNET.exe
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\INFORNET.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\INFORNET.pdb
+W:\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\INFORNET.exe.config
+W:\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\Interop.ShockwaveFlashObjects.dll
+W:\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+W:\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+W:\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\INFORNET.exe
+W:\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\INFORNET.xml
+W:\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\INFORNET.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\CustomConfigFile.config
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\INFORNET.exe.config
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\INFORNET.exe
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\INFORNET.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\INFORNET.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibActivo.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.exe
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCompras.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibVentas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibReportes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibBillService.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\Newtonsoft.Json.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\WSConsultaSUNAT.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\Ionic.Zip.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\zxing.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibActivo.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibActivo.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCompras.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibCompras.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibVentas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibVentas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibReportes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibReportes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbprojResolveAssemblyReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmAccesoUsuario.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmError.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmLogin.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.FrmLogin2.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmMenu.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmTipoCambio.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.Resource1.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\INFORNET.exe
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\INFORNET.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\NovaQ\obj\Debug\INFORNET.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\CustomConfigFile.config
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\INFORNET.exe.config
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\INFORNET.exe
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\INFORNET.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\INFORNET.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibActivo.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.exe
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCompras.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibVentas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibReportes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibBillService.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\Newtonsoft.Json.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\WSConsultaSUNAT.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\Ionic.Zip.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\zxing.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibActivo.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibActivo.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCompras.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCompras.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibVentas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibVentas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibReportes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibReportes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbprojResolveAssemblyReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmAccesoUsuario.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmError.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmLogin.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.FrmLogin2.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmMenu.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmTipoCambio.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.Resource1.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\INFORNET.exe
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\INFORNET.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\INFORNET.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\CustomConfigFile.config
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\INFORNET.exe.config
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\INFORNET.exe
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\INFORNET.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\INFORNET.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibActivo.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.exe
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCompras.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibVentas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\Newtonsoft.Json.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibReportes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibBillService.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\WSConsultaSUNAT.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\Ionic.Zip.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\zxing.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibConsultasComun.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibActivo.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibActivo.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibAdministracion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibAlmacenes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCajaChica.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCobranzas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCompras.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibCompras.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibContabilidad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibManufactura.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibProveedores.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibSeguridad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibVentas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibVentas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibReportes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibReportes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\LibControlUser.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbprojResolveAssemblyReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.ResolveComReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmAccesoUsuario.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmError.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmLogin.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.FrmLogin2.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmMenu.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.frmTipoCambio.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\AppNovaQ.Resource1.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\NovaQ.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\INFORNET.exe
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\INFORNET.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\NovaQ\obj\Debug\INFORNET.pdb

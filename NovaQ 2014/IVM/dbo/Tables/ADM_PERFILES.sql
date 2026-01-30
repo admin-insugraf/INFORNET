@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[ADM_PERFILES] (
+    [COD_PERFIL]         VARCHAR (20) NOT NULL,
+    [DES_PERFIL]         VARCHAR (60) NULL,
+    [FECHA_CREACION]     DATE         NULL,
+    [FECHA_MODIFICACION] DATE         NULL,
+    [COD_USUARIO]        VARCHAR (15) NULL,
+    [HABILITADO_SN]      CHAR (1)     NULL
+);
+

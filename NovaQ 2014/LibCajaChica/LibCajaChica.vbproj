@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{67AC0771-9CED-42A7-B862-563710E24455}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>LibCajaChica.My.MyApplication</StartupObject>
+    <RootNamespace>LibCajaChica</RootNamespace>
+    <AssemblyName>LibCajaChica</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LibCajaChica.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LibCajaChica.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\ClsBuscar.vb" />
+    <Compile Include="Clases\ClsEntidades.vb" />
+    <Compile Include="Clases\ClsNegocio.vb" />
+    <Compile Include="Clases\ClsOperaciones.vb" />
+    <Compile Include="Clases\ClsTransacciones.vb" />
+    <Compile Include="Clases\Implementacion.vb" />
+    <Compile Include="Clases\SQLHelper.vb" />
+    <Compile Include="ModBas.vb" />
+    <Compile Include="ModFunciones.vb" />
+    <Compile Include="Ventanas\FrmConceptos.Designer.vb">
+      <DependentUpon>FrmConceptos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmConceptos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmDocumentos.Designer.vb">
+      <DependentUpon>FrmDocumentos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmDocumentos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmMovimientosCaja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmMovimientosCaja.Designer.vb">
+      <DependentUpon>FrmMovimientosCaja.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Ventanas\FrmPersonal.Designer.vb">
+      <DependentUpon>FrmPersonal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmPersonal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmRep_Gasto_Movilidad.Designer.vb">
+      <DependentUpon>FrmRep_Gasto_Movilidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmRep_Gasto_Movilidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmConceptos.resx">
+      <DependentUpon>FrmConceptos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmDocumentos.resx">
+      <DependentUpon>FrmDocumentos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmMovimientosCaja.resx">
+      <DependentUpon>FrmMovimientosCaja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmPersonal.resx">
+      <DependentUpon>FrmPersonal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmRep_Gasto_Movilidad.resx">
+      <DependentUpon>FrmRep_Gasto_Movilidad.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LibCobranzas\LibCobranzas.vbproj">
+      <Project>{4d4bb461-3f26-4648-ad3a-e6ffef7238c3}</Project>
+      <Name>LibCobranzas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibComunVar\LibComunVar.vbproj">
+      <Project>{6329a850-1fa1-48cc-8042-e575102bb6b8}</Project>
+      <Name>LibComunVar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibConexion\LibConexion.vbproj">
+      <Project>{c4d1109c-6e79-4de3-9bd4-a071b622a669}</Project>
+      <Name>LibConexion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibContabilidad\LibContabilidad.vbproj">
+      <Project>{10273af9-6687-40c1-a70a-325a94fbe4d4}</Project>
+      <Name>LibContabilidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibReportes\LibReportes.vbproj">
+      <Project>{9ab5ba6b-dce3-4b73-b9d2-ce8479603b87}</Project>
+      <Name>LibReportes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibSeguridad\LibSeguridad.vbproj">
+      <Project>{135b907b-6fb3-40c1-b32d-b36c58398361}</Project>
+      <Name>LibSeguridad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibVentas\LibVentas.vbproj">
+      <Project>{44e389f6-39a2-45e0-be84-57da797f0f58}</Project>
+      <Name>LibVentas</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

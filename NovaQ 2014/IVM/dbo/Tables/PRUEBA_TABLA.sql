@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[PRUEBA_TABLA] (
+    [DOCUMENT_DATE]   DATETIME        NULL,
+    [CUSTOMER_ID]     VARCHAR (11)    NULL,
+    [CUSTOMER_NAME]   VARCHAR (150)   NULL,
+    [AMOUNT]          NUMERIC (15, 6) NULL,
+    [QTY]             NUMERIC (15, 6) NULL,
+    [NUMBER_DOCUMENT] VARCHAR (7)     NULL,
+    [DOCUMENT_ID]     VARCHAR (2)     NULL
+);
+

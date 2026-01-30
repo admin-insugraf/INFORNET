@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[MENU_SISTEMA] (
+    [COD_OPCION] VARCHAR (50)  NOT NULL,
+    [DES_OPCION] VARCHAR (100) NULL,
+    [ORDEN]      INT           NULL
+);
+

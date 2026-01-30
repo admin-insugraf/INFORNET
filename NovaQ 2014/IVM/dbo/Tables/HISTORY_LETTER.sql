@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[HISTORY_LETTER] (
+    [LETTER_ID] VARCHAR (10)    NULL,
+    [STATUS]    VARCHAR (4)     NULL,
+    [AMOUNT]    NUMERIC (15, 6) NULL,
+    [DATE]      DATETIME        NULL
+);
+

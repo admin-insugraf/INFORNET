@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[BANK] (
+    [ID]   VARCHAR (2)  NOT NULL,
+    [NAME] VARCHAR (30) NULL
+);
+

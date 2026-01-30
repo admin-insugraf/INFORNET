@@ -1,0 +1,11 @@
+﻿CREATE TABLE [dbo].[INVENTORY_COUNT_LINE] (
+    [ID]           VARCHAR (10)    NULL,
+    [WAREHOUSE_ID] VARCHAR (3)     NULL,
+    [FAMILY_ID]    VARCHAR (8)     NULL,
+    [PART_ID]      VARCHAR (20)    NULL,
+    [STOCK]        NUMERIC (15, 6) NULL,
+    [ENTER_QTY]    NUMERIC (15, 6) NULL,
+    [DIF_QTY]      NUMERIC (15, 6) NULL,
+    [UBICATION]    VARCHAR (12)    NULL
+);
+

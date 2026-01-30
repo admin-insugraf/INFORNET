@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[TYPE_ANNEXED] (
+    [ID]          NVARCHAR (2)  NOT NULL,
+    [DESCRIPTION] NVARCHAR (30) NULL
+);
+

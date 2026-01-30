@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[NOMPROC] (
+    [ITEM]   VARCHAR (100) NULL,
+    [NOMBRE] VARCHAR (100) NULL
+);
+

@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[TERMS] (
+    [ID]             VARCHAR (4)   NOT NULL,
+    [NAME]           VARCHAR (32)  NULL,
+    [NET_DAYS]       INT           NULL,
+    [USER_ID]        VARCHAR (25)  NULL,
+    [REGISTER_DATE]  SMALLDATETIME NULL,
+    [EFFECTIVE_DATE] SMALLDATETIME NULL
+);
+

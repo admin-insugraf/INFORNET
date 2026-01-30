@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[CONCEPTS] (
+    [ID]             NVARCHAR (30)   NOT NULL,
+    [DESCRIPTION]    NVARCHAR (40)   NULL,
+    [TYPE]           NVARCHAR (1)    NULL,
+    [CHARACTER_TYPE] NVARCHAR (1000) NULL,
+    [NUMERIC_TYPE]   FLOAT (53)      NULL,
+    [DATE_TYPE]      SMALLDATETIME   NULL,
+    [LOGICAL_TYPE]   BIT             NOT NULL
+);
+

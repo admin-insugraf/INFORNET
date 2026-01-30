@@ -1,0 +1,14 @@
+﻿CREATE TABLE [dbo].[COST_IMP] (
+    [ID]                VARCHAR (13)    NOT NULL,
+    [COST_ID]           VARCHAR (2)     NOT NULL,
+    [COST_COMMENT]      VARCHAR (80)    NULL,
+    [COST_AMOUNT]       NUMERIC (15, 6) NULL,
+    [CURRENCY_EXCHANGE] NUMERIC (15, 6) NULL,
+    [AMOUNT_COST_ORIG]  NUMERIC (15, 6) NULL,
+    [CURRENCY_ID]       VARCHAR (2)     NULL,
+    [CNUMLIQUI]         VARCHAR (20)    NULL,
+    [CCONVER]           VARCHAR (3)     NULL,
+    [COST_NAME]         VARCHAR (50)    NULL,
+    [NUMBER_IMPORT_INT] VARCHAR (20)    NULL
+);
+

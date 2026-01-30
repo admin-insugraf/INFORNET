@@ -1,0 +1,81 @@
+D:\Fuentes\EnovaQ\Main\NovaQ\LibComunVar\bin\Debug\LibComunVar.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibComunVar\bin\Debug\LibComunVar.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibComunVar\bin\Debug\LibComunVar.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibComunVar\obj\Debug\LibComunVar.frmError.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibComunVar\obj\Debug\LibComunVar.Resources.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibComunVar\obj\Debug\LibComunVar.vbproj.GenerateResource.Cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibComunVar\obj\Debug\LibComunVar.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibComunVar\obj\Debug\LibComunVar.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibComunVar\obj\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.frmError.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.Resources.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.frmError.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.Resources.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.vbproj.GenerateResource.Cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.frmError.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.frmError.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.Resources.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.frmError.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.Resources.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.frmError.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.Resources.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.frmError.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.Resources.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.frmError.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.Resources.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.pdb

@@ -1,0 +1,248 @@
+﻿CREATE PROCEDURE [dbo].[PUR_RPT_LIQUIDATEIMPORT]      
+--DECLARE                  
+ @EMP AS VARCHAR(50),                  
+ @IDE VARCHAR(30),                  
+ @CONGEN1 VARCHAR(1000),                  
+ @CONGEN2 VARCHAR(1000),                  
+ @CONGEN3 VARCHAR(1000),                  
+ @CONGEN4 VARCHAR(1000),                  
+ @CONGEN5 VARCHAR(1000),                  
+ @CONGEN6 VARCHAR(1000),                  
+ @CONGEN7 VARCHAR(1000),                  
+ @CONGEN8 VARCHAR(1000),                  
+ @CONGEN9 VARCHAR(1000),                  
+ @IMPINI VARCHAR(20),                  
+ @IMPFIN VARCHAR(20),                  
+ @FECHAINI NUMERIC(15,6),                  
+ @FECHAFIN NUMERIC(15,6),                  
+ @POLIMP AS VARCHAR(20)                  
+/*
+ SET @EMP='DEMO'              
+ SET @IDE='ERIKA'              
+ SET @CONGEN1='""'              
+ SET @CONGEN2='"01"'              
+ SET @CONGEN3='""'              
+ SET @CONGEN4='"02"'              
+ SET @CONGEN5='""'              
+ SET @CONGEN6='""'              
+ SET @CONGEN7='"03"'              
+ SET @CONGEN8='""'              
+ SET @CONGEN9='""'              
+ SET @IMPINI='IMP1'              
+ SET @IMPFIN='IMP1'              
+ SET @FECHAINI='39232'              
+ SET @FECHAFIN='39232'              
+ SET @POLIMP='poliza1'             
+ SET @POLIMP='poliza1'               
+ */  
+AS                  
+ SET QUOTED_IDENTIFIER OFF                  
+ SET NOCOUNT ON                  
+/* VERIFICO SI EXISTE LA TABLA*/                  
+ DECLARE @EXISTE INT                  
+ DECLARE @TEMPO VARCHAR(50)                  
+                   
+ SET @TEMPO='##'+@ide+'COS_IMP'          
+ EXEC PUR_MANTTEMP @TEMPO,1,'1','',@VALOR=@EXISTE OUTPUT          
+ IF @EXISTE=1 EXEC('DROP TABLE [##'+ @ide+'COS_IMP]')                 
+                   
+ SET @TEMPO='##'+@ide+'COS_IMP_TOTAL'          
+ EXEC PUR_MANTTEMP @TEMPO,1,'1','',@VALOR=@EXISTE OUTPUT          
+ IF @EXISTE=1 EXEC('DROP TABLE [##'+ @ide+'COS_IMP_TOTAL]')          
+            
+/* FIN */                  
+/*                  
+(CAST(NIMPORTE AS NUMERIC(23,2))-CAST((((SELECT SUM(NCANTIDAD) AS CANT_TOT FROM ['+@EMP+'BDCOMUN]..IMPORD IDD WHERE IDD.CNUMERO=IC.CNUMERO)*CFLETE)/NCANTIDAD) AS NUMERIC(23,2))) AS VALOR_FOB,                  
+CAST((((SELECT SUM(NCANTIDAD) AS CANT_TOT FROM ['+@EMP+'BDCOMUN]..IMPORD IDD WHERE IDD.CNUMERO=IC.CNUMERO)*CFLETE)/NCANTIDAD) AS NUMERIC(23,2)) AS FLETE,                  
+CAST(NIMPORTE AS NUMERIC(23,2)) AS TOTAL_VALOR_CFR,                  
+*/                  
+--LEFT JOIN ['+@EMP+'BDCOMUN]..aranceles AR ON M.COD_ARANCEL=AR.COD_ARANCEL                  
+--EL CAMPO INTS_ADU SE CAMBIO EN EL REPORTE POR OTROS GASTOS                  
+EXEC ('SET QUOTED_IDENTIFIER OFF              
+        SELECT M.DESCRIPTION AS CDESPROVE,AI.CUSTOMS_ID AS COD_ADU,A.NAME AS NOM_ADU,B.NAME AS NOM_BAN,BI.NUM_FAC NRO_FAC,      
+        BI.COB_EXT,DATE_FAC AS FECHA_FAC,BI.DATE_CADUCATE AS FECHA_VTO,      
+        G.NUMBER_LIQ AS CNUMLIQUI,IC.ID AS CNUMERO,IC.NUMBER_IMPORT_INT AS CNUMIMP,      
+        CURRENCY_ID_IMP AS CCODMONIM,IC.DOCUMENT_DATE AS FEMISION,QTY AS NCANTIDAD,      
+        REFERENCE AS UMREFERENCIA,UNIT_OF_MEASUREMENT AS AUNIDAD,WEIGHT AS APESO,ID.PART_ID AS CCODARTIC,M.DESCRIPTION AS CDESARTIC,           
+       (0.00) AS VALOR_FOB,              
+       (0.00) AS FLETE,              
+       (0.00) AS CCSEGURO,              
+       (0.00) AS TOTAL_VALOR_CFR,              
+       (CASE WHEN G.COST_ID IN ('+@congen3+') THEN (CASE WHEN TG.SUM_COST=1 THEN G.AMOUNT*-1 ELSE G.AMOUNT END) ELSE 0 END) AS GASTOS_VPE,            
+       (0.00) AS AD_VAL,            
+       (CASE WHEN G.COST_ID IN ('+@congen5+') THEN (CASE WHEN TG.SUM_COST=1 THEN G.AMOUNT*-1 ELSE G.AMOUNT END) ELSE 0 END) AS GASTOS_AGE,            
+       (CASE WHEN G.COST_ID IN ('+@congen6+') THEN (CASE WHEN TG.SUM_COST=1 THEN G.AMOUNT*-1 ELSE G.AMOUNT END) ELSE 0 END) AS INTS_ADU,            
+       (CASE WHEN G.COST_ID IN ('+@congen2+') THEN (CASE WHEN TG.SUM_COST=1 THEN G.AMOUNT*-1 ELSE G.AMOUNT END) ELSE 0 END) AS FLETE_CON,            
+  (CASE WHEN G.COST_ID IN ('+@congen7+') THEN (CASE WHEN TG.SUM_COST=1 THEN G.AMOUNT*-1 ELSE G.AMOUNT END) ELSE 0 END) AS SEGURO,        
+       (CASE WHEN G.COST_ID IN ('+@congen8+') THEN (CASE WHEN TG.SUM_COST=1 THEN G.AMOUNT*-1 ELSE G.AMOUNT END) ELSE 0 END) AS GASTOS_BAN,            
+       (CASE WHEN G.COST_ID IN ('+@congen9+') THEN (CASE WHEN TG.SUM_COST=1 THEN G.AMOUNT*-1 ELSE G.AMOUNT END) ELSE 0 END) AS TRANS_DESC,            
+ (0.00) AS COSTO_TOTAL,              
+ (0.000000) AS COSTO_UNIT              
+ INTO ##'+@IDE+'COS_IMP              
+ FROM ((((((              
+        ['+@EMP+']..IMPORT_ORDER IC  INNER JOIN               
+        ['+@EMP+']..LIQUIDATE_IMPORT L ON IC.ID=L.ID) INNER JOIN               
+        ['+@EMP+']..WAREHOUSE_TRANS W ON IC.ID=W.NUMBER_IMPORT AND L.NUMBER_LIQ=W.NUMBER_LIQ)              
+ INNER JOIN               
+  (['+@EMP+']..COST_IMP_PART ID INNER JOIN               
+        ['+@EMP+']..PART M               
+ ON PART_ID=M.ID) ON IC.ID=ID.ID AND ID.NUMBER_LIQ=L.NUMBER_LIQ AND ID.PART_ID=M.ID) left JOIN               
+    (['+@EMP+'].dbo.CUSTOMS_IMPORT AI INNER JOIN               
+ ['+@EMP+'].dbo.CUSTOMS A ON AI.CUSTOMS_ID=A.CUSTOMS_ID)              
+ ON IC.ID=AI.NUMBER_IMPORT) LEFT JOIN               
+ (['+@EMP+']..BANK_IMPORT BI INNER JOIN               
+ ['+@EMP+']..BANK B ON BI.BANK_ID=B.ID)               
+ ON IC.ID=BI.NUMBER_IMPORT) LEFT JOIN               
+ ['+@EMP+'].dbo.IMPORT_COST_CERTIFICATE_LINE G ON IC.ID=G.ID AND G.NUMBER_LIQ=L.NUMBER_LIQ) inner join               
+ ['+@EMP+']..TYPE_COST TG ON G.COST_ID=TG.ID              
+ WHERE IC.ID>="'+@IMPINI+'" AND IC.ID<="'+@IMPFIN+'" AND              
+ IC.DOCUMENT_DATE>='+@FECHAINI+' AND IC.DOCUMENT_DATE<='+@FECHAFIN+'                     
+')              
+           
+/* ACTULIZO PARA QUE NO HAIGA DUPLICADO*/                  
+EXEC ('SET QUOTED_IDENTIFIER OFF                  
+ SELECT                   
+ CNUMERO,CDESPROVE,COD_ADU,NOM_ADU,NOM_BAN,NRO_FAC,COB_EXT,FECHA_FAC,FECHA_VTO,CNUMLIQUI,                  
+ CNUMIMP,CCODMONIM,FEMISION,NCANTIDAD,UMREFERENCIA,AUNIDAD,APESO,CCODARTIC,CDESARTIC,                  
+ SUM(VALOR_FOB) AS VALOR_FOB,SUM(FLETE) AS FLETE,SUM(CCSEGURO) AS CCSEGURO,SUM(TOTAL_VALOR_CFR) AS TOTAL_VALOR_CFR,SUM(GASTOS_VPE) AS GASTOS_VPE,                  
+ SUM(AD_VAL) AS AD_VAL,SUM(GASTOS_AGE) AS GASTOS_AGE,SUM(INTS_ADU) AS INTS_ADU,SUM(FLETE_CON) AS FLETE_CON,SUM(SEGURO) AS SEGURO,SUM(GASTOS_BAN) AS GASTOS_BAN,                  
+ SUM(TRANS_DESC) AS TRANS_DESC,SUM(COSTO_TOTAL) AS COSTO_TOTAL,SUM(COSTO_UNIT) AS COSTO_UNIT                  
+ INTO ##'+@IDE+'COS_IMP_TOTAL                  
+ FROM ##'+@IDE+'COS_IMP                  
+ GROUP BY CNUMERO,CDESPROVE,COD_ADU,NOM_ADU,NOM_BAN,NRO_FAC,COB_EXT,FECHA_FAC,FECHA_VTO,CNUMLIQUI,                  
+ CNUMIMP,CCODMONIM,FEMISION,NCANTIDAD,UMREFERENCIA,AUNIDAD,APESO,CCODARTIC,CDESARTIC                  
+')                  
+/* Actualizo la tasa de aranceles*/                  
+exec('set quoted_identifier off            
+ UPDATE  T SET AD_VAL=CUSTOMS_MEASURE from            
+ (##'+@ide+'COS_IMP_TOTAL T inner join             
+ ['+@emp+'].dbo.PART M            
+ ON CCODARTIC=M.ID) INNER JOIN             
+ ['+@emp+'].dbo.CUSTOMS_TARIFF A ON M.CUSTOMS_TARIFF_ID=A.CUSTOMSTARIFF_ID            
+')              
+/* Fin */                  
+EXEC ('SET QUOTED_IDENTIFIER OFF                  
+ DROP TABLE ##'+@IDE+'COS_IMP                  
+')                  
+/*ACTUALIZO VALOR FOB EN COS_IMP_TOTAL*/              
+exec('set quoted_identifier off            
+ UPDATE C SET             
+ VALOR_FOB=AMOUNT_FOB FROM ##'+@ide+'COS_IMP_TOTAL C INNER JOIN ['+@EMP+']..IMPORT_COST_CERTIFICATE I          
+ ON C.CNUMERO=I.ID AND C.CNUMLIQUI=I.NUMBER_LIQ            
+')               
+                    
+exec ('SET QUOTED_IDENTIFIER OFF                  
+ SELECT             
+ T.CNUMERO,T.CDESPROVE,COD_ADU,NOM_ADU,NOM_BAN,NRO_FAC,            
+ COB_EXT,FECHA_FAC,FECHA_VTO,T.CNUMLIQUI,T.CNUMIMP,T.CCODMONIM,T.FEMISION,T.NCANTIDAD,            
+ UMREFERENCIA,AUNIDAD,APESO,T.CCODARTIC,T.CDESARTIC,            
+ CAST(IDE.AMOUNT AS NUMERIC(23,2))-            
+ CAST(((T.NCANTIDAD/(SELECT SUM(IDD.QTY) AS CANT_TOT FROM ['+@EMP+']..COST_IMP_PART IDD WHERE IDD.ID=I.ID AND IDD.NUMBER_LIQ=T.CNUMLIQUI))*AMOUNT_FLETE)*(T.VALOR_FOB/I.AMOUNT) AS NUMERIC(23,2))           
+ -CAST(((T.NCANTIDAD/(SELECT SUM(IDD.QTY) AS CANT_TOT FROM ['+@emp+']..COST_IMP_PART IDD WHERE IDD.ID=I.ID AND IDD.NUMBER_LIQ=T.CNUMLIQUI))*ISNULL(I.SECURE,0))*(T.VALOR_FOB/I.AMOUNT) AS NUMERIC(23,2)) AS VALOR_FOB,            
+ CAST(((T.NCANTIDAD/(SELECT SUM(IDD.QTY) AS CANT_TOT FROM ['+@emp+']..COST_IMP_PART IDD WHERE IDD.ID=I.ID AND IDD.NUMBER_LIQ=T.CNUMLIQUI))*AMOUNT_FLETE)*(T.VALOR_FOB/I.AMOUNT) AS NUMERIC(23,2)) AS FLETE,            
+ CAST(((T.NCANTIDAD/(SELECT SUM(IDD.QTY) AS CANT_TOT FROM ['+@emp+']..COST_IMP_PART IDD WHERE IDD.ID=I.ID AND IDD.NUMBER_LIQ=T.CNUMLIQUI))*ISNULL(I.SECURE,0))*(T.VALOR_FOB/I.AMOUNT) AS NUMERIC(23,2))  AS CCSEGURO,            
+ CAST(IDE.AMOUNT AS NUMERIC(23,2)) AS TOTAL_VALOR_CFR,            
+ GASTOS_VPE,AD_VAL,GASTOS_AGE,            
+ INTS_ADU,FLETE_CON,SEGURO,GASTOS_BAN,TRANS_DESC,COSTO_TOTAL,COSTO_UNIT             
+ INTO ##'+@ide+'COS_IMP            
+  FROM ##'+@ide+'COS_IMP_TOTAL T INNER JOIN (['+@emp+']..IMPORT_ORDER I INNER JOIN             
+ ['+@emp+']..COST_IMP_PART IDE ON  I.ID=IDE.ID)             
+ ON T.CNUMERO=I.ID AND T.CCODARTIC=IDE.PART_ID AND T.CNUMLIQUI=IDE.NUMBER_LIQ          
+')            
+EXEC ('SET QUOTED_IDENTIFIER OFF                  
+ DROP TABLE ##'+@IDE+'COS_IMP_TOTAL                  
+')                  
+                  
+EXEC ('SET QUOTED_IDENTIFIER OFF                  
+  SELECT             
+ T.CNUMERO,T.CDESPROVE,COD_ADU,NOM_ADU,NOM_BAN,NRO_FAC,            
+ COB_EXT,FECHA_FAC,FECHA_VTO,T.CNUMLIQUI,T.CNUMIMP,T.CCODMONIM,T.FEMISION,NCANTIDAD,            
+ UMREFERENCIA,AUNIDAD,APESO,CCODARTIC,CDESARTIC,VALOR_FOB,FLETE,CCSEGURO,TOTAL_VALOR_CFR,            
+ CAST(((VALOR_FOB/(SELECT SUM(VALOR_FOB) AS CANT_TOT         
+ FROM ##'+@ide+'COS_IMP TT         
+WHERE TT.CNUMERO=T.CNUMERO))*GASTOS_VPE) AS NUMERIC(23,2)) AS GASTOS_VPE,            
+          
+ ((TOTAL_VALOR_CFR+CAST(((TOTAL_VALOR_CFR/AMOUNT_FOB)*FLETE_CON) AS NUMERIC(23,2))+CAST(((TOTAL_VALOR_CFR/AMOUNT_FOB)*SEGURO) AS NUMERIC(23,2)))*(AD_VAL/100)) AS AD_VAL,            
+          
+ CAST(((TOTAL_VALOR_CFR/AMOUNT_FOB)*GASTOS_AGE) AS NUMERIC(23,2)) AS GASTOS_AGE,            
+ CAST(((TOTAL_VALOR_CFR/AMOUNT_FOB)*INTS_ADU) AS NUMERIC(23,2)) AS INTS_ADU,            
+ CAST(((TOTAL_VALOR_CFR/AMOUNT_FOB)*FLETE_CON) AS NUMERIC(23,2)) AS FLETE_CON,            
+ CAST(((TOTAL_VALOR_CFR/AMOUNT_FOB)*SEGURO) AS NUMERIC(23,2)) AS SEGURO,            
+ CAST(((TOTAL_VALOR_CFR/AMOUNT_FOB)*GASTOS_BAN) AS NUMERIC(23,2)) AS GASTOS_BAN,            
+ CAST(((NCANTIDAD/(SELECT SUM(NCANTIDAD) AS CANT_TOT FROM ##'+@ide+'COS_IMP TT WHERE TT.CNUMERO=T.CNUMERO))*TRANS_DESC) AS NUMERIC(23,2)) AS TRANS_DESC,            
+ COSTO_TOTAL,COSTO_UNIT,        
+ ((TOTAL_VALOR_CFR+CAST(((TOTAL_VALOR_CFR/AMOUNT_FOB)*FLETE_CON) AS NUMERIC(23,2))+CAST(((TOTAL_VALOR_CFR/AMOUNT_FOB)*SEGURO) AS NUMERIC(23,2)))*(AD_VAL/100)) AS xAD_VAL,            
+ CONVERT(NUMERIC(18,8),0.000000) AS SUM_ADVALOREM,        
+ CONVERT(NUMERIC(18,5),0.00000) AS TAZA_F              
+ INTO ##'+@ide+'COS_IMP_TOTAL            
+ FROM ##'+@ide+'COS_IMP T INNER JOIN ['+@emp+']..IMPORT_COST_CERTIFICATE I ON T.CNUMERO=I.ID AND I.NUMBER_LIQ=T.CNUMLIQUI    
+')                
+                  
+/* FIN*/                  
+               
+          
+/*          
+LE AGREAGO LOS CAMPOS PARA VOLVER A CALCULAR LO QUE GUARDA LA SUMA DEL ADVALOREM DE CAMPO AD_VAL           
+*/          
+          
+          
+EXEC('set quoted_identifier off             
+SELECT CNUMERO,CNUMLIQUI,SUM(AD_VAL) AS S_AD_VAL INTO MYTEMPO FROM ##'+@ide+'COS_IMP_TOTAL GROUP BY CNUMERO,CNUMLIQUI          
+')           
+          
+EXEC('set quoted_identifier off             
+UPDATE A SET  SUM_ADVALOREM=B.S_AD_VAL FROM ##'+@ide+'COS_IMP_TOTAL A          
+INNER JOIN MYTEMPO B ON A.CNUMERO=B.CNUMERO AND A.CNUMLIQUI=B.CNUMLIQUI          
+')           
+          
+--PRINT('set quoted_identifier off             
+--UPDATE ##'+@ide+'COS_IMP_TOTAL SET SUM_ADVALOREM=(SELECT SUM(AD_VAL) FROM ##'+@ide+'COS_IMP_TOTAL GROUP BY CNUMIMP,CNUMLIQUI)          
+--')           
+          
+/*          
+LUEGO ACTUALIZO EL CAMPO AD_VAL CON LA NUEVA FORMUAL          
+*/          
+EXEC('set quoted_identifier off              
+ UPDATE ##'+@ide+'COS_IMP_TOTAL SET TAZA_F=xAD_VAL/SUM_ADVALOREM          
+')           
+          
+          
+/*          
+LUEGO ACTUALIZO EL CAMPO AD_VAL CON LA NUEVA FORMUAL          
+*/          
+/* FALTA BD */             
+exec('set quoted_identifier off            
+UPDATE C SET AD_VAL=(IMPGS.AMOUNT)*C.TAZA_F FROM TEMPDB.DBO.##'+@ide+'COS_IMP_TOTAL C INNER JOIN         
+['+@emp+'].DBO.IMPORT_COST_CERTIFICATE_LINE IMPGS ON C.CNUMERO=IMPGS.ID AND C.CNUMLIQUI=IMPGS.NUMBER_LIQ        
+WHERE  IMPGS.ID>="'+@IMPINI+'" AND IMPGS.ID<="'+@IMPINI+'"  AND IMPGS.COST_ID='+@congen4+'        
+')      
+           
+/* PARA EL COSTO TOTAL*/                  
+--COSTO_TOTAL=(TOTAL_VALOR_CFR+GASTOS_VPE+AD_VAL+GASTOS_AGE+INTS_ADU+SEGURO+GASTOS_BAN+TRANS_DESC)                  
+EXEC ('SET QUOTED_IDENTIFIER OFF                  
+UPDATE ##'+@IDE+'COS_IMP_TOTAL SET                   
+COSTO_TOTAL=TOTAL_VALOR_CFR+GASTOS_VPE+AD_VAL+GASTOS_AGE+INTS_ADU+FLETE_CON+SEGURO+GASTOS_BAN+TRANS_DESC                  
+')                   
+/* FIN*/                  
+/* PARA EL COSTO UNITARIO*/                  
+EXEC ('SET QUOTED_IDENTIFIER OFF                  
+UPDATE ##'+@IDE+'COS_IMP_TOTAL SET                   
+COSTO_UNIT=(COSTO_TOTAL/NCANTIDAD)                  
+')                   
+/* FIN*/                  
+EXEC('DROP TABLE MYTEMPO')                 
+
+EXEC ('SET QUOTED_IDENTIFIER OFF                  
+UPDATE C SET C.CDESPROVE=V.NAME FROM ##'+@IDE+'COS_IMP_TOTAL C INNER JOIN ['+@EMP+']..IMPORT_ORDER I ON C.CNUMERO=I.ID 
+  INNER JOIN ['+@EMP+']..VENDOR V ON I.VENDOR_ID=V.ID
+ ')                   
+
+
+          
+IF @POLIMP<>'XX'            
+ EXEC ('SET QUOTED_IDENTIFIER OFF SELECT * FROM ##'+@IDE+'COS_IMP_TOTAL WHERE CNUMLIQUI="'+@POLIMP+'"')                  
+ELSE            
+ EXEC ('SET QUOTED_IDENTIFIER OFF SELECT * FROM ##'+@IDE+'COS_IMP_TOTAL')
+
+
+

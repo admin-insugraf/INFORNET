@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[SHIPPER_TYPE] (
+    [ID]          VARCHAR (2)  NOT NULL,
+    [DESCRIPTION] VARCHAR (32) NULL
+);
+

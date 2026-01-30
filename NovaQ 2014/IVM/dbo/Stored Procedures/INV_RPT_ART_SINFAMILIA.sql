@@ -1,0 +1,63 @@
+﻿CREATE procedure [dbo].[INV_RPT_ART_SINFAMILIA]
+	--declare
+	@fecini int,
+	@fecfin int,
+	@opcion char(1),
+	@orden char(1)
+/*set @fecini=39081
+set @fecfin=39159
+set @opcion='0'
+set @orden='0'
+--*/as
+	declare @STRquery nvarchar(2000)
+	declare @STRorden nvarchar(200)
+	set @STRorden=N' '	
+	if @orden=0
+		set @STRorden=@STRorden + N' order by ID'
+	if @orden=1
+		set @STRorden=@STRorden + N' order by DESCRIPTION'
+	if @orden=2
+		set @STRorden=@STRorden + N' order by CREATE_DATE'
+	
+	if @opcion=0
+		set @STRquery='select ID,ID_FAB,DESCRIPTION,DESCRIPTION_OPT,FAMILY,
+		MODEL,UNIT_OF_MEASUREMENT,GROUP_ID,ACCOUNT,
+		SERIES,UNIT_PRICE,DISCOUNT,PRICE_BUY,VENDOR_ID_PART,
+		convert(varchar(10),CREATE_DATE,103) as CREATE_DATE,LOCATION,IS_STOCKED,CREATE_USER,STATUS,
+		DATE_CADUCATE,CURRENCY_ID,TYPE_PART,COMMENT,IS_LOT,
+		WEIGHT,CST_POR,VAT_POR,HOUR_UPDATE,IS_FREE_PRICE,
+		IS_PRICE_VAT,COMMISSION_SALES,IS_VAT,COLOR,MARK,
+		PICTURE,HEIGHT,REFERENCE,ID_AUTONUMERIC,LAST_DATE_BUY
+		from PART 
+		where(FAMILY is null or len(FAMILY)=0)
+        and CREATE_DATE>=@fecini and CREATE_DATE<=@fecfin
+        and ID in(select distinct(PART_ID) from WAREHOUSE_TRANS_LINE )' + @STRorden
+	if @opcion=1
+		set @STRquery='select ID,ID_FAB,DESCRIPTION,DESCRIPTION_OPT,FAMILY,
+		MODEL,UNIT_OF_MEASUREMENT,GROUP_ID,ACCOUNT,
+		SERIES,UNIT_PRICE,DISCOUNT,PRICE_BUY,VENDOR_ID_PART,
+		convert(varchar(10),CREATE_DATE,103) as CREATE_DATE,LOCATION,IS_STOCKED,CREATE_USER,STATUS,
+		DATE_CADUCATE,CURRENCY_ID,TYPE_PART,COMMENT,IS_LOT,
+		WEIGHT,CST_POR,VAT_POR,HOUR_UPDATE,IS_FREE_PRICE,
+		IS_PRICE_VAT,COMMISSION_SALES,IS_VAT,COLOR,MARK,
+		PICTURE,HEIGHT,REFERENCE,ID_AUTONUMERIC,LAST_DATE_BUY
+		from PART 
+		where (FAMILY is null or len(FAMILY)=0)
+		and CREATE_DATE>=@fecini and CREATE_DATE<=@fecfin
+		and ID not in(select distinct(PART_ID) from WAREHOUSE_TRANS_LINE )'+ @STRorden
+	if @opcion=2
+		set @STRquery='select ID,ID_FAB,DESCRIPTION,DESCRIPTION_OPT,FAMILY,
+		MODEL,UNIT_OF_MEASUREMENT,GROUP_ID,ACCOUNT,
+		SERIES,UNIT_PRICE,DISCOUNT,PRICE_BUY,VENDOR_ID_PART,
+		convert(varchar(10),CREATE_DATE,103) as CREATE_DATE,LOCATION,IS_STOCKED,CREATE_USER,STATUS,
+		DATE_CADUCATE,CURRENCY_ID,TYPE_PART,COMMENT,IS_LOT,
+		WEIGHT,CST_POR,VAT_POR,HOUR_UPDATE,IS_FREE_PRICE,
+		IS_PRICE_VAT,COMMISSION_SALES,IS_VAT,COLOR,MARK,
+		PICTURE,HEIGHT,REFERENCE,ID_AUTONUMERIC,LAST_DATE_BUY
+		from PART 
+		where (FAMILY is null or len(FAMILY)=0)
+		and CREATE_DATE>=@fecini and CREATE_DATE<=@fecfin'+ @STRorden
+	
+	exec sp_executesql @STRquery,N'@fecini int,@fecfin int,@opcion char(1),
+							@orden char(1)',@fecini,@fecfin,@opcion,@orden
+	

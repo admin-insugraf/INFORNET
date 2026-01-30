@@ -1,0 +1,13 @@
+﻿CREATE TABLE [dbo].[COST_LIQ] (
+    [NUMBER_LIQ]         VARCHAR (20)    NOT NULL,
+    [NUMBER_IMP]         VARCHAR (13)    NOT NULL,
+    [ID_COST]            VARCHAR (2)     NOT NULL,
+    [COMMENT_COST]       VARCHAR (40)    NULL,
+    [AMOUNT_COST]        NUMERIC (15, 6) NULL,
+    [CURRENCY_EXCHANGE]  NUMERIC (15, 6) NULL,
+    [AMOUNT_COST_ORIG]   NUMERIC (15, 6) NULL,
+    [CURRENCY_ID]        VARCHAR (2)     NULL,
+    [CURR_EXCHANGE_TYPE] VARCHAR (3)     NULL,
+    [NAME_COST]          VARCHAR (40)    NULL
+);
+

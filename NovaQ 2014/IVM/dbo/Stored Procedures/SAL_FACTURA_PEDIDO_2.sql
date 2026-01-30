@@ -1,0 +1,375 @@
+﻿CREATE procedure [dbo].[SAL_FACTURA_PEDIDO]
+	(
+	@NUMBER_ORDER varchar(7),
+	@DOCUMENT_ID varchar(2),
+	@NUMBER_SERIE varchar(3),
+	@NUMBER_SERIE_GUIA varchar(3),
+	@NUMBER_DOCUMENT_FAC_GUIA varchar(20) out,
+	@CARRIER varchar(11),
+	@PLACE_SALES varchar(2),
+	@COMMENT varchar(100),
+	@WAREHOUSE_ID varchar(2),
+	@CURRENCY_ID varchar(2),
+	@SELL_RATE numeric(15,6),
+	@ADDR_DLV varchar(100)
+	)
+as
+	declare @numero_documento numeric(9,0)
+	declare @numero_guia numeric(9,0)
+	
+	
+	select @numero_documento=last_number + 1 from NUMBER_DOCUMENT 
+			where TYPE_DOC=@DOCUMENT_ID
+			and NUMBER_SERIE=@NUMBER_SERIE
+	
+	select @numero_guia=last_number + 1 from NUMBER_DOCUMENT 
+			where TYPE_DOC='GS'
+			and NUMBER_SERIE=@NUMBER_SERIE_GUIA
+	
+	SET @NUMBER_DOCUMENT_FAC_GUIA=RIGHT('0000000' + Ltrim(Rtrim(@numero_documento)),7) + '|' + RIGHT('0000000' + Ltrim(Rtrim(@numero_guia)),7)
+	insert into RECEIVABLE
+		(
+		DOCUMENT_ID,
+		NUMBER_SERIE,
+		NUMBER_DOCUMENT,
+		DOCUMENT_DATE,
+		CADUCATE_DATE,
+		DR_CR,
+		SALES_REP_ID,
+		PLACE_SALES,
+		CUSTOMER_ID,
+		CUSTOMER_NAME,
+		CUSTOMER_ADDR,
+		VAT_REGISTRATION,
+		WAREHOUSE_ID,
+		AMOUNT,
+		TERMS_ID,
+		BALANCE,
+		SELL_RATE,
+		CURRENCY_ID,
+		DOCUMENT_REF,
+		SERIE_REF,
+		NUMBER_REF,
+		NUMBER_ORDER,
+		CREATE_DATE,
+		STATUS,
+		USER_ID,
+		COMMENT,
+		AMOUNT_TAX,
+		IS_PRINT,
+		ISC
+		)
+	select @DOCUMENT_ID,
+		   @NUMBER_SERIE,
+		   RIGHT('0000000' + Ltrim(Rtrim(@numero_documento)),7),
+		   GETDATE(),
+		   GETDATE() + (select net_days from TERMS where ID=ORDERS.TERMS),
+		   'D',
+		   SALES_ID,
+		   PLACE_SALES,
+		   CUSTOMER_ID,
+		   CUSTOMER_NAME,
+		   CUSTOMER_ADDR,
+		   VAT_REGISTRATION,
+		   @WAREHOUSE_ID,
+		   AMOUNT, 
+		   TERMS,
+		   AMOUNT,
+		   SELL_RATE,
+		   CURRENCY_ID,
+		   'GS',
+		   @NUMBER_SERIE_GUIA,
+		   RIGHT('0000000' + Ltrim(Rtrim(@numero_guia)),7),
+		   @NUMBER_ORDER,
+		   GETDATE(),
+		   'V',
+		   '',
+		   @COMMENT,
+		   AMOUNT_VAT,
+		   0,
+		   AMOUNT_ISC
+	from ORDERS
+	where ID=@NUMBER_ORDER
+	
+	insert into RECEIVABLE_LINE
+		(
+		DOCUMENT_ID,
+		NUMBER_SERIE,
+		NUMBER_DOCUMENT,
+		ITEM,
+		PART_ID,
+		QTY,
+		PRICE_SALES,
+		PRICE_ORI,
+		AMOUNT_TAX,
+		TAX_PERCENT,
+		AMOUNT_US,
+		AMOUNT,
+		UNIT,
+		STATUS,
+		PART_SERIE,
+		WAREHOUSE_ID,
+		PART_DESCRIPTION,
+		QTY_REF,
+		PART_LOT,
+		ISCPOR,
+		ISC
+		)
+	select
+		@DOCUMENT_ID,
+		@NUMBER_SERIE,
+		RIGHT('0000000' + Ltrim(Rtrim(@numero_documento)),7),
+		ITEM,
+		PART_ID,
+		QTY,
+		PRICE_SALES,
+		PRICE_ORI,
+		AMOUNT_TAX,
+		PERCENT_TAX,
+		AMOUNT_US,
+		AMOUNT,
+		UNIT,
+		'V',
+		'',
+		WAREHOUSE_ID,
+		PART_DESCRIPTION,
+		0,
+		'',
+		PERCENT_ISC,
+		AMOUNT_ISC
+	from ORDER_LINE
+	where id=@NUMBER_ORDER
+	
+	insert into WAREHOUSE_TRANS
+		(
+		WAREHOUSE_ID,
+		DOCUMENT_ID,
+		NUMBER_DOCUMENT,
+		DATE_DOCUMENT,
+		TYPE_TRANS,
+		CARRIER_ID,
+		HOUR,
+		USER_ID,
+		CUSTOMER_ID,
+		VAT_REGISTRATION,
+		CUSTOMER_NAME,
+		SALES_TERM,
+		CURRENCY_TYPE,
+		CURRENCY_EXCHANGE,
+		STATUS_GUIA,
+		AMOUNT,
+		TRANS_ID
+		)
+	select
+		@WAREHOUSE_ID,
+		@DOCUMENT_ID,
+		@NUMBER_SERIE + RIGHT('0000000' + Ltrim(Rtrim(@numero_documento)),7),
+		GETDATE(),
+		'S',
+		@CARRIER,
+		CONVERT(VARCHAR(8),GETDATE(),108),
+		'',
+		CUSTOMER_ID,
+		VAT_REGISTRATION,
+		CUSTOMER_NAME,
+		TERMS,
+		CURRENCY_ID,
+		SELL_RATE,
+		'F',
+		AMOUNT,
+		@DOCUMENT_ID
+	from ORDERS
+	where ID=@NUMBER_ORDER
+	
+	INSERT WAREHOUSE_TRANS_LINE
+		(
+		WAREHOUSE_ID,
+		DOCUMENT_ID,
+		NUMBER_DOCUMENT,
+		ITEM,
+		PART_ID,
+		QTY,
+		QTY_REF,
+		AVERAGE_COST,
+		AMOUNT_SALES,
+		PART_DESCRIPTION,
+		NUMBER_LOT,
+		UNIT_PART
+		)
+	select
+		@WAREHOUSE_ID,
+		@DOCUMENT_ID,
+		@NUMBER_SERIE + RIGHT('0000000' + Ltrim(Rtrim(@numero_documento)),7),
+		ITEM,
+		PART_ID,
+		QTY,
+		QTY,
+		0,
+		PRICE_SALES,
+		PART_DESCRIPTION,
+		ISNULL(serie,lot),
+		UNIT
+	from ORDER_LINE
+	where ID=@NUMBER_ORDER
+	
+	--Con guia de remision
+	insert into WAREHOUSE_TRANS
+		(
+		WAREHOUSE_ID,
+		DOCUMENT_ID,
+		NUMBER_DOCUMENT,
+		DATE_DOCUMENT,
+		TYPE_TRANS,
+		TRANS_ID,
+		DOCUMENT_STATUS,
+		DOC_ID_REF,
+		NUM_ID_REF,
+		UPDATE_DATE,
+		HOUR,
+		USER_ID,
+		CUSTOMER_ID,
+		VAT_REGISTRATION,
+		CUSTOMER_NAME,
+		SALES_TERM,
+		CURRENCY_TYPE,
+		SALES_ID,
+		CURRENCY_EXCHANGE,
+		TYPE_GUIA,
+		STATUS_GUIA,
+		RECEIVABLE_GUIA,
+		ADDR_DLV,
+		CARRIER_ID,
+		AMOUNT
+		)
+		select
+		@WAREHOUSE_ID,
+		'GS',
+		@NUMBER_SERIE_GUIA + + RIGHT('0000000' + Ltrim(Rtrim(@numero_guia)),7) ,
+		GETDATE(),
+		'S',
+		'GF',
+		'',
+		@DOCUMENT_ID,
+		@NUMBER_SERIE + RIGHT('0000000' + Ltrim(Rtrim(@numero_documento)),7),
+		GETDATE(),
+		CONVERT(VARCHAR(8),GETDATE(),108),
+		'',
+		CUSTOMER_ID,
+		VAT_REGISTRATION,
+		CUSTOMER_NAME,
+		TERMS,
+		CURRENCY_ID,
+		SALES_ID,
+		SELL_RATE,
+		'GF',
+		'F',
+		'N',
+		@ADDR_DLV,
+		@CARRIER,
+		AMOUNT
+		from ORDERS
+		where id=@NUMBER_ORDER
+		
+	
+	insert into WAREHOUSE_TRANS_LINE
+		(
+		WAREHOUSE_ID,
+		DOCUMENT_ID,
+		NUMBER_DOCUMENT,
+		ITEM,
+		PART_ID,
+		QTY,
+		QTY_REF,
+		AVERAGE_COST,
+		AMOUNT_SALES,
+		AMOUNT_TAX,
+		AMOUNT,
+		AMOUNT_US,
+		STATUS,
+		CURRENCY_ID,
+		TYPE_EXCHANGE,
+		PART_DESCRIPTION,
+		TAX_PERCENT,
+		NUMBER_LOT,
+		UNIT_PART)
+	select
+		@WAREHOUSE_ID,
+		'GS',
+		@NUMBER_SERIE_GUIA + RIGHT('0000000' + Ltrim(Rtrim(@numero_guia)),7),
+		ITEM,
+		PART_ID,
+		QTY,
+		QTY,
+		0,
+		PRICE_SALES,
+		AMOUNT_TAX,
+		AMOUNT,
+		AMOUNT_US,
+		'S',
+		@CURRENCY_ID,
+		@SELL_RATE,
+		PART_DESCRIPTION,
+		PERCENT_TAX,
+		ISNULL(SERIE,LOT),
+		UNIT
+	from ORDER_LINE
+	where id=@NUMBER_ORDER
+		
+	INSERT INTO CUSTOMER_BALANCE
+		(
+		CUSTOMER_ID,
+		DOCUMENT_ID,
+		NUMBER_DOC,
+		DOC_DATE,
+		CADUCATE_DATE,
+		SALES_ID,
+		AMOUNT,
+		AMOUNT_BALANCE,
+		CURRENCY_ID,
+		SELL_RATE,
+		IS_DR_CR,
+		STATUS,
+		CREATE_DATE,
+		LAST_MODIFIED,
+		USER_ID,
+		TYPE_REC,
+		AMOUNT_BALANCE_INI,
+		TERMS,
+		PLACE_SALES,
+		SERIE_AUX,
+		NUM_DOC_AUX
+		)
+	SELECT
+		CUSTOMER_ID,
+		@DOCUMENT_ID,
+		@NUMBER_SERIE + RIGHT('0000000' + Ltrim(Rtrim(@numero_documento)),7),
+		GETDATE(),
+		GETDATE() + (select net_days from TERMS where ID=ORDERS.TERMS),
+		SALES_ID,
+		AMOUNT,
+		AMOUNT,
+		CURRENCY_ID,
+		SELL_RATE,
+		'D',
+		'V',
+		GETDATE(),
+		GETDATE(),
+		'',
+		@DOCUMENT_ID,
+		AMOUNT,
+		TERMS,
+		PLACE_SALES,
+		@NUMBER_SERIE,
+		RIGHT('0000000' + Ltrim(Rtrim(@numero_documento)),7)
+	FROM ORDERS
+	WHERE ID=@NUMBER_ORDER
+	
+	update NUMBER_DOCUMENT set last_number=@numero_documento 
+			where TYPE_DOC=@DOCUMENT_ID
+			and NUMBER_SERIE=@NUMBER_SERIE
+	
+	update NUMBER_DOCUMENT set last_number=@numero_guia
+			where TYPE_DOC='GS'
+			and NUMBER_SERIE=@NUMBER_SERIE_GUIA
+			
+	exec ACT_QTY_LOTE_2010 ''

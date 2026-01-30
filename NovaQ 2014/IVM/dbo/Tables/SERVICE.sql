@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[SERVICE] (
+    [ID]          VARCHAR (6)  NOT NULL,
+    [DESCRIPTION] VARCHAR (80) NULL
+);
+

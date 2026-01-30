@@ -1,0 +1,26 @@
+﻿CREATE TABLE [dbo].[tabla2] (
+    [VENCODIGO]           VARCHAR (20)     NULL,
+    [DESCRIPTION]         VARCHAR (64)     NULL,
+    [UNIT_OF_MEASUREMENT] VARCHAR (6)      NULL,
+    [VENCODAGE]           VARCHAR (2)      NULL,
+    [VENTD]               VARCHAR (2)      NULL,
+    [VENSERDOC]           VARCHAR (10)     NULL,
+    [VENFECDOC]           DATETIME         NULL,
+    [VENVENDE]            VARCHAR (2)      NULL,
+    [NAME]                VARCHAR (30)     NULL,
+    [VENIGV]              NUMERIC (31, 12) NULL,
+    [VENTIPO]             VARCHAR (2)      NULL,
+    [VENSERIE]            VARCHAR (20)     NULL,
+    [VENCODCLI]           VARCHAR (11)     NULL,
+    [NAME_CUSTOMER]       VARCHAR (150)    NULL,
+    [VENFAMILIA]          VARCHAR (8)      NULL,
+    [VENCANTID]           NUMERIC (15, 6)  NULL,
+    [VENIMPUS]            NUMERIC (15, 6)  NULL,
+    [VENIMPMN]            NUMERIC (15, 6)  NULL,
+    [VENMONEDA]           VARCHAR (2)      NULL,
+    [VENTIPCAM]           NUMERIC (15, 6)  NULL,
+    [VENCODVEN]           VARCHAR (1)      NULL,
+    [VENRFTD]             VARCHAR (2)      NULL,
+    [VENDOCREF]           VARCHAR (10)     NULL
+);
+

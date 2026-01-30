@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[PART_TYPE] (
+    [ID]   VARCHAR (2)  NOT NULL,
+    [NAME] VARCHAR (32) NULL
+);
+

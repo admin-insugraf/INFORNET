@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[MENU_RECEIVE] (
+    [MENU_ID]            VARCHAR (40) NOT NULL,
+    [MENU_DESCRIPTION]   VARCHAR (80) NULL,
+    [INTERNAL_NAME_MENU] VARCHAR (50) NULL,
+    [IS_VISIBLE]         BIT          NULL
+);
+

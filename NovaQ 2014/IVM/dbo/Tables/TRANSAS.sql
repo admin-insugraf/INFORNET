@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[TRANSAS] (
+    [COD_MOV] NVARCHAR (255) NULL,
+    [ING_SAL] NVARCHAR (255) NULL,
+    [COSTO]   FLOAT (53)     NULL,
+    [ANYO]    FLOAT (53)     NULL,
+    [TIPO]    NVARCHAR (255) NULL
+);
+

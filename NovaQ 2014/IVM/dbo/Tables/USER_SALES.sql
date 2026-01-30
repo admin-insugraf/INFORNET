@@ -1,0 +1,12 @@
+﻿CREATE TABLE [dbo].[USER_SALES] (
+    [COMPANY_ID]   VARCHAR (3)  NOT NULL,
+    [ID]           VARCHAR (8)  NOT NULL,
+    [NAME]         VARCHAR (50) NULL,
+    [PASSWORD]     VARCHAR (8)  NULL,
+    [SALES_PLACE]  VARCHAR (2)  NULL,
+    [USER_ID]      VARCHAR (8)  NULL,
+    [SALES_ID]     VARCHAR (2)  NULL,
+    [CREDIT_LIMIT] BIT          DEFAULT (0) NULL,
+    [WAREHOUSE_ID] VARCHAR (2)  NULL
+);
+

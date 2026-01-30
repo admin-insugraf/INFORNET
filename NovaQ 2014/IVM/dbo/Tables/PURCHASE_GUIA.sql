@@ -1,0 +1,28 @@
+﻿CREATE TABLE [dbo].[PURCHASE_GUIA] (
+    [DOCUMENT_ID]       VARCHAR (2)     NULL,
+    [NUMBER_SERIE]      VARCHAR (3)     NULL,
+    [NUMBER_DOCUMENT]   VARCHAR (7)     NULL,
+    [VENDOR_ID]         VARCHAR (11)    NULL,
+    [DATE_DOCUMENT]     SMALLDATETIME   NULL,
+    [CADUCATE_DATE]     SMALLDATETIME   NULL,
+    [PURCHASE_ORDER]    VARCHAR (20)    NULL,
+    [VAT_REGISTRATION]  VARCHAR (11)    NULL,
+    [WAREHOUSE_ID]      VARCHAR (2)     NULL,
+    [AMOUNT]            NUMERIC (15, 6) NULL,
+    [BALANCE]           NUMERIC (15, 6) NULL,
+    [CURRENCY_EXCHANGE] NUMERIC (15, 6) NULL,
+    [CURRENCY_ID]       VARCHAR (2)     NULL,
+    [DOC_ID_REF]        VARCHAR (2)     NULL,
+    [DOC_SERIE_REF]     VARCHAR (3)     NULL,
+    [NUM_ID_REF]        VARCHAR (7)     NULL,
+    [CREATE_DATE]       SMALLDATETIME   NULL,
+    [UPDATE_DATE]       SMALLDATETIME   NULL,
+    [STATUS]            VARCHAR (1)     NULL,
+    [USER_ID]           VARCHAR (8)     NULL,
+    [COMMENT]           VARCHAR (80)    NULL,
+    [AMOUNT_TAX]        NUMERIC (12, 5) NULL,
+    [BUYER_ID]          VARCHAR (50)    NULL,
+    [IS_SERVICE]        VARCHAR (1)     NULL,
+    [INVOICE_ID]        INT             NULL
+);
+

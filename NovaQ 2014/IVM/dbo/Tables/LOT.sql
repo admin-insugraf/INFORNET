@@ -1,0 +1,11 @@
+﻿CREATE TABLE [dbo].[LOT] (
+    [WHO_ID]        VARCHAR (2)   NOT NULL,
+    [PART_ID]       VARCHAR (20)  NOT NULL,
+    [LOT_ID]        VARCHAR (20)  NOT NULL,
+    [QTY_ON_HAND]   FLOAT (53)    NULL,
+    [MANUFACT_DATE] DATETIME      NULL,
+    [CADUCATE_DATE] DATETIME      NULL,
+    [QTY_RESERVE]   FLOAT (53)    NULL,
+    [COMMENT]       VARCHAR (255) NULL
+);
+

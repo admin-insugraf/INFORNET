@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[COLOR] (
+    [ID]   VARCHAR (20) NOT NULL,
+    [NAME] VARCHAR (30) NULL
+);
+

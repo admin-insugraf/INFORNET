@@ -1,0 +1,27 @@
+﻿CREATE TABLE [dbo].[PURCHASE_GUIA_LINE] (
+    [DOCUMENT_ID]       VARCHAR (2)     NULL,
+    [NUMBER_SERIE]      VARCHAR (3)     NULL,
+    [NUMBER_DOCUMENT]   VARCHAR (7)     NULL,
+    [VENDOR_ID]         VARCHAR (11)    NULL,
+    [ITEM]              TINYINT         NULL,
+    [WAREHOUSE_ID]      VARCHAR (2)     NULL,
+    [PART_ID]           VARCHAR (20)    NULL,
+    [QTY]               NUMERIC (15, 6) NULL,
+    [PRICE]             NUMERIC (15, 6) NULL,
+    [AMOUNT_TAX]        NUMERIC (15, 6) NULL,
+    [AMOUNT_PERCENT]    NUMERIC (12, 5) NULL,
+    [AMOUNT_US]         NUMERIC (15, 6) NULL,
+    [AMOUNT]            NUMERIC (15, 6) NULL,
+    [UNIT]              VARCHAR (6)     NULL,
+    [PART_SERIE]        VARCHAR (15)    NULL,
+    [PART_DESCRIPTION]  VARCHAR (65)    NULL,
+    [PART_LOTE]         VARCHAR (20)    NULL,
+    [DISCOUNT]          VARCHAR (50)    NULL,
+    [BRUTE_QTY]         NUMERIC (15, 6) NULL,
+    [BRUTE_AMOUNT]      NUMERIC (15, 6) NULL,
+    [BRUTE_AMOUNT_US]   NUMERIC (15, 6) NULL,
+    [DISCOUNT_PERCENT]  NUMERIC (15, 6) NULL,
+    [DISCOUNT_IMP]      NUMERIC (15, 6) NULL,
+    [ORDER_MANUFACT_ID] VARCHAR (20)    NULL
+);
+

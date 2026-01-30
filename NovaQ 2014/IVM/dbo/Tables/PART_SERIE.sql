@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[PART_SERIE] (
+    [WAREHOUSE_ID] VARCHAR (3)  NULL,
+    [PART_ID]      VARCHAR (20) NULL,
+    [NUMBER_SERIE] VARCHAR (20) NULL,
+    [QTY]          NUMERIC (2)  NULL,
+    [ITEM]         VARCHAR (10) NULL
+);
+

@@ -1,0 +1,14 @@
+﻿CREATE PROCEDURE [dbo].[HSP_COPIA_FORMAPAGO] -- 'bdnovaq'
+ --DECLARE  
+ @EMP VARCHAR(3)  
+ --SET @EMP='002'  
+ AS  
+ EXEC('  
+ INSERT INTO FORMAPAGO(CODFP,DESFP,DIAFP)  
+ SELECT T.id,T.name,net_days FROM terms T  
+ WHERE T.id  NOT IN (SELECT CODFP FROM FORMAPAGO)  
+ ')  
+ EXEC('  
+ UPDATE A SET A.DESFP = T.name, A.DIAFP=T.net_days  FROM FORMAPAGO A INNER JOIN     
+         terms T ON A.CODFP=T.id  
+ ')

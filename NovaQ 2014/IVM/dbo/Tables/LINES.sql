@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[LINES] (
+    [FAMILY_ID] VARCHAR (8)  NOT NULL,
+    [ID]        VARCHAR (8)  NOT NULL,
+    [NAME]      VARCHAR (45) NULL
+);
+

@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[PART_EQUIVALENCE] (
+    [PART_ID]             VARCHAR (30) NULL,
+    [PART_ID_EQUIVALENCE] VARCHAR (30) NULL,
+    [CONVERSION_FACTOR]   INT          NULL,
+    [TYPE_OPERATION]      BIT          NULL
+);
+

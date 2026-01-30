@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[BUYER_PURCHASE] (
+    [ID]   VARCHAR (2)  NOT NULL,
+    [NAME] VARCHAR (40) NULL
+);
+

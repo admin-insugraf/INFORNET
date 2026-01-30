@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[VEHICULOS] (
+    [CODIGO]    VARCHAR (100) NOT NULL,
+    [PLACA]     VARCHAR (100) NULL,
+    [MARCA]     VARCHAR (100) NULL,
+    [MODELO]    VARCHAR (100) NULL,
+    [CAPACIDAD] INT           NULL
+);
+

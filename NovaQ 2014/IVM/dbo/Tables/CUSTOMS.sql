@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[CUSTOMS] (
+    [CUSTOMS_ID] VARCHAR (3)  NOT NULL,
+    [NAME]       VARCHAR (50) NULL
+);
+

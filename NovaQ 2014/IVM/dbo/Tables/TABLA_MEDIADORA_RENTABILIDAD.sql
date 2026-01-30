@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[TABLA_MEDIADORA_RENTABILIDAD] (
+    [FAMILY]          VARCHAR (8)      NULL,
+    [MODEL]           VARCHAR (8)      NULL,
+    [DESCRIPTION_OPT] VARCHAR (64)     NULL,
+    [VALOR_VENTA]     NUMERIC (38, 12) NULL,
+    [COSTOMN]         NUMERIC (38, 15) NULL,
+    [FECHA]           VARCHAR (60)     NULL
+);
+

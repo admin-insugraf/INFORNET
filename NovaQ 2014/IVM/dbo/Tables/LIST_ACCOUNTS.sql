@@ -1,0 +1,26 @@
+﻿CREATE TABLE [dbo].[LIST_ACCOUNTS] (
+    [ID]                            NVARCHAR (18) NOT NULL,
+    [DESCRIPTION]                   NVARCHAR (50) NULL,
+    [LEVEL]                         SMALLINT      NULL,
+    [ANNEXED_TYPE]                  NVARCHAR (2)  NULL,
+    [IS_CCOST]                      BIT           NOT NULL,
+    [ACCOUNT_TYPE]                  NVARCHAR (2)  NULL,
+    [ACCOUNT_AUTO]                  BIT           NOT NULL,
+    [CHARGE1]                       NVARCHAR (18) NULL,
+    [CHARGE2]                       NVARCHAR (18) NULL,
+    [CHARGE3]                       NVARCHAR (18) NULL,
+    [PAY1]                          NVARCHAR (18) NULL,
+    [PAY2]                          NVARCHAR (18) NULL,
+    [PAY3]                          NVARCHAR (18) NULL,
+    [PERCENT1]                      INT           NULL,
+    [PERCENT2]                      INT           NULL,
+    [PERCENT3]                      INT           NULL,
+    [ACCOUNT_ADJUSTMENT]            BIT           NOT NULL,
+    [ITEM_BUDGET]                   NVARCHAR (4)  NULL,
+    [ACCOUNT_TRASLATION_DIFFERENCE] NVARCHAR (3)  NULL,
+    [IS_CURRENCY_ACCOUNT]           BIT           NOT NULL,
+    [ACCOUNT_CCOST]                 NVARCHAR (3)  NULL,
+    [ACCOUNT_FOREIGN]               NVARCHAR (12) NULL,
+    [STATUS]                        VARCHAR (1)   NULL
+);
+

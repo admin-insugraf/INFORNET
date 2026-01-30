@@ -1,0 +1,18 @@
+﻿create procedure [dbo].[SAL_LIST_DOCUMENTOS_FECHA_CAB]
+	(
+	  @fecha_ini DATE,
+	  @fecha_fin DATE
+	)
+AS
+select r.DOCUMENT_ID,r.NUMBER_SERIE,r.NUMBER_DOCUMENT,
+	   r.DOCUMENT_DATE,r.CADUCATE_DATE,
+	   r.CUSTOMER_ID,r.CUSTOMER_NAME,r.CUSTOMER_ADDR,
+	   r.VAT_REGISTRATION,r.AMOUNT,r.SELL_RATE,r.CURRENCY_ID,
+	   r.DOCUMENT_REF,r.SERIE_REF,r.NUMBER_REF,
+	   r.NUMBER_ORDER,r.COMMENT,r.AMOUNT_TAX,
+	   (r.DOCUMENT_ID + r.NUMBER_SERIE + r.NUMBER_DOCUMENT) ID_CAB,
+	   r.PLACE_SALES,r.STATUS
+from receivable r
+where
+	convert(varchar(10),R.CREATE_DATE,103) between @fecha_ini and @fecha_fin
+order by r.CREATE_DATE

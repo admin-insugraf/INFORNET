@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[USER_INVENTORY_ADJ] (
+    [COMPANY_ID] NVARCHAR (20) NULL,
+    [TYPE]       NVARCHAR (1)  NULL,
+    [ID]         NVARCHAR (15) NULL
+);
+

@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[REQUIREMENT_SERVICE] (
+    [ID]            VARCHAR (10)  NOT NULL,
+    [REQUIRED_USER] VARCHAR (3)   NULL,
+    [DATE]          SMALLDATETIME NULL,
+    [AREA]          VARCHAR (6)   NULL,
+    [STATUS]        VARCHAR (2)   NULL,
+    [COMMENT]       VARCHAR (80)  NULL
+);
+

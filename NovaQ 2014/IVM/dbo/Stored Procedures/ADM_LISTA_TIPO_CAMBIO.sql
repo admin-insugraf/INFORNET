@@ -1,0 +1,10 @@
+﻿CREATE PROCEDURE ADM_LISTA_TIPO_CAMBIO
+	(
+	@ano numeric(4),
+	@mes numeric(2)
+	)
+AS
+SELECT CURRENCY_ID,CURRENCY_DATE,SELL_RATE,BUY_RATE
+FROM CURRENCY_EXCHANGE
+WHERE YEAR(currency_date)=@ano
+and MONTH(currency_date)=@mes

@@ -1,0 +1,969 @@
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\bin\Debug\LibVentas.dll
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\bin\Debug\LibVentas.pdb
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\bin\Debug\LibVentas.xml
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.frmError.resources
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.Resources.resources
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.dll
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.xml
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.pdb
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\bin\Debug\LibConexion.dll
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\bin\Debug\LibComunVar.dll
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\bin\Debug\LibConexion.pdb
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\bin\Debug\LibConexion.xml
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\bin\Debug\LibComunVar.pdb
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\bin\Debug\LibComunVar.xml
+D:\JoseLuis\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.vbprojResolveAssemblyReference.cache
+D:\Fuentes\NovaQ\LibVentas\bin\Debug\LibVentas.dll
+D:\Fuentes\NovaQ\LibVentas\bin\Debug\LibVentas.pdb
+D:\Fuentes\NovaQ\LibVentas\bin\Debug\LibVentas.xml
+D:\Fuentes\NovaQ\LibVentas\bin\Debug\LibConexion.dll
+D:\Fuentes\NovaQ\LibVentas\bin\Debug\LibComunVar.dll
+D:\Fuentes\NovaQ\LibVentas\bin\Debug\LibConexion.pdb
+D:\Fuentes\NovaQ\LibVentas\bin\Debug\LibConexion.xml
+D:\Fuentes\NovaQ\LibVentas\bin\Debug\LibComunVar.pdb
+D:\Fuentes\NovaQ\LibVentas\bin\Debug\LibComunVar.xml
+D:\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.vbprojResolveAssemblyReference.cache
+D:\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+D:\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.frmError.resources
+D:\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+D:\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.Resources.resources
+D:\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+D:\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.dll
+D:\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.xml
+D:\Fuentes\NovaQ\LibVentas\obj\Debug\LibVentas.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\bin\Debug\LibVentas.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\bin\Debug\LibVentas.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\bin\Debug\LibVentas.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\bin\Debug\LibComunVar.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\bin\Debug\LibConexion.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\bin\Debug\LibComunVar.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\bin\Debug\LibComunVar.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\bin\Debug\LibConexion.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\bin\Debug\LibConexion.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.vbprojResolveAssemblyReference.cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.frmError.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.Resources.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.frmValoresDetalle.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\bin\Debug\LibReportes.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\bin\Debug\LibReportes.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\bin\Debug\LibReportes.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.frmRepVentasCliente.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.frmRepVentasVendedor.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.frmRepVentasProducto.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.frmRepDocGenerados.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibVentas\obj\Debug\LibVentas.frmConTransaccionesCliente.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll.config
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\bin\Debug\LibVentas.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\bin\Debug\LibVentas.xml
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteII.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmConTransaccionesCliente.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmError.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepDocGenerados.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepGerenciales.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepVentasCliente.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepVentasProducto.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepVentasVendedor.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmValoresDetalle.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Resources.resources
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.dll
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.xml
+Z:\sistema novaq\LUSA\Backup_NovaQ\NovaQ 2014\LibVentas\obj\Debug\LibVentas.pdb
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll.config
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibVentas.pdb
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibVentas.xml
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.dll
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibConexion.dll
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibReportes.dll
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibConexion.pdb
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\NovaQ 2014\LibVentas\bin\Debug\LibReportes.pdb
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmDevolucion_Principal.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProductoxCliente.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_rep_correlativo_faltantes.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_ClientexProducto.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfiguracionDocumentos.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfirmarDespachos.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAperturaVentasMensuales.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmCierraVentasMensual.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProCierreVentasMensual.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentas.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDocumentosDetracccion.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticulo.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAccesoPedido.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloS.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmBuscar.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteII.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmConTransaccionesCliente.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmError.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMovimientoResumidoArticulo.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegistroPedidos.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepDocGenerados.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepGerenciales.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepVentasCliente.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoCambios.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoNumeracion.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmValoresDetalle.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDespacho.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasMensualArticulo.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_VendedorxProducto.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Resources.resources
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.dll
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.xml
+D:\ALFONSO\NovaQ 2014\LibVentas\obj\Debug\LibVentas.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll.config
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibVentas.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibVentas.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmDevolucion_Principal.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteIII.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_pedidos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProductoxCliente.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_rep_correlativo_faltantes.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_ClientexProducto.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfiguracionDocumentos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfirmarDespachos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAperturaVentasMensuales.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmCierraVentasMensual.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProCierreVentasMensual.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentas.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDocumentosDetracccion.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticulo.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAccesoPedido.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloS.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmBuscar.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteII.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmConTransaccionesCliente.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmError.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMovimientoResumidoArticulo.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegistroPedidos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepDocGenerados.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepGerenciales.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoCambios.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoNumeracion.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmValoresDetalle.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDespacho.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasMensualArticulo.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_VendedorxProducto.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Resources.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll.config
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibVentas.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibVentas.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibConexion.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibReportes.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibConexion.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibConexion.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibReportes.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibReportes.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbprojResolveAssemblyReference.cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmDevolucion_Principal.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteIII.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_pedidos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProductoxCliente.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_rep_correlativo_faltantes.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_ClientexProducto.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfiguracionDocumentos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfirmarDespachos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAperturaVentasMensuales.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmCierraVentasMensual.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProCierreVentasMensual.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentas.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDocumentosDetracccion.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticulo.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAccesoPedido.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloS.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmBuscar.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteII.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmConTransaccionesCliente.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmError.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMovimientoResumidoArticulo.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegistroPedidos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepDocGenerados.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepGerenciales.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoCambios.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoNumeracion.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmValoresDetalle.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDespacho.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasMensualArticulo.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_VendedorxProducto.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Resources.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll.config
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibVentas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibVentas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloRapido.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmDevolucion_Principal.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMorosidadCobranza.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteIII.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProyeccionCobranza.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentasCobranza.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCentroCostosCompra.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaDiario.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaEfectuada.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaSemanal.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmReporteProdPrecDesc.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenCobranza.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenPagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepVentasxVendedor.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_pedidos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProductoxCliente.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_rep_correlativo_faltantes.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_ClientexProducto.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfiguracionDocumentos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfirmarDespachos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAperturaVentasMensuales.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmCierraVentasMensual.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProCierreVentasMensual.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentas.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDocumentosDetracccion.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticulo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAccesoPedido.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloS.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmBuscar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteII.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmConTransaccionesCliente.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmError.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMovimientoResumidoArticulo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegistroPedidos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepDocGenerados.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepGerenciales.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoCambios.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoNumeracion.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmValoresDetalle.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDespacho.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasMensualArticulo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_VendedorxProducto.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibVentas\obj\Debug\LibVentas.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll.config
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloRapido.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmDevolucion_Principal.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Contabilizacion.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMorosidadCobranza.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteIII.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProyeccionCobranza.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentasCobranza.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCentroCostosCompra.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaDiario.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaEfectuada.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaSemanal.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmReporteProdPrecDesc.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenCobranza.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenPagos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepVentasxVendedor.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRep_Daot_Ventas.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_pedidos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProductoxCliente.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_rep_correlativo_faltantes.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_ClientexProducto.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfiguracionDocumentos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfirmarDespachos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAperturaVentasMensuales.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmCierraVentasMensual.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProCierreVentasMensual.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentas.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDocumentosDetracccion.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticulo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAccesoPedido.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloS.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmBuscar.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteII.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmConTransaccionesCliente.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmError.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMovimientoResumidoArticulo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegistroPedidos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepDocGenerados.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepGerenciales.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoCambios.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoNumeracion.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmValoresDetalle.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDespacho.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasMensualArticulo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_VendedorxProducto.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_RPT_Vendedor_Licitaciones.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Resources.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll.config
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibReportes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibReportes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibReportes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbprojResolveAssemblyReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloRapido.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmDevolucion_Principal.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Contabilizacion.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMorosidadCobranza.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteIII.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProyeccionCobranza.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentasCobranza.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCentroCostosCompra.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaDiario.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaEfectuada.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaSemanal.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmReporteProdPrecDesc.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenCobranza.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenPagos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepVentasxVendedor.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRep_Daot_Ventas.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_pedidos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProductoxCliente.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_rep_correlativo_faltantes.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_ClientexProducto.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfiguracionDocumentos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfirmarDespachos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAperturaVentasMensuales.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmCierraVentasMensual.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProCierreVentasMensual.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentas.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDocumentosDetracccion.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticulo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAccesoPedido.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloS.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmBuscar.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteII.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmConTransaccionesCliente.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmError.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMovimientoResumidoArticulo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegistroPedidos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepDocGenerados.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepGerenciales.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoCambios.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoNumeracion.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmValoresDetalle.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDespacho.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasMensualArticulo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_VendedorxProducto.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_RPT_Vendedor_Licitaciones.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Resources.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll.config
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\BillService.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\Ionic.Zip.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\itextsharp.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibReportes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\WSConsultaSUNAT.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibReportes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibReportes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbprojResolveAssemblyReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloRapido.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmDevolucion_Principal.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmEnvioEmail.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Contabilizacion.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_SUNAT.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMorosidadCobranza.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteIII.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte_Cobranza.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProyeccionCobranza.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentasCobranza.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCentroCostosCompra.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaDiario.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaEfectuada.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaSemanal.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepEstadoCuentaCiente.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmReporteProdPrecDesc.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenCobranza.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenPagos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepVentasxVendedor.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRep_Comp_Retencion.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRep_Daot_Ventas.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRpt_Guias_Venta.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Canje_Letras.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_CDR.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Comunicacion_Bajas.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_FT_Letras.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_pedidos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_Diario_ModoPago.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProductoxCliente.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProvxProducto.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_rep_correlativo_faltantes.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_ClientexProducto.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfiguracionDocumentos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfirmarDespachos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAperturaVentasMensuales.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmCierraVentasMensual.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProCierreVentasMensual.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentas.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDocumentosDetracccion.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticulo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAccesoPedido.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloS.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmBuscar.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteII.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmConTransaccionesCliente.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmError.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMovimientoResumidoArticulo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegistroPedidos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepDocGenerados.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepGerenciales.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoCambios.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoNumeracion.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmValoresDetalle.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDespacho.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasMensualArticulo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_VendedorxProducto.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Rep_Estados_Letras.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Rep_Estados_Letras_Pagos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Rep_Mov_Orden_C_S_I.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Resumen_Boletas.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_RPT_Vendedor_Licitaciones.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Resources.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll.config
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibVentas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\Ionic.Zip.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\itextsharp.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibBillService.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibReportes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\Newtonsoft.Json.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\WSConsultaSUNAT.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\zxing.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibReportes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibReportes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbprojResolveAssemblyReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.ResolveComReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloRapido.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmDevolucion_Principal.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmEnvioEmail.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmEnvioEmail_FT_GS.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionCotizacion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida_Despachos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Contabilizacion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Detalle_Pedido.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_SUNAT.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_SUNAT_Guias.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Tienda.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMorosidadCobranza.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteIII.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte_Cobranza.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrar_Productos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProyeccionCobranza.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentasCobranza.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCentroCostosCompra.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaDiario.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaEfectuada.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaSemanal.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepEstadoCuentaCiente.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmReporteProdPrecDesc.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenCobranza.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenPagos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepVentasxVendedor.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRep_Comp_Retencion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRep_Daot_Ventas.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRpt_Guias_Venta.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoNumeracion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoNumeracionRapido.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasMensualArticulo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Canje_Letras.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_CDR.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Comunicacion_Bajas.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_FT_Letras.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_pedidos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_Cliente_Producto_Familia.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_Diario_ModoPago.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProductoxCliente.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProvxProducto.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProvxProducto_Familia.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_rep_correlativo_faltantes.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_ClientexProducto.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfiguracionDocumentos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfirmarDespachos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAperturaVentasMensuales.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmCierraVentasMensual.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProCierreVentasMensual.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentas.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDocumentosDetracccion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticulo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAccesoPedido.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloS.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmBuscar.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteII.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmConTransaccionesCliente.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmError.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMovimientoResumidoArticulo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegistroPedidos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepDocGenerados.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepGerenciales.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoCambios.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmValoresDetalle.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDespacho.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_VendedorxProducto.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Rep_Estados_Letras.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Rep_Estados_Letras_Pagos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Rep_Mov_Orden_C_S_I.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Resumen_Boletas.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_RPT_Vendedor_Licitaciones.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Resources.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibVentas\obj\Debug\LibVentas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll.config
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibVentas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibVentas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibConsultasComun.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibControlUser.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibReportes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibActivo.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibControlUser.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibControlUser.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibReportes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibReportes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibConsultasComun.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibConsultasComun.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibActivo.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibActivo.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbprojResolveAssemblyReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.ResolveComReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloRapido.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmCobranza_Efectuada.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmDevolucion_Principal.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmEnvioEmail.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmEnvioEmail_FT_GS.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionCotizacion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida_Despachos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida_Despachos_Hab_facturacion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida_Programacion_Despacho.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Contabilizacion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Detalles_Hab.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Detalle_Pedido.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_SUNAT.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_SUNAT_Com_Retencion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_SUNAT_Guias.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Tienda.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMorosidadCobranza.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteIII.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte_Cobranza.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrar_Productos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProyeccionCobranza.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentasCobranza.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCentroCostosCompra.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaDiario.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaEfectuada.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaSemanal.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepEstadoCuentaCiente.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmReporteProdPrecDesc.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenCobranza.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenPagos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepVentasxVendedor.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRep_Comp_Retencion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRep_Daot_Ventas.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRpt_Guias_Venta.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoNumeracion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoNumeracionRapido.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasMensualArticulo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Canje_Letras.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_CDR.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Comp_Retencion_Contabilizacion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Comunicacion_Bajas.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_FT_Letras.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_pedidos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_Cliente_Producto_Familia.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_Diario_ModoPago.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProductoxCliente.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProvxProducto.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProvxProducto_Familia.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_rep_correlativo_faltantes.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_ClientexProducto.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfiguracionDocumentos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfirmarDespachos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAperturaVentasMensuales.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmCierraVentasMensual.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProCierreVentasMensual.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentas.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDocumentosDetracccion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticulo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAccesoPedido.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloS.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmBuscar.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteII.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmConTransaccionesCliente.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmError.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMovimientoResumidoArticulo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegistroPedidos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepDocGenerados.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepGerenciales.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoCambios.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmValoresDetalle.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDespacho.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_VendedorxProducto.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Rep_Estados_Letras.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Rep_Estados_Letras_Pagos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Rep_Mov_Orden_C_S_I.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Resumen_Boletas.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_RPT_Vendedor_Licitaciones.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Resources.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll.config
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibVentas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibVentas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibVentas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibConsultasComun.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibControlUser.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibReportes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibActivo.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibCobranzas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibContabilidad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibControlUser.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibControlUser.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibManufactura.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibReportes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibReportes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibSeguridad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibConsultasComun.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibConsultasComun.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibActivo.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\bin\Debug\LibActivo.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbprojResolveAssemblyReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.ResolveComReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloRapido.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmCobranza_Efectuada.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmDevolucion_Principal.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmEnvioEmail.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmEnvioEmail_FT_GS.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionCotizacion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida_Despachos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida_Despachos_Hab_facturacion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacionRapida_Programacion_Despacho.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Contabilizacion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Detalles_Hab.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Detalle_Pedido.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_SUNAT.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_SUNAT_Com_Retencion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_SUNAT_Guias.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion_Tienda.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMorosidadCobranza.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteIII.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte_Cobranza.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrar_Productos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmOrdenCompra.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmPickingAceptar.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmPickingRevertir.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProyeccionCobranza.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentasCobranza.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCentroCostosCompra.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaDiario.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaEfectuada.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepCobranzaSemanal.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepEstadoCuentaCiente.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmReporteProdPrecDesc.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenCobranza.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepResumenPagos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepVentasxVendedor.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRep_Comp_Retencion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRep_Daot_Ventas.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRpt_Guias_Venta.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoNumeracion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoNumeracionRapido.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasMensualArticulo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Canje_Letras.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_CDR.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Comp_Retencion_Contabilizacion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Comunicacion_Bajas.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_FT_Letras.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_pedidos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_Cliente_Producto_Familia.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_Diario_ModoPago.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_Parte_Entrega_OPS.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProductoxCliente.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProvxProducto.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Reporte_ProvxProducto_Familia.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_rep_correlativo_faltantes.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_ClientexProducto.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfiguracionDocumentos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmConfirmarDespachos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAperturaVentasMensuales.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmCierraVentasMensual.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmProCierreVentasMensual.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegVentas.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDocumentosDetracccion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticulo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmFacturacion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAccesoPedido.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmAsignarArticuloS.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmBuscar.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporteII.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmAyudaVar.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmConTransaccionesCliente.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmError.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMostrarReporte.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmMovimientoResumidoArticulo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRegistroPedidos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRegPedidos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmRepDocGenerados.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmRepGerenciales.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmTipoCambios.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frmValoresDetalle.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.FrmVentasDespacho.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.frm_Reporte_VendedorxProducto.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Rep_Estados_Letras.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Rep_Estados_Letras_Pagos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Rep_Mov_Orden_C_S_I.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_Resumen_Boletas.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Frm_RPT_Vendedor_Licitaciones.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.Resources.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibVentas\obj\Debug\LibVentas.pdb

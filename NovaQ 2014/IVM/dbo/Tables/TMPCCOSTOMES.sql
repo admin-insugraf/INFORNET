@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[TMPCCOSTOMES] (
+    [NIVEL]    VARCHAR (8)  NULL,
+    [CODART]   VARCHAR (20) NULL,
+    [NROMESES] INT          NULL
+);
+

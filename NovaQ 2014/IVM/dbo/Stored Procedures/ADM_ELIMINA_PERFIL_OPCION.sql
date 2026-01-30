@@ -1,0 +1,5 @@
+﻿create procedure ADM_ELIMINA_PERFIL_OPCION
+	(@COD_PERFIL VARCHAR(20))
+as
+	delete from ADM_PERFIL_OPCION
+	where COD_PERFIL=@COD_PERFIL

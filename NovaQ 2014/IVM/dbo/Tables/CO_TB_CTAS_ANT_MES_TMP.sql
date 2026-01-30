@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[CO_TB_CTAS_ANT_MES_TMP] (
+    [CA_CTA] VARCHAR (10)  NULL,
+    [CA_PC]  VARCHAR (100) NULL
+);
+

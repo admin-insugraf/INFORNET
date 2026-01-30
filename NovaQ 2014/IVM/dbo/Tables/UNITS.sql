@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[UNITS] (
+    [ID]     VARCHAR (6)  NOT NULL,
+    [NAME]   VARCHAR (20) NULL,
+    [STATUS] VARCHAR (1)  NULL
+);
+
+
+

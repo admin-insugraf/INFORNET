@@ -1,0 +1,464 @@
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\bin\Debug\LibActivo.dll
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\bin\Debug\LibActivo.pdb
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\bin\Debug\LibActivo.xml
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.dll
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\bin\Debug\LibConexion.dll
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\bin\Debug\LibReportes.dll
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.pdb
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.xml
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\bin\Debug\LibConexion.pdb
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\bin\Debug\LibConexion.xml
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\bin\Debug\LibReportes.pdb
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\bin\Debug\LibReportes.xml
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbprojResolveAssemblyReference.cache
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.Resources.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Activo.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbproj.GenerateResource.Cache
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.dll
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.xml
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.pdb
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_AyudaActivo.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mantenimientos.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Proc_Depreciar.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Transferencias.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Area.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Categoria.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_CentroCosto.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Clase.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_EstadoFisico.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Familia.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Grupo.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Marca.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_NivelObso.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Responsable_activo.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_SubGrupo.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TercerosEje.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoManteni.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoPago.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Ubicacion.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Uso.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frmError.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_deter_depreci.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Depre_x_Activo.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_BajaActivo.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_ResponsableEje.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Contabilizar.resources
+D:\_Karlos\fuentes\Lusa\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_TomaInventario.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbprojResolveAssemblyReference.cache
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.Resources.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frmError.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_AyudaActivo.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_BajaActivo.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Contabilizar.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mantenimientos.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Proc_Depreciar.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_TomaInventario.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Transferencias.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Activo.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Area.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Categoria.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_CentroCosto.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Clase.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_EstadoFisico.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Familia.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Grupo.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Marca.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_NivelObso.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_ResponsableEje.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Responsable_activo.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_SubGrupo.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TercerosEje.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoManteni.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoPago.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Ubicacion.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Uso.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Depre_x_Activo.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_deter_depreci.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbproj.GenerateResource.Cache
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.dll
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.xml
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.pdb
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibActivo.dll
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibActivo.pdb
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibActivo.xml
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.dll
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibConexion.dll
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibReportes.dll
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.pdb
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.xml
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibConexion.pdb
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibConexion.xml
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibReportes.pdb
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibReportes.xml
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lis_Activos.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mejoras.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_ListaInvs.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lista_Transfe.resources
+D:\SOURCES\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Deprecioacion_Anual.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibActivo.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibActivo.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibActivo.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Deprecioacion_Anual.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_ListaInvs.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mejoras.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lista_Transfe.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lis_Activos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frmError.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_AyudaActivo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_BajaActivo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Contabilizar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mantenimientos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Proc_Depreciar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_TomaInventario.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Transferencias.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Activo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Area.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Categoria.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_CentroCosto.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Clase.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_EstadoFisico.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Familia.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Grupo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Marca.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_NivelObso.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_ResponsableEje.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Responsable_activo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_SubGrupo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TercerosEje.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoManteni.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoPago.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Ubicacion.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Uso.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Depre_x_Activo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_deter_depreci.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibActivo\obj\Debug\LibActivo.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibActivo.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibActivo.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibActivo.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.Resources.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Deprecioacion_Anual.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_ListaInvs.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mejoras.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lista_Transfe.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lis_Activos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frmError.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_AyudaActivo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_BajaActivo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Contabilizar.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mantenimientos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Proc_Depreciar.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_TomaInventario.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Transferencias.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Activo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Area.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Categoria.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_CentroCosto.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Clase.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_EstadoFisico.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Familia.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Grupo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Marca.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_NivelObso.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_ResponsableEje.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Responsable_activo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_SubGrupo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TercerosEje.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoManteni.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoPago.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Ubicacion.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Uso.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Depre_x_Activo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_deter_depreci.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibActivo.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibActivo.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibActivo.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibReportes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibReportes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibReportes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbprojResolveAssemblyReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.Resources.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Deprecioacion_Anual.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_ListaInvs.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mejoras.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lista_Transfe.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lis_Activos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frmError.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_AyudaActivo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_BajaActivo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Contabilizar.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mantenimientos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Proc_Depreciar.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_TomaInventario.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Transferencias.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Activo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Area.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Categoria.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_CentroCosto.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Clase.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_EstadoFisico.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Familia.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Grupo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Marca.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_NivelObso.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_ResponsableEje.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Responsable_activo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_SubGrupo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TercerosEje.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoManteni.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoPago.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Ubicacion.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Uso.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Depre_x_Activo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_deter_depreci.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibActivo.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibActivo.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibActivo.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibContabilidad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibReportes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibContabilidad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibContabilidad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibReportes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibReportes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbprojResolveAssemblyReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.Resources.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Deprecioacion_Anual.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_ListaInvs.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mejoras.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lista_Transfe.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lis_Activos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frmError.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_AyudaActivo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_BajaActivo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Contabilizar.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mantenimientos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Proc_Depreciar.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_TomaInventario.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Transferencias.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Activo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Area.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Categoria.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_CentroCosto.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Clase.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_EstadoFisico.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Familia.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Grupo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Marca.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_NivelObso.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_ResponsableEje.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Responsable_activo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_SubGrupo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TercerosEje.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoManteni.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoPago.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Ubicacion.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Uso.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Depre_x_Activo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_deter_depreci.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibActivo.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibActivo.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibActivo.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibContabilidad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibReportes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibContabilidad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibContabilidad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibReportes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\bin\Debug\LibReportes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbprojResolveAssemblyReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.Resources.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Deprecioacion_Anual.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_ListaInvs.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mejoras.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lista_Transfe.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lis_Activos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frmError.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_AyudaActivo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_BajaActivo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Contabilizar.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mantenimientos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Proc_Depreciar.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_TomaInventario.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Transferencias.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Activo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Area.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Categoria.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_CentroCosto.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Clase.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_EstadoFisico.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Familia.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Grupo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Marca.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_NivelObso.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_ResponsableEje.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Responsable_activo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_SubGrupo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TercerosEje.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoManteni.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoPago.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Ubicacion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Uso.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Depre_x_Activo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_deter_depreci.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibActivo\obj\Debug\LibActivo.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibActivo.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibActivo.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibActivo.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibContabilidad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibReportes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibContabilidad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibContabilidad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibReportes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibReportes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbprojResolveAssemblyReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.Resources.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Deprecioacion_Anual.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_ListaInvs.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mejoras.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lista_Transfe.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lis_Activos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frmError.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_AyudaActivo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_BajaActivo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Contabilizar.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mantenimientos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Proc_Depreciar.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_TomaInventario.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Transferencias.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Activo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Area.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Categoria.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_CentroCosto.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Clase.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_EstadoFisico.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Familia.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Grupo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Marca.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_NivelObso.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_ResponsableEje.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Responsable_activo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_SubGrupo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TercerosEje.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoManteni.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoPago.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Ubicacion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Uso.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Depre_x_Activo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_deter_depreci.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibActivo.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibActivo.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibActivo.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibContabilidad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibReportes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibContabilidad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibContabilidad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibReportes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\bin\Debug\LibReportes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbprojResolveAssemblyReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.Resources.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Deprecioacion_Anual.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_ListaInvs.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mejoras.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lista_Transfe.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Lis_Activos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frmError.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_AyudaActivo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_BajaActivo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Contabilizar.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Mantenimientos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Proc_Depreciar.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_TomaInventario.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_LT_Transferencias.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Activo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Area.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Categoria.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_CentroCosto.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Clase.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_EstadoFisico.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Familia.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Grupo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Marca.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_NivelObso.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_ResponsableEje.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Responsable_activo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_SubGrupo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TercerosEje.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoManteni.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_TipoPago.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Ubicacion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_MA_Uso.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_Depre_x_Activo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.frm_AF_RP_deter_depreci.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibActivo\obj\Debug\LibActivo.pdb

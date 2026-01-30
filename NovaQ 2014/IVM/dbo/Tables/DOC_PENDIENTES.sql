@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[DOC_PENDIENTES] (
+    [NUM_DOC]          VARCHAR (14)    NULL,
+    [DOCUMENT_DATE]    VARCHAR (50)    NULL,
+    [CUSTOMER_NAME]    VARCHAR (150)   NULL,
+    [PART_DESCRIPTION] VARCHAR (64)    NULL,
+    [QTY]              NUMERIC (15, 6) NULL,
+    [PRICE_SALES]      NUMERIC (15, 6) NULL,
+    [AMOUNT]           NUMERIC (15, 6) NULL
+);
+

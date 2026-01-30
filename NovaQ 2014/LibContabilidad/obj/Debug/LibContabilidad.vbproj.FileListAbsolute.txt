@@ -1,0 +1,532 @@
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\bin\Debug\LibContabilidad.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\bin\Debug\LibContabilidad.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\bin\Debug\LibContabilidad.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\bin\Debug\LibComunVar.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\bin\Debug\LibConexion.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\bin\Debug\LibReportes.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\bin\Debug\LibComunVar.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\bin\Debug\LibComunVar.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\bin\Debug\LibConexion.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\bin\Debug\LibConexion.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\bin\Debug\LibReportes.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\bin\Debug\LibReportes.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.vbprojResolveAssemblyReference.cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frmError.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.Resources.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_BuscaAnexo.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_Contabilizar.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_DocsPendientes.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucher.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientos.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Anexos.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Parametros.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_PlanCtas.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Subdiarios.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_TipoAnexos.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_AnalisisCta01.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalCompro.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalGeneral.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalInven.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Daot.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Egp.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibCajaBancos.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibDiario.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibMayor.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.vbproj.GenerateResource.Cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibContabilidad\obj\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmBuscar.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmCentroCosto.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptosDetalle.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroVentas.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroCompras.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucherVarios.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientosVarios.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmError.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Resources.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_BuscaAnexo.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_Contabilizar.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_DocsPendientes.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucher.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Anexos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Parametros.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_PlanCtas.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Subdiarios.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_TipoAnexos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_AnalisisCta01.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalCompro.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalGeneral.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalInven.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Daot.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Egp.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibCajaBancos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibDiario.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibMayor.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmBuscar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmCentroCosto.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptosDetalle.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroVentas.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroCompras.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucherVarios.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientosVarios.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmError.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_BuscaAnexo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_Contabilizar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_DocsPendientes.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucher.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Anexos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Parametros.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_PlanCtas.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Subdiarios.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_TipoAnexos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_AnalisisCta01.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalCompro.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalGeneral.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalInven.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Daot.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Egp.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibCajaBancos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibDiario.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibMayor.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbprojResolveAssemblyReference.cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmBuscar.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmCentroCosto.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptosDetalle.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroVentas.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroCompras.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucherVarios.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientosVarios.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmError.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Resources.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_BuscaAnexo.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_Contabilizar.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_DocsPendientes.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucher.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Anexos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Parametros.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_PlanCtas.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Subdiarios.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_TipoAnexos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_AnalisisCta01.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalCompro.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalGeneral.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalInven.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Daot.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Egp.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibCajaBancos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibDiario.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibMayor.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbproj.GenerateResource.Cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.CO_PR_PLE.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmBuscar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmCentroCosto.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptosDetalle.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroVentas.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroCompras.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucherVarios.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientosVarios.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmError.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_BuscaAnexo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_Contabilizar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_DocsPendientes.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucher.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Anexos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Parametros.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_PlanCtas.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Subdiarios.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_TipoAnexos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_AnalisisCta01.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalCompro.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalGeneral.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalInven.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Daot.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Egp.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibCajaBancos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibDiario.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibMayor.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.CO_PR_PLE.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmBuscar.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmBuscar_Centro_Costo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmBuscar_CuentaContable.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmCentroCosto.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptosDetalle.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroVentas.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroCompras.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucherVarios.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientosVarios.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmError.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Resources.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_BuscaAnexo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_Contabilizar.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_DocsPendientes.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucher.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Anexos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Parametros.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_PlanCtas.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Subdiarios.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_TipoAnexos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_AnalisisCta01.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalCompro.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalGeneral.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalInven.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Daot.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Egp.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibCajaBancos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibDiario.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibMayor.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbprojResolveAssemblyReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.CO_PR_PLE.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmBuscar.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmBuscar_Centro_Costo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmBuscar_CuentaContable.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmCentroCosto.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptosDetalle.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroVentas.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroCompras.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucherVarios.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientosVarios.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmError.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Resources.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_BuscaAnexo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_Contabilizar.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_DocsPendientes.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucher.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Anexos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Parametros.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_PlanCtas.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Subdiarios.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_TipoAnexos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_AnalisisCta01.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalCompro.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalGeneral.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalInven.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Daot.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Egp.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibCajaBancos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibDiario.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibMayor.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbprojResolveAssemblyReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.CO_PR_PLE.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmBuscar.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmBuscar_Centro_Costo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmBuscar_CuentaContable.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmCentroCosto.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptosDetalle.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroVentas.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroCompras.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_AF_PR_Incorporacion_Automatica.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_Co_Doc_Pendientes.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucherVarios.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientosVarios.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmError.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Resources.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_BuscaAnexo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_Contabilizar.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_DocsPendientes.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucher.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Anexos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Parametros.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_PlanCtas.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Subdiarios.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_TipoAnexos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_AnalisisCta01.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalCompro.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalGeneral.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalInven.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Daot.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Egp.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibCajaBancos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibDiario.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibMayor.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbprojResolveAssemblyReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.CO_PR_PLE.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmBuscar.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmBuscar_Centro_Costo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmBuscar_CuentaContable.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmCentroCosto.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptosDetalle.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroVentas.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroCompras.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_AF_PR_Incorporacion_Automatica.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_Configuracion_Balance_General.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_Configuracion_Egp_Funcion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_Configuracion_Egp_Naturaleza.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_Co_Doc_Pendientes.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucherVarios.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientosVarios.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmError.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Resources.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_BuscaAnexo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_Contabilizar.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_DocsPendientes.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucher.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Anexos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Parametros.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_PlanCtas.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Subdiarios.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_TipoAnexos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_AnalisisCta01.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalCompro.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalGeneral.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalInven.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Daot.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Egp.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibCajaBancos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibDiario.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibMayor.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbprojResolveAssemblyReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.CO_PR_PLE.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmBuscar.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmBuscar_Centro_Costo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmBuscar_CuentaContable.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmCentroCosto.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptosDetalle.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroVentas.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroCompras.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_AF_PR_Incorporacion_Automatica.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_Configuracion_Balance_General.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_Configuracion_Egp_Funcion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_Configuracion_Egp_Naturaleza.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_Co_Doc_Pendientes.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucherVarios.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientosVarios.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmError.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Resources.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_BuscaAnexo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_Contabilizar.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_DocsPendientes.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucher.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Anexos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Parametros.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_PlanCtas.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Subdiarios.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_TipoAnexos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_AnalisisCta01.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalCompro.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalGeneral.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalInven.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Daot.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Egp.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibCajaBancos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibDiario.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibMayor.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibContabilidad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\bin\Debug\LibReportes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbprojResolveAssemblyReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.CO_PR_PLE.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmBuscar.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmBuscar_Centro_Costo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmBuscar_CuentaContable.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmCentroCosto.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptosDetalle.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmComprasConceptos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroVentas.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.FrmRegistroCompras.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_AF_PR_Incorporacion_Automatica.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_Configuracion_Balance_General.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_Configuracion_Egp_Funcion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_Configuracion_Egp_Naturaleza.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Frm_Co_Doc_Pendientes.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucherVarios.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientosVarios.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frmError.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.Resources.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_BuscaAnexo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_Contabilizar.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_DocsPendientes.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_IngVoucher.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_LT_ListaAsientos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Anexos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Parametros.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_PlanCtas.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_Subdiarios.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_MA_TipoAnexos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_AnalisisCta01.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalCompro.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalGeneral.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_BalInven.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Daot.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_Egp.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibCajaBancos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibDiario.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.frm_CO_RP_LibMayor.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibContabilidad\obj\Debug\LibContabilidad.pdb

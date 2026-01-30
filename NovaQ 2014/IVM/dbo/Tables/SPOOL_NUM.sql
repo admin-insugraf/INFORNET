@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[SPOOL_NUM] (
+    [TIPO]   VARCHAR (2) NULL,
+    [SERIE]  VARCHAR (3) NULL,
+    [NUMERO] INT         NULL
+);
+

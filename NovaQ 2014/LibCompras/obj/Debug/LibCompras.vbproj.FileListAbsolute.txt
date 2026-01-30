@@ -1,0 +1,549 @@
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll.config
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCompras.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCompras.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Resources.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmDetallesRequisiciones.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Consulta_requisiones.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_rep_cuadro_comparativo.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmArea.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmAreaDetalleSolicitante.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegCompras.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmSolicitudCotizacion.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Compras.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmBuscar.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmLog.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Compra.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiones.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll.config
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibCompras.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibCompras.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmDetallesRequisiciones.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Consulta_requisiones.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_rep_cuadro_comparativo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmArea.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmAreaDetalleSolicitante.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegCompras.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmSolicitudCotizacion.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Compras.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmBuscar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmLog.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Compra.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiones.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\NovaQ 2014\LibCompras\obj\Debug\LibCompras.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll.config
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCompras.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCompras.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibConexion.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibReportes.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibConexion.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibConexion.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibReportes.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibReportes.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbprojResolveAssemblyReference.cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Resources.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmDetallesRequisiciones.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Consulta_requisiones.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_rep_cuadro_comparativo.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmArea.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmAreaDetalleSolicitante.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegCompras.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmSolicitudCotizacion.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Compras.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmBuscar.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmLog.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Compra.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiones.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbproj.GenerateResource.Cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll.config
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCompras.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCompras.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibVentas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibVentas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibVentas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmDetallesRequisiciones.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmMorosidadPagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmPagosSemanal.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmProyeccionPagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegComprasPagos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRepPagosDiario.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Consulta_requisiones.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_rep_cuadro_comparativo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmArea.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmAreaDetalleSolicitante.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegCompras.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmSolicitudCotizacion.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Compras.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmBuscar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmLog.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Compra.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiones.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibCompras\obj\Debug\LibCompras.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll.config
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibVentas.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibVentas.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibVentas.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Resources.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmDetallesRequisiciones.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmMorosidadPagos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmPagosSemanal.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmProyeccionPagos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegComprasPagos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRepPagosDiario.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiciones_Imprenta.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Consulta_requisiones.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio_Imprenta.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Registro_Licitaciones.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_rep_cuadro_comparativo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmArea.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmAreaDetalleSolicitante.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegCompras.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmSolicitudCotizacion.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Compras.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmBuscar.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmLog.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Compra.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiones.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll.config
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibReportes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibVentas.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibReportes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibReportes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibVentas.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibVentas.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbprojResolveAssemblyReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Resources.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmDetallesRequisiciones.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmMorosidadPagos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmPagosSemanal.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmProyeccionPagos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegComprasPagos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRepPagosDiario.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiciones_Imprenta.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Consulta_requisiones.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio_Imprenta.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Registro_Licitaciones.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_rep_cuadro_comparativo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmArea.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmAreaDetalleSolicitante.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegCompras.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmSolicitudCotizacion.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Compras.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmBuscar.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmLog.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Compra.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiones.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll.config
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibReportes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibVentas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\WSConsultaSUNAT.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\BillService.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\Ionic.Zip.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\itextsharp.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibReportes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibReportes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibVentas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibVentas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbprojResolveAssemblyReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Resources.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmBuscar_DetalleCajaChica.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmDetallesRequisiciones.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmMorosidadPagos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmPagosSemanal.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmProyeccionPagos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegComprasPagos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRepPagosDiario.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiciones_Imprenta.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Consulta_requisiones.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio_Imprenta.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Registro_Licitaciones.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Reporte_Proveedor_Producto.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_rep_cuadro_comparativo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmArea.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmAreaDetalleSolicitante.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegCompras.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmSolicitudCotizacion.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Compras.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmBuscar.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmLog.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Compra.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiones.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll.config
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCompras.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibReportes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibVentas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\Newtonsoft.Json.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibBillService.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\WSConsultaSUNAT.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\Ionic.Zip.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\zxing.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibReportes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibReportes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibVentas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibVentas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbprojResolveAssemblyReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbproj.ResolveComReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Resources.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmBuscar_DetalleCajaChica.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmDetallesRequisiciones.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmMorosidadPagos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmPagosSemanal.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmProyeccionPagos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegComprasPagos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRepPagosDiario.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiciones_Imprenta.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Compras_Importacion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Consulta_requisiones.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio_Imprenta.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Registro_Licitaciones.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Reporte_Proveedor_Producto.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_rep_cuadro_comparativo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmArea.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmAreaDetalleSolicitante.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegCompras.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmSolicitudCotizacion.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Compras.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmBuscar.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmLog.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Compra.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiones.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibCompras\obj\Debug\LibCompras.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll.config
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCompras.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCompras.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\Ionic.Zip.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\itextsharp.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibBillService.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibReportes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibVentas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\WSConsultaSUNAT.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\zxing.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibActivo.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibReportes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibReportes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibVentas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibVentas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibActivo.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibActivo.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbprojResolveAssemblyReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbproj.ResolveComReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Resources.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmBuscar_DetalleCajaChica.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmConsulta_OrdenCompra.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmDetallesRequisiciones.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmGuia_Devolucion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmMorosidadPagos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmPagosSemanal.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmProyeccionPagos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegComprasPagos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRepPagosDiario.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiciones_Imprenta.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiciones_Materiales.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmValida_CPE.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Compras_Importacion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Consulta_requisiones.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio_Imprenta.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Registro_Licitaciones.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Reporte_Proveedor_Producto.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_rep_cuadro_comparativo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmArea.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmAreaDetalleSolicitante.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegCompras.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmSolicitudCotizacion.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Compras.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmBuscar.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmLog.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Compra.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiones.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll.config
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCompras.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCompras.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCompras.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\Ionic.Zip.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\itextsharp.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibBillService.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibReportes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibVentas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\WSConsultaSUNAT.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\zxing.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibActivo.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibCobranzas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibContabilidad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibManufactura.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibReportes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibReportes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibVentas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibVentas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibSeguridad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibActivo.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\bin\Debug\LibActivo.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbprojResolveAssemblyReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbproj.ResolveComReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Resources.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmBuscar_DetalleCajaChica.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmConsulta_OrdenCompra.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmDetallesRequisiciones.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmGuia_Devolucion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmMorosidadPagos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmPagosSemanal.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmProyeccionPagos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegComprasPagos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRepPagosDiario.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiciones_Imprenta.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiciones_Materiales.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmValida_CPE.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Compras_Importacion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Consulta_requisiones.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Servicio_Imprenta.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Registro_Licitaciones.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Reporte_Proveedor_Producto.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_rep_cuadro_comparativo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmArea.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmAreaDetalleSolicitante.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRegCompras.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmSolicitudCotizacion.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Compras.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmBuscar.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.frmLog.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.Frm_Orden_Compra.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.FrmRequisiones.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibCompras\obj\Debug\LibCompras.pdb

@@ -1,0 +1,9 @@
+﻿CREATE procedure ADM_DOC_PTO_VENTA
+	(
+	@PLACE_SALES_ID varchar(2)
+	)
+as
+	select DOCUMENT_TYPE Documento,NUMBER_SERIE Serie
+	from DOCUMENT_PLACE_SALES
+	where PLACE_SALES_ID=@PLACE_SALES_ID
+	order by DOCUMENT_TYPE

@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[CTAFLETE] (
+    [CTA] VARCHAR (18) NULL
+);
+

@@ -1,0 +1,27 @@
+﻿CREATE procedure [dbo].[INV_LIST_CUSTOMER]
+	@orden char(1)
+as
+	declare @STRquery nvarchar(1000)
+	declare @criterio nvarchar(1000)
+	SET @criterio=N' WHERE 1=1'
+		
+	if @orden='0'
+		set @criterio=@criterio + N' order by ID'
+	if @orden='1'
+		set @criterio=@criterio + N' order by NAME'
+	if @orden='2'
+		set @criterio=@criterio + N' order by VAT_REGISTRATION'
+	if @orden='3'
+		set @criterio=@criterio + N' order by ADDR'
+
+	set @STRquery='SELECT ID,NAME,ADDR,PHONE,VAT_REGISTRATION,NUMBER_DOC,DISCOUNT_PERCENT,
+			TERMS_TYPE,STATUS,OPEN_DATE,CONTACT,STATE_ID,CREATE_USER,CREATE_DATE,
+			MODIFY_DATE,TYPE_PRICE,SALES_ID,SELL_ZONE,COUNTRY,DEPARTMENT,PROVINCE,
+			ADDR_DLV,CURRENCY_CREDIT_LIMIT,CREDIT_LIMIT_US,CREDIT_LIMIT,BALANCE,
+			BALANCE_US,OBSERV,TOTAL_LETTER,TOTAL_RECEIVABLE,TOTAL_CHECK,
+			TOTAL_LETTER_PROTESTED,CUSTOMER_TYPE,BUSINESS_TYPE,TERRITORY,ROUTE,
+			SEGMENT,SEGMENT_LOCATION,BANK_ID,ACCOUNT_NO,DATE_REVIEW,HOUR_VISIT,
+			ATTENTION_TYPE,FAX_NUMBER,EMAIL,WEBSITE,COMMENT,IS_PRIMARY,RETENTION
+			FROM CUSTOMER'
+	set @STRquery=@STRquery + @criterio
+	exec sp_executesql @STRquery,N'@orden char(1)',@orden

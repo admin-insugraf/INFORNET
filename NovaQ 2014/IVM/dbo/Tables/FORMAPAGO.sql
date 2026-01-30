@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[FORMAPAGO] (
+    [CODFP]  VARCHAR (4)     NOT NULL,
+    [DESFP]  VARCHAR (32)    NULL,
+    [DIAFP]  NUMERIC (15, 6) NULL,
+    [TIPOFP] VARCHAR (2)     NULL
+);
+

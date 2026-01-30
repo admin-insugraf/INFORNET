@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[USERS_MENU] (
+    [ID_MENU]       VARCHAR (10) NOT NULL,
+    [ID_USER]       VARCHAR (8)  NOT NULL,
+    [HABILITY_MENU] BIT          NULL
+);
+

@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[MEDIOS_PAGO] (
+    [ID]          VARCHAR (5)   NULL,
+    [DESCRIPTION] VARCHAR (255) NULL
+);
+

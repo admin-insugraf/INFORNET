@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[SHIPPER_ZONE] (
+    [ID]             VARCHAR (2)     NOT NULL,
+    [DESCRIPTION]    VARCHAR (30)    NULL,
+    [AMOUNT_FREIGHT] NUMERIC (15, 6) NULL
+);
+

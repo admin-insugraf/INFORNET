@@ -1,0 +1,917 @@
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.vbprojResolveAssemblyReference.cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibAlmacenes.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibAlmacenes.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibAlmacenes.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\EntityFramework.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibConexion.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibControlUser.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibComunVar.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibConsultasComun.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibConexion.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibConexion.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibControlUser.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibControlUser.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\EntityFramework.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibComunVar.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibComunVar.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibConsultasComun.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\bin\Debug\LibConsultasComun.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.frmError.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.frmMantAlmacenes.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.bscArticulo.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.bscCliente.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.bscProveedor.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.bwsNotaIngSal.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.frmLineaNotaPedido.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.frmNotaIngSal.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.Resources.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.GenerateResource.Cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Almacen.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Transportista.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Unidad.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibAlmacenes.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibAlmacenes.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibAlmacenes.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\EntityFramework.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibControlUser.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibConsultasComun.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibControlUser.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibControlUser.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\EntityFramework.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibConsultasComun.pdb
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\bin\Debug\LibConsultasComun.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.frmError.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.frmMantAlmacenes.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.bscArticulo.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.bscCliente.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.bscProveedor.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.bwsNotaIngSal.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.frmAgregarLote.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.frmBuscar.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.frmGuiaAnalisis.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.frmLineaNotaPedido.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.frmNotaIngSal.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.Resources.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Almacen.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Transportista.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Unidad.resources
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.dll
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.xml
+Z:\sistema novaq\LUSA\NovaQ_2014-07-14\LibAlmacenes\obj\Debug\LibAlmacenes.pdb
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.dll
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.pdb
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.xml
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.dll
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.dll
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.dll
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.dll
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.dll
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.exe
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.dll
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.dll
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.pdb
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.pdb
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.pdb
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.xml
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.pdb
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.xml
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.xml
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.pdb
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.xml
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmError.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmMantAlmacenes.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscArticulo.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscCliente.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscProveedor.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bwsNotaIngSal.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProductoVencer.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoGuiaAnalisis.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmAgregarLote.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAjusteInventario.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticuloInventario.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmBuscar.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmGuiaAnalisis.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioDocumentos.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoAlmacen.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioValorizadoEmpresa.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmLineaNotaPedido.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmNotaIngSal.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Resources.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRecalculoStock.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_lote.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRevalorizacionInventario.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmTransaccionesArticulo.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Almacen.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Transportista.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Unidad.resources
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.GenerateResource.Cache
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.dll
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.xml
+D:\ALFONSO\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmError.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmMantAlmacenes.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscArticulo.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscCliente.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscProveedor.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Empresa_Transporte.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Tramos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Vehiculo.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena_PT.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Mayor_Venta.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProductoVencer.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoGuiaAnalisis.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmAgregarLote.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAjusteInventario.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticuloInventario.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmBuscar.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmGuiaAnalisis.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioDocumentos.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoAlmacen.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioValorizadoEmpresa.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmLineaNotaPedido.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Resources.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRecalculoStock.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_lote.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRevalorizacionInventario.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmTransaccionesArticulo.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Almacen.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Transportistas.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Transportista.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Unidad.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbprojResolveAssemblyReference.cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmError.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmMantAlmacenes.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscArticulo.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscCliente.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscProveedor.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Empresa_Transporte.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Tramos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Vehiculo.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena_PT.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Mayor_Venta.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProductoVencer.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoGuiaAnalisis.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmAgregarLote.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAjusteInventario.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticuloInventario.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmBuscar.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmGuiaAnalisis.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioDocumentos.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoAlmacen.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioValorizadoEmpresa.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmLineaNotaPedido.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Resources.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRecalculoStock.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_lote.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRevalorizacionInventario.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmTransaccionesArticulo.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Almacen.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Transportistas.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Transportista.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Unidad.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.GenerateResource.Cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\Interop.DllInventario.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.ResolveComReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmError.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmMantAlmacenes.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscArticulo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscCliente.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscProveedor.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmDetalleGuiaAnalisis.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmKardexArticulos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRepMovAlmacen.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStk.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkLotesMensual.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkMensual.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Empresa_Transporte.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Tramos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Vehiculo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena_PT.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Mayor_Venta.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProductoVencer.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoGuiaAnalisis.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmAgregarLote.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAjusteInventario.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticuloInventario.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmBuscar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmGuiaAnalisis.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioDocumentos.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoAlmacen.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioValorizadoEmpresa.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmLineaNotaPedido.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRecalculoStock.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_lote.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRevalorizacionInventario.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmTransaccionesArticulo.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Almacen.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Transportistas.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Transportista.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Unidad.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\Interop.DllInventario.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.ResolveComReference.cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmError.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmMantAlmacenes.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscArticulo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscCliente.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscProveedor.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAuditoria_StockMensual.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmDetalleGuiaAnalisis.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmKardexArticulos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRepMovAlmacen.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_BA.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStk.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkLotesMensual.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkMensual.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Empresa_Transporte.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Tramos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Vehiculo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena_PT.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Mayor_Venta.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProductoVencer.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoGuiaAnalisis.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmAgregarLote.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAjusteInventario.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticuloInventario.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmBuscar.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmGuiaAnalisis.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioDocumentos.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoAlmacen.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioValorizadoEmpresa.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmLineaNotaPedido.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Resources.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRecalculoStock.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_lote.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRevalorizacionInventario.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmTransaccionesArticulo.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Almacen.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Transportistas.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Transportista.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Unidad.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbprojResolveAssemblyReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\Interop.DllInventario.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.ResolveComReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmError.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmMantAlmacenes.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscArticulo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscCliente.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscProveedor.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAuditoria_StockMensual.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmDetalleGuiaAnalisis.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmKardexArticulos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRepMovAlmacen.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_BA.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStk.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkLotesMensual.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkMensual.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Empresa_Transporte.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Tramos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Vehiculo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena_PT.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Mayor_Venta.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProductoVencer.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoGuiaAnalisis.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmAgregarLote.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAjusteInventario.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticuloInventario.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmBuscar.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmGuiaAnalisis.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioDocumentos.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoAlmacen.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioValorizadoEmpresa.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmLineaNotaPedido.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Resources.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRecalculoStock.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_lote.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRevalorizacionInventario.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmTransaccionesArticulo.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Almacen.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Transportistas.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Transportista.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Unidad.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\WSConsultaSUNAT.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\BillService.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\Ionic.Zip.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\itextsharp.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbprojResolveAssemblyReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\Interop.DllInventario.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.ResolveComReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmError.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmMantAlmacenes.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscArticulo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscCliente.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscProveedor.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAuditoria_StockMensual.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmDetalleGuiaAnalisis.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmKardexArticulos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRepMovAlmacen.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_BA.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStk.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkLotesMensual.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkMensual.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Empresa_Transporte.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Tramos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Vehiculo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena_PT.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Mayor_Venta.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProductoVencer.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoGuiaAnalisis.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmAgregarLote.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAjusteInventario.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticuloInventario.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmBuscar.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmGuiaAnalisis.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioDocumentos.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoAlmacen.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioValorizadoEmpresa.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmLineaNotaPedido.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Resources.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRecalculoStock.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_lote.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRevalorizacionInventario.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmTransaccionesArticulo.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Almacen.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Transportistas.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Transportista.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Unidad.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibBillService.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\Newtonsoft.Json.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\Ionic.Zip.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\zxing.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\WSConsultaSUNAT.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbprojResolveAssemblyReference.cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmError.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmMantAlmacenes.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscArticulo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscCliente.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscProveedor.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAuditoria_StockMensual.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmDetalleGuiaAnalisis.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmKardexArticulos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRepMovAlmacen.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_BA.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStk.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkLotesMensual.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkMensual.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Empresa_Transporte.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Tramos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Vehiculo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena_PT.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Mayor_Venta.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProductoVencer.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoGuiaAnalisis.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmAgregarLote.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAjusteInventario.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticuloInventario.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmBuscar.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmGuiaAnalisis.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioDocumentos.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoAlmacen.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioValorizadoEmpresa.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmLineaNotaPedido.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Resources.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRecalculoStock.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_lote.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRevalorizacionInventario.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmTransaccionesArticulo.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Almacen.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Transportistas.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Transportista.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Unidad.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibBillService.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\Newtonsoft.Json.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibActivo.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\Ionic.Zip.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\zxing.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\WSConsultaSUNAT.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibActivo.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibActivo.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbprojResolveAssemblyReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmError.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmMantAlmacenes.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscArticulo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscCliente.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscProveedor.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticulo_Parte_Entrega.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticulo_Parte_Entrega_Quimicos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAuditoria_StockMensual.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmBuscar_Parte_Entrega.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmDetalleGuiaAnalisis.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmKardexArticulos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRepMovAlmacen.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_BA.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStk.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkLotesMensual.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkMensual.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkMensual_Almacen.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Empresa_Transporte.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Tramos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Vehiculo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena_PT.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Mayor_Venta.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProductoVencer.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoGuiaAnalisis.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmAgregarLote.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAjusteInventario.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticuloInventario.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmBuscar.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmGuiaAnalisis.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioDocumentos.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoAlmacen.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioValorizadoEmpresa.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmLineaNotaPedido.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Resources.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRecalculoStock.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_lote.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRevalorizacionInventario.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmTransaccionesArticulo.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Almacen.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Transportistas.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_Parte_Entrega.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Transportista.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Unidad.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibAlmacenes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibBillService.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\Newtonsoft.Json.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibActivo.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\Ionic.Zip.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\zxing.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\WSConsultaSUNAT.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibCobranzas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibCompras.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibControlUser.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibManufactura.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibReportes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibContabilidad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibSeguridad.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibActivo.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibActivo.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibVentas.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\bin\Debug\LibConsultasComun.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbprojResolveAssemblyReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmError.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmMantAlmacenes.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscArticulo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscCliente.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.bscProveedor.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticulo_Parte_Entrega.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticulo_Parte_Entrega_Quimicos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAuditoria_StockMensual.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmBuscar_Parte_Entrega.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmDetalleGuiaAnalisis.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmKardexArticulos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRepMovAlmacen.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_BA.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStk.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkLotesMensual.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkMensual.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmStkMensual_Almacen.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmTransportistaAct_Direcciones.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Empresa_Transporte.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Tramos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Vehiculo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena_PT.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Mayor_Venta.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProducto_Cuarentena.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteProductoVencer.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoGuiaAnalisis.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmAgregarLote.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAjusteInventario.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmAsignarArticuloInventario.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmBuscar.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmGuiaAnalisis.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioDocumentos.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmMovimientoAlmacen.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmInventarioValorizadoEmpresa.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frmLineaNotaPedido.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Resources.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRecalculoStock.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmReporteKardex_lote.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmRevalorizacionInventario.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.FrmTransaccionesArticulo.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Almacen.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_MA_Transportistas.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.Frm_Parte_Entrega.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Transportista.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.frm_Unidad.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibAlmacenes\obj\Debug\LibAlmacenes.pdb

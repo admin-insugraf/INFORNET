@@ -1,0 +1,622 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C572BCB-5B59-403D-A6AF-413DFB212D50}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>LibManufactura</RootNamespace>
+    <AssemblyName>LibManufactura</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LibManufactura.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LibManufactura.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.AcroPDFLib">
+      <HintPath>..\..\Nueva carpeta\AxInterop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.AcroPDFLib">
+      <HintPath>..\..\Nueva carpeta\Interop.AcroPDFLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\ClsBuscar.vb" />
+    <Compile Include="Clases\ClsEntidades.vb" />
+    <Compile Include="Clases\ClsNegocio.vb" />
+    <Compile Include="Clases\ClsOperaciones.vb" />
+    <Compile Include="Clases\ClsTransacciones.vb" />
+    <Compile Include="Clases\SQLHelper.vb" />
+    <Compile Include="ModFunciones.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignacionArticuloAdicional.designer.vb">
+      <DependentUpon>FrmAsignacionArticuloAdicional.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignacionArticuloAdicional.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignarArticulo.designer.vb">
+      <DependentUpon>FrmAsignarArticulo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignarArticulo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignarArticuloLiquidacion.designer.vb">
+      <DependentUpon>FrmAsignarArticuloLiquidacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignarArticuloLiquidacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignarArticulo_MP.designer.vb">
+      <DependentUpon>FrmAsignarArticulo_MP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignarArticulo_MP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignarArticulo_Pt.designer.vb">
+      <DependentUpon>FrmAsignarArticulo_Pt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignarArticulo_Pt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignarDetalle.designer.vb">
+      <DependentUpon>FrmAsignarDetalle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignarDetalle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmControl_Liberacion_Modificar_Prod_PT.Designer.vb">
+      <DependentUpon>FrmControl_Liberacion_Modificar_Prod_PT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmControl_Liberacion_Modificar_Prod_PT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmControl_Liberacion_PT.Designer.vb">
+      <DependentUpon>FrmControl_Liberacion_PT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmControl_Liberacion_PT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmListaPrecios.designer.vb">
+      <DependentUpon>FrmListaPrecios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmListaPrecios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Costeo_Losaro.designer.vb">
+      <DependentUpon>FrmManufactura_Costeo_Losaro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Costeo_Losaro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Formulas.designer.vb">
+      <DependentUpon>FrmManufactura_Formulas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Formulas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignarDetalle_OrdenCompra.Designer.vb">
+      <DependentUpon>FrmAsignarDetalle_OrdenCompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmAsignarDetalle_OrdenCompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frmBuscar.Designer.vb">
+      <DependentUpon>frmBuscar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frmBuscar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Formulas_Consulta.Designer.vb">
+      <DependentUpon>FrmManufactura_Formulas_Consulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Formulas_Consulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Formulas_HC.Designer.vb">
+      <DependentUpon>FrmManufactura_Formulas_HC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Formulas_HC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Generacion_Orden_Fabricacion.designer.vb">
+      <DependentUpon>FrmManufactura_Generacion_Orden_Fabricacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Generacion_Orden_Fabricacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Liquidacion.designer.vb">
+      <DependentUpon>FrmManufactura_Liquidacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Liquidacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_ListaMateriales.designer.vb">
+      <DependentUpon>FrmManufactura_ListaMateriales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_ListaMateriales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Orden_Compra.Designer.vb">
+      <DependentUpon>FrmManufactura_Orden_Compra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Orden_Compra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmControl_Liberacion.Designer.vb">
+      <DependentUpon>FrmControl_Liberacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmControl_Liberacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmControl_Liberacion_Modificar_Prod.Designer.vb">
+      <DependentUpon>FrmControl_Liberacion_Modificar_Prod.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmControl_Liberacion_Modificar_Prod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmEnvioEmail.Designer.vb">
+      <DependentUpon>FrmEnvioEmail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmEnvioEmail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Planeamiento.designer.vb">
+      <DependentUpon>FrmManufactura_Planeamiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Planeamiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Verificacion_Stock.designer.vb">
+      <DependentUpon>FrmManufactura_Verificacion_Stock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmManufactura_Verificacion_Stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Consulta_Ops_Vs_Descargas.Designer.vb">
+      <DependentUpon>Frm_Consulta_Ops_Vs_Descargas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Consulta_Ops_Vs_Descargas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Consulta_Stock.Designer.vb">
+      <DependentUpon>Frm_Consulta_Stock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Consulta_Stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Envio_Email_Rpta_Pre_Flyte.designer.vb">
+      <DependentUpon>Frm_Envio_Email_Rpta_Pre_Flyte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Envio_Email_Rpta_Pre_Flyte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Equipos_Maquinaria.designer.vb">
+      <DependentUpon>Frm_Equipos_Maquinaria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Equipos_Maquinaria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Generar_OP.Designer.vb">
+      <DependentUpon>Frm_Generar_OP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Generar_OP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Generar_Orden_Desarrollo.Designer.vb">
+      <DependentUpon>Frm_Generar_Orden_Desarrollo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Generar_Orden_Desarrollo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Gestion_Muestra_Desarrollo.Designer.vb">
+      <DependentUpon>Frm_Gestion_Muestra_Desarrollo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Gestion_Muestra_Desarrollo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Linea_Produccion.Designer.vb">
+      <DependentUpon>Frm_Linea_Produccion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Linea_Produccion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Liquidar_OP.Designer.vb">
+      <DependentUpon>Frm_Liquidar_OP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Liquidar_OP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_Planta_Act_No_Programada.designer.vb">
+      <DependentUpon>Frm_OP_Planta_Act_No_Programada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_Planta_Act_No_Programada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_PLanta_Bandeja_Despachos.designer.vb">
+      <DependentUpon>Frm_OP_PLanta_Bandeja_Despachos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_PLanta_Bandeja_Despachos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_PLanta_Bandeja_Despachos_Alamax.Designer.vb">
+      <DependentUpon>Frm_OP_PLanta_Bandeja_Despachos_Alamax.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_PLanta_Bandeja_Despachos_Alamax.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_PLanta_Bandeja_Lista_Despachos.Designer.vb">
+      <DependentUpon>Frm_OP_PLanta_Bandeja_Lista_Despachos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_PLanta_Bandeja_Lista_Despachos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_Planta_Bandeja_Mantenimiento_Informes_Tecnico.designer.vb">
+      <DependentUpon>Frm_OP_Planta_Bandeja_Mantenimiento_Informes_Tecnico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_Planta_Bandeja_Mantenimiento_Informes_Tecnico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_PLanta_Bandeja_Programacion_Despachos.Designer.vb">
+      <DependentUpon>Frm_OP_PLanta_Bandeja_Programacion_Despachos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_PLanta_Bandeja_Programacion_Despachos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_PLanta_Bandeja_Programacion_Despachos_Prog_Recojo.Designer.vb">
+      <DependentUpon>Frm_OP_PLanta_Bandeja_Programacion_Despachos_Prog_Recojo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_PLanta_Bandeja_Programacion_Despachos_Prog_Recojo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_Planta_No_Actividad.designer.vb">
+      <DependentUpon>Frm_OP_Planta_No_Actividad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_Planta_No_Actividad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_Planta_Parte_Produccion.designer.vb">
+      <DependentUpon>Frm_OP_Planta_Parte_Produccion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_Planta_Parte_Produccion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_Planta_Preparacion_Especial_Equipo.designer.vb">
+      <DependentUpon>Frm_OP_Planta_Preparacion_Especial_Equipo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_OP_Planta_Preparacion_Especial_Equipo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Personal.Designer.vb">
+      <DependentUpon>Frm_Personal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Personal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Procesos_Produccion.Designer.vb">
+      <DependentUpon>Frm_Procesos_Produccion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Procesos_Produccion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Reporte_BI.designer.vb">
+      <DependentUpon>Frm_Reporte_BI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Reporte_BI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Requerimiento_OP.Designer.vb">
+      <DependentUpon>Frm_Requerimiento_OP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Requerimiento_OP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmAsignacionArticuloAdicional.resx">
+      <DependentUpon>FrmAsignacionArticuloAdicional.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmAsignarArticulo.resx">
+      <DependentUpon>FrmAsignarArticulo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmAsignarArticuloLiquidacion.resx">
+      <DependentUpon>FrmAsignarArticuloLiquidacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmAsignarArticulo_MP.resx">
+      <DependentUpon>FrmAsignarArticulo_MP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmAsignarArticulo_Pt.resx">
+      <DependentUpon>FrmAsignarArticulo_Pt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmAsignarDetalle.resx">
+      <DependentUpon>FrmAsignarDetalle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmControl_Liberacion_Modificar_Prod_PT.resx">
+      <DependentUpon>FrmControl_Liberacion_Modificar_Prod_PT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmControl_Liberacion_PT.resx">
+      <DependentUpon>FrmControl_Liberacion_PT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmListaPrecios.resx">
+      <DependentUpon>FrmListaPrecios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmManufactura_Costeo_Losaro.resx">
+      <DependentUpon>FrmManufactura_Costeo_Losaro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmManufactura_Formulas.resx">
+      <DependentUpon>FrmManufactura_Formulas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmAsignarDetalle_OrdenCompra.resx">
+      <DependentUpon>FrmAsignarDetalle_OrdenCompra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frmBuscar.resx">
+      <DependentUpon>frmBuscar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmManufactura_Formulas_Consulta.resx">
+      <DependentUpon>FrmManufactura_Formulas_Consulta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmManufactura_Formulas_HC.resx">
+      <DependentUpon>FrmManufactura_Formulas_HC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmManufactura_Generacion_Orden_Fabricacion.resx">
+      <DependentUpon>FrmManufactura_Generacion_Orden_Fabricacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmManufactura_Liquidacion.resx">
+      <DependentUpon>FrmManufactura_Liquidacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmManufactura_ListaMateriales.resx">
+      <DependentUpon>FrmManufactura_ListaMateriales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmManufactura_Orden_Compra.resx">
+      <DependentUpon>FrmManufactura_Orden_Compra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmControl_Liberacion.resx">
+      <DependentUpon>FrmControl_Liberacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmControl_Liberacion_Modificar_Prod.resx">
+      <DependentUpon>FrmControl_Liberacion_Modificar_Prod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmEnvioEmail.resx">
+      <DependentUpon>FrmEnvioEmail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmManufactura_Planeamiento.resx">
+      <DependentUpon>FrmManufactura_Planeamiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmManufactura_Verificacion_Stock.resx">
+      <DependentUpon>FrmManufactura_Verificacion_Stock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Consulta_Ops_Vs_Descargas.resx">
+      <DependentUpon>Frm_Consulta_Ops_Vs_Descargas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Consulta_Stock.resx">
+      <DependentUpon>Frm_Consulta_Stock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Envio_Email_Rpta_Pre_Flyte.resx">
+      <DependentUpon>Frm_Envio_Email_Rpta_Pre_Flyte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Equipos_Maquinaria.resx">
+      <DependentUpon>Frm_Equipos_Maquinaria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Generar_OP.resx">
+      <DependentUpon>Frm_Generar_OP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Generar_Orden_Desarrollo.resx">
+      <DependentUpon>Frm_Generar_Orden_Desarrollo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Gestion_Muestra_Desarrollo.resx">
+      <DependentUpon>Frm_Gestion_Muestra_Desarrollo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Linea_Produccion.resx">
+      <DependentUpon>Frm_Linea_Produccion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Liquidar_OP.resx">
+      <DependentUpon>Frm_Liquidar_OP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_OP_Planta_Act_No_Programada.resx">
+      <DependentUpon>Frm_OP_Planta_Act_No_Programada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_OP_PLanta_Bandeja_Despachos.resx">
+      <DependentUpon>Frm_OP_PLanta_Bandeja_Despachos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_OP_PLanta_Bandeja_Despachos_Alamax.resx">
+      <DependentUpon>Frm_OP_PLanta_Bandeja_Despachos_Alamax.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_OP_PLanta_Bandeja_Lista_Despachos.resx">
+      <DependentUpon>Frm_OP_PLanta_Bandeja_Lista_Despachos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_OP_Planta_Bandeja_Mantenimiento_Informes_Tecnico.resx">
+      <DependentUpon>Frm_OP_Planta_Bandeja_Mantenimiento_Informes_Tecnico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_OP_PLanta_Bandeja_Programacion_Despachos.resx">
+      <DependentUpon>Frm_OP_PLanta_Bandeja_Programacion_Despachos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_OP_PLanta_Bandeja_Programacion_Despachos_Prog_Recojo.resx">
+      <DependentUpon>Frm_OP_PLanta_Bandeja_Programacion_Despachos_Prog_Recojo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_OP_Planta_No_Actividad.resx">
+      <DependentUpon>Frm_OP_Planta_No_Actividad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_OP_Planta_Parte_Produccion.resx">
+      <DependentUpon>Frm_OP_Planta_Parte_Produccion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_OP_Planta_Preparacion_Especial_Equipo.resx">
+      <DependentUpon>Frm_OP_Planta_Preparacion_Especial_Equipo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Personal.resx">
+      <DependentUpon>Frm_Personal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Procesos_Produccion.resx">
+      <DependentUpon>Frm_Procesos_Produccion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Reporte_BI.resx">
+      <DependentUpon>Frm_Reporte_BI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Requerimiento_OP.resx">
+      <DependentUpon>Frm_Requerimiento_OP.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LibCobranzas\LibCobranzas.vbproj">
+      <Project>{4d4bb461-3f26-4648-ad3a-e6ffef7238c3}</Project>
+      <Name>LibCobranzas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibComunVar\LibComunVar.vbproj">
+      <Project>{6329a850-1fa1-48cc-8042-e575102bb6b8}</Project>
+      <Name>LibComunVar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibConexion\LibConexion.vbproj">
+      <Project>{c4d1109c-6e79-4de3-9bd4-a071b622a669}</Project>
+      <Name>LibConexion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibReportes\LibReportes.vbproj">
+      <Project>{9ab5ba6b-dce3-4b73-b9d2-ce8479603b87}</Project>
+      <Name>LibReportes</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="DllInventario">
+      <Guid>{CEECC2FD-DC02-4F03-8239-42136B723A90}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\desconocido.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fotos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ppt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\word.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

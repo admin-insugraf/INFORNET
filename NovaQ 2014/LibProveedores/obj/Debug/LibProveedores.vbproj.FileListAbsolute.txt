@@ -1,0 +1,246 @@
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\bin\Debug\LibProveedores.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\bin\Debug\LibProveedores.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\bin\Debug\LibProveedores.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\obj\Debug\LibProveedores.frmError.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\obj\Debug\LibProveedores.frmProvAreas.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\obj\Debug\LibProveedores.Resources.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\obj\Debug\LibProveedores.vbproj.GenerateResource.Cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\obj\Debug\LibProveedores.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\obj\Debug\LibProveedores.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\obj\Debug\LibProveedores.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\bin\Debug\LibConexion.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\bin\Debug\LibReportes.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\bin\Debug\LibComunVar.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\bin\Debug\LibConexion.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\bin\Debug\LibConexion.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\bin\Debug\LibReportes.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\bin\Debug\LibReportes.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\bin\Debug\LibComunVar.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\bin\Debug\LibComunVar.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\obj\Debug\LibProveedores.vbprojResolveAssemblyReference.cache
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\obj\Debug\LibProveedores.frmAyudaVar.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\obj\Debug\LibProveedores.frmRegOrdenCompra.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\obj\Debug\LibProveedores.frmValoresDetalle.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\LibProveedores\obj\Debug\LibProveedores.Resource1.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmAyudaVar.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmError.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmProvAreas.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmPrueba.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmRegOrdenCompra.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmValoresDetalle.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resources.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resource1.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbprojResolveAssemblyReference.cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmAyudaVar.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmError.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmProvAreas.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmPrueba.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmRegOrdenCompra.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmValoresDetalle.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resources.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resource1.resources
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbproj.GenerateResource.Cache
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.dll
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.xml
+X:\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmAyudaVar.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmError.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmProvAreas.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmPrueba.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmRegOrdenCompra.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmValoresDetalle.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resource1.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.pdb
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmAyudaVar.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmError.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmProvAreas.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmPrueba.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmRegOrdenCompra.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmValoresDetalle.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resources.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resource1.resources
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.dll
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.xml
+Z:\sistema novaq\LUSA\FUENTES LUSA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbprojResolveAssemblyReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmAyudaVar.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmError.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmProvAreas.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmPrueba.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmRegOrdenCompra.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmValoresDetalle.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resources.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resource1.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbprojResolveAssemblyReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmAyudaVar.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmError.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmProvAreas.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmPrueba.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmRegOrdenCompra.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmValoresDetalle.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resources.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resource1.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmAyudaVar.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmError.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmProvAreas.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmPrueba.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmRegOrdenCompra.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmValoresDetalle.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resources.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resource1.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbprojResolveAssemblyReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmAyudaVar.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmError.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmProvAreas.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmPrueba.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmRegOrdenCompra.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmValoresDetalle.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resources.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resource1.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbprojResolveAssemblyReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmAyudaVar.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmError.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmProvAreas.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmPrueba.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmRegOrdenCompra.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmValoresDetalle.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resources.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resource1.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.pdb

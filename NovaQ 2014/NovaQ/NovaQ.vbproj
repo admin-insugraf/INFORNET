@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{60E70347-D22F-4AD4-8746-55A3F4B86A31}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sub Main</StartupObject>
+    <RootNamespace>AppNovaQ</RootNamespace>
+    <AssemblyName>INFORNET</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>INFORNET.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>INFORNET.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icono sistema.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAccesoUsuario.Designer.vb">
+      <DependentUpon>frmAccesoUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccesoUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmError.Designer.vb">
+      <DependentUpon>frmError.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmError.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin2.designer.vb">
+      <DependentUpon>FrmLogin2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.vb">
+      <DependentUpon>frmMenu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTipoCambio.Designer.vb">
+      <DependentUpon>frmTipoCambio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipoCambio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModActivo.vb" />
+    <Compile Include="ModAdministracion.vb" />
+    <Compile Include="ModAlmacenes.vb" />
+    <Compile Include="ModBas.vb" />
+    <Compile Include="ModCajaChica.vb" />
+    <Compile Include="ModCobranzas.vb" />
+    <Compile Include="ModCompras.vb" />
+    <Compile Include="ModContabilidad.vb" />
+    <Compile Include="ModManufactura.vb" />
+    <Compile Include="ModPrincipal.vb" />
+    <Compile Include="ModProveedores.vb" />
+    <Compile Include="ModVentas.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Resource1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAccesoUsuario.resx">
+      <DependentUpon>frmAccesoUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmError.resx">
+      <DependentUpon>frmError.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin2.resx">
+      <DependentUpon>FrmLogin2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTipoCambio.resx">
+      <DependentUpon>frmTipoCambio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource1.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CustomConfigFile.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Resources\App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Reportes\Sal_Orders.rpt" />
+    <None Include="Reportes\Sal_Receivable.rpt" />
+    <None Include="Reportes\Ven_CCost.rpt" />
+    <None Include="Reportes\Ven_Lista_Areas.rpt" />
+    <None Include="Resources\updateINFORNET.bat" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClsConsultasComun\LibConsultasComun.vbproj">
+      <Project>{6d80006f-a771-461d-a18d-656c2f10607e}</Project>
+      <Name>LibConsultasComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibActivo\LibActivo.vbproj">
+      <Project>{190b5a92-3d70-4524-a715-afd2de2cff9c}</Project>
+      <Name>LibActivo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibAdministracion\LibAdministracion.vbproj">
+      <Project>{9f39b319-15ac-48ee-9082-1880ef457052}</Project>
+      <Name>LibAdministracion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibAlmacenes\LibAlmacenes.vbproj">
+      <Project>{d89759b8-0cfe-47e0-89da-d4812b74344e}</Project>
+      <Name>LibAlmacenes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibCajaChica\LibCajaChica.vbproj">
+      <Project>{67ac0771-9ced-42a7-b862-563710e24455}</Project>
+      <Name>LibCajaChica</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibCobranzas\LibCobranzas.vbproj">
+      <Project>{4d4bb461-3f26-4648-ad3a-e6ffef7238c3}</Project>
+      <Name>LibCobranzas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibCompras\LibCompras.vbproj">
+      <Project>{3a80c8c7-c160-41c5-a285-3955345c82e8}</Project>
+      <Name>LibCompras</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibComunVar\LibComunVar.vbproj">
+      <Project>{6329a850-1fa1-48cc-8042-e575102bb6b8}</Project>
+      <Name>LibComunVar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibConexion\LibConexion.vbproj">
+      <Project>{c4d1109c-6e79-4de3-9bd4-a071b622a669}</Project>
+      <Name>LibConexion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibContabilidad\LibContabilidad.vbproj">
+      <Project>{10273af9-6687-40c1-a70a-325a94fbe4d4}</Project>
+      <Name>LibContabilidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibManufactura\LibManufactura.vbproj">
+      <Project>{9c572bcb-5b59-403d-a6af-413dfb212d50}</Project>
+      <Name>LibManufactura</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibProveedores\LibProveedores.vbproj">
+      <Project>{15daa950-c171-4929-9436-4c1ec96ad2ca}</Project>
+      <Name>LibProveedores</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibSeguridad\LibSeguridad.vbproj">
+      <Project>{135b907b-6fb3-40c1-b32d-b36c58398361}</Project>
+      <Name>LibSeguridad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibVentas\LibVentas.vbproj">
+      <Project>{44e389f6-39a2-45e0-be84-57da797f0f58}</Project>
+      <Name>LibVentas</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="claveApp.txt" />
+    <Content Include="icono sistema.ico" />
+    <Content Include="Imagenes\LOGONOVAQ.jpg" />
+    <None Include="Resources\TCambio.png" />
+    <None Include="Resources\undo-26.png" />
+    <None Include="Resources\search-26.png" />
+    <None Include="Resources\refresh-26.png" />
+    <None Include="Resources\left-26.png" />
+    <None Include="Resources\left_round-26.png" />
+    <None Include="Resources\imprimir.png" />
+    <None Include="Resources\grabar.png" />
+    <None Include="Resources\find_user-26.png" />
+    <None Include="Resources\exit-26.png" />
+    <None Include="Resources\edit-26.png" />
+    <None Include="Resources\delete-26.png" />
+    <None Include="Resources\checkmark-26.png" />
+    <None Include="Resources\cancelar.png" />
+    <None Include="Resources\bill-26.png" />
+    <None Include="Resources\Alert 16.ico" />
+    <None Include="Resources\add_list-26.png" />
+    <None Include="Resources\add_folder-26.png" />
+    <None Include="Resources\add_file-26.png" />
+    <None Include="Resources\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Clases\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

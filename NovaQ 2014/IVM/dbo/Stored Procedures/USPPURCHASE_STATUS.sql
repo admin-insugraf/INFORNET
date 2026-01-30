@@ -1,0 +1,33 @@
+﻿
+CREATE PROCEDURE [dbo].[USPPURCHASE_STATUS]
+@SW     Int,
+@ID    varchar(2),
+@DESCRIPTION    varchar(40)
+AS 
+BEGIN TRANSACTION
+
+--****** I N S E R T A N D O   L O S    D A T O S *****--
+IF @SW = 1 
+
+          INSERT INTO dbo.PURCHASE_STATUS(
+ID , DESCRIPTION)
+VALUES (
+@ID , @DESCRIPTION)
+
+--***** A C T U A L I Z A N D O   L O S    D A T O S *****--
+IF @SW = 2 
+          UPDATE dbo.PURCHASE_STATUS
+          SET
+DESCRIPTION = @DESCRIPTION
+WHERE ID = @ID
+
+--***** E L I M I N A N D O   L O S    D A T O S *****--
+IF @SW = 3
+DELETE FROM  dbo.PURCHASE_STATUS
+WHERE ID = @ID
+
+
+IF @@ERROR <> 0
+          ROLLBACK TRANSACTION
+ELSE
+          COMMIT TRANSACTION

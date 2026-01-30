@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[CONFIGBK] (
+    [NOMBREBD] VARCHAR (50)  NOT NULL,
+    [RUTA]     VARCHAR (100) NULL,
+    [FECHAACT] CHAR (10)     NULL
+);
+

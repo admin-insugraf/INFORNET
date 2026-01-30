@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[HELP_PART] (
+    [NAME_FIELD]        VARCHAR (80) NULL,
+    [DESCRIPTION_FIELD] VARCHAR (80) NULL,
+    [WIDTH_FIELD]       INT          NULL
+);
+

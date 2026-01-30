@@ -1,0 +1,6 @@
+﻿CREATE PROC [dbo].[REC_CONCEPTO_COBRANZA_pay]  
+as  
+ DECLARE @STRcadena NVARCHAR(100)  
+ SET @STRcadena='SELECT * FROM TYPE_RECEIVE_pay'  
+  
+ exec SP_EXECUTESQL @STRcadena  

@@ -1,0 +1,19 @@
+﻿CREATE TABLE [dbo].[USUARIOS] (
+    [CODUSUARIO]         VARCHAR (8)   NOT NULL,
+    [CODEMPRESA]         VARCHAR (3)   NOT NULL,
+    [TIPUSUARIO]         VARCHAR (50)  NULL,
+    [PASSUSUARIO]        VARCHAR (8)   NULL,
+    [NOMUSUARIO]         VARCHAR (50)  NULL,
+    [FECCREAUSUARIO]     SMALLDATETIME NULL,
+    [USERCREAUSUARIO]    VARCHAR (8)   NULL,
+    [PTOVTAUSUARIO]      VARCHAR (2)   NULL,
+    [VENDUSUARIO]        VARCHAR (2)   NULL,
+    [NIVEL_ACCESO]       VARCHAR (2)   NULL,
+    [FECHA_INICIO]       DATE          NULL,
+    [FECHA_FIN]          DATE          NULL,
+    [ESTADO]             VARCHAR (1)   NULL,
+    [FECHA_MODIFICACION] DATE          NULL
+);
+
+
+

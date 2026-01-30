@@ -1,0 +1,15 @@
+﻿CREATE TABLE [dbo].[PROYECT] (
+    [ID]                VARCHAR (20)    NOT NULL,
+    [DESCRIPTION]       TEXT            NULL,
+    [DATE_BEGIN]        DATETIME        NULL,
+    [DATE_END]          DATETIME        NULL,
+    [CUSTOMER_ID]       VARCHAR (11)    NULL,
+    [STAGES_OF_PROJECT] VARCHAR (100)   NULL,
+    [STAGE_CURRENT]     VARCHAR (100)   NULL,
+    [TAKEN_CHARGE]      VARCHAR (50)    NULL,
+    [COST_APROX]        NUMERIC (21, 9) NULL,
+    [CURRENCY_ID]       VARCHAR (2)     NULL,
+    [STATUS]            VARCHAR (20)    NULL,
+    CONSTRAINT [PK_PROYECT] PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+

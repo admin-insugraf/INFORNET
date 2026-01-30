@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3A80C8C7-C160-41C5-A285-3955345C82E8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>LibCompras</RootNamespace>
+    <AssemblyName>LibCompras</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LibCompras.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LibCompras.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="LibBillService, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\LibBillService.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\LUSA\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WSConsultaSUNAT, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\WSConsultaSUNAT.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\zxing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\ClsBuscar.vb" />
+    <Compile Include="Clases\ClsEntidades.vb" />
+    <Compile Include="Clases\ClsOperaciones.vb" />
+    <Compile Include="Clases\ClsTransacciones.vb" />
+    <Compile Include="Clases\prop.vb" />
+    <Compile Include="InputHandler.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Ventanas\FrmBuscar_DetalleCajaChica.Designer.vb">
+      <DependentUpon>FrmBuscar_DetalleCajaChica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmBuscar_DetalleCajaChica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmConsulta_OrdenCompra.designer.vb">
+      <DependentUpon>FrmConsulta_OrdenCompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmConsulta_OrdenCompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmDetallesRequisiciones.Designer.vb">
+      <DependentUpon>FrmDetallesRequisiciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmDetallesRequisiciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmGuia_Devolucion.designer.vb">
+      <DependentUpon>FrmGuia_Devolucion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmGuia_Devolucion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmMorosidadPagos.Designer.vb">
+      <DependentUpon>FrmMorosidadPagos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmMorosidadPagos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmPagosSemanal.Designer.vb">
+      <DependentUpon>FrmPagosSemanal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmPagosSemanal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmProyeccionPagos.Designer.vb">
+      <DependentUpon>FrmProyeccionPagos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmProyeccionPagos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmRegComprasPagos.Designer.vb">
+      <DependentUpon>FrmRegComprasPagos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmRegComprasPagos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmReporte_OrdenesPagos.Designer.vb">
+      <DependentUpon>FrmReporte_OrdenesPagos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmReporte_OrdenesPagos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmRepPagosDiario.Designer.vb">
+      <DependentUpon>FrmRepPagosDiario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmRepPagosDiario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmRequisiciones_Imprenta.Designer.vb">
+      <DependentUpon>FrmRequisiciones_Imprenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmRequisiciones_Imprenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmRequisiciones_Materiales.designer.vb">
+      <DependentUpon>FrmRequisiciones_Materiales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmRequisiciones_Materiales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmValida_CPE.designer.vb">
+      <DependentUpon>FrmValida_CPE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmValida_CPE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Compras_Importacion.Designer.vb">
+      <DependentUpon>Frm_Compras_Importacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Compras_Importacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Consulta_requisiones.Designer.vb">
+      <DependentUpon>Frm_Consulta_requisiones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Consulta_requisiones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Orden_Servicio.Designer.vb">
+      <DependentUpon>Frm_Orden_Servicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Orden_Servicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Orden_Servicio_Imprenta.Designer.vb">
+      <DependentUpon>Frm_Orden_Servicio_Imprenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Orden_Servicio_Imprenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Registro_Licitaciones.Designer.vb">
+      <DependentUpon>Frm_Registro_Licitaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Registro_Licitaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Reporte_Proveedor_Producto.Designer.vb">
+      <DependentUpon>Frm_Reporte_Proveedor_Producto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Reporte_Proveedor_Producto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_rep_cuadro_comparativo.Designer.vb">
+      <DependentUpon>Frm_rep_cuadro_comparativo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_rep_cuadro_comparativo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmArea.Designer.vb">
+      <DependentUpon>FrmArea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmArea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmAreaDetalleSolicitante.Designer.vb">
+      <DependentUpon>FrmAreaDetalleSolicitante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmAreaDetalleSolicitante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmRegCompras.Designer.vb">
+      <DependentUpon>FrmRegCompras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmRegCompras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmSolicitudCotizacion.Designer.vb">
+      <DependentUpon>FrmSolicitudCotizacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmSolicitudCotizacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Compras.Designer.vb">
+      <DependentUpon>Frm_Compras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Compras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frmBuscar.Designer.vb">
+      <DependentUpon>frmBuscar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frmBuscar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\frmLog.Designer.vb">
+      <DependentUpon>frmLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\frmLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Orden_Compra.Designer.vb">
+      <DependentUpon>Frm_Orden_Compra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Orden_Compra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\FrmRequisiones.Designer.vb">
+      <DependentUpon>FrmRequisiones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\FrmRequisiones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\ModFunciones.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmBuscar_DetalleCajaChica.resx">
+      <DependentUpon>FrmBuscar_DetalleCajaChica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmConsulta_OrdenCompra.resx">
+      <DependentUpon>FrmConsulta_OrdenCompra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmDetallesRequisiciones.resx">
+      <DependentUpon>FrmDetallesRequisiciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmGuia_Devolucion.resx">
+      <DependentUpon>FrmGuia_Devolucion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmMorosidadPagos.resx">
+      <DependentUpon>FrmMorosidadPagos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmPagosSemanal.resx">
+      <DependentUpon>FrmPagosSemanal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmProyeccionPagos.resx">
+      <DependentUpon>FrmProyeccionPagos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmRegComprasPagos.resx">
+      <DependentUpon>FrmRegComprasPagos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmRepPagosDiario.resx">
+      <DependentUpon>FrmRepPagosDiario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmRequisiciones_Imprenta.resx">
+      <DependentUpon>FrmRequisiciones_Imprenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmRequisiciones_Materiales.resx">
+      <DependentUpon>FrmRequisiciones_Materiales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmValida_CPE.resx">
+      <DependentUpon>FrmValida_CPE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Compras_Importacion.resx">
+      <DependentUpon>Frm_Compras_Importacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Consulta_requisiones.resx">
+      <DependentUpon>Frm_Consulta_requisiones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Orden_Servicio.resx">
+      <DependentUpon>Frm_Orden_Servicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Orden_Servicio_Imprenta.resx">
+      <DependentUpon>Frm_Orden_Servicio_Imprenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Registro_Licitaciones.resx">
+      <DependentUpon>Frm_Registro_Licitaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Reporte_Proveedor_Producto.resx">
+      <DependentUpon>Frm_Reporte_Proveedor_Producto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_rep_cuadro_comparativo.resx">
+      <DependentUpon>Frm_rep_cuadro_comparativo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmArea.resx">
+      <DependentUpon>FrmArea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmAreaDetalleSolicitante.resx">
+      <DependentUpon>FrmAreaDetalleSolicitante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmRegCompras.resx">
+      <DependentUpon>FrmRegCompras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmSolicitudCotizacion.resx">
+      <DependentUpon>FrmSolicitudCotizacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Compras.resx">
+      <DependentUpon>Frm_Compras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frmBuscar.resx">
+      <DependentUpon>frmBuscar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\frmLog.resx">
+      <DependentUpon>frmLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Orden_Compra.resx">
+      <DependentUpon>Frm_Orden_Compra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\FrmRequisiones.resx">
+      <DependentUpon>FrmRequisiones.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Ventanas\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Outlook">
+      <Guid>{00062FFF-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LibCobranzas\LibCobranzas.vbproj">
+      <Project>{4d4bb461-3f26-4648-ad3a-e6ffef7238c3}</Project>
+      <Name>LibCobranzas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibComunVar\LibComunVar.vbproj">
+      <Project>{6329a850-1fa1-48cc-8042-e575102bb6b8}</Project>
+      <Name>LibComunVar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibConexion\LibConexion.vbproj">
+      <Project>{c4d1109c-6e79-4de3-9bd4-a071b622a669}</Project>
+      <Name>LibConexion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibContabilidad\LibContabilidad.vbproj">
+      <Project>{10273af9-6687-40c1-a70a-325a94fbe4d4}</Project>
+      <Name>LibContabilidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibManufactura\LibManufactura.vbproj">
+      <Project>{9c572bcb-5b59-403d-a6af-413dfb212d50}</Project>
+      <Name>LibManufactura</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibReportes\LibReportes.vbproj">
+      <Project>{9ab5ba6b-dce3-4b73-b9d2-ce8479603b87}</Project>
+      <Name>LibReportes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibVentas\LibVentas.vbproj">
+      <Project>{44e389f6-39a2-45e0-be84-57da797f0f58}</Project>
+      <Name>LibVentas</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

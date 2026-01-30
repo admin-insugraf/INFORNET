@@ -1,0 +1,74 @@
+﻿--exec dbo.INV_RPT_NOTA_ING_SAL '01', 'NI', '0000000007'
+
+CREATE procedure [dbo].[INV_RPT_NOTA_ING_SAL]          
+ @almacen char(2),          
+ @tipo char(2),          
+ @numero char(10)           
+as          
+ declare @STRquery nvarchar(4000)          
+ set @STRquery='select D.WAREHOUSE_ID,D.DOCUMENT_ID,D.NUMBER_DOCUMENT,D.ITEM,
+  D.PART_ID,D.REF_ID,D.QTY,D.QTY_DLV,D.QTY_REF,D.QTY_INVOICED,D.NUM_ORDER,D.UNIT_PRICE,D.AVERAGE_COST,D.AMOUNT_SALES,D.DISCOUNT,D.STOCK,D.AMOUNT_TAX,          
+  D.AMOUNT,D.AMOUNT_US,D.NUMBER_SERIE,D.STATUS_DOC,convert(varchar(10),D.DATE_DOC,103) as DATE_DOC,
+  D.CCOST_ID,D.WAREHOUSE_REF,D.TEXT_COMMENT,D.STATUS,D.TRANS_ID,D.VAL_AMOUNT,D.NUM_VOUCHER,
+  D.CURRENCY_ID,D.TYPE,D.TYPE_EXCHANGE,D.PRICE_SALES,D.TOTAL_SALES,
+  D.DATE_CADUCATE,D.RETURN_AMOUNT,D.AUTHORIZED,D.PART_DESCRIPTION,
+  D.DISCOUNT_PERCENT,D.TAX_PERCENT,D.DISCOUNT_CUST,D.DISCOUNT_SP,
+  D.NUMBER_INVOICE,D.NUMBER_LOT,D.UNIT_PART,D.QTY_BRUTE,D.DISCOUNT_PER_QTY,
+  D.FREIGTH, D.ITEMI, D.COMMENT, D.STATUS_VALUE, D.UNIT_REFERENCE,
+  D.QTY_REFERENCE, C.WAREHOUSE_ID as ALMACEN,C.DOCUMENT_ID AS DOCUMENTO,
+  C.NUMBER_DOCUMENT AS NUMERO,convert(varchar(10),C.DATE_DOCUMENT,103) as DATE_DOCUMENT,C.TYPE_TRANS,C.TRANS_ID,
+  C.DOCUMENT_STATUS,C.DOC_ID_REF,C.NUM_ID_REF,C.AUTORIZED_ID,C.DATE_RETURN,
+  C.VENDOR_ID,C.CCOST_ID,C.WAREHOUSE_REF,C.COMMENT as COMENTARIO,C.UPDATE_DATE,
+  C.HOUR,C.USER_ID,C.CUSTOMER_ID,C.VAT_REGISTRATION,C.CUSTOMER_NAME,
+  C.SALES_TERM,C.CURRENCY_TYPE,C.SALES_ID,C.CURRENCY_EXCHANGE,C.TYPE_GUIA,
+  C.STATUS_GUIA,C.RECEIVABLE_GUIA,C.ADDR_DLV,C.CARRIER_ID,C.NUMBER_PURCHASE,
+  C.IS_GUIA_RETURN,C.VENDOR_NAME,C.NUMBER_ORDER,C.NUMBER_ESTIMATING,
+  C.DISCOUNT_PER_CUST,C.DISCOUNT_PER_SP,C.AMOUNT,C.CARRIER_NAME,C.CARRIER_ADDR,
+  C.CARRIER_VAT,C.NUMBER_REGISTRATION,C.NUMBER_IMPORT,C.NUMBER_LIQ,
+  C.PRINTER_STATUS,C.STATUS_CLOSE,C.TYPE_SHIPPER,C.ZONE_FREIGHT,C.IS_GUIA,
+  C.IS_POST,C.FREIGHT,C.ORDER_REF,C.COST, T.NAME,P.NAME as NOMPROVE,
+  M.ID as CODCLI,M.NAME as NOMCLI,tt.NAME as NAMETRANS,
+  A.DESCRIPTION as NOMPARTE,A.ID_FAB,A.DESCRIPTION_OPT,
+  A.UNIT_OF_MEASUREMENT,A.WEIGHT,A.REFERENCE as UMR,S.ID as CODCENCOS,
+  S.NAME as NOMCENCOS,T1.NAME AS ALMACENOPT,D.ACCOUNT
+  ,PJ.ID AS COD_PRO,PJ.DESCRIPTION AS DES_PRO,D.PROJECT_ID,LT.CADUCATE_DATE AS FEC_VEN_LOT,
+ cr.VAT_REGISTRATION as tran_ruc,
+ cr.NUMBER_DOCUMENT as tran_dni,
+ cr.NAME_CARRIER as tran_nombre,
+ cr.ADDR as tran_dir,cr.PHONE as tran_telefo,
+ cr.NUMBER_REGISTRATION as tran_placa,
+ cr.NUMBER_LICENsE  as tran_brevete,
+ cr.MODEL_VEH as tran_modelo,
+ cr.NUMBER_INSCRIP as tran_num_inscrip,cr.NAME as tran_razon_social,
+ cr.vat_registration_comp as tran_Empruc,
+ cr.addr_comp as tran_Empdir,
+ cr.phone_comp as tran_Emptelefono,
+ tr.description as alm_tramo_des,
+ c.addr_dlv as alm_clidirEntrega,
+ m.addr as cli_direccion,
+ m.addr_dlv as cli_direEntrega,
+vh.placa,
+vh.marca,
+vh.modelo,
+vh.capacidad,
+et.razon_social,
+et.ruc from WAREHOUSE_TRANS C 
+  inner join WAREHOUSE_TRANS_LINE D on C.WAREHOUSE_ID=D.WAREHOUSE_ID and C.DOCUMENT_ID=D.DOCUMENT_ID and C.NUMBER_DOCUMENT=D.NUMBER_DOCUMENT           
+  inner join WAREHOUSE T on C.WAREHOUSE_ID=T.ID           
+  left join WAREHOUSE T1 on C.WAREHOUSE_REF=T1.ID            
+  inner join TRANSACTION_TYPE TT on C.TYPE_TRANS=TT.TYPE_ID and C.TRANS_ID=TT.MOV_ID           
+  left join CUSTOMER M on c.CUSTOMER_ID=M.ID           
+  inner join PART A on D.PART_ID=A.ID            
+  left join VENDOR P on C.VENDOR_ID=P.ID            
+  left JOIN CCOST S  ON D.CCOST_ID=S.ID           
+  LEFT JOIN PROYECT PJ ON PJ.ID=C.PROJECT_ID       
+  LEFT JOIN LOT LT ON LT.PART_ID=D.PART_ID AND LT.WHO_ID=D.WAREHOUSE_ID AND LT.LOT_ID=D.NUMBER_LOT    
+  left join carrier cr on cr.id=c.carrier_id     
+ left join tramas tr on c.trama_id=tr.id    
+left join vehiculos vh on c.VEHICULO_ID=vh.codigo   
+left join emp_Transporte et on c.EMPTRA_ID=et.codigo  
+  
+  where C.WAREHOUSE_ID=@almacen and C.DOCUMENT_ID=@tipo and C.NUMBER_DOCUMENT=@numero'          
+  exec sp_executesql @STRquery,N'@almacen char(2),@tipo char(2),@numero char(10)',@almacen,@tipo,@numero          
+  print @STRquery    
+  

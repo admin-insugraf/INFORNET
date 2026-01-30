@@ -1,0 +1,143 @@
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\bin\Debug\LibConsultasComun.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\bin\Debug\LibConsultasComun.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\bin\Debug\LibConsultasComun.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\bin\Debug\LibConexion.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\bin\Debug\LibComunVar.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\bin\Debug\LibConexion.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\bin\Debug\LibConexion.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\bin\Debug\LibComunVar.pdb
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\bin\Debug\LibComunVar.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\obj\Debug\LibConsultasComun.vbprojResolveAssemblyReference.cache
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\obj\Debug\LibConsultasComun.frmError.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\obj\Debug\LibConsultasComun.Resources.resources
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\obj\Debug\LibConsultasComun.vbproj.GenerateResource.Cache
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\obj\Debug\LibConsultasComun.dll
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\obj\Debug\LibConsultasComun.xml
+D:\Fuentes\EnovaQ\Main\NovaQ\ClsConsultasComun\obj\Debug\LibConsultasComun.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.pdb
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbprojResolveAssemblyReference.cache
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.frmError.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.Resources.resources
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbproj.GenerateResource.Cache
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.dll
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.xml
+Z:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.dll
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.xml
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.dll
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.dll
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.xml
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.pdb
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.xml
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbprojResolveAssemblyReference.cache
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.frmError.resources
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.Resources.resources
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbproj.GenerateResource.Cache
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.dll
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.xml
+X:\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.pdb
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbprojResolveAssemblyReference.cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.frmError.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.Resources.resources
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbproj.GenerateResource.Cache
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.dll
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.xml
+D:\ALFONSO\SISTEMAS NOVAQ 2015\sistema novaq\LUSA\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.pdb
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbprojResolveAssemblyReference.cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.frmError.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.Resources.resources
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbproj.GenerateResource.Cache
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.dll
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.xml
+D:\CORPORACION ANITA\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.pdb
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbprojResolveAssemblyReference.cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.frmError.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.Resources.resources
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbproj.GenerateResource.Cache
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.dll
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.xml
+D:\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.pdb
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.frmError.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.Resources.resources
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbproj.GenerateResource.Cache
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.dll
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.xml
+D:\fuentes AWCR\D\INSUGRAF\ANITA\fuentes novaq 2012\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.pdb
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbprojResolveAssemblyReference.cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.frmError.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.Resources.resources
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbproj.GenerateResource.Cache
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.dll
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.xml
+X:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.pdb
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbprojResolveAssemblyReference.cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.frmError.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.Resources.resources
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbproj.GenerateResource.Cache
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.dll
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.xml
+Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.pdb

@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[CO_TB_GRUPOBG_CUENTAS] (
+    [GC_IDGRUPO]  INT          NULL,
+    [GC_IDCUENTA] VARCHAR (20) NULL
+);
+

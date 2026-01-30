@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[STOCK_FISPRO] (
+    [ID_ALMA] VARCHAR (3)   NULL,
+    [ID_ART]  VARCHAR (50)  NULL,
+    [ARTDES]  VARCHAR (300) NULL,
+    [STKSIS]  INT           NULL
+);
+

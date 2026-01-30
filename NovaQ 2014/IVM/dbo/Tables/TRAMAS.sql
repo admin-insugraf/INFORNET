@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[TRAMAS] (
+    [ID]          VARCHAR (50)   NULL,
+    [DESCRIPTION] VARCHAR (3000) NULL
+);
+

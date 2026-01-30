@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[EXE] (
+    [ID_EXE]   VARCHAR (10)  NOT NULL,
+    [NAME_EXE] VARCHAR (80)  NULL,
+    [PATH_EXE] VARCHAR (150) NULL
+);
+

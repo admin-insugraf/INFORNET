@@ -1,0 +1,170 @@
+﻿CREATE PROCEDURE  ACT_QTY_LOTE_2010   
+@ALMACEN VARCHAR(10)    
+AS   
+DECLARE @PNUM_ALMACEN VARCHAR(2)  
+
+UPDATE dbo.PART_QTY SET QTY_ON_HAND=0
+  
+DECLARE RECORRE_ALMACEN CURSOR FOR  
+ SELECT ID FROM WAREHOUSE ORDER BY ID  
+OPEN RECORRE_ALMACEN  
+FETCH NEXT FROM RECORRE_ALMACEN  
+INTO @PNUM_ALMACEN  
+WHILE @@FETCH_STATUS=0  
+ BEGIN  
+--=====================================================================  
+-- 1. CREAR TABLA TEMPORAL DE DATOS FILTRADOS (INGRESOS)  
+--=====================================================================  
+IF EXISTS (SELECT * FROM DBO.SYSOBJECTS WHERE ID = OBJECT_ID(N'[DBO].[TABI]') AND OBJECTPROPERTY(ID, N'ISTABLE') = 1)    
+DROP TABLE [DBO].[TABI]    
+CREATE TABLE TABI (  
+WAREHOUSE_ID VARCHAR(30)  NULL,  
+ID VARCHAR(30) NULL,  
+NUMBER_LOT VARCHAR(30) NULL,  
+QTY DECIMAL(22,9))    
+--=====================================================================    
+-- 2. CREAR TABLA TEMPORAL DE DATOS FILTRADOS   (SALIDAS)  
+--=====================================================================   
+IF EXISTS (SELECT * FROM DBO.SYSOBJECTS WHERE ID = OBJECT_ID(N'[DBO].[TABS]') AND OBJECTPROPERTY(ID, N'ISTABLE') = 1)    
+DROP TABLE [DBO].[TABS]     
+CREATE TABLE TABS (WAREHOUSE_ID VARCHAR(30)  NULL,  
+ID VARCHAR(30) NULL,  
+NUMBER_LOT VARCHAR(30) NULL,  
+QTY DECIMAL(22,9))    
+--=====================================================================     
+-- CASO 1: INCERTAR DATOS DE INGRESO  EN LA TABLAS DE INGRESOS  
+--=====================================================================   
+INSERT INTO TABI   
+(  
+WAREHOUSE_ID,  
+ID,  
+NUMBER_LOT,  
+QTY  
+)     
+SELECT   
+WT.WAREHOUSE_ID ,   
+P.ID ,  
+'',  
+SUM(WL.QTY) AS QTY     
+FROM WAREHOUSE_TRANS WT   
+INNER JOIN WAREHOUSE_TRANS_LINE WL    
+ON WT.WAREHOUSE_ID=WL.WAREHOUSE_ID AND WT.DOCUMENT_ID=WL.DOCUMENT_ID AND WT.NUMBER_DOCUMENT=WL.NUMBER_DOCUMENT   
+INNER JOIN  PART P    
+ON P.ID=WL.PART_ID   
+WHERE WT.TYPE_TRANS='I'   AND WT.WAREHOUSE_ID=@PNUM_ALMACEN AND  WT.TRANS_ID<>'GF' AND WT.STATUS_GUIA<>'A'  
+GROUP BY WT.WAREHOUSE_ID , P.ID
+ORDER BY p.ID      
+--=====================================================================   
+-- CASO 2: INCERTAR DATOS DE SALIDA  EN LA TABLA DE SALIDAS  
+--=====================================================================    
+INSERT INTO TABS   
+(  
+WAREHOUSE_ID,  
+ID,  
+NUMBER_LOT,  
+QTY  
+)     
+SELECT   
+WT.WAREHOUSE_ID ,   
+P.ID ,  
+'',  
+SUM(WL.QTY) AS QTY     
+FROM WAREHOUSE_TRANS WT   
+INNER JOIN WAREHOUSE_TRANS_LINE WL    
+ON WT.WAREHOUSE_ID=WL.WAREHOUSE_ID AND WT.DOCUMENT_ID=WL.DOCUMENT_ID AND WT.NUMBER_DOCUMENT=WL.NUMBER_DOCUMENT   
+INNER JOIN  PART P    
+ON P.ID=WL.PART_ID   
+WHERE WT.TYPE_TRANS='S' AND WT.WAREHOUSE_ID=@PNUM_ALMACEN AND  WT.TRANS_ID<>'GF' AND WT.STATUS_GUIA<>'A'  
+GROUP BY WT.WAREHOUSE_ID , P.ID 
+ORDER BY p.ID    
+--=====================================================================     
+-- 3. CREAR TABLA DE RESULTADOS    
+--=====================================================================   
+IF EXISTS (SELECT * FROM DBO.SYSOBJECTS WHERE ID = OBJECT_ID(N'[DBO].[TAB2]') AND OBJECTPROPERTY(ID, N'ISTABLE') = 1)    
+DROP TABLE [DBO].[TAB2]    
+CREATE TABLE TAB2 (  
+WAREHOUSE_ID VARCHAR(30)  NULL,  
+ID VARCHAR(30) NULL,  
+NUMBER_LOT VARCHAR(30) NULL,  
+QTY DECIMAL(22,9))    
+--=====================================================================      
+-- INSERTAR CALCULO DE CANTIDADES INGRESO-SALIDA    
+--=====================================================================  
+INSERT INTO TAB2   
+(  
+WAREHOUSE_ID,  
+ID,  
+NUMBER_LOT,  
+QTY  
+)    
+SELECT   
+I.WAREHOUSE_ID,  
+I.ID,  
+I.NUMBER_LOT,  
+((I.QTY)-(S.QTY)) AS QTY   
+FROM TABI I   
+RIGHT JOIN TABS S   
+ON I.WAREHOUSE_ID= S.WAREHOUSE_ID AND S.ID=I.ID AND  I.NUMBER_LOT=S.NUMBER_LOT
+--=====================================================================    
+--ACTUALIZO LA TABLA PART_QTY CON LOS DATOS DE TAB2 (TABLA RESULTADOS)  
+--=====================================================================      
+UPDATE DBO.PART_QTY SET  QTY_ON_HAND= T.QTY     
+FROM TAB2 T   
+INNER JOIN PART_QTY L   
+ON T.WAREHOUSE_ID=L.WAREHOUSE_ID AND T.ID=L.PART_ID 
+WHERE T.WAREHOUSE_ID=L.WAREHOUSE_ID AND T.ID=L.PART_ID 
+--=====================================================================    
+--INSERTO SOLO DATOS DE INGRESOS A LA TAB2 Y ACTUALIZO PART_QTY
+--=====================================================================  
+DELETE FROM dbo.TAB2
+INSERT INTO TAB2 (  
+WAREHOUSE_ID,  
+ID,  
+NUMBER_LOT,  
+QTY  
+)    
+SELECT   
+I.WAREHOUSE_ID,  
+I.ID,  
+I.NUMBER_LOT,  
+I.QTY   
+FROM TABI I WHERE I.ID NOT IN (SELECT S.ID FROM dbo.TABS S)
+
+
+UPDATE DBO.PART_QTY SET  QTY_ON_HAND= T.QTY     
+FROM TAB2 T   
+INNER JOIN PART_QTY L   
+ON T.WAREHOUSE_ID=L.WAREHOUSE_ID AND T.ID=L.PART_ID 
+WHERE T.WAREHOUSE_ID=L.WAREHOUSE_ID AND T.ID=L.PART_ID 
+--=====================================================================    
+--INSERTO SOLO DATOS DE SALIDAS A LA TAB2 Y ACTUALIZO PART_QTY
+--=====================================================================  
+DELETE FROM dbo.TAB2
+INSERT INTO TAB2 (  
+WAREHOUSE_ID,  
+ID,  
+NUMBER_LOT,  
+QTY  
+)    
+SELECT   
+S.WAREHOUSE_ID,  
+S.ID,  
+S.NUMBER_LOT,  
+S.QTY*-1   
+FROM TABS S WHERE S.ID NOT IN (SELECT I.ID FROM dbo.TABI I)
+
+UPDATE DBO.PART_QTY SET  QTY_ON_HAND= T.QTY     
+FROM TAB2 T   
+INNER JOIN PART_QTY L   
+ON T.WAREHOUSE_ID=L.WAREHOUSE_ID AND T.ID=L.PART_ID 
+WHERE T.WAREHOUSE_ID=L.WAREHOUSE_ID AND T.ID=L.PART_ID 
+
+
+FETCH NEXT FROM RECORRE_ALMACEN  
+INTO @PNUM_ALMACEN  
+
+END
+CLOSE RECORRE_ALMACEN
+DEALLOCATE RECORRE_ALMACEN
+
+

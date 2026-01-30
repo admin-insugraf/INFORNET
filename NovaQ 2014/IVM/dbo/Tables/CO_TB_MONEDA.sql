@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[CO_TB_MONEDA] (
+    [MO_CODIGO]       INT          NULL,
+    [MO_DESCRIPCION]  VARCHAR (50) NULL,
+    [MO_ABRE]         VARCHAR (3)  NULL,
+    [MO_SIMBOLO]      VARCHAR (5)  NULL,
+    [MO_ES_PRINCIPAL] INT          NULL,
+    [MO_CODIGO_SUNAT] VARCHAR (2)  NULL
+);
+

@@ -1,0 +1,12 @@
+﻿CREATE TABLE [dbo].[FAMILY] (
+    [ID]                VARCHAR (8)  NOT NULL,
+    [NAME]              VARCHAR (45) NULL,
+    [ACCOUNT]           VARCHAR (18) NULL,
+    [ACCOUNT_DR]        VARCHAR (18) NULL,
+    [ACCOUNT_CR]        VARCHAR (18) NULL,
+    [ACCOUNT_PURCHASE]  VARCHAR (18) NULL,
+    [ACCOUNT_EXISTENCE] VARCHAR (18) NULL,
+    [ACCOUNT_DR_AC]     VARCHAR (18) NULL,
+    [ACCOUNT_CR_AC]     VARCHAR (18) NULL
+);
+
