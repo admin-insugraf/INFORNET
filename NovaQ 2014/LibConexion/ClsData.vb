@@ -30,9 +30,8 @@ Public Class ClsData
         ClsVarComun = Nothing
 
         STRUsuario = mySetting("Usuario")
-
-        'STRPassword = DesEncryptString(mySetting("Password"))
-        STRPassword = mySetting("Password")
+        STRPassword = DesEncryptString(mySetting("Password"))
+        'STRPassword = mySetting("Password")
     End Sub
 
     Public Function CadenaConexion() As String

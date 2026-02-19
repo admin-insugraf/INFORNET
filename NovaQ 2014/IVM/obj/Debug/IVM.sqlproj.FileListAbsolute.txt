@@ -102,3 +102,4 @@ E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\obj\Debug\IVM.dll
 E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\obj\Debug\IVM.pdb
 E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\bin\Debug\IVM.dll
 E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\bin\Debug\IVM.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\obj\Debug\IVM.sqlproj.AssemblyReference.cache
