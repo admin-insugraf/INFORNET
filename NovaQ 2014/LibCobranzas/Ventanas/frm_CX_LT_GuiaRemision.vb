@@ -155,10 +155,10 @@ Public Class frm_CX_LT_GuiaRemision
         clsAlmacenBl.Get_NumeroGuiaRemision(cboserieguia.Text)
         NumeroLineas = clsAlmacenBl.NUMBER_LINE
         txt_num_guia.Text = clsAlmacenBl.NUMBER_SERIE
-        txt_tc.Text = ClsVarComun.TCVenta
+        'txt_tc.Text = ClsVarComun.TCVenta
         Cargar_Almacen(CboAlmacen)
         TransaccionesTipos()
-        Call Cargar_Moneda()
+        'Call Cargar_Moneda()
         Cargar_Almacen(cboAlmacenDestino)
         Cargar_Motivos_Traslado(cbo_motivo_traslado)
     End Sub
@@ -624,8 +624,10 @@ Public Class frm_CX_LT_GuiaRemision
                 .CUSTOMER_ID = txt_cod_cli.Text
                 .CUSTOMER_NAME = txt_des_cli.Text
                 .SALES_TERM = ""
-                .CURRENCY_TYPE = cmb_moneda.SelectedValue
-                .CURRENCY_EXCHANGE = CDbl(txt_tc.Text)
+                '.CURRENCY_TYPE = cmb_moneda.SelectedValue
+                '.CURRENCY_EXCHANGE = CDbl(txt_tc.Text)
+                .CURRENCY_TYPE = "MN"
+                .CURRENCY_EXCHANGE = 1.0
                 .STATUS_GUIA = _STATUS_GUIA
                 .AMOUNT = CDbl(0) * -1
                 .COMMENT = txtComentarios.Text
@@ -2307,22 +2309,22 @@ Public Class frm_CX_LT_GuiaRemision
     End Sub
 
     Private Sub rbunalinea_CheckedChanged(sender As Object, e As EventArgs) Handles rbunalinea.CheckedChanged
-        Me.txtComentarios.Size = New System.Drawing.Size(764, 21)
-        txtComentarios.Text = ""
+        'Me.txtComentarios.Size = New System.Drawing.Size(764, 21)
+        'txtComentarios.Text = ""
     End Sub
 
     Private Sub rbVariaslineas_CheckedChanged(sender As Object, e As EventArgs) Handles rbVariaslineas.CheckedChanged
-        Me.txtComentarios.Size = New System.Drawing.Size(764, 30)
-        txtComentarios.Text = ""
+        'Me.txtComentarios.Size = New System.Drawing.Size(764, 30)
+        'txtComentarios.Text = ""
     End Sub
 
     Private Sub txtComentarios_KeyDown(sender As Object, e As KeyEventArgs) Handles txtComentarios.KeyDown
-        If e.KeyCode = Keys.Enter Then
-            If rbunalinea.Checked = True Then
-                e.Handled = True
-                btnAgregar.Select()
-            End If
-        End If
+        'If e.KeyCode = Keys.Enter Then
+        '    If rbunalinea.Checked = True Then
+        '        e.Handled = True
+        '        btnAgregar.Select()
+        '    End If
+        'End If
     End Sub
 
 
@@ -2965,6 +2967,10 @@ Public Class frm_CX_LT_GuiaRemision
             If dgv_cab_ped.Rows.Count() = 0 Then Exit Sub
             If dgv_cab_ped.CurrentRow Is Nothing Then Exit Sub
             Dim CODIGO As String = ""
+            Dim Contacto_Nombres As String = String.Empty
+            Dim Contacto_DNI As String = String.Empty
+            Dim Contacto_Celular As String = String.Empty
+
             CODIGO = dgv_cab_ped.Item(0, dgv_cab_ped.CurrentRow.Index).Value
             If CODIGO = "" Then Exit Sub
             Dim facturabl As ClsOperaciones.RECEIVABLE
@@ -2984,6 +2990,7 @@ Public Class frm_CX_LT_GuiaRemision
 
                 txt_cod_empresa_trans.Text = dt_pedido_cab.Rows(0).Item("AGENCIA_TRANSPORTE").ToString
                 txt_des_empresa_trans.Text = dt_pedido_cab.Rows(0).Item("AGENCIA_TRANSPORTE_DES").ToString
+
 
                 If txt_cod_empresa_trans.Text = String.Empty Then
                     rdb_trans_publico.Checked = False
@@ -3015,6 +3022,24 @@ Public Class frm_CX_LT_GuiaRemision
                     gbOpciones.Enabled = False
                 End If
                 cbo_motivo_traslado.SelectedIndex = 0
+
+                Contacto_Nombres = dt_pedido_cab.Rows(0).Item("Contacto_Nombres").ToString
+                Contacto_DNI = dt_pedido_cab.Rows(0).Item("Contacto_DNI").ToString
+                Contacto_Celular = dt_pedido_cab.Rows(0).Item("Contacto_Celular").ToString
+
+                Dim textoObservacion As String = Contacto_Nombres
+
+                If textoObservacion.Trim.Length > 0 Then
+                    textoObservacion = "Contacto: " & Contacto_Nombres
+                    If Not String.IsNullOrWhiteSpace(Contacto_DNI) Then
+                        textoObservacion &= " - DNI: " & Contacto_DNI
+                    End If
+
+                    If Not String.IsNullOrWhiteSpace(Contacto_Celular) Then
+                        textoObservacion &= " - Celular: " & Contacto_Celular
+                    End If
+                    txtComentarios.Text = textoObservacion
+                End If
 
                 'Dim frm_pedido_detalle As FrmFacturacion_Detalle_Pedido
                 'frm_pedido_detalle = New FrmFacturacion_Detalle_Pedido
@@ -3253,6 +3278,10 @@ Public Class frm_CX_LT_GuiaRemision
         Dim CodigoTransaccion As String = String.Empty
         CodigoTransaccion = CboTipoTransaccion.SelectedValue.ToString
 
+        If CodigoTransaccion = "" Then
+            MessageBox.Show("Debe elegir una transacción", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            Exit Sub
+        End If
         MostrandoDocumentoPedidos(CodigoTransaccion)
     End Sub
 
@@ -3270,8 +3299,13 @@ Public Class frm_CX_LT_GuiaRemision
                 If dtdocumentoPrin.Rows(0)("Archivo") IsNot DBNull.Value AndAlso Not String.IsNullOrWhiteSpace(dtdocumentoPrin.Rows(0)("Archivo").ToString()) Then
 
                     Dim archivoBytes As Byte() = CType(dtdocumentoPrin.Rows(0)("Archivo"), Byte())
-                    Dim rutaDestino As String = Ruta_Reportes() & "\OC"
-                    Dim nombreArchivo As String = "Orden_" & txtorderCompra.Text & ".pdf" ' o extraído si está disponible
+                    'Dim rutaDestino As String = Ruta_Reportes() & "\OC"
+                    'Dim nombreArchivo As String = "Orden_" & txtorderCompra.Text & ".pdf" ' o extraído si está disponible
+
+                    Dim rutaDestino As String = Path.GetTempPath()
+                    Dim nombreArchivo As String = "Orden_" & txtorderCompra.Text & DateTime.Now.ToString("HHmmss") & ".pdf" ' o extraído si está disponible
+
+
                     Dim rutaCompleta As String = Path.Combine(rutaDestino, nombreArchivo)
                     File.WriteAllBytes(rutaCompleta, archivoBytes)
 

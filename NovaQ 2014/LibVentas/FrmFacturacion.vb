@@ -8417,17 +8417,14 @@ Public Class FrmFacturacion
                 If dtdocumentoPrin.Rows(0)("Archivo") IsNot DBNull.Value AndAlso Not String.IsNullOrWhiteSpace(dtdocumentoPrin.Rows(0)("Archivo").ToString()) Then
 
                     Dim archivoBytes As Byte() = CType(dtdocumentoPrin.Rows(0)("Archivo"), Byte())
-                    Dim rutaDestino As String = Ruta_REPORTES() & "\OC"
-                    Dim nombreArchivo As String = "Orden_" & txtpedido.Text & ".pdf" ' o extraído si está disponible
+                    'Dim rutaDestino As String = Ruta_FE() & "\OC"
+                    Dim rutaDestino As String = Path.GetTempPath()
+                    Dim nombreArchivo As String = "Orden_" & txtpedido.Text & DateTime.Now.ToString("HHmmss") & ".pdf" ' o extraído si está disponible
                     Dim rutaCompleta As String = Path.Combine(rutaDestino, nombreArchivo)
                     File.WriteAllBytes(rutaCompleta, archivoBytes)
-
-
                     Try
-
                         ' Opcional: Abrir el PDF
                         Process.Start(rutaCompleta)
-
 
                     Catch ex As Exception
                         MessageBox.Show("Error al recuperar PDF: " & ex.Message)

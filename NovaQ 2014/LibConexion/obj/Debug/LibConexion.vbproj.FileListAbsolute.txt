@@ -115,3 +115,18 @@ Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbproj.Gene
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.dll
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.xml
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibConexion\obj\Debug\LibConexion.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\bin\Debug\LibConexion.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\bin\Debug\LibConexion.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\bin\Debug\LibConexion.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\bin\Debug\LibComunVar.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbproj.AssemblyReference.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\obj\Debug\LibConexion.frmError.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\obj\Debug\LibConexion.Resources.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbproj.GenerateResource.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbproj.CoreCompileInputs.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\obj\Debug\LibConexion.vbproj.CopyComplete
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\obj\Debug\LibConexion.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\obj\Debug\LibConexion.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibConexion\obj\Debug\LibConexion.pdb

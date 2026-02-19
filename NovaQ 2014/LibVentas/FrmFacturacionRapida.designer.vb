@@ -23,12 +23,12 @@ Partial Class FrmFacturacionRapida
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmFacturacionRapida))
-        Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle8 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle9 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle10 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle11 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle12 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle13 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle14 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle15 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle16 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle17 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle18 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.ToolStrip1 = New System.Windows.Forms.ToolStrip()
         Me.btnNuevo = New System.Windows.Forms.ToolStripButton()
         Me.btnConsultar = New System.Windows.Forms.ToolStripButton()
@@ -53,6 +53,7 @@ Partial Class FrmFacturacionRapida
         Me.rbunalinea = New System.Windows.Forms.RadioButton()
         Me.txtGlosaGuia = New System.Windows.Forms.RichTextBox()
         Me.GbCabecera = New System.Windows.Forms.GroupBox()
+        Me.chkSinOC = New System.Windows.Forms.CheckBox()
         Me.txtDireccionCliente = New System.Windows.Forms.TextBox()
         Me.dtpFechaRecepcion = New System.Windows.Forms.DateTimePicker()
         Me.Label141 = New System.Windows.Forms.Label()
@@ -168,7 +169,7 @@ Partial Class FrmFacturacionRapida
         Me.txtDireccion = New System.Windows.Forms.TextBox()
         Me.txtRazonSocial = New System.Windows.Forms.TextBox()
         Me.txtRucDni = New System.Windows.Forms.TextBox()
-        Me.txtCodCliente = New System.Windows.Forms.TextBox()
+        Me.txtCod_Cliente = New System.Windows.Forms.TextBox()
         Me.txtPtoVenta = New System.Windows.Forms.TextBox()
         Me.Label13 = New System.Windows.Forms.Label()
         Me.Label12 = New System.Windows.Forms.Label()
@@ -205,6 +206,10 @@ Partial Class FrmFacturacionRapida
         Me.txtredondeo = New System.Windows.Forms.TextBox()
         Me.Label15 = New System.Windows.Forms.Label()
         Me.pnlPrincipal = New System.Windows.Forms.Panel()
+        Me.lblFechaCreacion = New System.Windows.Forms.Label()
+        Me.lblusuarioId = New System.Windows.Forms.Label()
+        Me.TxtFechaCreacion = New System.Windows.Forms.TextBox()
+        Me.txtUserID = New System.Windows.Forms.TextBox()
         Me.lblDetalle = New System.Windows.Forms.TextBox()
         Me.GroupBox3 = New System.Windows.Forms.GroupBox()
         Me.txtFiltro = New System.Windows.Forms.TextBox()
@@ -229,7 +234,7 @@ Partial Class FrmFacturacionRapida
         Me.TextBox8 = New System.Windows.Forms.TextBox()
         Me.Button6 = New System.Windows.Forms.Button()
         Me.Button7 = New System.Windows.Forms.Button()
-        Me.GroupBox5 = New System.Windows.Forms.GroupBox()
+        Me.GrpAgregarProductos = New System.Windows.Forms.GroupBox()
         Me.chkigv = New System.Windows.Forms.CheckBox()
         Me.txtcantidad_fraccion = New System.Windows.Forms.TextBox()
         Me.Label95 = New System.Windows.Forms.Label()
@@ -265,7 +270,7 @@ Partial Class FrmFacturacionRapida
         Me.Label24 = New System.Windows.Forms.Label()
         Me.txtvalorVenta = New System.Windows.Forms.TextBox()
         Me.Label22 = New System.Windows.Forms.Label()
-        Me.GroupBox7 = New System.Windows.Forms.GroupBox()
+        Me.GrpProductos = New System.Windows.Forms.GroupBox()
         Me.dgv_lista_productos = New System.Windows.Forms.DataGridView()
         Me.txt_buscador_productos = New System.Windows.Forms.TextBox()
         Me.txt_buscador_especial = New System.Windows.Forms.TextBox()
@@ -365,11 +370,11 @@ Partial Class FrmFacturacionRapida
         Me.btn_crear_planilla = New System.Windows.Forms.Button()
         Me.dtp_fec_nueva_pla = New System.Windows.Forms.DateTimePicker()
         Me.Label89 = New System.Windows.Forms.Label()
-        Me.GroupBox4 = New System.Windows.Forms.GroupBox()
+        Me.GrpObservaciones = New System.Windows.Forms.GroupBox()
         Me.txt_obs_general = New System.Windows.Forms.TextBox()
-        Me.GroupBox10 = New System.Windows.Forms.GroupBox()
+        Me.GrpRecepcionTercero = New System.Windows.Forms.GroupBox()
         Me.txt_recepcion_tercero = New System.Windows.Forms.TextBox()
-        Me.GroupBox11 = New System.Windows.Forms.GroupBox()
+        Me.GrpLugarEntrega = New System.Windows.Forms.GroupBox()
         Me.txtLocal = New System.Windows.Forms.TextBox()
         Me.txtDireccionTransportista = New System.Windows.Forms.TextBox()
         Me.txtLocalDescripcion = New System.Windows.Forms.TextBox()
@@ -531,82 +536,82 @@ Partial Class FrmFacturacionRapida
         Me.btn_grabar_nuevo_cliente = New System.Windows.Forms.Button()
         Me.gb_picking = New System.Windows.Forms.GroupBox()
         Me.lbl_texto_picking = New System.Windows.Forms.Label()
-        Me.ToolStrip1.SuspendLayout()
-        Me.GroupBox8.SuspendLayout()
-        Me.gbTipoGuia.SuspendLayout()
-        Me.GbCabecera.SuspendLayout()
-        Me.GrpContacto.SuspendLayout()
-        CType(Me.PictureBox13, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox12, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox11, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox10, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.GbdetalleDocumento.SuspendLayout()
-        CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox8, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox7, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.gbTipoFacturacion.SuspendLayout()
-        Me.gbdetalle.SuspendLayout()
-        CType(Me.dgvDetalle, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.gbOpciones.SuspendLayout()
-        Me.pnlPrincipal.SuspendLayout()
-        Me.GroupBox3.SuspendLayout()
-        CType(Me.dgvDocumentosFactura, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.GroupBox2.SuspendLayout()
-        Me.gbRangofechas.SuspendLayout()
-        Me.pnl_ref.SuspendLayout()
-        Me.GroupBox1.SuspendLayout()
-        CType(Me.PictureBox14, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.GroupBox5.SuspendLayout()
-        Me.GroupBox6.SuspendLayout()
-        Me.GroupBox7.SuspendLayout()
-        CType(Me.dgv_lista_productos, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox16, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox17, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox18, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox19, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox20, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox22, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox23, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox24, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox27, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.pnl_motivo_anulacion.SuspendLayout()
-        Me.GroupBox19.SuspendLayout()
-        Me.pnl_cierre_ventas.SuspendLayout()
-        Me.GroupBox9.SuspendLayout()
-        Me.gb_pago_tarjeta.SuspendLayout()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox15, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox21, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox25, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.gb_pago_efectivo.SuspendLayout()
-        Me.pnlNuevaPlanilla.SuspendLayout()
-        Me.gb_nueva_planilla.SuspendLayout()
-        Me.GroupBox4.SuspendLayout()
-        Me.GroupBox10.SuspendLayout()
-        Me.GroupBox11.SuspendLayout()
-        Me.GroupBox13.SuspendLayout()
-        CType(Me.PictureBox26, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox28, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox29, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox30, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox31, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox32, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.GroupBox12.SuspendLayout()
-        CType(Me.PictureBox33, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox34, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox35, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox36, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox37, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox38, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.panel_cliente_nuevo.SuspendLayout()
-        Me.GroupBox14.SuspendLayout()
-        Me.gb_picking.SuspendLayout()
-        Me.SuspendLayout()
+        Me.ToolStrip1.SuspendLayout
+        Me.GroupBox8.SuspendLayout
+        Me.gbTipoGuia.SuspendLayout
+        Me.GbCabecera.SuspendLayout
+        Me.GrpContacto.SuspendLayout
+        CType(Me.PictureBox13, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox12, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox11, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox10, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GbdetalleDocumento.SuspendLayout
+        CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox8, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox7, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit
+        Me.gbTipoFacturacion.SuspendLayout
+        Me.gbdetalle.SuspendLayout
+        CType(Me.dgvDetalle, System.ComponentModel.ISupportInitialize).BeginInit
+        Me.gbOpciones.SuspendLayout
+        Me.pnlPrincipal.SuspendLayout
+        Me.GroupBox3.SuspendLayout
+        CType(Me.dgvDocumentosFactura, System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox2.SuspendLayout
+        Me.gbRangofechas.SuspendLayout
+        Me.pnl_ref.SuspendLayout
+        Me.GroupBox1.SuspendLayout
+        CType(Me.PictureBox14, System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GrpAgregarProductos.SuspendLayout
+        Me.GroupBox6.SuspendLayout
+        Me.GrpProductos.SuspendLayout
+        CType(Me.dgv_lista_productos, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox16, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox17, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox18, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox19, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox20, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox22, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox23, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox24, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox27, System.ComponentModel.ISupportInitialize).BeginInit
+        Me.pnl_motivo_anulacion.SuspendLayout
+        Me.GroupBox19.SuspendLayout
+        Me.pnl_cierre_ventas.SuspendLayout
+        Me.GroupBox9.SuspendLayout
+        Me.gb_pago_tarjeta.SuspendLayout
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox15, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox21, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox25, System.ComponentModel.ISupportInitialize).BeginInit
+        Me.gb_pago_efectivo.SuspendLayout
+        Me.pnlNuevaPlanilla.SuspendLayout
+        Me.gb_nueva_planilla.SuspendLayout
+        Me.GrpObservaciones.SuspendLayout
+        Me.GrpRecepcionTercero.SuspendLayout
+        Me.GrpLugarEntrega.SuspendLayout
+        Me.GroupBox13.SuspendLayout
+        CType(Me.PictureBox26, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox28, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox29, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox30, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox31, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox32, System.ComponentModel.ISupportInitialize).BeginInit
+        Me.GroupBox12.SuspendLayout
+        CType(Me.PictureBox33, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox34, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox35, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox36, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox37, System.ComponentModel.ISupportInitialize).BeginInit
+        CType(Me.PictureBox38, System.ComponentModel.ISupportInitialize).BeginInit
+        Me.panel_cliente_nuevo.SuspendLayout
+        Me.GroupBox14.SuspendLayout
+        Me.gb_picking.SuspendLayout
+        Me.SuspendLayout
         '
         'ToolStrip1
         '
@@ -860,6 +865,7 @@ Partial Class FrmFacturacionRapida
         '
         Me.GbCabecera.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GbCabecera.BackColor = System.Drawing.Color.White
+        Me.GbCabecera.Controls.Add(Me.chkSinOC)
         Me.GbCabecera.Controls.Add(Me.txtDireccionCliente)
         Me.GbCabecera.Controls.Add(Me.dtpFechaRecepcion)
         Me.GbCabecera.Controls.Add(Me.Label141)
@@ -955,7 +961,7 @@ Partial Class FrmFacturacionRapida
         Me.GbCabecera.Controls.Add(Me.txtDireccion)
         Me.GbCabecera.Controls.Add(Me.txtRazonSocial)
         Me.GbCabecera.Controls.Add(Me.txtRucDni)
-        Me.GbCabecera.Controls.Add(Me.txtCodCliente)
+        Me.GbCabecera.Controls.Add(Me.txtCod_Cliente)
         Me.GbCabecera.Controls.Add(Me.txtPtoVenta)
         Me.GbCabecera.Controls.Add(Me.Label13)
         Me.GbCabecera.Controls.Add(Me.Label12)
@@ -977,6 +983,16 @@ Partial Class FrmFacturacionRapida
         Me.GbCabecera.Size = New System.Drawing.Size(437, 311)
         Me.GbCabecera.TabIndex = 183
         Me.GbCabecera.TabStop = False
+        '
+        'chkSinOC
+        '
+        Me.chkSinOC.AutoSize = True
+        Me.chkSinOC.Location = New System.Drawing.Point(326, 93)
+        Me.chkSinOC.Name = "chkSinOC"
+        Me.chkSinOC.Size = New System.Drawing.Size(100, 17)
+        Me.chkSinOC.TabIndex = 225
+        Me.chkSinOC.Text = "Sin Ord.Compra"
+        Me.chkSinOC.UseVisualStyleBackColor = True
         '
         'txtDireccionCliente
         '
@@ -2303,23 +2319,23 @@ Partial Class FrmFacturacionRapida
         Me.txtRucDni.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtRucDni.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txtRucDni.ForeColor = System.Drawing.Color.Green
-        Me.txtRucDni.Location = New System.Drawing.Point(341, 91)
+        Me.txtRucDni.Location = New System.Drawing.Point(238, 91)
         Me.txtRucDni.Name = "txtRucDni"
         Me.txtRucDni.ReadOnly = True
         Me.txtRucDni.Size = New System.Drawing.Size(85, 21)
         Me.txtRucDni.TabIndex = 26
         '
-        'txtCodCliente
+        'txtCod_Cliente
         '
-        Me.txtCodCliente.BackColor = System.Drawing.Color.Aquamarine
-        Me.txtCodCliente.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.txtCodCliente.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        Me.txtCodCliente.ForeColor = System.Drawing.Color.SaddleBrown
-        Me.txtCodCliente.Location = New System.Drawing.Point(94, 91)
-        Me.txtCodCliente.Name = "txtCodCliente"
-        Me.txtCodCliente.ReadOnly = True
-        Me.txtCodCliente.Size = New System.Drawing.Size(85, 21)
-        Me.txtCodCliente.TabIndex = 9
+        Me.txtCod_Cliente.BackColor = System.Drawing.Color.Aquamarine
+        Me.txtCod_Cliente.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.txtCod_Cliente.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.txtCod_Cliente.ForeColor = System.Drawing.Color.SaddleBrown
+        Me.txtCod_Cliente.Location = New System.Drawing.Point(94, 91)
+        Me.txtCod_Cliente.Name = "txtCod_Cliente"
+        Me.txtCod_Cliente.ReadOnly = True
+        Me.txtCod_Cliente.Size = New System.Drawing.Size(85, 21)
+        Me.txtCod_Cliente.TabIndex = 9
         '
         'txtPtoVenta
         '
@@ -2406,7 +2422,7 @@ Partial Class FrmFacturacionRapida
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.Label7.ForeColor = System.Drawing.Color.Navy
-        Me.Label7.Location = New System.Drawing.Point(279, 94)
+        Me.Label7.Location = New System.Drawing.Point(181, 92)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(55, 13)
         Me.Label7.TabIndex = 90
@@ -2634,37 +2650,37 @@ Partial Class FrmFacturacionRapida
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.dgvDetalle.BackgroundColor = System.Drawing.Color.White
         Me.dgvDetalle.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None
-        DataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle7.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
-        DataGridViewCellStyle7.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle7.ForeColor = System.Drawing.Color.White
-        DataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgvDetalle.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle7
+        DataGridViewCellStyle13.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle13.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
+        DataGridViewCellStyle13.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle13.ForeColor = System.Drawing.Color.White
+        DataGridViewCellStyle13.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle13.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle13.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvDetalle.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle13
         Me.dgvDetalle.ColumnHeadersHeight = 30
-        DataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle8.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle8.ForeColor = System.Drawing.Color.Navy
-        DataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dgvDetalle.DefaultCellStyle = DataGridViewCellStyle8
+        DataGridViewCellStyle14.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle14.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle14.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle14.ForeColor = System.Drawing.Color.Navy
+        DataGridViewCellStyle14.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle14.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle14.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgvDetalle.DefaultCellStyle = DataGridViewCellStyle14
         Me.dgvDetalle.EnableHeadersVisualStyles = False
         Me.dgvDetalle.Location = New System.Drawing.Point(8, 13)
         Me.dgvDetalle.Name = "dgvDetalle"
-        DataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle9.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
-        DataGridViewCellStyle9.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle9.ForeColor = System.Drawing.Color.White
-        DataGridViewCellStyle9.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle9.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgvDetalle.RowHeadersDefaultCellStyle = DataGridViewCellStyle9
+        DataGridViewCellStyle15.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle15.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
+        DataGridViewCellStyle15.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle15.ForeColor = System.Drawing.Color.White
+        DataGridViewCellStyle15.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle15.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle15.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvDetalle.RowHeadersDefaultCellStyle = DataGridViewCellStyle15
         Me.dgvDetalle.RowHeadersVisible = False
-        DataGridViewCellStyle10.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.dgvDetalle.RowsDefaultCellStyle = DataGridViewCellStyle10
+        DataGridViewCellStyle16.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dgvDetalle.RowsDefaultCellStyle = DataGridViewCellStyle16
         Me.dgvDetalle.RowTemplate.DefaultCellStyle.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.dgvDetalle.RowTemplate.DefaultCellStyle.ForeColor = System.Drawing.Color.Navy
         Me.dgvDetalle.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
@@ -2704,6 +2720,7 @@ Partial Class FrmFacturacionRapida
         Me.Button2.Text = "&Grabar"
         Me.Button2.TextAlign = System.Drawing.ContentAlignment.BottomCenter
         Me.Button2.UseVisualStyleBackColor = True
+        Me.Button2.Visible = False
         '
         'Button1
         '
@@ -2722,6 +2739,7 @@ Partial Class FrmFacturacionRapida
         Me.Button1.Text = "&Cancelar"
         Me.Button1.TextAlign = System.Drawing.ContentAlignment.BottomCenter
         Me.Button1.UseVisualStyleBackColor = True
+        Me.Button1.Visible = False
         '
         'btnModificar
         '
@@ -2808,6 +2826,10 @@ Partial Class FrmFacturacionRapida
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.pnlPrincipal.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.pnlPrincipal.Controls.Add(Me.lblFechaCreacion)
+        Me.pnlPrincipal.Controls.Add(Me.lblusuarioId)
+        Me.pnlPrincipal.Controls.Add(Me.TxtFechaCreacion)
+        Me.pnlPrincipal.Controls.Add(Me.txtUserID)
         Me.pnlPrincipal.Controls.Add(Me.lblDetalle)
         Me.pnlPrincipal.Controls.Add(Me.GroupBox3)
         Me.pnlPrincipal.Controls.Add(Me.dgvDocumentosFactura)
@@ -2818,6 +2840,50 @@ Partial Class FrmFacturacionRapida
         Me.pnlPrincipal.Name = "pnlPrincipal"
         Me.pnlPrincipal.Size = New System.Drawing.Size(1200, 626)
         Me.pnlPrincipal.TabIndex = 201
+        '
+        'lblFechaCreacion
+        '
+        Me.lblFechaCreacion.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.lblFechaCreacion.AutoSize = True
+        Me.lblFechaCreacion.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Bold)
+        Me.lblFechaCreacion.ForeColor = System.Drawing.Color.Navy
+        Me.lblFechaCreacion.Location = New System.Drawing.Point(994, 599)
+        Me.lblFechaCreacion.Name = "lblFechaCreacion"
+        Me.lblFechaCreacion.Size = New System.Drawing.Size(79, 16)
+        Me.lblFechaCreacion.TabIndex = 222
+        Me.lblFechaCreacion.Text = "F.Creación:"
+        '
+        'lblusuarioId
+        '
+        Me.lblusuarioId.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.lblusuarioId.AutoSize = True
+        Me.lblusuarioId.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Bold)
+        Me.lblusuarioId.ForeColor = System.Drawing.Color.Navy
+        Me.lblusuarioId.Location = New System.Drawing.Point(825, 600)
+        Me.lblusuarioId.Name = "lblusuarioId"
+        Me.lblusuarioId.Size = New System.Drawing.Size(61, 16)
+        Me.lblusuarioId.TabIndex = 221
+        Me.lblusuarioId.Text = "Usuario:"
+        '
+        'TxtFechaCreacion
+        '
+        Me.TxtFechaCreacion.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.TxtFechaCreacion.BackColor = System.Drawing.Color.White
+        Me.TxtFechaCreacion.Location = New System.Drawing.Point(1077, 598)
+        Me.TxtFechaCreacion.Name = "TxtFechaCreacion"
+        Me.TxtFechaCreacion.ReadOnly = True
+        Me.TxtFechaCreacion.Size = New System.Drawing.Size(114, 20)
+        Me.TxtFechaCreacion.TabIndex = 220
+        '
+        'txtUserID
+        '
+        Me.txtUserID.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txtUserID.BackColor = System.Drawing.Color.White
+        Me.txtUserID.Location = New System.Drawing.Point(890, 598)
+        Me.txtUserID.Name = "txtUserID"
+        Me.txtUserID.ReadOnly = True
+        Me.txtUserID.Size = New System.Drawing.Size(100, 20)
+        Me.txtUserID.TabIndex = 219
         '
         'lblDetalle
         '
@@ -3119,40 +3185,40 @@ Partial Class FrmFacturacionRapida
         Me.Button7.TextAlign = System.Drawing.ContentAlignment.BottomCenter
         Me.Button7.UseVisualStyleBackColor = True
         '
-        'GroupBox5
+        'GrpAgregarProductos
         '
-        Me.GroupBox5.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+        Me.GrpAgregarProductos.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBox5.BackColor = System.Drawing.Color.White
-        Me.GroupBox5.Controls.Add(Me.chkigv)
-        Me.GroupBox5.Controls.Add(Me.txtcantidad_fraccion)
-        Me.GroupBox5.Controls.Add(Me.Label95)
-        Me.GroupBox5.Controls.Add(Me.txtprecioUnitario_fraccion)
-        Me.GroupBox5.Controls.Add(Me.Label93)
-        Me.GroupBox5.Controls.Add(Me.txt_numero_lote)
-        Me.GroupBox5.Controls.Add(Me.Label90)
-        Me.GroupBox5.Controls.Add(Me.txt_por_Des)
-        Me.GroupBox5.Controls.Add(Me.Label83)
-        Me.GroupBox5.Controls.Add(Me.txtStock)
-        Me.GroupBox5.Controls.Add(Me.Label68)
-        Me.GroupBox5.Controls.Add(Me.Button9)
-        Me.GroupBox5.Controls.Add(Me.btn_agregar_carrito)
-        Me.GroupBox5.Controls.Add(Me.txtcantidad)
-        Me.GroupBox5.Controls.Add(Me.txtprecioUnitario)
-        Me.GroupBox5.Controls.Add(Me.Label66)
-        Me.GroupBox5.Controls.Add(Me.Label67)
-        Me.GroupBox5.Controls.Add(Me.Label65)
-        Me.GroupBox5.Controls.Add(Me.txtdescripcionArticulo)
-        Me.GroupBox5.Controls.Add(Me.Label61)
-        Me.GroupBox5.Controls.Add(Me.txtcodigoArticulo)
-        Me.GroupBox5.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        Me.GroupBox5.ForeColor = System.Drawing.Color.Navy
-        Me.GroupBox5.Location = New System.Drawing.Point(17, 37)
-        Me.GroupBox5.Name = "GroupBox5"
-        Me.GroupBox5.Size = New System.Drawing.Size(1189, 72)
-        Me.GroupBox5.TabIndex = 204
-        Me.GroupBox5.TabStop = False
-        Me.GroupBox5.Text = "Detalle del Producto"
+        Me.GrpAgregarProductos.BackColor = System.Drawing.Color.White
+        Me.GrpAgregarProductos.Controls.Add(Me.chkigv)
+        Me.GrpAgregarProductos.Controls.Add(Me.txtcantidad_fraccion)
+        Me.GrpAgregarProductos.Controls.Add(Me.Label95)
+        Me.GrpAgregarProductos.Controls.Add(Me.txtprecioUnitario_fraccion)
+        Me.GrpAgregarProductos.Controls.Add(Me.Label93)
+        Me.GrpAgregarProductos.Controls.Add(Me.txt_numero_lote)
+        Me.GrpAgregarProductos.Controls.Add(Me.Label90)
+        Me.GrpAgregarProductos.Controls.Add(Me.txt_por_Des)
+        Me.GrpAgregarProductos.Controls.Add(Me.Label83)
+        Me.GrpAgregarProductos.Controls.Add(Me.txtStock)
+        Me.GrpAgregarProductos.Controls.Add(Me.Label68)
+        Me.GrpAgregarProductos.Controls.Add(Me.Button9)
+        Me.GrpAgregarProductos.Controls.Add(Me.btn_agregar_carrito)
+        Me.GrpAgregarProductos.Controls.Add(Me.txtcantidad)
+        Me.GrpAgregarProductos.Controls.Add(Me.txtprecioUnitario)
+        Me.GrpAgregarProductos.Controls.Add(Me.Label66)
+        Me.GrpAgregarProductos.Controls.Add(Me.Label67)
+        Me.GrpAgregarProductos.Controls.Add(Me.Label65)
+        Me.GrpAgregarProductos.Controls.Add(Me.txtdescripcionArticulo)
+        Me.GrpAgregarProductos.Controls.Add(Me.Label61)
+        Me.GrpAgregarProductos.Controls.Add(Me.txtcodigoArticulo)
+        Me.GrpAgregarProductos.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.GrpAgregarProductos.ForeColor = System.Drawing.Color.Navy
+        Me.GrpAgregarProductos.Location = New System.Drawing.Point(17, 37)
+        Me.GrpAgregarProductos.Name = "GrpAgregarProductos"
+        Me.GrpAgregarProductos.Size = New System.Drawing.Size(1189, 72)
+        Me.GrpAgregarProductos.TabIndex = 204
+        Me.GrpAgregarProductos.TabStop = False
+        Me.GrpAgregarProductos.Text = "Detalle del Producto"
         '
         'chkigv
         '
@@ -3619,75 +3685,75 @@ Partial Class FrmFacturacionRapida
         Me.Label22.Text = "V. Venta"
         Me.Label22.Visible = False
         '
-        'GroupBox7
+        'GrpProductos
         '
-        Me.GroupBox7.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+        Me.GrpProductos.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBox7.BackColor = System.Drawing.Color.White
-        Me.GroupBox7.Controls.Add(Me.dgv_lista_productos)
-        Me.GroupBox7.Controls.Add(Me.txt_buscador_productos)
-        Me.GroupBox7.Controls.Add(Me.txt_buscador_especial)
-        Me.GroupBox7.Controls.Add(Me.PictureBox16)
-        Me.GroupBox7.Controls.Add(Me.PictureBox17)
-        Me.GroupBox7.Controls.Add(Me.PictureBox18)
-        Me.GroupBox7.Controls.Add(Me.TextBox21)
-        Me.GroupBox7.Controls.Add(Me.Label62)
-        Me.GroupBox7.Controls.Add(Me.TextBox22)
-        Me.GroupBox7.Controls.Add(Me.Label63)
-        Me.GroupBox7.Controls.Add(Me.TextBox23)
-        Me.GroupBox7.Controls.Add(Me.Label64)
-        Me.GroupBox7.Controls.Add(Me.PictureBox19)
-        Me.GroupBox7.Controls.Add(Me.PictureBox20)
-        Me.GroupBox7.Controls.Add(Me.RadioButton1)
-        Me.GroupBox7.Controls.Add(Me.RadioButton2)
-        Me.GroupBox7.Controls.Add(Me.Label69)
-        Me.GroupBox7.Controls.Add(Me.TextBox33)
-        Me.GroupBox7.Controls.Add(Me.TextBox34)
-        Me.GroupBox7.Controls.Add(Me.Label70)
-        Me.GroupBox7.Controls.Add(Me.TextBox35)
-        Me.GroupBox7.Controls.Add(Me.ComboBox1)
-        Me.GroupBox7.Controls.Add(Me.Label72)
-        Me.GroupBox7.Controls.Add(Me.TextBox37)
-        Me.GroupBox7.Controls.Add(Me.Label73)
-        Me.GroupBox7.Controls.Add(Me.TextBox38)
-        Me.GroupBox7.Controls.Add(Me.Label74)
-        Me.GroupBox7.Controls.Add(Me.TextBox39)
-        Me.GroupBox7.Controls.Add(Me.Label75)
-        Me.GroupBox7.Controls.Add(Me.TextBox40)
-        Me.GroupBox7.Controls.Add(Me.Label76)
-        Me.GroupBox7.Controls.Add(Me.TextBox41)
-        Me.GroupBox7.Controls.Add(Me.PictureBox22)
-        Me.GroupBox7.Controls.Add(Me.TextBox42)
-        Me.GroupBox7.Controls.Add(Me.Label77)
-        Me.GroupBox7.Controls.Add(Me.TextBox43)
-        Me.GroupBox7.Controls.Add(Me.PictureBox23)
-        Me.GroupBox7.Controls.Add(Me.TextBox44)
-        Me.GroupBox7.Controls.Add(Me.Label78)
-        Me.GroupBox7.Controls.Add(Me.TextBox45)
-        Me.GroupBox7.Controls.Add(Me.PictureBox24)
-        Me.GroupBox7.Controls.Add(Me.TextBox46)
-        Me.GroupBox7.Controls.Add(Me.Label79)
-        Me.GroupBox7.Controls.Add(Me.TextBox47)
-        Me.GroupBox7.Controls.Add(Me.Label80)
-        Me.GroupBox7.Controls.Add(Me.TextBox49)
-        Me.GroupBox7.Controls.Add(Me.TextBox51)
-        Me.GroupBox7.Controls.Add(Me.Label81)
-        Me.GroupBox7.Controls.Add(Me.Label82)
-        Me.GroupBox7.Controls.Add(Me.TextBox52)
-        Me.GroupBox7.Controls.Add(Me.PictureBox27)
-        Me.GroupBox7.Controls.Add(Me.ComboBox2)
-        Me.GroupBox7.Controls.Add(Me.Label85)
-        Me.GroupBox7.Controls.Add(Me.TextBox61)
-        Me.GroupBox7.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        Me.GroupBox7.ForeColor = System.Drawing.Color.Navy
-        Me.GroupBox7.Location = New System.Drawing.Point(46, 144)
-        Me.GroupBox7.Name = "GroupBox7"
-        Me.GroupBox7.Size = New System.Drawing.Size(1120, 180)
-        Me.GroupBox7.TabIndex = 206
-        Me.GroupBox7.TabStop = False
-        Me.GroupBox7.Text = "Productos"
-        Me.GroupBox7.Visible = False
+        Me.GrpProductos.BackColor = System.Drawing.Color.White
+        Me.GrpProductos.Controls.Add(Me.dgv_lista_productos)
+        Me.GrpProductos.Controls.Add(Me.txt_buscador_productos)
+        Me.GrpProductos.Controls.Add(Me.txt_buscador_especial)
+        Me.GrpProductos.Controls.Add(Me.PictureBox16)
+        Me.GrpProductos.Controls.Add(Me.PictureBox17)
+        Me.GrpProductos.Controls.Add(Me.PictureBox18)
+        Me.GrpProductos.Controls.Add(Me.TextBox21)
+        Me.GrpProductos.Controls.Add(Me.Label62)
+        Me.GrpProductos.Controls.Add(Me.TextBox22)
+        Me.GrpProductos.Controls.Add(Me.Label63)
+        Me.GrpProductos.Controls.Add(Me.TextBox23)
+        Me.GrpProductos.Controls.Add(Me.Label64)
+        Me.GrpProductos.Controls.Add(Me.PictureBox19)
+        Me.GrpProductos.Controls.Add(Me.PictureBox20)
+        Me.GrpProductos.Controls.Add(Me.RadioButton1)
+        Me.GrpProductos.Controls.Add(Me.RadioButton2)
+        Me.GrpProductos.Controls.Add(Me.Label69)
+        Me.GrpProductos.Controls.Add(Me.TextBox33)
+        Me.GrpProductos.Controls.Add(Me.TextBox34)
+        Me.GrpProductos.Controls.Add(Me.Label70)
+        Me.GrpProductos.Controls.Add(Me.TextBox35)
+        Me.GrpProductos.Controls.Add(Me.ComboBox1)
+        Me.GrpProductos.Controls.Add(Me.Label72)
+        Me.GrpProductos.Controls.Add(Me.TextBox37)
+        Me.GrpProductos.Controls.Add(Me.Label73)
+        Me.GrpProductos.Controls.Add(Me.TextBox38)
+        Me.GrpProductos.Controls.Add(Me.Label74)
+        Me.GrpProductos.Controls.Add(Me.TextBox39)
+        Me.GrpProductos.Controls.Add(Me.Label75)
+        Me.GrpProductos.Controls.Add(Me.TextBox40)
+        Me.GrpProductos.Controls.Add(Me.Label76)
+        Me.GrpProductos.Controls.Add(Me.TextBox41)
+        Me.GrpProductos.Controls.Add(Me.PictureBox22)
+        Me.GrpProductos.Controls.Add(Me.TextBox42)
+        Me.GrpProductos.Controls.Add(Me.Label77)
+        Me.GrpProductos.Controls.Add(Me.TextBox43)
+        Me.GrpProductos.Controls.Add(Me.PictureBox23)
+        Me.GrpProductos.Controls.Add(Me.TextBox44)
+        Me.GrpProductos.Controls.Add(Me.Label78)
+        Me.GrpProductos.Controls.Add(Me.TextBox45)
+        Me.GrpProductos.Controls.Add(Me.PictureBox24)
+        Me.GrpProductos.Controls.Add(Me.TextBox46)
+        Me.GrpProductos.Controls.Add(Me.Label79)
+        Me.GrpProductos.Controls.Add(Me.TextBox47)
+        Me.GrpProductos.Controls.Add(Me.Label80)
+        Me.GrpProductos.Controls.Add(Me.TextBox49)
+        Me.GrpProductos.Controls.Add(Me.TextBox51)
+        Me.GrpProductos.Controls.Add(Me.Label81)
+        Me.GrpProductos.Controls.Add(Me.Label82)
+        Me.GrpProductos.Controls.Add(Me.TextBox52)
+        Me.GrpProductos.Controls.Add(Me.PictureBox27)
+        Me.GrpProductos.Controls.Add(Me.ComboBox2)
+        Me.GrpProductos.Controls.Add(Me.Label85)
+        Me.GrpProductos.Controls.Add(Me.TextBox61)
+        Me.GrpProductos.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.GrpProductos.ForeColor = System.Drawing.Color.Navy
+        Me.GrpProductos.Location = New System.Drawing.Point(46, 144)
+        Me.GrpProductos.Name = "GrpProductos"
+        Me.GrpProductos.Size = New System.Drawing.Size(1120, 180)
+        Me.GrpProductos.TabIndex = 206
+        Me.GrpProductos.TabStop = False
+        Me.GrpProductos.Text = "Productos"
+        Me.GrpProductos.Visible = False
         '
         'dgv_lista_productos
         '
@@ -3697,27 +3763,27 @@ Partial Class FrmFacturacionRapida
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.dgv_lista_productos.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None
-        DataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle11.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
-        DataGridViewCellStyle11.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        DataGridViewCellStyle11.ForeColor = System.Drawing.Color.White
-        DataGridViewCellStyle11.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle11.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgv_lista_productos.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle11
+        DataGridViewCellStyle17.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle17.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
+        DataGridViewCellStyle17.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        DataGridViewCellStyle17.ForeColor = System.Drawing.Color.White
+        DataGridViewCellStyle17.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle17.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle17.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgv_lista_productos.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle17
         Me.dgv_lista_productos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgv_lista_productos.EnableHeadersVisualStyles = False
         Me.dgv_lista_productos.Location = New System.Drawing.Point(12, 49)
         Me.dgv_lista_productos.Name = "dgv_lista_productos"
         Me.dgv_lista_productos.ReadOnly = True
-        DataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle12.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
-        DataGridViewCellStyle12.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        DataGridViewCellStyle12.ForeColor = System.Drawing.Color.White
-        DataGridViewCellStyle12.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle12.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle12.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgv_lista_productos.RowHeadersDefaultCellStyle = DataGridViewCellStyle12
+        DataGridViewCellStyle18.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle18.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
+        DataGridViewCellStyle18.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        DataGridViewCellStyle18.ForeColor = System.Drawing.Color.White
+        DataGridViewCellStyle18.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle18.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle18.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgv_lista_productos.RowHeadersDefaultCellStyle = DataGridViewCellStyle18
         Me.dgv_lista_productos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.dgv_lista_productos.Size = New System.Drawing.Size(1098, 119)
         Me.dgv_lista_productos.TabIndex = 189
@@ -4838,20 +4904,20 @@ Partial Class FrmFacturacionRapida
         Me.Label89.TabIndex = 3
         Me.Label89.Text = "Fecha:"
         '
-        'GroupBox4
+        'GrpObservaciones
         '
-        Me.GroupBox4.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
+        Me.GrpObservaciones.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBox4.BackColor = System.Drawing.Color.White
-        Me.GroupBox4.Controls.Add(Me.txt_obs_general)
-        Me.GroupBox4.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        Me.GroupBox4.ForeColor = System.Drawing.Color.Navy
-        Me.GroupBox4.Location = New System.Drawing.Point(17, 471)
-        Me.GroupBox4.Name = "GroupBox4"
-        Me.GroupBox4.Size = New System.Drawing.Size(341, 65)
-        Me.GroupBox4.TabIndex = 213
-        Me.GroupBox4.TabStop = False
-        Me.GroupBox4.Text = "Observaciones generales"
+        Me.GrpObservaciones.BackColor = System.Drawing.Color.White
+        Me.GrpObservaciones.Controls.Add(Me.txt_obs_general)
+        Me.GrpObservaciones.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.GrpObservaciones.ForeColor = System.Drawing.Color.Navy
+        Me.GrpObservaciones.Location = New System.Drawing.Point(17, 471)
+        Me.GrpObservaciones.Name = "GrpObservaciones"
+        Me.GrpObservaciones.Size = New System.Drawing.Size(341, 144)
+        Me.GrpObservaciones.TabIndex = 213
+        Me.GrpObservaciones.TabStop = False
+        Me.GrpObservaciones.Text = "Observaciones generales"
         '
         'txt_obs_general
         '
@@ -4861,26 +4927,27 @@ Partial Class FrmFacturacionRapida
         Me.txt_obs_general.BackColor = System.Drawing.Color.White
         Me.txt_obs_general.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_obs_general.Location = New System.Drawing.Point(10, 18)
-        Me.txt_obs_general.MaxLength = 200
+        Me.txt_obs_general.MaxLength = 500
         Me.txt_obs_general.Multiline = True
         Me.txt_obs_general.Name = "txt_obs_general"
-        Me.txt_obs_general.Size = New System.Drawing.Size(320, 36)
+        Me.txt_obs_general.Size = New System.Drawing.Size(320, 115)
         Me.txt_obs_general.TabIndex = 203
         '
-        'GroupBox10
+        'GrpRecepcionTercero
         '
-        Me.GroupBox10.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
+        Me.GrpRecepcionTercero.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBox10.BackColor = System.Drawing.Color.White
-        Me.GroupBox10.Controls.Add(Me.txt_recepcion_tercero)
-        Me.GroupBox10.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        Me.GroupBox10.ForeColor = System.Drawing.Color.Navy
-        Me.GroupBox10.Location = New System.Drawing.Point(17, 539)
-        Me.GroupBox10.Name = "GroupBox10"
-        Me.GroupBox10.Size = New System.Drawing.Size(341, 65)
-        Me.GroupBox10.TabIndex = 214
-        Me.GroupBox10.TabStop = False
-        Me.GroupBox10.Text = "Recepción de Tercero"
+        Me.GrpRecepcionTercero.BackColor = System.Drawing.Color.White
+        Me.GrpRecepcionTercero.Controls.Add(Me.txt_recepcion_tercero)
+        Me.GrpRecepcionTercero.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.GrpRecepcionTercero.ForeColor = System.Drawing.Color.Navy
+        Me.GrpRecepcionTercero.Location = New System.Drawing.Point(17, 539)
+        Me.GrpRecepcionTercero.Name = "GrpRecepcionTercero"
+        Me.GrpRecepcionTercero.Size = New System.Drawing.Size(341, 65)
+        Me.GrpRecepcionTercero.TabIndex = 214
+        Me.GrpRecepcionTercero.TabStop = False
+        Me.GrpRecepcionTercero.Text = "Recepción de Tercero"
+        Me.GrpRecepcionTercero.Visible = False
         '
         'txt_recepcion_tercero
         '
@@ -4896,120 +4963,120 @@ Partial Class FrmFacturacionRapida
         Me.txt_recepcion_tercero.Size = New System.Drawing.Size(320, 36)
         Me.txt_recepcion_tercero.TabIndex = 203
         '
-        'GroupBox11
+        'GrpLugarEntrega
         '
-        Me.GroupBox11.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBox11.BackColor = System.Drawing.Color.White
-        Me.GroupBox11.Controls.Add(Me.txtLocal)
-        Me.GroupBox11.Controls.Add(Me.txtDireccionTransportista)
-        Me.GroupBox11.Controls.Add(Me.txtLocalDescripcion)
-        Me.GroupBox11.Controls.Add(Me.Label142)
-        Me.GroupBox11.Controls.Add(Me.txtDireccionTransportistaDescripcion)
-        Me.GroupBox11.Controls.Add(Me.lblDireccionAgencia)
-        Me.GroupBox11.Controls.Add(Me.GroupBox13)
-        Me.GroupBox11.Controls.Add(Me.chk_efectivo)
-        Me.GroupBox11.Controls.Add(Me.chk_transferencia)
-        Me.GroupBox11.Controls.Add(Me.chk_letra_2)
-        Me.GroupBox11.Controls.Add(Me.chk_factura_2)
-        Me.GroupBox11.Controls.Add(Me.chk_guia_2)
-        Me.GroupBox11.Controls.Add(Me.lblModoPago)
-        Me.GroupBox11.Controls.Add(Me.txtModoPago)
-        Me.GroupBox11.Controls.Add(Me.Label129)
-        Me.GroupBox11.Controls.Add(Me.txt_n_operacion)
-        Me.GroupBox11.Controls.Add(Me.Label128)
-        Me.GroupBox11.Controls.Add(Me.Label125)
-        Me.GroupBox11.Controls.Add(Me.txt_des_transferencia)
-        Me.GroupBox11.Controls.Add(Me.txt_cod_transferencia)
-        Me.GroupBox11.Controls.Add(Me.chk_cheque)
-        Me.GroupBox11.Controls.Add(Me.rdb_domicilio)
-        Me.GroupBox11.Controls.Add(Me.rdb_agencia)
-        Me.GroupBox11.Controls.Add(Me.txt_guia)
-        Me.GroupBox11.Controls.Add(Me.Label112)
-        Me.GroupBox11.Controls.Add(Me.Label101)
-        Me.GroupBox11.Controls.Add(Me.txt_des_agencia_trans)
-        Me.GroupBox11.Controls.Add(Me.txt_cod_agencia_trans)
-        Me.GroupBox11.Controls.Add(Me.txt_provincia)
-        Me.GroupBox11.Controls.Add(Me.Label100)
-        Me.GroupBox11.Controls.Add(Me.TextBox27)
-        Me.GroupBox11.Controls.Add(Me.CheckBox1)
-        Me.GroupBox11.Controls.Add(Me.RadioButton3)
-        Me.GroupBox11.Controls.Add(Me.RadioButton4)
-        Me.GroupBox11.Controls.Add(Me.TextBox28)
-        Me.GroupBox11.Controls.Add(Me.PictureBox26)
-        Me.GroupBox11.Controls.Add(Me.TextBox29)
-        Me.GroupBox11.Controls.Add(Me.Label102)
-        Me.GroupBox11.Controls.Add(Me.PictureBox28)
-        Me.GroupBox11.Controls.Add(Me.PictureBox29)
-        Me.GroupBox11.Controls.Add(Me.PictureBox30)
-        Me.GroupBox11.Controls.Add(Me.TextBox30)
-        Me.GroupBox11.Controls.Add(Me.Label103)
-        Me.GroupBox11.Controls.Add(Me.TextBox31)
-        Me.GroupBox11.Controls.Add(Me.Label104)
-        Me.GroupBox11.Controls.Add(Me.TextBox32)
-        Me.GroupBox11.Controls.Add(Me.Label105)
-        Me.GroupBox11.Controls.Add(Me.PictureBox31)
-        Me.GroupBox11.Controls.Add(Me.PictureBox32)
-        Me.GroupBox11.Controls.Add(Me.RadioButton5)
-        Me.GroupBox11.Controls.Add(Me.RadioButton6)
-        Me.GroupBox11.Controls.Add(Me.GroupBox12)
-        Me.GroupBox11.Controls.Add(Me.Label110)
-        Me.GroupBox11.Controls.Add(Me.TextBox59)
-        Me.GroupBox11.Controls.Add(Me.TextBox60)
-        Me.GroupBox11.Controls.Add(Me.Label111)
-        Me.GroupBox11.Controls.Add(Me.PictureBox33)
-        Me.GroupBox11.Controls.Add(Me.CheckBox2)
-        Me.GroupBox11.Controls.Add(Me.ComboBox3)
-        Me.GroupBox11.Controls.Add(Me.Label113)
-        Me.GroupBox11.Controls.Add(Me.TextBox64)
-        Me.GroupBox11.Controls.Add(Me.Label114)
-        Me.GroupBox11.Controls.Add(Me.TextBox65)
-        Me.GroupBox11.Controls.Add(Me.Label115)
-        Me.GroupBox11.Controls.Add(Me.TextBox66)
-        Me.GroupBox11.Controls.Add(Me.CheckBox3)
-        Me.GroupBox11.Controls.Add(Me.Label116)
-        Me.GroupBox11.Controls.Add(Me.TextBox67)
-        Me.GroupBox11.Controls.Add(Me.Label117)
-        Me.GroupBox11.Controls.Add(Me.TextBox68)
-        Me.GroupBox11.Controls.Add(Me.PictureBox34)
-        Me.GroupBox11.Controls.Add(Me.TextBox69)
-        Me.GroupBox11.Controls.Add(Me.Label118)
-        Me.GroupBox11.Controls.Add(Me.TextBox70)
-        Me.GroupBox11.Controls.Add(Me.PictureBox35)
-        Me.GroupBox11.Controls.Add(Me.TextBox71)
-        Me.GroupBox11.Controls.Add(Me.Label119)
-        Me.GroupBox11.Controls.Add(Me.TextBox72)
-        Me.GroupBox11.Controls.Add(Me.PictureBox36)
-        Me.GroupBox11.Controls.Add(Me.TextBox73)
-        Me.GroupBox11.Controls.Add(Me.Label120)
-        Me.GroupBox11.Controls.Add(Me.TextBox74)
-        Me.GroupBox11.Controls.Add(Me.Label121)
-        Me.GroupBox11.Controls.Add(Me.TextBox75)
-        Me.GroupBox11.Controls.Add(Me.TextBox76)
-        Me.GroupBox11.Controls.Add(Me.TextBox78)
-        Me.GroupBox11.Controls.Add(Me.Label122)
-        Me.GroupBox11.Controls.Add(Me.Label123)
-        Me.GroupBox11.Controls.Add(Me.PictureBox37)
-        Me.GroupBox11.Controls.Add(Me.PictureBox38)
-        Me.GroupBox11.Controls.Add(Me.ComboBox4)
-        Me.GroupBox11.Controls.Add(Me.Label126)
-        Me.GroupBox11.Controls.Add(Me.TextBox82)
-        Me.GroupBox11.Controls.Add(Me.Label127)
-        Me.GroupBox11.Controls.Add(Me.Label130)
-        Me.GroupBox11.Controls.Add(Me.TextBox88)
-        Me.GroupBox11.Controls.Add(Me.txt_lt_ft)
-        Me.GroupBox11.Controls.Add(Me.Label124)
-        Me.GroupBox11.Location = New System.Drawing.Point(364, 343)
-        Me.GroupBox11.Name = "GroupBox11"
-        Me.GroupBox11.Size = New System.Drawing.Size(399, 311)
-        Me.GroupBox11.TabIndex = 215
-        Me.GroupBox11.TabStop = False
+        Me.GrpLugarEntrega.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GrpLugarEntrega.BackColor = System.Drawing.Color.White
+        Me.GrpLugarEntrega.Controls.Add(Me.txtLocal)
+        Me.GrpLugarEntrega.Controls.Add(Me.txtDireccionTransportista)
+        Me.GrpLugarEntrega.Controls.Add(Me.txtLocalDescripcion)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label142)
+        Me.GrpLugarEntrega.Controls.Add(Me.txtDireccionTransportistaDescripcion)
+        Me.GrpLugarEntrega.Controls.Add(Me.lblDireccionAgencia)
+        Me.GrpLugarEntrega.Controls.Add(Me.GroupBox13)
+        Me.GrpLugarEntrega.Controls.Add(Me.chk_efectivo)
+        Me.GrpLugarEntrega.Controls.Add(Me.chk_transferencia)
+        Me.GrpLugarEntrega.Controls.Add(Me.chk_letra_2)
+        Me.GrpLugarEntrega.Controls.Add(Me.chk_factura_2)
+        Me.GrpLugarEntrega.Controls.Add(Me.chk_guia_2)
+        Me.GrpLugarEntrega.Controls.Add(Me.lblModoPago)
+        Me.GrpLugarEntrega.Controls.Add(Me.txtModoPago)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label129)
+        Me.GrpLugarEntrega.Controls.Add(Me.txt_n_operacion)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label128)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label125)
+        Me.GrpLugarEntrega.Controls.Add(Me.txt_des_transferencia)
+        Me.GrpLugarEntrega.Controls.Add(Me.txt_cod_transferencia)
+        Me.GrpLugarEntrega.Controls.Add(Me.chk_cheque)
+        Me.GrpLugarEntrega.Controls.Add(Me.rdb_domicilio)
+        Me.GrpLugarEntrega.Controls.Add(Me.rdb_agencia)
+        Me.GrpLugarEntrega.Controls.Add(Me.txt_guia)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label112)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label101)
+        Me.GrpLugarEntrega.Controls.Add(Me.txt_des_agencia_trans)
+        Me.GrpLugarEntrega.Controls.Add(Me.txt_cod_agencia_trans)
+        Me.GrpLugarEntrega.Controls.Add(Me.txt_provincia)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label100)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox27)
+        Me.GrpLugarEntrega.Controls.Add(Me.CheckBox1)
+        Me.GrpLugarEntrega.Controls.Add(Me.RadioButton3)
+        Me.GrpLugarEntrega.Controls.Add(Me.RadioButton4)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox28)
+        Me.GrpLugarEntrega.Controls.Add(Me.PictureBox26)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox29)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label102)
+        Me.GrpLugarEntrega.Controls.Add(Me.PictureBox28)
+        Me.GrpLugarEntrega.Controls.Add(Me.PictureBox29)
+        Me.GrpLugarEntrega.Controls.Add(Me.PictureBox30)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox30)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label103)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox31)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label104)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox32)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label105)
+        Me.GrpLugarEntrega.Controls.Add(Me.PictureBox31)
+        Me.GrpLugarEntrega.Controls.Add(Me.PictureBox32)
+        Me.GrpLugarEntrega.Controls.Add(Me.RadioButton5)
+        Me.GrpLugarEntrega.Controls.Add(Me.RadioButton6)
+        Me.GrpLugarEntrega.Controls.Add(Me.GroupBox12)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label110)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox59)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox60)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label111)
+        Me.GrpLugarEntrega.Controls.Add(Me.PictureBox33)
+        Me.GrpLugarEntrega.Controls.Add(Me.CheckBox2)
+        Me.GrpLugarEntrega.Controls.Add(Me.ComboBox3)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label113)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox64)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label114)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox65)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label115)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox66)
+        Me.GrpLugarEntrega.Controls.Add(Me.CheckBox3)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label116)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox67)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label117)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox68)
+        Me.GrpLugarEntrega.Controls.Add(Me.PictureBox34)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox69)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label118)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox70)
+        Me.GrpLugarEntrega.Controls.Add(Me.PictureBox35)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox71)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label119)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox72)
+        Me.GrpLugarEntrega.Controls.Add(Me.PictureBox36)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox73)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label120)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox74)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label121)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox75)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox76)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox78)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label122)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label123)
+        Me.GrpLugarEntrega.Controls.Add(Me.PictureBox37)
+        Me.GrpLugarEntrega.Controls.Add(Me.PictureBox38)
+        Me.GrpLugarEntrega.Controls.Add(Me.ComboBox4)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label126)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox82)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label127)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label130)
+        Me.GrpLugarEntrega.Controls.Add(Me.TextBox88)
+        Me.GrpLugarEntrega.Controls.Add(Me.txt_lt_ft)
+        Me.GrpLugarEntrega.Controls.Add(Me.Label124)
+        Me.GrpLugarEntrega.Location = New System.Drawing.Point(364, 343)
+        Me.GrpLugarEntrega.Name = "GrpLugarEntrega"
+        Me.GrpLugarEntrega.Size = New System.Drawing.Size(399, 311)
+        Me.GrpLugarEntrega.TabIndex = 215
+        Me.GrpLugarEntrega.TabStop = False
         '
         'txtLocal
         '
         Me.txtLocal.BackColor = System.Drawing.Color.Aquamarine
         Me.txtLocal.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtLocal.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        Me.txtLocal.Location = New System.Drawing.Point(94, 156)
+        Me.txtLocal.Location = New System.Drawing.Point(94, 99)
         Me.txtLocal.Name = "txtLocal"
         Me.txtLocal.Size = New System.Drawing.Size(57, 21)
         Me.txtLocal.TabIndex = 242
@@ -5021,7 +5088,7 @@ Partial Class FrmFacturacionRapida
         Me.txtDireccionTransportista.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtDireccionTransportista.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txtDireccionTransportista.ForeColor = System.Drawing.Color.SaddleBrown
-        Me.txtDireccionTransportista.Location = New System.Drawing.Point(94, 133)
+        Me.txtDireccionTransportista.Location = New System.Drawing.Point(94, 76)
         Me.txtDireccionTransportista.Name = "txtDireccionTransportista"
         Me.txtDireccionTransportista.ReadOnly = True
         Me.txtDireccionTransportista.Size = New System.Drawing.Size(57, 21)
@@ -5030,11 +5097,11 @@ Partial Class FrmFacturacionRapida
         '
         'txtLocalDescripcion
         '
-        Me.txtLocalDescripcion.BackColor = System.Drawing.Color.White
+        Me.txtLocalDescripcion.BackColor = System.Drawing.Color.Aquamarine
         Me.txtLocalDescripcion.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtLocalDescripcion.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txtLocalDescripcion.ForeColor = System.Drawing.Color.SaddleBrown
-        Me.txtLocalDescripcion.Location = New System.Drawing.Point(94, 156)
+        Me.txtLocalDescripcion.Location = New System.Drawing.Point(94, 99)
         Me.txtLocalDescripcion.Name = "txtLocalDescripcion"
         Me.txtLocalDescripcion.ReadOnly = True
         Me.txtLocalDescripcion.Size = New System.Drawing.Size(298, 21)
@@ -5045,7 +5112,7 @@ Partial Class FrmFacturacionRapida
         Me.Label142.AutoSize = True
         Me.Label142.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.Label142.ForeColor = System.Drawing.Color.Navy
-        Me.Label142.Location = New System.Drawing.Point(54, 160)
+        Me.Label142.Location = New System.Drawing.Point(54, 103)
         Me.Label142.Name = "Label142"
         Me.Label142.Size = New System.Drawing.Size(36, 13)
         Me.Label142.TabIndex = 240
@@ -5053,11 +5120,11 @@ Partial Class FrmFacturacionRapida
         '
         'txtDireccionTransportistaDescripcion
         '
-        Me.txtDireccionTransportistaDescripcion.BackColor = System.Drawing.Color.White
+        Me.txtDireccionTransportistaDescripcion.BackColor = System.Drawing.Color.Aquamarine
         Me.txtDireccionTransportistaDescripcion.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtDireccionTransportistaDescripcion.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txtDireccionTransportistaDescripcion.ForeColor = System.Drawing.Color.SaddleBrown
-        Me.txtDireccionTransportistaDescripcion.Location = New System.Drawing.Point(94, 133)
+        Me.txtDireccionTransportistaDescripcion.Location = New System.Drawing.Point(94, 76)
         Me.txtDireccionTransportistaDescripcion.MaxLength = 250
         Me.txtDireccionTransportistaDescripcion.Name = "txtDireccionTransportistaDescripcion"
         Me.txtDireccionTransportistaDescripcion.ReadOnly = True
@@ -5069,7 +5136,7 @@ Partial Class FrmFacturacionRapida
         Me.lblDireccionAgencia.AutoSize = True
         Me.lblDireccionAgencia.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.lblDireccionAgencia.ForeColor = System.Drawing.Color.Navy
-        Me.lblDireccionAgencia.Location = New System.Drawing.Point(5, 136)
+        Me.lblDireccionAgencia.Location = New System.Drawing.Point(5, 79)
         Me.lblDireccionAgencia.Name = "lblDireccionAgencia"
         Me.lblDireccionAgencia.Size = New System.Drawing.Size(85, 13)
         Me.lblDireccionAgencia.TabIndex = 238
@@ -5082,7 +5149,7 @@ Partial Class FrmFacturacionRapida
         Me.GroupBox13.Controls.Add(Me.rdb_opt_agencia)
         Me.GroupBox13.Controls.Add(Me.rdb_opt_domicilio)
         Me.GroupBox13.Controls.Add(Me.rdb_opt_local)
-        Me.GroupBox13.Location = New System.Drawing.Point(94, 67)
+        Me.GroupBox13.Location = New System.Drawing.Point(94, 10)
         Me.GroupBox13.Name = "GroupBox13"
         Me.GroupBox13.Size = New System.Drawing.Size(298, 36)
         Me.GroupBox13.TabIndex = 236
@@ -5091,26 +5158,26 @@ Partial Class FrmFacturacionRapida
         'rdb_opt_agencia
         '
         Me.rdb_opt_agencia.AutoSize = True
+        Me.rdb_opt_agencia.Checked = True
         Me.rdb_opt_agencia.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.rdb_opt_agencia.ForeColor = System.Drawing.Color.Navy
         Me.rdb_opt_agencia.Location = New System.Drawing.Point(4, 10)
         Me.rdb_opt_agencia.Name = "rdb_opt_agencia"
         Me.rdb_opt_agencia.Size = New System.Drawing.Size(70, 17)
         Me.rdb_opt_agencia.TabIndex = 225
+        Me.rdb_opt_agencia.TabStop = True
         Me.rdb_opt_agencia.Text = "Agencia"
         Me.rdb_opt_agencia.UseVisualStyleBackColor = True
         '
         'rdb_opt_domicilio
         '
         Me.rdb_opt_domicilio.AutoSize = True
-        Me.rdb_opt_domicilio.Checked = True
         Me.rdb_opt_domicilio.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.rdb_opt_domicilio.ForeColor = System.Drawing.Color.Navy
         Me.rdb_opt_domicilio.Location = New System.Drawing.Point(118, 10)
         Me.rdb_opt_domicilio.Name = "rdb_opt_domicilio"
         Me.rdb_opt_domicilio.Size = New System.Drawing.Size(76, 17)
         Me.rdb_opt_domicilio.TabIndex = 226
-        Me.rdb_opt_domicilio.TabStop = True
         Me.rdb_opt_domicilio.Text = "Domicilio"
         Me.rdb_opt_domicilio.UseVisualStyleBackColor = True
         '
@@ -5131,7 +5198,7 @@ Partial Class FrmFacturacionRapida
         Me.chk_efectivo.AutoSize = True
         Me.chk_efectivo.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.chk_efectivo.ForeColor = System.Drawing.Color.Navy
-        Me.chk_efectivo.Location = New System.Drawing.Point(206, 187)
+        Me.chk_efectivo.Location = New System.Drawing.Point(206, 130)
         Me.chk_efectivo.Name = "chk_efectivo"
         Me.chk_efectivo.Size = New System.Drawing.Size(71, 17)
         Me.chk_efectivo.TabIndex = 228
@@ -5143,7 +5210,7 @@ Partial Class FrmFacturacionRapida
         Me.chk_transferencia.AutoSize = True
         Me.chk_transferencia.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.chk_transferencia.ForeColor = System.Drawing.Color.Navy
-        Me.chk_transferencia.Location = New System.Drawing.Point(95, 187)
+        Me.chk_transferencia.Location = New System.Drawing.Point(95, 130)
         Me.chk_transferencia.Name = "chk_transferencia"
         Me.chk_transferencia.Size = New System.Drawing.Size(104, 17)
         Me.chk_transferencia.TabIndex = 227
@@ -5155,7 +5222,7 @@ Partial Class FrmFacturacionRapida
         Me.chk_letra_2.AutoSize = True
         Me.chk_letra_2.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.chk_letra_2.ForeColor = System.Drawing.Color.Navy
-        Me.chk_letra_2.Location = New System.Drawing.Point(250, 52)
+        Me.chk_letra_2.Location = New System.Drawing.Point(250, 277)
         Me.chk_letra_2.Name = "chk_letra_2"
         Me.chk_letra_2.Size = New System.Drawing.Size(56, 17)
         Me.chk_letra_2.TabIndex = 224
@@ -5168,24 +5235,26 @@ Partial Class FrmFacturacionRapida
         Me.chk_factura_2.AutoSize = True
         Me.chk_factura_2.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.chk_factura_2.ForeColor = System.Drawing.Color.Navy
-        Me.chk_factura_2.Location = New System.Drawing.Point(163, 45)
+        Me.chk_factura_2.Location = New System.Drawing.Point(163, 277)
         Me.chk_factura_2.Name = "chk_factura_2"
         Me.chk_factura_2.Size = New System.Drawing.Size(69, 17)
         Me.chk_factura_2.TabIndex = 223
         Me.chk_factura_2.Text = "Factura"
         Me.chk_factura_2.UseVisualStyleBackColor = True
+        Me.chk_factura_2.Visible = False
         '
         'chk_guia_2
         '
         Me.chk_guia_2.AutoSize = True
         Me.chk_guia_2.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.chk_guia_2.ForeColor = System.Drawing.Color.Navy
-        Me.chk_guia_2.Location = New System.Drawing.Point(94, 45)
+        Me.chk_guia_2.Location = New System.Drawing.Point(94, 277)
         Me.chk_guia_2.Name = "chk_guia_2"
         Me.chk_guia_2.Size = New System.Drawing.Size(51, 17)
         Me.chk_guia_2.TabIndex = 222
         Me.chk_guia_2.Text = "Guía"
         Me.chk_guia_2.UseVisualStyleBackColor = True
+        Me.chk_guia_2.Visible = False
         '
         'lblModoPago
         '
@@ -5193,7 +5262,7 @@ Partial Class FrmFacturacionRapida
         Me.lblModoPago.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.lblModoPago.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.lblModoPago.ForeColor = System.Drawing.Color.Green
-        Me.lblModoPago.Location = New System.Drawing.Point(157, 268)
+        Me.lblModoPago.Location = New System.Drawing.Point(157, 211)
         Me.lblModoPago.Name = "lblModoPago"
         Me.lblModoPago.ReadOnly = True
         Me.lblModoPago.Size = New System.Drawing.Size(235, 21)
@@ -5205,7 +5274,7 @@ Partial Class FrmFacturacionRapida
         Me.txtModoPago.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtModoPago.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txtModoPago.ForeColor = System.Drawing.Color.SaddleBrown
-        Me.txtModoPago.Location = New System.Drawing.Point(94, 268)
+        Me.txtModoPago.Location = New System.Drawing.Point(94, 211)
         Me.txtModoPago.MaxLength = 4
         Me.txtModoPago.Name = "txtModoPago"
         Me.txtModoPago.ReadOnly = True
@@ -5217,7 +5286,7 @@ Partial Class FrmFacturacionRapida
         Me.Label129.AutoSize = True
         Me.Label129.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.Label129.ForeColor = System.Drawing.Color.Navy
-        Me.Label129.Location = New System.Drawing.Point(5, 272)
+        Me.Label129.Location = New System.Drawing.Point(5, 215)
         Me.Label129.Name = "Label129"
         Me.Label129.Size = New System.Drawing.Size(86, 13)
         Me.Label129.TabIndex = 221
@@ -5229,7 +5298,7 @@ Partial Class FrmFacturacionRapida
         Me.txt_n_operacion.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_n_operacion.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txt_n_operacion.ForeColor = System.Drawing.Color.Green
-        Me.txt_n_operacion.Location = New System.Drawing.Point(94, 241)
+        Me.txt_n_operacion.Location = New System.Drawing.Point(94, 184)
         Me.txt_n_operacion.MaxLength = 250
         Me.txt_n_operacion.Name = "txt_n_operacion"
         Me.txt_n_operacion.Size = New System.Drawing.Size(138, 21)
@@ -5240,7 +5309,7 @@ Partial Class FrmFacturacionRapida
         Me.Label128.AutoSize = True
         Me.Label128.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.Label128.ForeColor = System.Drawing.Color.Navy
-        Me.Label128.Location = New System.Drawing.Point(11, 245)
+        Me.Label128.Location = New System.Drawing.Point(11, 188)
         Me.Label128.Name = "Label128"
         Me.Label128.Size = New System.Drawing.Size(80, 13)
         Me.Label128.TabIndex = 215
@@ -5252,7 +5321,7 @@ Partial Class FrmFacturacionRapida
         Me.Label125.AutoSize = True
         Me.Label125.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.Label125.ForeColor = System.Drawing.Color.Navy
-        Me.Label125.Location = New System.Drawing.Point(50, 220)
+        Me.Label125.Location = New System.Drawing.Point(50, 163)
         Me.Label125.Name = "Label125"
         Me.Label125.Size = New System.Drawing.Size(41, 13)
         Me.Label125.TabIndex = 213
@@ -5264,7 +5333,7 @@ Partial Class FrmFacturacionRapida
         Me.txt_des_transferencia.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_des_transferencia.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txt_des_transferencia.ForeColor = System.Drawing.Color.Green
-        Me.txt_des_transferencia.Location = New System.Drawing.Point(157, 216)
+        Me.txt_des_transferencia.Location = New System.Drawing.Point(157, 159)
         Me.txt_des_transferencia.Name = "txt_des_transferencia"
         Me.txt_des_transferencia.ReadOnly = True
         Me.txt_des_transferencia.Size = New System.Drawing.Size(235, 21)
@@ -5276,7 +5345,7 @@ Partial Class FrmFacturacionRapida
         Me.txt_cod_transferencia.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_cod_transferencia.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txt_cod_transferencia.ForeColor = System.Drawing.Color.SaddleBrown
-        Me.txt_cod_transferencia.Location = New System.Drawing.Point(94, 216)
+        Me.txt_cod_transferencia.Location = New System.Drawing.Point(94, 159)
         Me.txt_cod_transferencia.Name = "txt_cod_transferencia"
         Me.txt_cod_transferencia.ReadOnly = True
         Me.txt_cod_transferencia.Size = New System.Drawing.Size(57, 21)
@@ -5287,7 +5356,7 @@ Partial Class FrmFacturacionRapida
         Me.chk_cheque.AutoSize = True
         Me.chk_cheque.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.chk_cheque.ForeColor = System.Drawing.Color.Navy
-        Me.chk_cheque.Location = New System.Drawing.Point(324, 52)
+        Me.chk_cheque.Location = New System.Drawing.Point(324, 277)
         Me.chk_cheque.Name = "chk_cheque"
         Me.chk_cheque.Size = New System.Drawing.Size(68, 17)
         Me.chk_cheque.TabIndex = 208
@@ -5300,7 +5369,7 @@ Partial Class FrmFacturacionRapida
         Me.rdb_domicilio.AutoSize = True
         Me.rdb_domicilio.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.rdb_domicilio.ForeColor = System.Drawing.Color.Navy
-        Me.rdb_domicilio.Location = New System.Drawing.Point(175, 111)
+        Me.rdb_domicilio.Location = New System.Drawing.Point(175, 54)
         Me.rdb_domicilio.Name = "rdb_domicilio"
         Me.rdb_domicilio.Size = New System.Drawing.Size(93, 17)
         Me.rdb_domicilio.TabIndex = 207
@@ -5314,7 +5383,7 @@ Partial Class FrmFacturacionRapida
         Me.rdb_agencia.AutoSize = True
         Me.rdb_agencia.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.rdb_agencia.ForeColor = System.Drawing.Color.Navy
-        Me.rdb_agencia.Location = New System.Drawing.Point(94, 235)
+        Me.rdb_agencia.Location = New System.Drawing.Point(94, 178)
         Me.rdb_agencia.Name = "rdb_agencia"
         Me.rdb_agencia.Size = New System.Drawing.Size(70, 17)
         Me.rdb_agencia.TabIndex = 206
@@ -5329,7 +5398,7 @@ Partial Class FrmFacturacionRapida
         Me.txt_guia.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_guia.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txt_guia.ForeColor = System.Drawing.Color.Green
-        Me.txt_guia.Location = New System.Drawing.Point(94, 161)
+        Me.txt_guia.Location = New System.Drawing.Point(94, 104)
         Me.txt_guia.MaxLength = 250
         Me.txt_guia.Name = "txt_guia"
         Me.txt_guia.Size = New System.Drawing.Size(298, 21)
@@ -5341,7 +5410,7 @@ Partial Class FrmFacturacionRapida
         Me.Label112.AutoSize = True
         Me.Label112.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.Label112.ForeColor = System.Drawing.Color.Navy
-        Me.Label112.Location = New System.Drawing.Point(33, 165)
+        Me.Label112.Location = New System.Drawing.Point(33, 108)
         Me.Label112.Name = "Label112"
         Me.Label112.Size = New System.Drawing.Size(58, 13)
         Me.Label112.TabIndex = 205
@@ -5354,7 +5423,7 @@ Partial Class FrmFacturacionRapida
         Me.Label101.AutoSize = True
         Me.Label101.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.Label101.ForeColor = System.Drawing.Color.Navy
-        Me.Label101.Location = New System.Drawing.Point(14, 113)
+        Me.Label101.Location = New System.Drawing.Point(14, 56)
         Me.Label101.Name = "Label101"
         Me.Label101.Size = New System.Drawing.Size(76, 13)
         Me.Label101.TabIndex = 203
@@ -5366,7 +5435,7 @@ Partial Class FrmFacturacionRapida
         Me.txt_des_agencia_trans.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_des_agencia_trans.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txt_des_agencia_trans.ForeColor = System.Drawing.Color.Green
-        Me.txt_des_agencia_trans.Location = New System.Drawing.Point(157, 109)
+        Me.txt_des_agencia_trans.Location = New System.Drawing.Point(157, 52)
         Me.txt_des_agencia_trans.Name = "txt_des_agencia_trans"
         Me.txt_des_agencia_trans.ReadOnly = True
         Me.txt_des_agencia_trans.Size = New System.Drawing.Size(235, 21)
@@ -5378,7 +5447,7 @@ Partial Class FrmFacturacionRapida
         Me.txt_cod_agencia_trans.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_cod_agencia_trans.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txt_cod_agencia_trans.ForeColor = System.Drawing.Color.SaddleBrown
-        Me.txt_cod_agencia_trans.Location = New System.Drawing.Point(94, 109)
+        Me.txt_cod_agencia_trans.Location = New System.Drawing.Point(94, 52)
         Me.txt_cod_agencia_trans.Name = "txt_cod_agencia_trans"
         Me.txt_cod_agencia_trans.ReadOnly = True
         Me.txt_cod_agencia_trans.Size = New System.Drawing.Size(57, 21)
@@ -5390,27 +5459,29 @@ Partial Class FrmFacturacionRapida
         Me.txt_provincia.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_provincia.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txt_provincia.ForeColor = System.Drawing.Color.Green
-        Me.txt_provincia.Location = New System.Drawing.Point(94, 19)
+        Me.txt_provincia.Location = New System.Drawing.Point(94, 242)
         Me.txt_provincia.MaxLength = 250
         Me.txt_provincia.Name = "txt_provincia"
         Me.txt_provincia.Size = New System.Drawing.Size(298, 21)
         Me.txt_provincia.TabIndex = 199
+        Me.txt_provincia.Visible = False
         '
         'Label100
         '
         Me.Label100.AutoSize = True
         Me.Label100.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.Label100.ForeColor = System.Drawing.Color.Navy
-        Me.Label100.Location = New System.Drawing.Point(32, 23)
+        Me.Label100.Location = New System.Drawing.Point(32, 246)
         Me.Label100.Name = "Label100"
         Me.Label100.Size = New System.Drawing.Size(59, 13)
         Me.Label100.TabIndex = 200
         Me.Label100.Text = "Provincia"
         Me.Label100.TextAlign = System.Drawing.ContentAlignment.TopRight
+        Me.Label100.Visible = False
         '
         'TextBox27
         '
-        Me.TextBox27.Location = New System.Drawing.Point(120, 253)
+        Me.TextBox27.Location = New System.Drawing.Point(120, 196)
         Me.TextBox27.Margin = New System.Windows.Forms.Padding(2)
         Me.TextBox27.Name = "TextBox27"
         Me.TextBox27.Size = New System.Drawing.Size(81, 20)
@@ -5421,7 +5492,7 @@ Partial Class FrmFacturacionRapida
         '
         Me.CheckBox1.AutoSize = True
         Me.CheckBox1.ForeColor = System.Drawing.Color.Navy
-        Me.CheckBox1.Location = New System.Drawing.Point(334, 308)
+        Me.CheckBox1.Location = New System.Drawing.Point(334, 320)
         Me.CheckBox1.Name = "CheckBox1"
         Me.CheckBox1.Size = New System.Drawing.Size(142, 17)
         Me.CheckBox1.TabIndex = 194
@@ -5433,7 +5504,7 @@ Partial Class FrmFacturacionRapida
         '
         Me.RadioButton3.AutoSize = True
         Me.RadioButton3.ForeColor = System.Drawing.Color.Navy
-        Me.RadioButton3.Location = New System.Drawing.Point(214, 308)
+        Me.RadioButton3.Location = New System.Drawing.Point(214, 320)
         Me.RadioButton3.Name = "RadioButton3"
         Me.RadioButton3.Size = New System.Drawing.Size(79, 17)
         Me.RadioButton3.TabIndex = 193
@@ -5447,7 +5518,7 @@ Partial Class FrmFacturacionRapida
         Me.RadioButton4.AutoSize = True
         Me.RadioButton4.Checked = True
         Me.RadioButton4.ForeColor = System.Drawing.Color.Navy
-        Me.RadioButton4.Location = New System.Drawing.Point(94, 308)
+        Me.RadioButton4.Location = New System.Drawing.Point(94, 320)
         Me.RadioButton4.Name = "RadioButton4"
         Me.RadioButton4.Size = New System.Drawing.Size(96, 17)
         Me.RadioButton4.TabIndex = 192
@@ -5462,7 +5533,7 @@ Partial Class FrmFacturacionRapida
         Me.TextBox28.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TextBox28.Font = New System.Drawing.Font("Tahoma", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox28.ForeColor = System.Drawing.Color.Green
-        Me.TextBox28.Location = New System.Drawing.Point(238, 322)
+        Me.TextBox28.Location = New System.Drawing.Point(238, 319)
         Me.TextBox28.Name = "TextBox28"
         Me.TextBox28.ReadOnly = True
         Me.TextBox28.Size = New System.Drawing.Size(257, 27)
@@ -5472,7 +5543,7 @@ Partial Class FrmFacturacionRapida
         'PictureBox26
         '
         Me.PictureBox26.Image = CType(resources.GetObject("PictureBox26.Image"), System.Drawing.Image)
-        Me.PictureBox26.Location = New System.Drawing.Point(203, 322)
+        Me.PictureBox26.Location = New System.Drawing.Point(203, 319)
         Me.PictureBox26.Name = "PictureBox26"
         Me.PictureBox26.Size = New System.Drawing.Size(29, 27)
         Me.PictureBox26.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
@@ -5486,7 +5557,7 @@ Partial Class FrmFacturacionRapida
         Me.TextBox29.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TextBox29.Font = New System.Drawing.Font("Tahoma", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox29.ForeColor = System.Drawing.Color.SaddleBrown
-        Me.TextBox29.Location = New System.Drawing.Point(94, 322)
+        Me.TextBox29.Location = New System.Drawing.Point(94, 319)
         Me.TextBox29.MaxLength = 2
         Me.TextBox29.Name = "TextBox29"
         Me.TextBox29.ReadOnly = True
@@ -5499,7 +5570,7 @@ Partial Class FrmFacturacionRapida
         Me.Label102.AutoSize = True
         Me.Label102.Font = New System.Drawing.Font("Tahoma", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label102.ForeColor = System.Drawing.Color.Navy
-        Me.Label102.Location = New System.Drawing.Point(14, 326)
+        Me.Label102.Location = New System.Drawing.Point(14, 323)
         Me.Label102.Name = "Label102"
         Me.Label102.Size = New System.Drawing.Size(77, 19)
         Me.Label102.TabIndex = 190
@@ -5658,7 +5729,7 @@ Partial Class FrmFacturacionRapida
         Me.GroupBox12.Controls.Add(Me.TextBox58)
         Me.GroupBox12.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GroupBox12.ForeColor = System.Drawing.Color.Navy
-        Me.GroupBox12.Location = New System.Drawing.Point(148, 314)
+        Me.GroupBox12.Location = New System.Drawing.Point(148, 311)
         Me.GroupBox12.Name = "GroupBox12"
         Me.GroupBox12.Size = New System.Drawing.Size(400, 57)
         Me.GroupBox12.TabIndex = 170
@@ -5876,7 +5947,7 @@ Partial Class FrmFacturacionRapida
         'PictureBox33
         '
         Me.PictureBox33.Image = CType(resources.GetObject("PictureBox33.Image"), System.Drawing.Image)
-        Me.PictureBox33.Location = New System.Drawing.Point(256, 308)
+        Me.PictureBox33.Location = New System.Drawing.Point(256, 315)
         Me.PictureBox33.Name = "PictureBox33"
         Me.PictureBox33.Size = New System.Drawing.Size(29, 27)
         Me.PictureBox33.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
@@ -5980,7 +6051,7 @@ Partial Class FrmFacturacionRapida
         Me.CheckBox3.AutoSize = True
         Me.CheckBox3.Font = New System.Drawing.Font("Tahoma", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CheckBox3.ForeColor = System.Drawing.Color.Navy
-        Me.CheckBox3.Location = New System.Drawing.Point(76, 434)
+        Me.CheckBox3.Location = New System.Drawing.Point(76, 397)
         Me.CheckBox3.Name = "CheckBox3"
         Me.CheckBox3.Size = New System.Drawing.Size(143, 23)
         Me.CheckBox3.TabIndex = 84
@@ -6165,7 +6236,7 @@ Partial Class FrmFacturacionRapida
         Me.TextBox75.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TextBox75.Font = New System.Drawing.Font("Tahoma", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox75.ForeColor = System.Drawing.Color.Green
-        Me.TextBox75.Location = New System.Drawing.Point(291, 309)
+        Me.TextBox75.Location = New System.Drawing.Point(291, 316)
         Me.TextBox75.Name = "TextBox75"
         Me.TextBox75.ReadOnly = True
         Me.TextBox75.Size = New System.Drawing.Size(257, 27)
@@ -6220,7 +6291,7 @@ Partial Class FrmFacturacionRapida
         'PictureBox37
         '
         Me.PictureBox37.Image = CType(resources.GetObject("PictureBox37.Image"), System.Drawing.Image)
-        Me.PictureBox37.Location = New System.Drawing.Point(256, 350)
+        Me.PictureBox37.Location = New System.Drawing.Point(256, 347)
         Me.PictureBox37.Name = "PictureBox37"
         Me.PictureBox37.Size = New System.Drawing.Size(29, 27)
         Me.PictureBox37.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
@@ -6267,7 +6338,7 @@ Partial Class FrmFacturacionRapida
         Me.TextBox82.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TextBox82.Font = New System.Drawing.Font("Tahoma", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox82.ForeColor = System.Drawing.Color.SaddleBrown
-        Me.TextBox82.Location = New System.Drawing.Point(148, 308)
+        Me.TextBox82.Location = New System.Drawing.Point(148, 315)
         Me.TextBox82.Name = "TextBox82"
         Me.TextBox82.ReadOnly = True
         Me.TextBox82.Size = New System.Drawing.Size(100, 27)
@@ -6279,7 +6350,7 @@ Partial Class FrmFacturacionRapida
         Me.Label127.AutoSize = True
         Me.Label127.Font = New System.Drawing.Font("Tahoma", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label127.ForeColor = System.Drawing.Color.Navy
-        Me.Label127.Location = New System.Drawing.Point(15, 354)
+        Me.Label127.Location = New System.Drawing.Point(15, 351)
         Me.Label127.Name = "Label127"
         Me.Label127.Size = New System.Drawing.Size(130, 19)
         Me.Label127.TabIndex = 96
@@ -6291,7 +6362,7 @@ Partial Class FrmFacturacionRapida
         Me.Label130.AutoSize = True
         Me.Label130.Font = New System.Drawing.Font("Tahoma", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label130.ForeColor = System.Drawing.Color.Navy
-        Me.Label130.Location = New System.Drawing.Point(58, 311)
+        Me.Label130.Location = New System.Drawing.Point(58, 318)
         Me.Label130.Name = "Label130"
         Me.Label130.Size = New System.Drawing.Size(87, 19)
         Me.Label130.TabIndex = 93
@@ -6315,7 +6386,7 @@ Partial Class FrmFacturacionRapida
         Me.txt_lt_ft.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_lt_ft.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txt_lt_ft.ForeColor = System.Drawing.Color.Green
-        Me.txt_lt_ft.Location = New System.Drawing.Point(94, 215)
+        Me.txt_lt_ft.Location = New System.Drawing.Point(94, 158)
         Me.txt_lt_ft.MaxLength = 250
         Me.txt_lt_ft.Name = "txt_lt_ft"
         Me.txt_lt_ft.Size = New System.Drawing.Size(138, 21)
@@ -6327,7 +6398,7 @@ Partial Class FrmFacturacionRapida
         Me.Label124.AutoSize = True
         Me.Label124.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.Label124.ForeColor = System.Drawing.Color.Navy
-        Me.Label124.Location = New System.Drawing.Point(52, 219)
+        Me.Label124.Location = New System.Drawing.Point(52, 162)
         Me.Label124.Name = "Label124"
         Me.Label124.Size = New System.Drawing.Size(39, 13)
         Me.Label124.TabIndex = 210
@@ -6973,130 +7044,130 @@ Partial Class FrmFacturacionRapida
         Me.Controls.Add(Me.pnlNuevaPlanilla)
         Me.Controls.Add(Me.pnl_motivo_anulacion)
         Me.Controls.Add(Me.pnl_ref)
+        Me.Controls.Add(Me.GbCabecera)
         Me.Controls.Add(Me.gbdetalle)
         Me.Controls.Add(Me.gbOpciones)
         Me.Controls.Add(Me.GroupBox8)
         Me.Controls.Add(Me.gbTipoGuia)
-        Me.Controls.Add(Me.GbCabecera)
         Me.Controls.Add(Me.gbTipoFacturacion)
         Me.Controls.Add(Me.ToolStrip1)
-        Me.Controls.Add(Me.GroupBox5)
+        Me.Controls.Add(Me.GrpAgregarProductos)
         Me.Controls.Add(Me.GroupBox6)
         Me.Controls.Add(Me.txtredondeo)
         Me.Controls.Add(Me.Label15)
-        Me.Controls.Add(Me.GroupBox7)
-        Me.Controls.Add(Me.GroupBox4)
-        Me.Controls.Add(Me.GroupBox10)
-        Me.Controls.Add(Me.GroupBox11)
+        Me.Controls.Add(Me.GrpProductos)
+        Me.Controls.Add(Me.GrpObservaciones)
+        Me.Controls.Add(Me.GrpRecepcionTercero)
+        Me.Controls.Add(Me.GrpLugarEntrega)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "FrmFacturacionRapida"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Pedidos"
         Me.ToolStrip1.ResumeLayout(False)
-        Me.ToolStrip1.PerformLayout()
+        Me.ToolStrip1.PerformLayout
         Me.GroupBox8.ResumeLayout(False)
-        Me.GroupBox8.PerformLayout()
+        Me.GroupBox8.PerformLayout
         Me.gbTipoGuia.ResumeLayout(False)
-        Me.gbTipoGuia.PerformLayout()
+        Me.gbTipoGuia.PerformLayout
         Me.GbCabecera.ResumeLayout(False)
-        Me.GbCabecera.PerformLayout()
+        Me.GbCabecera.PerformLayout
         Me.GrpContacto.ResumeLayout(False)
-        Me.GrpContacto.PerformLayout()
-        CType(Me.PictureBox13, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox12, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox11, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox10, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GrpContacto.PerformLayout
+        CType(Me.PictureBox13, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox12, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox11, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox10, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).EndInit
         Me.GbdetalleDocumento.ResumeLayout(False)
-        Me.GbdetalleDocumento.PerformLayout()
-        CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox8, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox7, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GbdetalleDocumento.PerformLayout
+        CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox8, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox7, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit
         Me.gbTipoFacturacion.ResumeLayout(False)
-        Me.gbTipoFacturacion.PerformLayout()
+        Me.gbTipoFacturacion.PerformLayout
         Me.gbdetalle.ResumeLayout(False)
-        CType(Me.dgvDetalle, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.dgvDetalle, System.ComponentModel.ISupportInitialize).EndInit
         Me.gbOpciones.ResumeLayout(False)
         Me.pnlPrincipal.ResumeLayout(False)
-        Me.pnlPrincipal.PerformLayout()
+        Me.pnlPrincipal.PerformLayout
         Me.GroupBox3.ResumeLayout(False)
-        Me.GroupBox3.PerformLayout()
-        CType(Me.dgvDocumentosFactura, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GroupBox3.PerformLayout
+        CType(Me.dgvDocumentosFactura, System.ComponentModel.ISupportInitialize).EndInit
         Me.GroupBox2.ResumeLayout(False)
         Me.gbRangofechas.ResumeLayout(False)
-        Me.gbRangofechas.PerformLayout()
+        Me.gbRangofechas.PerformLayout
         Me.pnl_ref.ResumeLayout(False)
         Me.GroupBox1.ResumeLayout(False)
-        Me.GroupBox1.PerformLayout()
-        CType(Me.PictureBox14, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.GroupBox5.ResumeLayout(False)
-        Me.GroupBox5.PerformLayout()
+        Me.GroupBox1.PerformLayout
+        CType(Me.PictureBox14, System.ComponentModel.ISupportInitialize).EndInit
+        Me.GrpAgregarProductos.ResumeLayout(False)
+        Me.GrpAgregarProductos.PerformLayout
         Me.GroupBox6.ResumeLayout(False)
-        Me.GroupBox6.PerformLayout()
-        Me.GroupBox7.ResumeLayout(False)
-        Me.GroupBox7.PerformLayout()
-        CType(Me.dgv_lista_productos, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox16, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox17, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox18, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox19, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox20, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox22, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox23, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox24, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox27, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GroupBox6.PerformLayout
+        Me.GrpProductos.ResumeLayout(False)
+        Me.GrpProductos.PerformLayout
+        CType(Me.dgv_lista_productos, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox16, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox17, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox18, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox19, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox20, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox22, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox23, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox24, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox27, System.ComponentModel.ISupportInitialize).EndInit
         Me.pnl_motivo_anulacion.ResumeLayout(False)
-        Me.pnl_motivo_anulacion.PerformLayout()
+        Me.pnl_motivo_anulacion.PerformLayout
         Me.GroupBox19.ResumeLayout(False)
-        Me.GroupBox19.PerformLayout()
+        Me.GroupBox19.PerformLayout
         Me.pnl_cierre_ventas.ResumeLayout(False)
-        Me.pnl_cierre_ventas.PerformLayout()
+        Me.pnl_cierre_ventas.PerformLayout
         Me.GroupBox9.ResumeLayout(False)
-        Me.GroupBox9.PerformLayout()
+        Me.GroupBox9.PerformLayout
         Me.gb_pago_tarjeta.ResumeLayout(False)
-        Me.gb_pago_tarjeta.PerformLayout()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox15, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox21, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox25, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.gb_pago_tarjeta.PerformLayout
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox15, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox21, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox25, System.ComponentModel.ISupportInitialize).EndInit
         Me.gb_pago_efectivo.ResumeLayout(False)
-        Me.gb_pago_efectivo.PerformLayout()
+        Me.gb_pago_efectivo.PerformLayout
         Me.pnlNuevaPlanilla.ResumeLayout(False)
-        Me.pnlNuevaPlanilla.PerformLayout()
+        Me.pnlNuevaPlanilla.PerformLayout
         Me.gb_nueva_planilla.ResumeLayout(False)
-        Me.gb_nueva_planilla.PerformLayout()
-        Me.GroupBox4.ResumeLayout(False)
-        Me.GroupBox4.PerformLayout()
-        Me.GroupBox10.ResumeLayout(False)
-        Me.GroupBox10.PerformLayout()
-        Me.GroupBox11.ResumeLayout(False)
-        Me.GroupBox11.PerformLayout()
+        Me.gb_nueva_planilla.PerformLayout
+        Me.GrpObservaciones.ResumeLayout(False)
+        Me.GrpObservaciones.PerformLayout
+        Me.GrpRecepcionTercero.ResumeLayout(False)
+        Me.GrpRecepcionTercero.PerformLayout
+        Me.GrpLugarEntrega.ResumeLayout(False)
+        Me.GrpLugarEntrega.PerformLayout
         Me.GroupBox13.ResumeLayout(False)
-        Me.GroupBox13.PerformLayout()
-        CType(Me.PictureBox26, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox28, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox29, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox30, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox31, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox32, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GroupBox13.PerformLayout
+        CType(Me.PictureBox26, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox28, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox29, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox30, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox31, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox32, System.ComponentModel.ISupportInitialize).EndInit
         Me.GroupBox12.ResumeLayout(False)
-        Me.GroupBox12.PerformLayout()
-        CType(Me.PictureBox33, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox34, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox35, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox36, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox37, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox38, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GroupBox12.PerformLayout
+        CType(Me.PictureBox33, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox34, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox35, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox36, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox37, System.ComponentModel.ISupportInitialize).EndInit
+        CType(Me.PictureBox38, System.ComponentModel.ISupportInitialize).EndInit
         Me.panel_cliente_nuevo.ResumeLayout(False)
         Me.GroupBox14.ResumeLayout(False)
-        Me.GroupBox14.PerformLayout()
+        Me.GroupBox14.PerformLayout
         Me.gb_picking.ResumeLayout(False)
         Me.ResumeLayout(False)
-        Me.PerformLayout()
+        Me.PerformLayout
 
     End Sub
     Friend WithEvents ToolStrip1 As System.Windows.Forms.ToolStrip
@@ -7202,7 +7273,7 @@ Partial Class FrmFacturacionRapida
     Friend WithEvents txtDireccion As System.Windows.Forms.TextBox
     Friend WithEvents txtRazonSocial As System.Windows.Forms.TextBox
     Friend WithEvents txtRucDni As System.Windows.Forms.TextBox
-    Friend WithEvents txtCodCliente As System.Windows.Forms.TextBox
+    Friend WithEvents txtCod_Cliente As System.Windows.Forms.TextBox
     Friend WithEvents txtPtoVenta As System.Windows.Forms.TextBox
     Friend WithEvents Label13 As System.Windows.Forms.Label
     Friend WithEvents Label12 As System.Windows.Forms.Label
@@ -7264,7 +7335,7 @@ Partial Class FrmFacturacionRapida
     Friend WithEvents Button6 As System.Windows.Forms.Button
     Friend WithEvents Button7 As System.Windows.Forms.Button
     Friend WithEvents PictureBox14 As System.Windows.Forms.PictureBox
-    Friend WithEvents GroupBox5 As System.Windows.Forms.GroupBox
+    Friend WithEvents GrpAgregarProductos As System.Windows.Forms.GroupBox
     Friend WithEvents GroupBox6 As System.Windows.Forms.GroupBox
     Friend WithEvents txtPrecioVenta As System.Windows.Forms.TextBox
     Friend WithEvents Label28 As System.Windows.Forms.Label
@@ -7272,7 +7343,7 @@ Partial Class FrmFacturacionRapida
     Friend WithEvents Label24 As System.Windows.Forms.Label
     Friend WithEvents txtvalorVenta As System.Windows.Forms.TextBox
     Friend WithEvents Label22 As System.Windows.Forms.Label
-    Friend WithEvents GroupBox7 As System.Windows.Forms.GroupBox
+    Friend WithEvents GrpProductos As System.Windows.Forms.GroupBox
     Friend WithEvents PictureBox16 As System.Windows.Forms.PictureBox
     Friend WithEvents PictureBox17 As System.Windows.Forms.PictureBox
     Friend WithEvents PictureBox18 As System.Windows.Forms.PictureBox
@@ -7408,11 +7479,11 @@ Partial Class FrmFacturacionRapida
     Friend WithEvents txt_validez_oferta As System.Windows.Forms.TextBox
     Friend WithEvents Label99 As System.Windows.Forms.Label
     Friend WithEvents chkigv As System.Windows.Forms.CheckBox
-    Friend WithEvents GroupBox4 As System.Windows.Forms.GroupBox
+    Friend WithEvents GrpObservaciones As System.Windows.Forms.GroupBox
     Friend WithEvents txt_obs_general As System.Windows.Forms.TextBox
-    Friend WithEvents GroupBox10 As System.Windows.Forms.GroupBox
+    Friend WithEvents GrpRecepcionTercero As System.Windows.Forms.GroupBox
     Friend WithEvents txt_recepcion_tercero As System.Windows.Forms.TextBox
-    Friend WithEvents GroupBox11 As System.Windows.Forms.GroupBox
+    Friend WithEvents GrpLugarEntrega As System.Windows.Forms.GroupBox
     Friend WithEvents TextBox27 As System.Windows.Forms.TextBox
     Friend WithEvents CheckBox1 As System.Windows.Forms.CheckBox
     Friend WithEvents RadioButton3 As System.Windows.Forms.RadioButton
@@ -7601,4 +7672,9 @@ Partial Class FrmFacturacionRapida
     Friend WithEvents txtLocal As System.Windows.Forms.TextBox
     Friend WithEvents gb_picking As System.Windows.Forms.GroupBox
     Friend WithEvents lbl_texto_picking As System.Windows.Forms.Label
+    Friend WithEvents chkSinOC As System.Windows.Forms.CheckBox
+    Friend WithEvents lblFechaCreacion As System.Windows.Forms.Label
+    Friend WithEvents lblusuarioId As System.Windows.Forms.Label
+    Friend WithEvents TxtFechaCreacion As System.Windows.Forms.TextBox
+    Friend WithEvents txtUserID As System.Windows.Forms.TextBox
 End Class

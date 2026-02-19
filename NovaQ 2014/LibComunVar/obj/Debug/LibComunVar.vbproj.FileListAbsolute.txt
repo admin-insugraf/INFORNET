@@ -79,3 +79,13 @@ Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.vbproj.Gene
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.dll
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.xml
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibComunVar\bin\Debug\LibComunVar.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.frmError.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.Resources.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.vbproj.GenerateResource.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.vbproj.CoreCompileInputs.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibComunVar\obj\Debug\LibComunVar.pdb

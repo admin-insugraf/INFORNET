@@ -182,11 +182,11 @@ Public Class FrmFacturacionRapida
         Call Cargar_Moneda()
         Call Cargar_TipoPedido()
 
-        If LibComunVar.ClsVarComun.DESHACER_PEDIDO = "SI" Then
-            btn_deshacer_aprobar.Visible = True
-        Else
-            btn_deshacer_aprobar.Visible = False
-        End If
+        'If LibComunVar.ClsVarComun.DESHACER_PEDIDO = "SI" Then
+        '    btn_deshacer_aprobar.Visible = True
+        'Else
+        '    btn_deshacer_aprobar.Visible = False
+        'End If
 
         txtFiltro.Select()
     End Sub
@@ -565,11 +565,11 @@ Public Class FrmFacturacionRapida
                 dtCabeceraFact = Nothing
                 dtCabeceraFact = clsFacturaCabBl.get_Cliente_Default()
                 If dtCabeceraFact.Rows.Count > 0 Then
-                    txtCodCliente.Text = Trim(dtCabeceraFact.Rows(0).Item("ID").ToString)
-                    If txtCodCliente.Text = String.Empty Then
+                    txtCod_Cliente.Text = Trim(dtCabeceraFact.Rows(0).Item("ID").ToString)
+                    If txtCod_Cliente.Text = String.Empty Then
                         Ayuda_Clientes()
                     Else
-                        Ayuda_Clientes(txtCodCliente.Text)
+                        Ayuda_Clientes(txtCod_Cliente.Text)
                     End If
                 End If
                 cboTipoDoc.Text = "PF"
@@ -626,7 +626,7 @@ Public Class FrmFacturacionRapida
                     cboMoneda.SelectedValue = dtCabeceraFact.Rows(i).Item("CURRENCY_ID").ToString
                     txtTipoCambio.Text = dtCabeceraFact.Rows(i).Item("SELL_RATE").ToString
                     cboTipoPedido.SelectedValue = dtCabeceraFact.Rows(i).Item("TIPO_PEDIDO").ToString
-                    txtCodCliente.Text = dtCabeceraFact.Rows(i).Item("CUSTOMER_ID").ToString
+                    txtCod_Cliente.Text = dtCabeceraFact.Rows(i).Item("CUSTOMER_ID").ToString
                     txtRucDni.Text = dtCabeceraFact.Rows(i).Item("VAT_REGISTRATION").ToString
                     txtRazonSocial.Text = dtCabeceraFact.Rows(i).Item("CUSTOMER_NAME").ToString
                     txtDireccion.Text = dtCabeceraFact.Rows(i).Item("CUSTOMER_ADDR").ToString
@@ -637,6 +637,8 @@ Public Class FrmFacturacionRapida
                     lblFormaPago.Text = dtCabeceraFact.Rows(i).Item("FPAGO").ToString
                     txtcotizacion.Text = ""
                     txtordenCompra.Text = dtCabeceraFact.Rows(i).Item("ORDER_PURCHASE").ToString
+                    chkSinOC.Checked = dtCabeceraFact.Rows(i).Item("IS_SIN_OC")
+
                     If dtCabeceraFact.Rows(0)("ARCHIVO") IsNot DBNull.Value AndAlso Not String.IsNullOrWhiteSpace(dtCabeceraFact.Rows(0)("Archivo").ToString()) Then
                         ARCHIVO = CType(dtCabeceraFact.Rows(0)("ARCHIVO"), Byte())
                         pdfBytes = ARCHIVO
@@ -897,7 +899,7 @@ Public Class FrmFacturacionRapida
 
     Private Sub btnConsultar_Click(sender As Object, e As EventArgs) Handles btnConsultar.Click
         Try
-            Me.Cursor = Cursors.WaitCursor
+
             If dgvDocumentosFactura.RowCount() = 0 Then Exit Sub
             If dgvDocumentosFactura.CurrentRow Is Nothing Then Exit Sub
             Modo_consultar = True
@@ -913,7 +915,7 @@ Public Class FrmFacturacionRapida
             NumeroOC = dgvDocumentosFactura.CurrentRow.Cells("Orden.Compra").Value
             RutaOC = String.Empty
             MostrarModoConsultar(dgvDocumentosFactura.CurrentRow.Cells("Numero").Value, Ref_NUMBER_SERIE, Ref_NUMBER_DOCUMENT)
-
+            Me.Cursor = Cursors.WaitCursor
             pnlPrincipal.Visible = False
             'GbdetalleDocumento.Visible = True
             Call Botonera_Estado_Cambiar(True)
@@ -1269,7 +1271,7 @@ Public Class FrmFacturacionRapida
                     .RECEIVABLE_TYPE = cboTipoDoc.Text
                 End If
                 '.RECEIVABLE_TYPE = cboTipoDoc.Text
-                .CUSTOMER_ID = txtCodCliente.Text.Trim
+                .CUSTOMER_ID = txtCod_Cliente.Text.Trim
                 .CUSTOMER_NAME = txtRazonSocial.Text.Trim
                 .CUSTOMER_ADDR = txtDireccion.Text.Trim
                 .VAT_REGISTRATION = txtRucDni.Text.Trim
@@ -1464,7 +1466,7 @@ Public Class FrmFacturacionRapida
             If chk_facturar_obsequio.Checked = False Then
                 'CLIENTES
                 With carteraBE
-                    .CUSTOMER_ID = txtCodCliente.Text.Trim
+                    .CUSTOMER_ID = txtCod_Cliente.Text.Trim
                     .DOCUMENT_ID = cboTipoDoc.Text
                     .NUMBER_DOC = NumeracionFacturacion
                     .DOC_DATE = CDate(dtpFechaFactura.Text).ToShortDateString
@@ -1550,7 +1552,7 @@ Public Class FrmFacturacionRapida
                         .IS_CASH_BANK = "0"
                         .AMOUNT_PER = 0
                         .PAY_AUTO = 0
-                        .ANNEX_ID_AUX = txtCodCliente.Text.Trim
+                        .ANNEX_ID_AUX = txtCod_Cliente.Text.Trim
                         .DOCUMET_ID = cboTipoDoc.Text
                         .NUMBER_SERIE = cboSerieDoc.Text
                         .NUMBER_DOCUMENT = Strings.Right(NumeracionFacturacion, 7)
@@ -1587,7 +1589,7 @@ Public Class FrmFacturacionRapida
                         .IS_CASH_BANK = "0"
                         .AMOUNT_PER = 0
                         .PAY_AUTO = 0
-                        .ANNEX_ID_AUX = txtCodCliente.Text.Trim
+                        .ANNEX_ID_AUX = txtCod_Cliente.Text.Trim
                         .DOCUMET_ID = cboTipoDoc.Text
                         .NUMBER_SERIE = cboSerieDoc.Text
                         .NUMBER_DOCUMENT = Strings.Right(NumeracionFacturacion, 7)
@@ -1626,7 +1628,7 @@ Public Class FrmFacturacionRapida
                         .IS_CASH_BANK = "0"
                         .AMOUNT_PER = 0
                         .PAY_AUTO = 0
-                        .ANNEX_ID_AUX = txtCodCliente.Text.Trim
+                        .ANNEX_ID_AUX = txtCod_Cliente.Text.Trim
                         .DOCUMET_ID = cboTipoDoc.Text
                         .NUMBER_SERIE = cboSerieDoc.Text
                         .NUMBER_DOCUMENT = Strings.Right(NumeracionFacturacion, 7)
@@ -1665,7 +1667,7 @@ Public Class FrmFacturacionRapida
                         .IS_CASH_BANK = "0"
                         .AMOUNT_PER = 0
                         .PAY_AUTO = 0
-                        .ANNEX_ID_AUX = txtCodCliente.Text.Trim
+                        .ANNEX_ID_AUX = txtCod_Cliente.Text.Trim
                         .DOCUMET_ID = cboTipoDoc.Text
                         .NUMBER_SERIE = cboSerieDoc.Text
                         .NUMBER_DOCUMENT = Strings.Right(NumeracionFacturacion, 7)
@@ -1704,7 +1706,7 @@ Public Class FrmFacturacionRapida
                         .IS_CASH_BANK = "0"
                         .AMOUNT_PER = 0
                         .PAY_AUTO = 0
-                        .ANNEX_ID_AUX = txtCodCliente.Text.Trim
+                        .ANNEX_ID_AUX = txtCod_Cliente.Text.Trim
                         .DOCUMET_ID = cboTipoDoc.Text
                         .NUMBER_SERIE = cboSerieDoc.Text
                         .NUMBER_DOCUMENT = Strings.Right(NumeracionFacturacion, 7)
@@ -1743,7 +1745,7 @@ Public Class FrmFacturacionRapida
                         .IS_CASH_BANK = "0"
                         .AMOUNT_PER = 0
                         .PAY_AUTO = 0
-                        .ANNEX_ID_AUX = txtCodCliente.Text.Trim
+                        .ANNEX_ID_AUX = txtCod_Cliente.Text.Trim
                         .DOCUMET_ID = cboTipoDoc.Text
                         .NUMBER_SERIE = cboSerieDoc.Text
                         .NUMBER_DOCUMENT = Strings.Right(NumeracionFacturacion, 7)
@@ -1785,7 +1787,7 @@ Public Class FrmFacturacionRapida
                     End If
                     .HOUR = String.Format("{0:HH:mm:ss}", DateTime.Now)
                     .USER_ID = LibComunVar.ClsVarComun.USUARIO
-                    .CUSTOMER_ID = txtCodCliente.Text
+                    .CUSTOMER_ID = txtCod_Cliente.Text
                     .VAT_REGISTRATION = txtRucDni.Text
                     .CUSTOMER_NAME = txtRazonSocial.Text
                     .SALES_TERM = txtFormaPago.Text.Trim
@@ -1854,21 +1856,21 @@ Public Class FrmFacturacionRapida
                 Dim MontoPercepcion As Double = 0.0
                 MontoPercepcion = (txtPrecioVenta.Text * CDbl(PorcentajePercepcion) / 100)
                 If cboTipoDoc.Text = "FT" Then
-                    If cabeceraBL.GuardarComprobantePercepcion(cboTipoDoc.Text, cboSerieDoc.Text, NumeracionFacturacion, _
+                    If cabeceraBL.GuardarComprobantePercepcion(cboTipoDoc.Text, cboSerieDoc.Text, NumeracionFacturacion,
                                                                NumeracionFacturaCP, TipoNumeracionCp, MontoPercepcion, PorcentajePercepcion) = False Then
                         MsgBox("Hubo un error en la Generacion del Comprobante de Percepcion", MsgBoxStyle.Critical)
                         indicadorF = False
                         Exit Try
                     End If
                 ElseIf cboTipoDoc.Text = "NC" Then
-                    If cabeceraBL.GuardarComprobantePercepcion(cboTipoDoc.Text, cboSerieDoc.Text, NumeracionFacturaNotac, _
+                    If cabeceraBL.GuardarComprobantePercepcion(cboTipoDoc.Text, cboSerieDoc.Text, NumeracionFacturaNotac,
                                                                NumeracionFacturaCP, TipoNumeracionCp, MontoPercepcion, PorcentajePercepcion) = False Then
                         MsgBox("Hubo un error en la Generacion del Comprobante de Percepcion", MsgBoxStyle.Critical)
                         indicadorF = False
                         Exit Try
                     End If
                 ElseIf cboTipoDoc.Text = "ND" Then
-                    If cabeceraBL.GuardarComprobantePercepcion(cboTipoDoc.Text, cboSerieDoc.Text, NumeracionFacturaNotaD, _
+                    If cabeceraBL.GuardarComprobantePercepcion(cboTipoDoc.Text, cboSerieDoc.Text, NumeracionFacturaNotaD,
                                                                NumeracionFacturaCP, TipoNumeracionCp, MontoPercepcion, PorcentajePercepcion) = False Then
                         MsgBox("Hubo un error en la Generacion del Comprobante de Percepcion", MsgBoxStyle.Critical)
                         indicadorF = False
@@ -1893,7 +1895,7 @@ Public Class FrmFacturacionRapida
                     .NUM_ID_REF = NumeracionFacturacion ' cboSerieDoc.Text & NumeracionFacturacion
                     .HOUR = String.Format("{0:HH:mm:ss}", DateTime.Now)
                     .USER_ID = LibComunVar.ClsVarComun.USUARIO
-                    .CUSTOMER_ID = txtCodCliente.Text
+                    .CUSTOMER_ID = txtCod_Cliente.Text
                     .VAT_REGISTRATION = txtRucDni.Text
                     .CUSTOMER_NAME = txtRazonSocial.Text
                     .SALES_TERM = txtFormaPago.Text.Trim
@@ -2029,7 +2031,7 @@ Public Class FrmFacturacionRapida
         txtPtoVenta.Clear()
         txtAlmacen.Clear()
         dtpFechaFactura.Value = Date.Now
-        txtCodCliente.Clear()
+        txtCod_Cliente.Clear()
         txtRucDni.Clear()
         txtRazonSocial.Clear()
         txtDireccion.Clear()
@@ -2065,6 +2067,7 @@ Public Class FrmFacturacionRapida
         cboDirEntrega.Items.Clear()
         cboDirEntrega.Text = String.Empty
         txtordenCompra.Text = String.Empty
+        chkSinOC.Checked = False
         txtdetalledoc.Text = String.Empty
         txtdetalleserie.Text = String.Empty
         txtdetallenumero.Text = String.Empty
@@ -2138,7 +2141,7 @@ Public Class FrmFacturacionRapida
         chk_guia_2.Checked = False
         chk_factura_2.Checked = False
         chk_letra_2.Checked = False
-        rdb_opt_agencia.Checked = False
+        rdb_opt_agencia.Checked = True
         rdb_opt_domicilio.Checked = False
         chk_transferencia.Checked = False
         chk_efectivo.Checked = False
@@ -2196,7 +2199,6 @@ Public Class FrmFacturacionRapida
 
     Private Sub btnGrabar_Click(sender As Object, e As EventArgs) Handles btnGrabar.Click, Button2.Click
         Try
-
             ''Validaciones Generales
             If dgvDetalle.Rows.Count() = 0 Then Exit Sub
             If dgvDetalle.CurrentRow Is Nothing Then Exit Sub
@@ -2212,26 +2214,30 @@ Public Class FrmFacturacionRapida
                     End If
                 Next
             End If
-            Me.Cursor = Cursors.WaitCursor
-            If Guardar_Pedido() = True Then
-                If Modo_consultar = True Then
-                    Me.Cursor = Cursors.WaitCursor
-                    DocumentosFactura()
-                    btnCancelar_Click(sender, e)
-                    Me.Cursor = Cursors.Default
-                Else
-                    Me.Cursor = Cursors.WaitCursor
-                    DocumentosFactura()
-                    Flag_Verificar = True
-                    Nuevo()
-                    Flag_Verificar = False
-                    NuevaVenta()
-                    txt_buscador_productos.Focus()
-                    Me.Cursor = Cursors.Default
-                End If
 
+            If MessageBox.Show("Se va a proceder a la creacion de un Pedido", "Sistemas", MessageBoxButtons.YesNo, MessageBoxIcon.Question) = DialogResult.Yes Then
+                Me.Cursor = Cursors.WaitCursor
+                If Guardar_Pedido() = True Then
+                    If Modo_consultar = True Then
+                        Me.Cursor = Cursors.WaitCursor
+                        DocumentosFactura()
+                        btnCancelar_Click(sender, e)
+                        MsgBox("Transaccion realizada Exitosamente.!", MsgBoxStyle.Information)
+                        Me.Cursor = Cursors.Default
+                    Else
+                        Me.Cursor = Cursors.WaitCursor
+                        DocumentosFactura()
+                        Flag_Verificar = True
+                        Nuevo()
+                        Flag_Verificar = False
+                        NuevaVenta()
+                        txt_buscador_productos.Focus()
+                        MsgBox("Transaccion no realizada Exitosamente.!", MsgBoxStyle.Information)
+                        Me.Cursor = Cursors.Default
+                    End If
+                End If
             End If
-            Me.Cursor = Cursors.Default
+
         Catch ex As Exception
             Me.Cursor = Cursors.Default
             MsgBox(ex.Message)
@@ -2273,7 +2279,7 @@ Public Class FrmFacturacionRapida
                 .CADUCATE_DATE = dtpFechaFactura.Value.ToShortDateString
                 .SALES_ID = txtVendedor.Text
                 .PLACE_SALES = txtPtoVenta.Text
-                .CUSTOMER_ID = txtCodCliente.Text
+                .CUSTOMER_ID = txtCod_Cliente.Text
                 .CUSTOMER_NAME = txtRazonSocial.Text
                 .CUSTOMER_ADDR = txtDireccion.Text
                 .CUSTOMER_ADDR_DLV = txtDireccion.Text
@@ -2298,6 +2304,7 @@ Public Class FrmFacturacionRapida
                 .COMMENT = txtGlosa.Text
                 .NUMBER_GUIA = ""
                 .NUMBER_REC = ""
+                .IS_SIN_OC = chkSinOC.Checked
 
                 If pdfBytes Is Nothing Then
                     .ARCHIVO = Nothing
@@ -2436,8 +2443,8 @@ Public Class FrmFacturacionRapida
         End Try
     End Function
 
-    Private Function Generar_XML_Factura_Guia(ByVal TipoDoc As String, ByVal SerieDoc As String, ByVal NumDoc As String, ByVal Monto_Letras As String, _
-                                 Optional ByVal _envia_email As String = "", _
+    Private Function Generar_XML_Factura_Guia(ByVal TipoDoc As String, ByVal SerieDoc As String, ByVal NumDoc As String, ByVal Monto_Letras As String,
+                                 Optional ByVal _envia_email As String = "",
                                  Optional ByVal _email_cliente As String = "") As Boolean
         Try
             clsFacturaBl = New ClsNegocio.RECEIVABLE
@@ -2500,7 +2507,7 @@ Public Class FrmFacturacionRapida
         End Try
     End Sub
 
-    Private Function EliminarFacturas(ByVal _USER As String, ByVal _DOCUMENT_ID As String, ByVal _NUMBER_SERIE As String, _
+    Private Function EliminarFacturas(ByVal _USER As String, ByVal _DOCUMENT_ID As String, ByVal _NUMBER_SERIE As String,
                                 ByVal _NUMBER_DOCUMENT As String, Optional ByVal ComprobanteP As String = "", Optional ByVal _ALMACEN As String = "") As Boolean
         Dim estado As Boolean = True
         Try
@@ -2672,7 +2679,7 @@ Public Class FrmFacturacionRapida
         End If
     End Sub
 
-    Private Function VerificarDocumentos(ByVal _NombreStore As String, ByVal _DOCUMENT_ID As String, _
+    Private Function VerificarDocumentos(ByVal _NombreStore As String, ByVal _DOCUMENT_ID As String,
                                         ByVal _NUMBER_SERIE As String, ByVal _NUMBER_DOCUMENT As String) As Boolean
         Dim estado As Boolean = True
         Try
@@ -2691,8 +2698,8 @@ Public Class FrmFacturacionRapida
         Return estado
     End Function
 
-    Private Function AnularFacturas(ByVal _DOCUMENT_ID As String, ByVal _NUMBER_SERIE As String, _
-                                    ByVal _NUMBER_DOCUMENT As String, Optional ByVal ComprobanteP As String = "", _
+    Private Function AnularFacturas(ByVal _DOCUMENT_ID As String, ByVal _NUMBER_SERIE As String,
+                                    ByVal _NUMBER_DOCUMENT As String, Optional ByVal ComprobanteP As String = "",
                                     Optional ByVal ALMACEN As String = "", Optional ByVal motivo As String = "") As Boolean
         Dim estado As Boolean = True
         Try
@@ -2709,8 +2716,8 @@ Public Class FrmFacturacionRapida
         Return estado
     End Function
 
-    Private Function Cierre_Ventas(ByVal _FECHA As String, ByVal _USUARIO As String, ByVal _SALDO_FINAL As Double, _
-                                    ByVal _SALDO_FINAL_VISA As Double, ByVal _SALDO_FINAL_MASTER As Double, _
+    Private Function Cierre_Ventas(ByVal _FECHA As String, ByVal _USUARIO As String, ByVal _SALDO_FINAL As Double,
+                                    ByVal _SALDO_FINAL_VISA As Double, ByVal _SALDO_FINAL_MASTER As Double,
                                     ByVal _SALDO_FINAL_DINERS As Double, ByVal _SALDO_FINAL_AMERICAN_EXPRESS As Double) As Boolean
         Dim estado As Boolean = True
         Try
@@ -2739,7 +2746,7 @@ Public Class FrmFacturacionRapida
         Return estado
     End Function
 
-    Private Function Reenvio_Docs_Electronicos(ByVal _DOCUMENT_ID As String, ByVal _NUMBER_SERIE As String, ByVal _NUMBER_DOCUMENT As String, _
+    Private Function Reenvio_Docs_Electronicos(ByVal _DOCUMENT_ID As String, ByVal _NUMBER_SERIE As String, ByVal _NUMBER_DOCUMENT As String,
                                                 ByVal _DOCUMENT_ID_SUNAT As String, ByVal _MONTO As String) As Boolean
         Dim estado As Boolean = True
         Try
@@ -2765,7 +2772,7 @@ Public Class FrmFacturacionRapida
             STREstado = dgvDocumentosFactura.CurrentRow.Cells("Situacion").Value
             Estado = dgvDocumentosFactura.CurrentRow.Cells("Estado.Facturacion").Value
 
-            If STREstado = "AUTORIZADO" Or STREstado = "APROBADO" Then
+            If STREstado = "AUTORIZADO" Then 'Or STREstado = "APROBADO" Then
                 MessageBox.Show("El pedido ya se encuentra AUTORIZADO/APROBADO, no puede anularse.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
                 Exit Sub
             ElseIf STREstado = "RECHAZADO" Then
@@ -2784,7 +2791,7 @@ Public Class FrmFacturacionRapida
                 Exit Sub
             End If
             If MessageBox.Show("¿Desea ANULAR el pedido N° " & STRPedido & "?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question) = DialogResult.Yes Then
-                If STREstado = "EMITIDO" Then
+                If STREstado = "EMITIDO" Or STREstado = "APROBADO" Then
                     clsPedidoBl = New ClsOperaciones.ORDERS
                     If clsPedidoBl.Anular_Pedido(STRPedido) = True Then
                         MsgBox("Pedido anulado correctamente.", MsgBoxStyle.Information)
@@ -2978,7 +2985,7 @@ Public Class FrmFacturacionRapida
     End Function
 
 
-    Private Sub imprimirFacturacion(ByVal _DOCUMENT_ID As String, ByVal _NUMBER_SERIE As String, ByVal _NUMBER_DOCUMENT As String, _
+    Private Sub imprimirFacturacion(ByVal _DOCUMENT_ID As String, ByVal _NUMBER_SERIE As String, ByVal _NUMBER_DOCUMENT As String,
                                     ByVal _Moneda As String, ByVal _Igv As Double, ByVal _Monto As Double)
         Try
 
@@ -3018,10 +3025,10 @@ Public Class FrmFacturacionRapida
                         REF_NC = "0"
                     End If
 
-                    crystalBL.Muestra_Reporte(Nom_Reporte, dtImprimir, "", "", "@TIPO;" & _DOCUMENT_ID, "@SERIE;" & _NUMBER_SERIE, _
+                    crystalBL.Muestra_Reporte(Nom_Reporte, dtImprimir, "", "", "@TIPO;" & _DOCUMENT_ID, "@SERIE;" & _NUMBER_SERIE,
                                               "@NUMERO;" & _NUMBER_DOCUMENT, "@LETRAS;" & STRmontotexto, "@DOC_REF;" & RelacionDoc, "@REF_NC;" & REF_NC)
                 Else
-                    crystalBL.Muestra_Reporte(Nom_Reporte, dtImprimir, "", "", "@TIPO;" & _DOCUMENT_ID, "@SERIE;" & _NUMBER_SERIE, _
+                    crystalBL.Muestra_Reporte(Nom_Reporte, dtImprimir, "", "", "@TIPO;" & _DOCUMENT_ID, "@SERIE;" & _NUMBER_SERIE,
                                               "@NUMERO;" & _NUMBER_DOCUMENT, "LETRAS;" & STRmontotexto)
                 End If
             End If
@@ -3104,8 +3111,8 @@ Public Class FrmFacturacionRapida
                     STRmontotexto = UCase(NUMEROLETRAS(Math.Abs(CDbl(dtImprimir.Rows(0).Item("AMOUNT"))))) & " Dólares Americanos"
                 End If
 
-                crystalBL.Muestra_Reporte("rpt_Impresion_pedido.rpt", dtImprimir, "", "", "@ID;" & _Codigo, _
-                                          "EMPRESA;" & dtDatosCompany.Rows(0).Item("REPORT_SCREEN").ToString, _
+                crystalBL.Muestra_Reporte("rpt_Impresion_pedido.rpt", dtImprimir, "", "", "@ID;" & _Codigo,
+                                          "EMPRESA;" & dtDatosCompany.Rows(0).Item("REPORT_SCREEN").ToString,
                                           "LETRA;" & STRmontotexto)
             End If
             Me.Cursor = Cursors.Default
@@ -3147,12 +3154,12 @@ Public Class FrmFacturacionRapida
                         End If
 
                         If codigo = "1" Then
-                            crystalBL.Muestra_Reporte("rpt_Impresion_pedido_formato_cliente_1.rpt", dtImprimir, "", "", "@ID;" & _Codigo, _
-                                                  "EMPRESA;" & dtDatosCompany.Rows(0).Item("REPORT_SCREEN").ToString, _
+                            crystalBL.Muestra_Reporte("rpt_Impresion_pedido_formato_cliente_1.rpt", dtImprimir, "", "", "@ID;" & _Codigo,
+                                                  "EMPRESA;" & dtDatosCompany.Rows(0).Item("REPORT_SCREEN").ToString,
                                                   "LETRA;" & STRmontotexto)
                         ElseIf codigo = "2" Then
-                            crystalBL.Muestra_Reporte("rpt_Impresion_pedido_formato_cliente_2.rpt", dtImprimir, "", "", "@ID;" & _Codigo, _
-                                                  "EMPRESA;" & dtDatosCompany.Rows(0).Item("REPORT_SCREEN").ToString, _
+                            crystalBL.Muestra_Reporte("rpt_Impresion_pedido_formato_cliente_2.rpt", dtImprimir, "", "", "@ID;" & _Codigo,
+                                                  "EMPRESA;" & dtDatosCompany.Rows(0).Item("REPORT_SCREEN").ToString,
                                                   "LETRA;" & STRmontotexto)
                         End If
                     End If
@@ -3172,11 +3179,11 @@ Public Class FrmFacturacionRapida
         GbdetalleDocumento.Visible = False
         Botonera_Estado_Cambiar(False)
         Limpiar()
-        If LibComunVar.ClsVarComun.DESHACER_PEDIDO = "SI" Then
-            btn_deshacer_aprobar.Visible = True
-        Else
-            btn_deshacer_aprobar.Visible = False
-        End If
+        'If LibComunVar.ClsVarComun.DESHACER_PEDIDO = "SI" Then
+        '    btn_deshacer_aprobar.Visible = True
+        'Else
+        '    btn_deshacer_aprobar.Visible = False
+        'End If
     End Sub
 
     Private Sub cambiarResolucion(ByVal formulario As System.Windows.Forms.Form, ByVal ancho As Double, ByVal alto As Double)
@@ -3359,14 +3366,34 @@ Public Class FrmFacturacionRapida
                 frm.Titulo = "Clientes"
                 frm.ShowDialog()
                 If frm.Data_Matriz.Rows.Count > 0 Then
-                    txtCodCliente.Text = frm.Data_Matriz.Rows(0).Item(0).ToString
-                    txtRazonSocial.Text = frm.Data_Matriz.Rows(0).Item(1).ToString
-                    txtRucDni.Text = frm.Data_Matriz.Rows(0).Item(2).ToString
-                    txtDireccion.Text = frm.Data_Matriz.Rows(0).Item(3).ToString
-                    txtFormaPago.Text = frm.Data_Matriz.Rows(0).Item(5).ToString
-                    If rbFacturaRepMedico.Checked = False Then
-                        txtVendedor.Text = frm.Data_Matriz.Rows(0).Item("SALES_ID").ToString
+
+                    If cboTipoDoc.Text = "BV" And frm.Data_Matriz.Rows(0).Item(2).ToString.Length = 8 Or
+                        cboTipoDoc.Text = "FT" And frm.Data_Matriz.Rows(0).Item(2).ToString.Length = 11 Or
+                        cboTipoDoc.Text = "PF" Then
+                        txtCod_Cliente.Text = frm.Data_Matriz.Rows(0).Item(0).ToString
+                        txtRazonSocial.Text = frm.Data_Matriz.Rows(0).Item(1).ToString
+                        txtRucDni.Text = frm.Data_Matriz.Rows(0).Item(2).ToString
+                        txtDireccion.Text = frm.Data_Matriz.Rows(0).Item(3).ToString
+                        txtFormaPago.Text = frm.Data_Matriz.Rows(0).Item(5).ToString
+                        If rbFacturaRepMedico.Checked = False Then
+                            txtVendedor.Text = frm.Data_Matriz.Rows(0).Item("SALES_ID").ToString
+                        End If
+                    Else
+                        MsgBox("Documento de Identidad no corresponde al documento de venta", MsgBoxStyle.Information)
+                        txtCod_Cliente.Text = String.Empty
+                        txtRazonSocial.Text = String.Empty
+                        txtRucDni.Text = String.Empty
+                        txtDireccion.Text = String.Empty
+                        txtFormaPago.Text = String.Empty
+                        txtVendedor.Text = String.Empty
+                        lblVendedor.Text = String.Empty
+                        lblFormaPago.Text = String.Empty
+                        cboDirEntrega.DataSource = Nothing
+                        txtCod_Cliente.Focus()
+                        Exit Sub
                     End If
+
+
                 End If
                 frm.Close()
             Else
@@ -3374,7 +3401,7 @@ Public Class FrmFacturacionRapida
                 dtDetalleFact = New DataTable("Clientes")
                 dtDetalleFact = clsFacturaBl.Get_ManualClientes(_CodigoCliente)
                 If dtDetalleFact.Rows.Count() <> 0 Then
-                    txtCodCliente.Text = dtDetalleFact.Rows(0).Item(0).ToString
+                    txtCod_Cliente.Text = dtDetalleFact.Rows(0).Item(0).ToString
                     txtRazonSocial.Text = dtDetalleFact.Rows(0).Item(1).ToString
                     txtRucDni.Text = dtDetalleFact.Rows(0).Item(2).ToString
                     txtDireccion.Text = dtDetalleFact.Rows(0).Item(3).ToString
@@ -3386,7 +3413,7 @@ Public Class FrmFacturacionRapida
                     End If
                 Else
                     MsgBox("No hay informacion con el codigo especificado.", MsgBoxStyle.Critical)
-                    txtCodCliente.Text = String.Empty
+                    txtCod_Cliente.Text = String.Empty
                     txtRazonSocial.Text = String.Empty
                     txtRucDni.Text = String.Empty
                     txtDireccion.Text = String.Empty
@@ -3395,7 +3422,7 @@ Public Class FrmFacturacionRapida
                     lblVendedor.Text = String.Empty
                     lblFormaPago.Text = String.Empty
                     cboDirEntrega.DataSource = Nothing
-                    txtCodCliente.Focus()
+                    txtCod_Cliente.Focus()
                     Exit Sub
                 End If
             End If
@@ -3408,7 +3435,7 @@ Public Class FrmFacturacionRapida
                     txtFormaPago.Text = ""
                 End If
             End If
-            If txtCodCliente.Text = String.Empty Then Exit Sub
+            If txtCod_Cliente.Text = String.Empty Then Exit Sub
             Ayuda_DireccionEntrega()
 
             clsFacturaBl = New ClsNegocio.RECEIVABLE
@@ -3426,7 +3453,7 @@ Public Class FrmFacturacionRapida
 
             txtVendedor.Select()
             If rbFacturaGuiaVenta.Checked = True Then
-                If String.IsNullOrEmpty(txtCodCliente.Text) Or String.IsNullOrEmpty(txtAlmacen.Text) Then
+                If String.IsNullOrEmpty(txtCod_Cliente.Text) Or String.IsNullOrEmpty(txtAlmacen.Text) Then
                     MsgBox("Para este tipo de Facturacion es necesario el Cliente y el Almacen.", MsgBoxStyle.Information)
                     'pnlDocumentosGuiaVenta.Visible = False
                     Exit Sub
@@ -3478,18 +3505,18 @@ Public Class FrmFacturacionRapida
     End Sub
 
 
-    Private Sub txtCodCliente_KeyDown(sender As Object, e As KeyEventArgs) Handles txtCodCliente.KeyDown
+    Private Sub txtCodCliente_KeyDown(sender As Object, e As KeyEventArgs) Handles txtCod_Cliente.KeyDown
         If e.KeyCode = Keys.F1 Then Ayuda_Clientes()
         If e.KeyCode = Keys.Enter Then
-            If txtCodCliente.Text = String.Empty Then
+            If txtCod_Cliente.Text = String.Empty Then
                 Ayuda_Clientes()
             Else
-                Ayuda_Clientes(txtCodCliente.Text)
+                Ayuda_Clientes(txtCod_Cliente.Text)
             End If
         End If
     End Sub
 
-    Private Sub txtCodCliente_MouseDoubleClick(sender As Object, e As MouseEventArgs) Handles txtCodCliente.MouseDoubleClick
+    Private Sub txtCodCliente_MouseDoubleClick(sender As Object, e As MouseEventArgs) Handles txtCod_Cliente.MouseDoubleClick
         Ayuda_Clientes()
     End Sub
     Private Sub txtFormaPago_KeyDown(sender As Object, e As KeyEventArgs) Handles txtFormaPago.KeyDown
@@ -3528,9 +3555,49 @@ Public Class FrmFacturacionRapida
             End If
 
             If txtAlmacen.Text = String.Empty Then
-                MsgBox("Debe seleccionar un Almacen, para poder continuar.", MsgBoxStyle.Information)
+                MsgBox("Debe seleccionar un Almacén, para poder continuar.", MsgBoxStyle.Information)
                 estado = False
                 Exit Try
+            End If
+
+            If rdb_opt_local.Checked Then
+                If txtLocalDescripcion.Text = String.Empty Then
+                    MsgBox("Debe seleccionar un local", MsgBoxStyle.Information)
+                    estado = False
+                    Exit Try
+                End If
+            End If
+            If rdb_opt_agencia.Checked Then
+                If txt_cod_agencia_trans.Text = String.Empty Then
+                    MsgBox("Debe seleccionar una Empresa de transporte", MsgBoxStyle.Information)
+                    estado = False
+                    Exit Try
+                End If
+
+                If txtDireccionTransportistaDescripcion.Text = String.Empty Then
+                    MsgBox("Debe de indicar la dirección de la agencia", MsgBoxStyle.Information)
+                    estado = False
+                    Exit Try
+                End If
+
+                If txtContactoNombres.Text = String.Empty Then
+                    MsgBox("Indique el Nombre del Contacto", MsgBoxStyle.Information)
+                    estado = False
+                    Exit Try
+                End If
+
+                If txtContactoDNI.Text = String.Empty Then
+                    MsgBox("Indique el DNI del Contacto", MsgBoxStyle.Information)
+                    estado = False
+                    Exit Try
+                End If
+
+                If txtContactoCelular.Text = String.Empty Then
+                    MsgBox("Indique el Celular del Contacto", MsgBoxStyle.Information)
+                    estado = False
+                    Exit Try
+                End If
+
             End If
 
             If FechaFacturacion_Mes_anterior(dtpFechaFactura.Value.Month, dtpFechaFactura.Value.Year) = False Then
@@ -3554,25 +3621,56 @@ Public Class FrmFacturacionRapida
                     Exit Try
                 End If
             End If
-            If txtCodCliente.Text = String.Empty Then
+            If txtCod_Cliente.Text = String.Empty Then
                 MsgBox("Debe seleccionar un Cliente.", MsgBoxStyle.Information)
                 estado = False
-                txtCodCliente.Focus()
+                txtCod_Cliente.Focus()
                 Exit Try
             End If
 
             If txtVendedor.Text = String.Empty Then
-                MsgBox("No se cargo el dato del Vendedor.", MsgBoxStyle.Critical)
+                MsgBox("No se cargo el dato del Vendedor.", MsgBoxStyle.Information)
                 estado = False
                 txtVendedor.Focus()
                 Exit Try
             End If
 
             If txtFormaPago.Text = String.Empty Then
-                MsgBox("Debe elegir una Forma de Pago.", MsgBoxStyle.Critical)
+                MsgBox("Debe elegir una Forma de Pago.", MsgBoxStyle.Information)
                 estado = False
                 txtFormaPago.Focus()
                 Exit Try
+            End If
+
+            If chkSinOC.Checked = False And txtordenCompra.Text = String.Empty Then
+                MsgBox("Debe de ingresar la Orden de compra del cliente.", MsgBoxStyle.Information)
+                estado = False
+                btnOrdenCompra.Focus()
+                Exit Try
+            End If
+
+            If txtFormaPago.Text = "00" Then
+                If txt_cod_transferencia.Text = String.Empty Then
+                    MsgBox("Debe elegir un Banco", MsgBoxStyle.Information)
+                    estado = False
+                    txt_cod_transferencia.Focus()
+                    Exit Try
+                End If
+
+                If txt_n_operacion.Text = String.Empty Then
+                    MsgBox("Debe de ingresar el número de Operación", MsgBoxStyle.Information)
+                    estado = False
+                    txt_n_operacion.Focus()
+                    Exit Try
+                End If
+
+                If txtModoPago.Text = String.Empty Then
+                    MsgBox("Debe de ingresar el modo de pago", MsgBoxStyle.Information)
+                    estado = False
+                    txtModoPago.Focus()
+                    Exit Try
+                End If
+
             End If
 
             If cboTipoDoc.Text = String.Empty Then
@@ -3630,7 +3728,7 @@ Public Class FrmFacturacionRapida
             Dim frmArticulo As New FrmAsignarArticuloRapido
             frmArticulo.AlmacenOrigen = txtAlmacen.Text
             frmArticulo.TipoDocumento = cboTipoDoc.Text
-            frmArticulo.Flag_Cliente = txtCodCliente.Text
+            frmArticulo.Flag_Cliente = txtCod_Cliente.Text
             frmArticulo.NumeroSerie = cboSerieDoc.Text
             If rbFacturaDirecta.Checked = True Or rb_facturar_pedido.Checked Then frmArticulo.Flag_Factura_directa = True
             If rb_facturar_pedido.Checked Then frmArticulo.Flag_Factura_Pedido = True
@@ -4068,7 +4166,7 @@ Public Class FrmFacturacionRapida
             Dim frmArticulo As New FrmAsignarArticuloRapido
             frmArticulo.AlmacenOrigen = txtAlmacen.Text
             frmArticulo.TipoDocumento = cboTipoDoc.Text
-            frmArticulo.Flag_Cliente = txtCodCliente.Text
+            frmArticulo.Flag_Cliente = txtCod_Cliente.Text
             frmArticulo.NumeroSerie = cboSerieDoc.Text
             Dim _CANTIDAD As String
             Dim _CANTIDAD_TOTAL_LOTE As Double = 0.0
@@ -4255,6 +4353,10 @@ Public Class FrmFacturacionRapida
     Private Sub btnquitar_Click(sender As Object, e As EventArgs) Handles btnquitar.Click
         If dgvDetalle.CurrentRow Is Nothing Then Exit Sub
         EliminandoArticulo()
+        If dgvDetalle.Rows.Count = 0 Then
+            txtCod_Cliente.Enabled = True
+            cboTipoDoc.Enabled = True
+        End If
         txt_buscador_productos.Focus()
     End Sub
 
@@ -4277,7 +4379,7 @@ Public Class FrmFacturacionRapida
         Try
             cConsultabL = New ClsConsultas
             dtDirCliente = New DataTable
-            dtDirCliente = cConsultabL.get_Direcciones_Cliente(txtCodCliente.Text)
+            dtDirCliente = cConsultabL.get_Direcciones_Cliente(txtCod_Cliente.Text)
             cboDirEntrega.DataSource = dtDirCliente
             cboDirEntrega.ValueMember = "ADDR_DLV"
             cboDirEntrega.DisplayMember = "ADDR_DLV"
@@ -4367,6 +4469,14 @@ Public Class FrmFacturacionRapida
 
     Private Sub cbTipoDoc_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cboTipoDoc.SelectedIndexChanged
         If cboTipoDoc.DataSource Is Nothing Then Exit Sub
+
+        txtCod_Cliente.Text = String.Empty
+        txtRazonSocial.Text = String.Empty
+        txtRucDni.Text = String.Empty
+        txtDireccion.Text = String.Empty
+        txtFormaPago.Text = String.Empty
+        txtVendedor.Text = String.Empty
+
         'cboSerieDoc.Text = cboTipoDoc.SelectedValue.ToString
         'If rbFacturaGuiaVenta.Checked = True Or rb_facturar_devolucion.Checked Or rb_facturar_pedido.Checked Then
         '    If rb_facturar_pedido.Checked Then
@@ -4512,7 +4622,7 @@ Public Class FrmFacturacionRapida
 
     Private Sub Limpiar_FacturaNotasCredito()
         If rbDocRef_varios.Checked = False Then
-            txtCodCliente.Text = ""
+            txtCod_Cliente.Text = ""
             txtRucDni.Text = ""
             txtRazonSocial.Text = ""
             txtDireccion.Text = ""
@@ -4521,6 +4631,7 @@ Public Class FrmFacturacionRapida
         End If
         txtcotizacion.Text = ""
         txtordenCompra.Text = ""
+        chkSinOC.Checked = False
         txtpedido.Text = ""
         txtCodTrans.Text = ""
         cboDirEntrega.Text = ""
@@ -4541,7 +4652,7 @@ Public Class FrmFacturacionRapida
             dtCabeceraFact = clsFacturaCabBl.get_CabecearaFacturacion(_DOCUMENT_ID, _NUMBER_SERIE, _NUMBER_DOCUMENT)
             If dtCabeceraFact.Rows.Count() <> 0 Then
                 For i As Integer = 0 To dtCabeceraFact.Rows.Count() - 1
-                    txtCodCliente.Text = dtCabeceraFact.Rows(i).Item("CUSTOMER_ID").ToString
+                    txtCod_Cliente.Text = dtCabeceraFact.Rows(i).Item("CUSTOMER_ID").ToString
                     txtRucDni.Text = dtCabeceraFact.Rows(i).Item("VAT_REGISTRATION").ToString
                     txtRazonSocial.Text = dtCabeceraFact.Rows(i).Item("CUSTOMER_NAME").ToString
                     txtDireccion.Text = dtCabeceraFact.Rows(i).Item("CUSTOMER_ADDR").ToString
@@ -4579,12 +4690,12 @@ Public Class FrmFacturacionRapida
                     Ayuda_SerieGuiaPuntoVenta()
                 End If
 
-                If txtCodCliente.Text <> String.Empty Then
+                If txtCod_Cliente.Text <> String.Empty Then
                     clsBuscarBl = New ClsBuscar
                     Dim dtDatos As New DataTable
-                    dtDatos = clsBuscarBl.Get_NombreTerceros(txtCodCliente.Text)
+                    dtDatos = clsBuscarBl.Get_NombreTerceros(txtCod_Cliente.Text)
                     If dtDatos.Rows.Count() <> 0 Then
-                        txtCodCliente.Text = dtDatos.Rows(0).Item(0).ToString
+                        txtCod_Cliente.Text = dtDatos.Rows(0).Item(0).ToString
                         txtRazonSocial.Text = dtDatos.Rows(0).Item(1).ToString
                         txtRucDni.Text = dtDatos.Rows(0).Item(2).ToString
                         txtDireccion.Text = dtDatos.Rows(0).Item(3).ToString
@@ -4613,7 +4724,7 @@ Public Class FrmFacturacionRapida
                             lblVendedor.Text = ""
                         End If
                     Else
-                        txtCodCliente.Text = ""
+                        txtCod_Cliente.Text = ""
                     End If
                 End If
                 '---Mostrando datos del Detalle
@@ -4767,9 +4878,9 @@ Public Class FrmFacturacionRapida
     'End Sub
 
     Private Sub txtordenCompra_MouseDoubleClick(sender As Object, e As MouseEventArgs) Handles txtordenCompra.MouseDoubleClick
-        If txtCodCliente.Text = String.Empty Then
+        If txtCod_Cliente.Text = String.Empty Then
             MsgBox("Es necesario Elegir un Cliente para poder Continuar.", MsgBoxStyle.Information)
-            txtCodCliente.Focus()
+            txtCod_Cliente.Focus()
             Exit Sub
         End If
         GbCabecera.Enabled = False
@@ -4937,7 +5048,7 @@ Public Class FrmFacturacionRapida
             _NUMBER_DOCUMENT = dgvDocumentosFactura.CurrentRow.Cells("NUMBER_DOCUMENT").Value
             If MessageBox.Show("¿Desea Generar el  Cobro de " & _DOCUMENT_ID & " " & _NUMBER_SERIE & _NUMBER_DOCUMENT & ".?", "Cobranza", MessageBoxButtons.YesNo, MessageBoxIcon.Question) = DialogResult.Yes Then
                 clsFacturaBl = New ClsNegocio.RECEIVABLE
-                If clsFacturaBl.GenerarCobro(_DOCUMENT_ID, _NUMBER_SERIE & _NUMBER_DOCUMENT, _
+                If clsFacturaBl.GenerarCobro(_DOCUMENT_ID, _NUMBER_SERIE & _NUMBER_DOCUMENT,
                                              Date.Now.ToString("dd/MM/yyyy"), LibComunVar.ClsVarComun.USUARIO) Then
                     MsgBox("Cobro realizado correctamente", MsgBoxStyle.Information)
 
@@ -5139,9 +5250,9 @@ Public Class FrmFacturacionRapida
             Exit Sub
         End If
 
-        If txtCodCliente.Text = "" Then
+        If txtCod_Cliente.Text = "" Then
             MsgBox("Debe seleccionar un Cliente para poder Elegir esta opcion.", MsgBoxStyle.Information)
-            txtCodCliente.Focus()
+            txtCod_Cliente.Focus()
             rbDocRef_uno.Checked = True
             Exit Sub
         End If
@@ -5432,7 +5543,7 @@ Public Class FrmFacturacionRapida
 
     Private Sub rb_facturar_pedido_CheckedChanged(sender As Object, e As EventArgs) Handles rb_facturar_pedido.CheckedChanged
         If Modo_consultar = True Or Modo_editar Then Exit Sub
-        txtCodCliente.Enabled = Not rb_facturar_pedido.Checked
+        txtCod_Cliente.Enabled = Not rb_facturar_pedido.Checked
         txtVendedor.Enabled = Not rb_facturar_pedido.Checked
         txtFormaPago.Enabled = Not rb_facturar_pedido.Checked
         btnquitar.Visible = Not rb_facturar_pedido.Checked
@@ -5547,7 +5658,7 @@ Public Class FrmFacturacionRapida
                 NUM_DEV = frm.Data_Matriz.Rows(0).Item(1).ToString
                 txtSerieDocRef.Text = "001"
                 txtNumDocRef.Text = frm.Data_Matriz.Rows(0).Item(1).ToString
-                txtCodCliente.Text = frm.Data_Matriz.Rows(0).Item(2).ToString
+                txtCod_Cliente.Text = frm.Data_Matriz.Rows(0).Item(2).ToString
                 txtdescCli.Text = frm.Data_Matriz.Rows(0).Item(3).ToString
                 txtRucDni.Text = frm.Data_Matriz.Rows(0).Item(4).ToString
                 txtDireccion.Text = frm.Data_Matriz.Rows(0).Item(5).ToString
@@ -5566,7 +5677,7 @@ Public Class FrmFacturacionRapida
 
     Private Sub rb_facturar_devolucion_CheckedChanged(sender As Object, e As EventArgs) Handles rb_facturar_devolucion.CheckedChanged
         If Modo_consultar = True Or Modo_editar Then Exit Sub
-        txtCodCliente.Enabled = Not rb_facturar_devolucion.Checked
+        txtCod_Cliente.Enabled = Not rb_facturar_devolucion.Checked
         btnAgregar.Visible = Not rb_facturar_devolucion.Checked
         btnquitar.Visible = Not rb_facturar_devolucion.Checked
         cboTipoDoc.Enabled = Not rb_facturar_devolucion.Checked
@@ -5967,7 +6078,7 @@ Public Class FrmFacturacionRapida
             MsgBox(ex.Message)
         End Try
     End Sub
-    
+
     Private Sub Cargar_Provincia_direcc_entrega()
         Try
 
@@ -6197,7 +6308,7 @@ Public Class FrmFacturacionRapida
             sql = "PED_SP_S_PRECIOS_PRODUCTO_HISTORIAL"
             frm._Flag_Filtro = True
             frm.Filtros1 = txtcodigoArticulo.Text.Trim
-            frm.Filtros2 = txtCodCliente.Text.Trim
+            frm.Filtros2 = txtCod_Cliente.Text.Trim
             frm.Filtros3 = cboMoneda.SelectedValue
             frm.CadenaConsulta = sql
             frm.Titulo = "Lista de Precios"
@@ -6289,6 +6400,9 @@ Public Class FrmFacturacionRapida
 
                 dtdetalleArticuloPrincipal.Rows.Add(row)
                 dtdetalleArticuloPrincipal.AcceptChanges()
+
+                txtCod_Cliente.Enabled = False
+                cboTipoDoc.Enabled = False
             End If
             If CDbl(txtcantidad_fraccion.Text) > 0 Then
                 Dim row As DataRow = dtdetalleArticuloPrincipal.NewRow
@@ -6342,6 +6456,8 @@ Public Class FrmFacturacionRapida
                 End If
                 dtdetalleArticuloPrincipal.Rows.Add(row)
                 dtdetalleArticuloPrincipal.AcceptChanges()
+                txtCod_Cliente.Enabled = False
+                cboTipoDoc.Enabled = False
             End If
 
             Calcular_Totales()
@@ -6401,6 +6517,9 @@ Public Class FrmFacturacionRapida
                 End If
                 dtdetalleArticuloPrincipal.EndInit()
                 dtdetalleArticuloPrincipal.AcceptChanges()
+
+                txtCod_Cliente.Enabled = False
+                cboTipoDoc.Enabled = False
             Next
 
             Calcular_Totales()
@@ -6604,7 +6723,7 @@ Public Class FrmFacturacionRapida
         End If
     End Sub
 
-    Private Function Generar_XML_Comunicacion_Baja(ByVal TipoDoc As String, ByVal SerieDoc As String, ByVal NumDoc As String, ByVal Fecha_baja As String, _
+    Private Function Generar_XML_Comunicacion_Baja(ByVal TipoDoc As String, ByVal SerieDoc As String, ByVal NumDoc As String, ByVal Fecha_baja As String,
                                                    ByRef ID_COMUNICACION_BAJA_ As String) As Boolean
         Try
             clsFacturaBl = New ClsNegocio.RECEIVABLE
@@ -6668,8 +6787,8 @@ Public Class FrmFacturacionRapida
                 If AMOUNT_CARD_MASTER.Text = "" Then AMOUNT_CARD_MASTER.Text = "0"
                 If AMOUNT_DINERS.Text = "" Then AMOUNT_DINERS.Text = "0"
                 If AMOUNT_AMERICAN_EXPRES.Text = "" Then AMOUNT_AMERICAN_EXPRES.Text = "0"
-                If Cierre_Ventas(dtp_fecha_cierre_ventas.Value.ToString("dd/MM/yyyy"), _
-                                 LibComunVar.ClsVarComun.USUARIO, CDbl(txt_saldo_final.Text), _
+                If Cierre_Ventas(dtp_fecha_cierre_ventas.Value.ToString("dd/MM/yyyy"),
+                                 LibComunVar.ClsVarComun.USUARIO, CDbl(txt_saldo_final.Text),
                                  CDbl(AMOUNT_CARD_VISA.Text), CDbl(AMOUNT_CARD_MASTER.Text), CDbl(AMOUNT_DINERS.Text), CDbl(AMOUNT_AMERICAN_EXPRES.Text)) = False Then
                     MsgBox("Hubo un error, no se completo el Proceso de Cierre de Ventas para la fecha elegida.", MsgBoxStyle.Exclamation)
                     Me.Cursor = Cursors.Default
@@ -6681,10 +6800,10 @@ Public Class FrmFacturacionRapida
                     'dtImprimir = reporteBL.Reporte_Cierre_Ventas(dtp_fecha_cierre_ventas.Value.ToString("dd/MM/yyyy"), LibComunVar.ClsVarComun.USUARIO)
                     dtDatosCompany = reporteBL.Obtener_Datos_Empresa()
                     If dtImprimir.Rows.Count() <> 0 Then
-                        crystalBL.Muestra_Reporte("rpt_Arqueo_Caja.rpt", dtImprimir, "", "", _
-                                                  "@FECHA;" & dtp_fecha_cierre_ventas.Value.ToString("dd/MM/yyyy"), _
-                                                  "@USUARIO;" & LibComunVar.ClsVarComun.USUARIO, _
-                                                  "EMPRESA;" & dtDatosCompany.Rows(0).Item("REPORT_SCREEN").ToString, _
+                        crystalBL.Muestra_Reporte("rpt_Arqueo_Caja.rpt", dtImprimir, "", "",
+                                                  "@FECHA;" & dtp_fecha_cierre_ventas.Value.ToString("dd/MM/yyyy"),
+                                                  "@USUARIO;" & LibComunVar.ClsVarComun.USUARIO,
+                                                  "EMPRESA;" & dtDatosCompany.Rows(0).Item("REPORT_SCREEN").ToString,
                                                   "RUC;" & dtDatosCompany.Rows(0).Item("VAT_REGISTRATION").ToString)
                     Else
                         MsgBox("No hay informacion disponible para mostrar.", MsgBoxStyle.Information)
@@ -7416,7 +7535,7 @@ Public Class FrmFacturacionRapida
 
     Private Sub txtdescripcionArticulo_KeyDown(sender As Object, e As KeyEventArgs) Handles txtdescripcionArticulo.KeyDown
         If e.KeyCode = Keys.Enter Then
-            If txtCodCliente.Text = "00000000" Then
+            If txtCod_Cliente.Text = "00000000" Or txtCod_Cliente.Text.Trim = String.Empty Then
                 MessageBox.Show("Debe de Seleccionar un cliente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
                 Exit Sub
             End If
@@ -7591,7 +7710,14 @@ Public Class FrmFacturacionRapida
                 MessageBox.Show("El pedido ya se encuentra FACTURADO.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
                 Exit Sub
             End If
-            If MessageBox.Show("¿Desea APROBAR el pedido N° " & STRPedido & "?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question) = DialogResult.Yes Then
+
+
+            Dim _Id As String = String.Empty
+            _Id = dgvDocumentosFactura.CurrentRow.Cells("Numero").Value
+            imprimir_pedido_Formato_TK(_Id)
+
+
+            If MessageBox.Show("¿Esta SEGURO DE APROBAR el pedido N° " & STRPedido & "?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question) = DialogResult.Yes Then
                 If STREstado = "EMITIDO" Then
                     clsPedidoBl = New ClsOperaciones.ORDERS
                     If clsPedidoBl.APROBAR_Pedido(STRPedido, LibComunVar.ClsVarComun.USUARIO) = True Then
@@ -7661,7 +7787,7 @@ Public Class FrmFacturacionRapida
                     STRmontotexto = UCase(NUMEROLETRAS(Math.Abs(CDbl(dtImprimir.Rows(0).Item("AMOUNT"))))) & " Dólares Americanos"
                 End If
 
-                crystalBL.Muestra_Reporte("SAL_PEDIDO_TK.rpt", dtImprimir, "", "", "@ID;" & _Codigo, _
+                crystalBL.Muestra_Reporte("SAL_PEDIDO_TK.rpt", dtImprimir, "", "", "@ID;" & _Codigo,
                                           "LETRAS;" & STRmontotexto)
             End If
             Me.Cursor = Cursors.Default
@@ -7870,6 +7996,177 @@ Public Class FrmFacturacionRapida
     Private Sub txt_cod_provincia_MouseDoubleClick(sender As Object, e As MouseEventArgs) Handles txt_cod_provincia.MouseDoubleClick
         txt_cod_provincia.Text = String.Empty
         Cargar_Provincia_direcc_entrega()
+    End Sub
+
+    Private Sub chkSinOC_CheckedChanged(sender As Object, e As EventArgs) Handles chkSinOC.CheckedChanged
+
+        If chkSinOC.Checked = True Then
+            pdfBytes = Nothing
+            NumeroOC = String.Empty
+            RutaOC = String.Empty
+            txtNumeroOrdenCompra.Text = String.Empty
+            txtNumeroOrdenCompra.Enabled = False
+            btnOrdenCompra.Enabled = False
+        Else
+            txtNumeroOrdenCompra.Enabled = True
+            btnOrdenCompra.Enabled = True
+        End If
+    End Sub
+
+    Private Sub txtCod_Cliente_TextChanged(sender As Object, e As EventArgs) Handles txtCod_Cliente.TextChanged
+
+    End Sub
+
+    Private Sub rdb_opt_local_CheckedChanged(sender As Object, e As EventArgs) Handles rdb_opt_local.CheckedChanged
+        If rdb_opt_local.Checked = True Then
+            txt_cod_agencia_trans.Enabled = False
+            txt_des_agencia_trans.Enabled = False
+            txtDireccionTransportista.Enabled = False
+            txtDireccionTransportistaDescripcion.Enabled = False
+
+            txtDireccionCliente.Enabled = False
+            txtDireccionEntregaCliente.Enabled = False
+
+            txt_cod_agencia_trans.Text = String.Empty
+            txt_des_agencia_trans.Text = String.Empty
+            txtDireccionTransportista.Text = String.Empty
+            txtDireccionTransportistaDescripcion.Text = String.Empty
+            txtDireccionCliente.Text = String.Empty
+            txtDireccionEntregaCliente.Text = String.Empty
+
+
+            txtLocalDescripcion.Text = String.Empty
+            txtLocal.Text = String.Empty
+            txtLocal.Enabled = True
+            txtLocalDescripcion.Enabled = True
+
+            txt_cod_agencia_trans.BackColor = System.Drawing.Color.White
+            txtDireccionTransportista.BackColor = System.Drawing.Color.White
+
+            txtDireccionCliente.BackColor = System.Drawing.Color.White
+            txtDireccionEntregaCliente.BackColor = System.Drawing.Color.White
+
+            txtLocal.BackColor = System.Drawing.Color.Aquamarine
+            txtLocalDescripcion.BackColor = System.Drawing.Color.Aquamarine
+
+        Else
+            txtLocal.BackColor = System.Drawing.Color.White
+            txtLocalDescripcion.BackColor = System.Drawing.Color.White
+            txtLocal.Enabled = False
+            txtLocal.Text = String.Empty
+            txtLocalDescripcion.Text = String.Empty
+        End If
+    End Sub
+
+    Private Sub rdb_opt_agencia_CheckedChanged_1(sender As Object, e As EventArgs) Handles rdb_opt_agencia.CheckedChanged
+
+        If rdb_opt_agencia.Checked = True Then
+
+            txt_cod_agencia_trans.Enabled = True
+            txt_des_agencia_trans.Enabled = True
+            txtDireccionTransportista.Enabled = True
+            txtDireccionTransportistaDescripcion.Enabled = True
+
+            txtDireccionCliente.Enabled = False
+            txtDireccionEntregaCliente.Enabled = False
+
+            txtLocal.Enabled = False
+            txtLocalDescripcion.Enabled = False
+
+            txt_cod_agencia_trans.Text = String.Empty
+            txt_des_agencia_trans.Text = String.Empty
+            txtDireccionTransportista.Text = String.Empty
+            txtDireccionTransportistaDescripcion.Text = String.Empty
+            txtDireccionCliente.Text = String.Empty
+            txtDireccionEntregaCliente.Text = String.Empty
+
+
+            txtLocalDescripcion.Text = String.Empty
+            txtLocal.Text = String.Empty
+            txtLocal.Enabled = True
+
+            txt_cod_agencia_trans.BackColor = System.Drawing.Color.Aquamarine
+            txtDireccionTransportistaDescripcion.BackColor = System.Drawing.Color.Aquamarine
+
+            txtDireccionTransportista.BackColor = System.Drawing.Color.White
+            txtDireccionCliente.BackColor = System.Drawing.Color.White
+            txtDireccionEntregaCliente.BackColor = System.Drawing.Color.White
+
+            txtLocal.BackColor = System.Drawing.Color.White
+            txtLocalDescripcion.BackColor = System.Drawing.Color.White
+
+        Else
+            txt_cod_agencia_trans.BackColor = System.Drawing.Color.White
+            txt_cod_agencia_trans.Enabled = False
+            txt_cod_agencia_trans.Text = String.Empty
+
+            txtDireccionTransportistaDescripcion.Text = String.Empty
+            txtDireccionTransportistaDescripcion.BackColor = System.Drawing.Color.White
+            txtDireccionTransportistaDescripcion.Enabled = False
+        End If
+
+
+
+
+    End Sub
+
+    Private Sub rdb_opt_domicilio_CheckedChanged_1(sender As Object, e As EventArgs) Handles rdb_opt_domicilio.CheckedChanged
+        If rdb_opt_domicilio.Checked = True Then
+
+            txt_cod_agencia_trans.Enabled = False
+            txt_des_agencia_trans.Enabled = False
+            txtDireccionTransportista.Enabled = False
+            txtDireccionTransportistaDescripcion.Enabled = False
+
+            txtDireccionCliente.Enabled = True
+            txtDireccionEntregaCliente.Enabled = True
+
+            txt_cod_agencia_trans.Text = String.Empty
+            txt_des_agencia_trans.Text = String.Empty
+            txtDireccionTransportista.Text = String.Empty
+            txtDireccionTransportistaDescripcion.Text = String.Empty
+            txtDireccionCliente.Text = String.Empty
+            txtDireccionEntregaCliente.Text = String.Empty
+
+
+            txtLocalDescripcion.Text = String.Empty
+            txtLocal.Text = String.Empty
+            txtLocal.Enabled = True
+
+            txt_cod_agencia_trans.BackColor = System.Drawing.Color.White
+            txtDireccionTransportista.BackColor = System.Drawing.Color.White
+
+            txtDireccionCliente.BackColor = System.Drawing.Color.Aquamarine
+            txtDireccionEntregaCliente.BackColor = System.Drawing.Color.Aquamarine
+
+            txtLocal.BackColor = System.Drawing.Color.White
+            txtLocalDescripcion.BackColor = System.Drawing.Color.White
+
+        Else
+            txtDireccionCliente.BackColor = System.Drawing.Color.White
+            txtDireccionCliente.Enabled = False
+            txtDireccionCliente.Text = String.Empty
+            txtDireccionCliente.Text = String.Empty
+        End If
+
+    End Sub
+
+    Private Sub txtDireccionTransportistaDescripcion_TextChanged(sender As Object, e As EventArgs) Handles txtDireccionTransportistaDescripcion.TextChanged
+
+    End Sub
+
+    Private Sub dgvDocumentosFactura_SelectionChanged(sender As Object, e As EventArgs) Handles dgvDocumentosFactura.SelectionChanged
+        txtUserID.Text = String.Empty
+        TxtFechaCreacion.Text = String.Empty
+
+        If dgvDocumentosFactura.Rows.Count > 0 Then
+            txtUserID.Text = dgvDocumentosFactura.CurrentRow.Cells("User_Id").Value
+            TxtFechaCreacion.Text = dgvDocumentosFactura.CurrentRow.Cells("Create_date").Value
+        End If
+    End Sub
+
+    Private Sub GrpLugarEntrega_Enter(sender As Object, e As EventArgs) Handles GrpLugarEntrega.Enter
+
     End Sub
 
     Private Sub txt_cod_provincia_KeyDown(sender As Object, e As KeyEventArgs) Handles txt_cod_provincia.KeyDown
@@ -8128,7 +8425,7 @@ Public Class FrmFacturacionRapida
                     cboTipoDoc.Text = dtCabeceraFact.Rows(0).Item("TRAMA_ID").ToString
                     cboMoneda.SelectedValue = dtCabeceraFact.Rows(i).Item("CURRENCY_ID").ToString
                     txtTipoCambio.Text = dtCabeceraFact.Rows(i).Item("SELL_RATE").ToString
-                    txtCodCliente.Text = dtCabeceraFact.Rows(i).Item("CUSTOMER_ID").ToString
+                    txtCod_Cliente.Text = dtCabeceraFact.Rows(i).Item("CUSTOMER_ID").ToString
                     txtRucDni.Text = dtCabeceraFact.Rows(i).Item("VAT_REGISTRATION").ToString
                     txtRazonSocial.Text = dtCabeceraFact.Rows(i).Item("CUSTOMER_NAME").ToString
                     txtDireccion.Text = dtCabeceraFact.Rows(i).Item("CUSTOMER_ADDR").ToString
@@ -8468,7 +8765,7 @@ Public Class FrmFacturacionRapida
         sql = "[ADDR_SP_S_CLIENTE_LISTA]"
         frm.CadenaConsulta = sql
         frm._Flag_Filtro = True
-        frm.Filtros1 = txtCodCliente.Text
+        frm.Filtros1 = txtCod_Cliente.Text
         frm.Titulo = "Direccion Cliente"
         frm.ShowDialog()
         If frm.Data_Matriz.Rows.Count > 0 Then

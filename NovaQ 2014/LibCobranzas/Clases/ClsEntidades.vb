@@ -5500,11 +5500,6 @@
 
     End Class
 
-
-
-
-
-
     Public Class ORDER
 
         Private _ID As String
@@ -5579,7 +5574,15 @@
         Private _FECHA_ENTREGA As Date
         Private _FECHA_RECEPCION As Date
         Private _HORA_RECEPCION As String
-
+        Private _IS_SIN_OC As Boolean
+        Public Property IS_SIN_OC As Boolean
+            Get
+                Return _IS_SIN_OC
+            End Get
+            Set(value As Boolean)
+                _IS_SIN_OC = value
+            End Set
+        End Property
         Public Property DIRECCION_ENTREGA As String
             Get
                 Return _DIRECCION_ENTREGA
@@ -6157,6 +6160,7 @@
                 _AMOUNT_ISC = value
             End Set
         End Property
+
 
     End Class
 

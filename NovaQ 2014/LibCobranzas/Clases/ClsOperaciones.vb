@@ -2470,7 +2470,7 @@ Public Class ClsOperaciones
         Public Function Modo_Edicion_Cabecera(ByVal codigo As String) As DataTable
             Try
                 'creando tabla Temporal
-                Return SqlHelper.ExecuteDataset(cn, "PED_SP_S_EDICION_CABECERA", codigo).Tables(0)
+                Return SqlHelper.ExecuteDataset(cn, "PED_SP_S_EDICION_CABECERA_v2", codigo).Tables(0)
             Catch ex As Exception
                 MsgBox(ex.Message)
             End Try
@@ -2552,14 +2552,14 @@ Public Class ClsOperaciones
                     ''Borrando cabecera
                     SqlHelper.ExecuteNonQuery(tr, "PED_SP_D_ELIMINA_PEDIDOS", entidad.ID)
                     ''
-                    SqlHelper.ExecuteNonQuery(tr, "PED_SP_I_ORDERS", .ID, .ORDER_DATE, .CADUCATE_DATE, .SALES_ID, .PLACE_SALES, .CUSTOMER_ID, .CUSTOMER_NAME,
+                    SqlHelper.ExecuteNonQuery(tr, "PED_SP_I_ORDERS_v2", .ID, .ORDER_DATE, .CADUCATE_DATE, .SALES_ID, .PLACE_SALES, .CUSTOMER_ID, .CUSTOMER_NAME,
                                               .CUSTOMER_ADDR, .VAT_REGISTRATION, .AMOUNT, .DISCOUNT_CUSTOMER, .DISCOUNT_SP, .TERMS, .SELL_RATE, .CURRENCY_ID,
                                               .DOCUMENT_REF, .SERIE_REF, .NUMBER_REF, .CREATE_DATE, .STATUS, .USER_ID, .COMMENT, .NUMBER_GUIA, .NUMBER_REC,
                              .ORDER_PURCHASE, .COMMENT1, .AMOUNT_VAT, .DISCOUNT, .DISCOUNT_AMOUNT, .REC_TYPE, .DISCOUNT_VAL, .STATUS_ORDER, .TRAMA_ID,
                              .AMOUNT_ISC, .CUSTOMER_ADDR_DLV, .ID_CENTRO_COSTO, .VALIDEZ_OFERTA, .PROVINCIA, .AGENCIA_TRANSPORTE, .GUIA, .AGE_DOMI, .LT_FT,
                              .CHEQUE, .TRANSFERENCIA, .N_OPERACION, .OBS_GENERAL, .RECEPCION_TERCERO, .MODO_PAGO, .GUIA_2, .FACTURA_2, .LETRA_2, .OPT_A_D,
                              .TRANSFERENCIA_2, .EFECTIVO_2, .NUM_COTIZACION, .ARCHIVO, .ITEM_TRANSPORTE, .PLACE_DELIVERY,
-                             .TIPO_PEDIDO, .CONTACTO_NOMBRES, .CONTACTO_DNI, .CONTACTO_CELULAR, .FECHA_ENTREGA, .FECHA_RECEPCION, .HORA_RECEPCION, .DIRECCION_ENTREGA)
+                             .TIPO_PEDIDO, .CONTACTO_NOMBRES, .CONTACTO_DNI, .CONTACTO_CELULAR, .FECHA_ENTREGA, .FECHA_RECEPCION, .HORA_RECEPCION, .DIRECCION_ENTREGA, .IS_SIN_OC)
 
                     SqlHelper.ExecuteNonQuery(tr, "PED_SP_S_ORDENCOMPRA_PEDIDO", .ID, .ARCHIVO, .ORDER_PURCHASE)
                     SqlHelper.ExecuteNonQuery(tr, "PED_SP_U_QUOTE", entidad.ID, entidad.NUM_COTIZACION)

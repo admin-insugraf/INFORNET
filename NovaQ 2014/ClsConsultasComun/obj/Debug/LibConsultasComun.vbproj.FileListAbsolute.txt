@@ -141,3 +141,21 @@ Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.dll
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.xml
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConsultasComun.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\bin\Debug\LibComunVar.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\bin\Debug\LibConexion.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbproj.AssemblyReference.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.frmError.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.Resources.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbproj.GenerateResource.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbproj.CoreCompileInputs.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.vbproj.CopyComplete
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\ClsConsultasComun\obj\Debug\LibConsultasComun.pdb

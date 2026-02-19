@@ -244,3 +244,31 @@ Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbpro
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.dll
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.xml
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\bin\Debug\LibProveedores.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\bin\Debug\stdole.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\bin\Debug\LibComunVar.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\bin\Debug\LibConexion.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\bin\Debug\LibReportes.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbproj.AssemblyReference.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmAyudaVar.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmError.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmProvAreas.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmPrueba.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmRegOrdenCompra.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.frmValoresDetalle.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resources.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.Resource1.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbproj.GenerateResource.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbproj.CoreCompileInputs.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.vbproj.CopyComplete
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibProveedores\obj\Debug\LibProveedores.pdb

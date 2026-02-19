@@ -68,5 +68,7 @@ Public Class frmPickingAceptar
         Me.Close()
     End Sub
 
-    
+    Private Sub frmPickingAceptar_Load(sender As Object, e As EventArgs) Handles Me.Load
+        dtpHoraRecepcion.Value = DateTime.Now
+    End Sub
 End Class

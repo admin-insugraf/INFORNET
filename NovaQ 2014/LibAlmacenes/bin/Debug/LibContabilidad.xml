@@ -6,202 +6,250 @@ LibContabilidad
 </name>
 </assembly>
 <members>
+<member name="T:LibContabilidad.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
 <member name="P:LibContabilidad.My.Resources.Resources.ResourceManager">
-	<summary>
+<summary>
   Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.Culture">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.Culture">
+<summary>
   Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
   búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources._exit">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources._exit">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources._stop">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources._stop">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.Credit_card">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.Credit_card">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.down_alt">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.down_alt">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.edit">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.edit">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.forward">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.forward">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.minus_white">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.minus_white">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.new_doc">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.new_doc">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.ok_32">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.ok_32">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.plus">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.plus">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.record">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.record">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.search">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.search">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.splash_green">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.splash_green">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.stop_2">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.stop_2">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:LibContabilidad.My.Resources.Resources.Universal">
-	<summary>
+</member>
+<member name="P:LibContabilidad.My.Resources.Resources.Universal">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="T:LibContabilidad.My.Resources.Resources">
-	<summary>
-  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_01DataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_02DataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_03DataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_04DataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_05DataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_06DataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_07DataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_08DataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_09DataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_10DataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_01Row">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_02Row">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_03Row">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_04Row">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_05Row">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_06Row">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_07Row">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_08Row">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_09Row">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_10Row">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_01RowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_02RowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_03RowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_04RowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_05RowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_06RowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_07RowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_08RowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_09RowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad.CO_10RowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:LibContabilidad.DsContabilidad">
-	<summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad">
+<summary>
 Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_01DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_02DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_03DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_04DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_05DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_06DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_07DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_08DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_09DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_10DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_01Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_02Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_03Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_04Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_05Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_06Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_07Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_08Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_09Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_10Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_01RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_02RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_03RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_04RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_05RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_06RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_07RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_08RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_09RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LibContabilidad.DsContabilidad.CO_10RowChangeEvent">
+<summary>
+Row event argument class
 </summary>
 </member>
 </members>

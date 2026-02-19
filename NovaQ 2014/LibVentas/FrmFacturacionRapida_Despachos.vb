@@ -6169,9 +6169,10 @@ Public Class FrmFacturacionRapida_Despachos
             With frmPickingAceptar
                 If .ShowDialog = DialogResult.OK Then
                     clsPedidoBl = New ClsOperaciones.ORDERS
-                    If clsPedidoBl.iniciar_Picking(STRPedido, LibComunVar.ClsVarComun.USUARIO, 0, .txtVendedor.Text, .dtpFechaRecepcion.Value.ToShortDateString, .dtpHoraRecepcion.Value.ToString("HH:mm:ss"), 0) = True Then
+                    If clsPedidoBl.iniciar_Picking(STRPedido, LibComunVar.ClsVarComun.USUARIO, 0, .txtVendedor.Text, .dtpFechaRecepcion.Value.ToString("dd/MM/yyyy"), .dtpHoraRecepcion.Value.ToString("HH:mm:ss"), 0) = True Then
                         MsgBox("Proceso de picking iniciado", MsgBoxStyle.Information)
                         DocumentosFactura()
+
                     End If
                 End If
 

@@ -142,3 +142,21 @@ Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibSeguridad\obj\Debug\LibSeguridad.vbproj.Ge
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibSeguridad\obj\Debug\LibSeguridad.dll
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibSeguridad\obj\Debug\LibSeguridad.xml
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibSeguridad\obj\Debug\LibSeguridad.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\bin\Debug\LibSeguridad.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\bin\Debug\LibSeguridad.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\bin\Debug\LibSeguridad.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\bin\Debug\LibConexion.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\bin\Debug\LibComunVar.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\bin\Debug\LibConexion.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\bin\Debug\LibConexion.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\bin\Debug\LibComunVar.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\bin\Debug\LibComunVar.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\obj\Debug\LibSeguridad.vbproj.AssemblyReference.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\obj\Debug\LibSeguridad.frmError.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\obj\Debug\LibSeguridad.Resources.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\obj\Debug\LibSeguridad.vbproj.GenerateResource.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\obj\Debug\LibSeguridad.vbproj.CoreCompileInputs.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\obj\Debug\LibSeguridad.vbproj.CopyComplete
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\obj\Debug\LibSeguridad.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\obj\Debug\LibSeguridad.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibSeguridad\obj\Debug\LibSeguridad.pdb

@@ -22,13 +22,13 @@ Partial Class frm_CX_LT_GuiaRemision
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle73 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle74 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle75 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frm_CX_LT_GuiaRemision))
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle76 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle77 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle78 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.txt_tipo_Trans = New System.Windows.Forms.TextBox()
         Me.txt_des_transacciones = New System.Windows.Forms.TextBox()
         Me.GbTransaccion = New System.Windows.Forms.GroupBox()
@@ -343,7 +343,7 @@ Partial Class frm_CX_LT_GuiaRemision
         Me.gbLeyenda.Controls.Add(Me.TextBox2)
         Me.gbLeyenda.Controls.Add(Me.Label19)
         Me.gbLeyenda.ForeColor = System.Drawing.Color.Navy
-        Me.gbLeyenda.Location = New System.Drawing.Point(813, 8)
+        Me.gbLeyenda.Location = New System.Drawing.Point(523, 8)
         Me.gbLeyenda.Name = "gbLeyenda"
         Me.gbLeyenda.Size = New System.Drawing.Size(219, 39)
         Me.gbLeyenda.TabIndex = 109
@@ -432,11 +432,12 @@ Partial Class frm_CX_LT_GuiaRemision
         '
         Me.txt_tc.BackColor = System.Drawing.Color.White
         Me.txt_tc.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.txt_tc.Location = New System.Drawing.Point(706, 26)
+        Me.txt_tc.Location = New System.Drawing.Point(936, 26)
         Me.txt_tc.Name = "txt_tc"
         Me.txt_tc.ReadOnly = True
         Me.txt_tc.Size = New System.Drawing.Size(79, 20)
         Me.txt_tc.TabIndex = 5
+        Me.txt_tc.Visible = False
         '
         'txt_num_guia
         '
@@ -463,30 +464,33 @@ Partial Class frm_CX_LT_GuiaRemision
         '
         Me.Label14.AutoSize = True
         Me.Label14.ForeColor = System.Drawing.Color.Navy
-        Me.Label14.Location = New System.Drawing.Point(540, 11)
+        Me.Label14.Location = New System.Drawing.Point(770, 11)
         Me.Label14.Name = "Label14"
         Me.Label14.Size = New System.Drawing.Size(46, 13)
         Me.Label14.TabIndex = 3
         Me.Label14.Text = "Moneda"
+        Me.Label14.Visible = False
         '
         'Label15
         '
         Me.Label15.AutoSize = True
         Me.Label15.ForeColor = System.Drawing.Color.Navy
-        Me.Label15.Location = New System.Drawing.Point(710, 10)
+        Me.Label15.Location = New System.Drawing.Point(940, 10)
         Me.Label15.Name = "Label15"
         Me.Label15.Size = New System.Drawing.Size(66, 13)
         Me.Label15.TabIndex = 3
         Me.Label15.Text = "Tipo Cambio"
+        Me.Label15.Visible = False
         '
         'cmb_moneda
         '
         Me.cmb_moneda.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cmb_moneda.FormattingEnabled = True
-        Me.cmb_moneda.Location = New System.Drawing.Point(527, 26)
+        Me.cmb_moneda.Location = New System.Drawing.Point(757, 26)
         Me.cmb_moneda.Name = "cmb_moneda"
         Me.cmb_moneda.Size = New System.Drawing.Size(169, 21)
         Me.cmb_moneda.TabIndex = 4
+        Me.cmb_moneda.Visible = False
         '
         'gbTipoGuiaRemision
         '
@@ -513,7 +517,7 @@ Partial Class frm_CX_LT_GuiaRemision
         '
         Me.rb_facturar_pedido.AutoSize = True
         Me.rb_facturar_pedido.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        Me.rb_facturar_pedido.Location = New System.Drawing.Point(266, 19)
+        Me.rb_facturar_pedido.Location = New System.Drawing.Point(131, 19)
         Me.rb_facturar_pedido.Name = "rb_facturar_pedido"
         Me.rb_facturar_pedido.Size = New System.Drawing.Size(90, 17)
         Me.rb_facturar_pedido.TabIndex = 175
@@ -560,12 +564,13 @@ Partial Class frm_CX_LT_GuiaRemision
         '
         Me.rbGuia_ventaFacturar.AutoSize = True
         Me.rbGuia_ventaFacturar.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.rbGuia_ventaFacturar.Location = New System.Drawing.Point(133, 19)
+        Me.rbGuia_ventaFacturar.Location = New System.Drawing.Point(224, 19)
         Me.rbGuia_ventaFacturar.Name = "rbGuia_ventaFacturar"
         Me.rbGuia_ventaFacturar.Size = New System.Drawing.Size(123, 17)
         Me.rbGuia_ventaFacturar.TabIndex = 1
         Me.rbGuia_ventaFacturar.Text = "GR - V. x Facturar"
         Me.rbGuia_ventaFacturar.UseVisualStyleBackColor = True
+        Me.rbGuia_ventaFacturar.Visible = False
         '
         'rbGuia_sinDescargo
         '
@@ -634,34 +639,34 @@ Partial Class frm_CX_LT_GuiaRemision
         Me.dgvDetalle.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgvDetalle.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
+        DataGridViewCellStyle73.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle73.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle73.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle73.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle73.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle73.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle73.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvDetalle.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle73
         Me.dgvDetalle.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dgvDetalle.DefaultCellStyle = DataGridViewCellStyle2
+        DataGridViewCellStyle74.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle74.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle74.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle74.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle74.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle74.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle74.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgvDetalle.DefaultCellStyle = DataGridViewCellStyle74
         Me.dgvDetalle.Location = New System.Drawing.Point(8, 11)
         Me.dgvDetalle.Name = "dgvDetalle"
         Me.dgvDetalle.ReadOnly = True
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgvDetalle.RowHeadersDefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle75.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle75.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle75.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle75.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle75.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle75.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle75.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvDetalle.RowHeadersDefaultCellStyle = DataGridViewCellStyle75
         Me.dgvDetalle.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.dgvDetalle.Size = New System.Drawing.Size(878, 139)
         Me.dgvDetalle.TabIndex = 112
@@ -719,35 +724,35 @@ Partial Class frm_CX_LT_GuiaRemision
         Me.dgvDocumentosGuias.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgvDocumentosGuias.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle76.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle76.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle76.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle76.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle76.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle76.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle76.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvDocumentosGuias.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle76
         Me.dgvDocumentosGuias.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle5.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dgvDocumentosGuias.DefaultCellStyle = DataGridViewCellStyle5
+        DataGridViewCellStyle77.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle77.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle77.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle77.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle77.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle77.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle77.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgvDocumentosGuias.DefaultCellStyle = DataGridViewCellStyle77
         Me.dgvDocumentosGuias.Location = New System.Drawing.Point(6, 97)
         Me.dgvDocumentosGuias.MultiSelect = False
         Me.dgvDocumentosGuias.Name = "dgvDocumentosGuias"
         Me.dgvDocumentosGuias.ReadOnly = True
-        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle6.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgvDocumentosGuias.RowHeadersDefaultCellStyle = DataGridViewCellStyle6
+        DataGridViewCellStyle78.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle78.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle78.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle78.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle78.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle78.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle78.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvDocumentosGuias.RowHeadersDefaultCellStyle = DataGridViewCellStyle78
         Me.dgvDocumentosGuias.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.dgvDocumentosGuias.Size = New System.Drawing.Size(978, 474)
         Me.dgvDocumentosGuias.TabIndex = 110
@@ -1134,7 +1139,7 @@ Partial Class frm_CX_LT_GuiaRemision
         Me.gbCabecera.Controls.Add(Me.Label4)
         Me.gbCabecera.Location = New System.Drawing.Point(14, 147)
         Me.gbCabecera.Name = "gbCabecera"
-        Me.gbCabecera.Size = New System.Drawing.Size(967, 191)
+        Me.gbCabecera.Size = New System.Drawing.Size(967, 182)
         Me.gbCabecera.TabIndex = 7
         Me.gbCabecera.TabStop = False
         '
@@ -1207,16 +1212,16 @@ Partial Class frm_CX_LT_GuiaRemision
         '
         Me.cbo_motivo_traslado.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cbo_motivo_traslado.FormattingEnabled = True
-        Me.cbo_motivo_traslado.Location = New System.Drawing.Point(531, 158)
+        Me.cbo_motivo_traslado.Location = New System.Drawing.Point(531, 154)
         Me.cbo_motivo_traslado.Name = "cbo_motivo_traslado"
-        Me.cbo_motivo_traslado.Size = New System.Drawing.Size(384, 21)
+        Me.cbo_motivo_traslado.Size = New System.Drawing.Size(239, 21)
         Me.cbo_motivo_traslado.TabIndex = 248
         '
         'Label36
         '
         Me.Label36.AutoSize = True
         Me.Label36.ForeColor = System.Drawing.Color.Navy
-        Me.Label36.Location = New System.Drawing.Point(422, 162)
+        Me.Label36.Location = New System.Drawing.Point(422, 158)
         Me.Label36.Name = "Label36"
         Me.Label36.Size = New System.Drawing.Size(98, 13)
         Me.Label36.TabIndex = 247
@@ -1227,9 +1232,9 @@ Partial Class frm_CX_LT_GuiaRemision
         Me.GroupBox30.Controls.Add(Me.rdb_trans_privado)
         Me.GroupBox30.Controls.Add(Me.rdb_trans_publico)
         Me.GroupBox30.ForeColor = System.Drawing.Color.Navy
-        Me.GroupBox30.Location = New System.Drawing.Point(672, 118)
+        Me.GroupBox30.Location = New System.Drawing.Point(772, 141)
         Me.GroupBox30.Name = "GroupBox30"
-        Me.GroupBox30.Size = New System.Drawing.Size(196, 33)
+        Me.GroupBox30.Size = New System.Drawing.Size(191, 35)
         Me.GroupBox30.TabIndex = 236
         Me.GroupBox30.TabStop = False
         Me.GroupBox30.Text = "Modalidad de Transporte"
@@ -1237,7 +1242,7 @@ Partial Class frm_CX_LT_GuiaRemision
         'rdb_trans_privado
         '
         Me.rdb_trans_privado.AutoSize = True
-        Me.rdb_trans_privado.Location = New System.Drawing.Point(102, 15)
+        Me.rdb_trans_privado.Location = New System.Drawing.Point(97, 14)
         Me.rdb_trans_privado.Name = "rdb_trans_privado"
         Me.rdb_trans_privado.Size = New System.Drawing.Size(93, 17)
         Me.rdb_trans_privado.TabIndex = 1
@@ -1249,7 +1254,7 @@ Partial Class frm_CX_LT_GuiaRemision
         '
         Me.rdb_trans_publico.AutoSize = True
         Me.rdb_trans_publico.Checked = True
-        Me.rdb_trans_publico.Location = New System.Drawing.Point(9, 15)
+        Me.rdb_trans_publico.Location = New System.Drawing.Point(6, 14)
         Me.rdb_trans_publico.Name = "rdb_trans_publico"
         Me.rdb_trans_publico.Size = New System.Drawing.Size(92, 17)
         Me.rdb_trans_publico.TabIndex = 0
@@ -1703,10 +1708,10 @@ Partial Class frm_CX_LT_GuiaRemision
         Me.txtComentarios.BackColor = System.Drawing.Color.Aquamarine
         Me.txtComentarios.Font = New System.Drawing.Font("Book Antiqua", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtComentarios.ForeColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.txtComentarios.Location = New System.Drawing.Point(10, 31)
+        Me.txtComentarios.Location = New System.Drawing.Point(3, 14)
         Me.txtComentarios.Name = "txtComentarios"
         Me.txtComentarios.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.ForcedVertical
-        Me.txtComentarios.Size = New System.Drawing.Size(869, 30)
+        Me.txtComentarios.Size = New System.Drawing.Size(956, 61)
         Me.txtComentarios.TabIndex = 120
         Me.txtComentarios.Text = ""
         '
@@ -2199,39 +2204,41 @@ Partial Class frm_CX_LT_GuiaRemision
         '
         Me.gbTipoGuia.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.gbTipoGuia.Controls.Add(Me.rbVariaslineas)
         Me.gbTipoGuia.Controls.Add(Me.txtComentarios)
+        Me.gbTipoGuia.Controls.Add(Me.rbVariaslineas)
         Me.gbTipoGuia.Controls.Add(Me.rbunalinea)
         Me.gbTipoGuia.ForeColor = System.Drawing.Color.Navy
-        Me.gbTipoGuia.Location = New System.Drawing.Point(15, 341)
+        Me.gbTipoGuia.Location = New System.Drawing.Point(15, 331)
         Me.gbTipoGuia.Name = "gbTipoGuia"
-        Me.gbTipoGuia.Size = New System.Drawing.Size(966, 68)
+        Me.gbTipoGuia.Size = New System.Drawing.Size(966, 79)
         Me.gbTipoGuia.TabIndex = 172
         Me.gbTipoGuia.TabStop = False
-        Me.gbTipoGuia.Text = "&Tipo de la Glosa de la Guia"
+        Me.gbTipoGuia.Text = "Glosa de la Guia"
         '
         'rbVariaslineas
         '
         Me.rbVariaslineas.AutoSize = True
         Me.rbVariaslineas.ForeColor = System.Drawing.Color.Navy
-        Me.rbVariaslineas.Location = New System.Drawing.Point(103, 12)
+        Me.rbVariaslineas.Location = New System.Drawing.Point(830, 39)
         Me.rbVariaslineas.Name = "rbVariaslineas"
         Me.rbVariaslineas.Size = New System.Drawing.Size(84, 17)
         Me.rbVariaslineas.TabIndex = 1
         Me.rbVariaslineas.Text = "&Varias lineas"
         Me.rbVariaslineas.UseVisualStyleBackColor = True
+        Me.rbVariaslineas.Visible = False
         '
         'rbunalinea
         '
         Me.rbunalinea.AutoSize = True
         Me.rbunalinea.Checked = True
-        Me.rbunalinea.Location = New System.Drawing.Point(7, 12)
+        Me.rbunalinea.Location = New System.Drawing.Point(830, 16)
         Me.rbunalinea.Name = "rbunalinea"
         Me.rbunalinea.Size = New System.Drawing.Size(92, 17)
         Me.rbunalinea.TabIndex = 0
         Me.rbunalinea.TabStop = True
         Me.rbunalinea.Text = "&Una sola linea"
         Me.rbunalinea.UseVisualStyleBackColor = True
+        Me.rbunalinea.Visible = False
         '
         'ToolStrip1
         '
@@ -2565,8 +2572,8 @@ Partial Class frm_CX_LT_GuiaRemision
         Me.Controls.Add(Me.GbTransaccion)
         Me.Controls.Add(Me.gbCabecera)
         Me.Controls.Add(Me.gbdetalle)
-        Me.Controls.Add(Me.gbTipoGuia)
         Me.Controls.Add(Me.gbOpciones)
+        Me.Controls.Add(Me.gbTipoGuia)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frm_CX_LT_GuiaRemision"

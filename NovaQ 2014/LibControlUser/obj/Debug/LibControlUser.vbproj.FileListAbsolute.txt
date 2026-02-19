@@ -223,3 +223,30 @@ Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.vbpro
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.dll
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.xml
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\bin\Debug\LibControlUser.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\bin\Debug\LibControlUser.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\bin\Debug\LibControlUser.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\bin\Debug\LibComunVar.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\bin\Debug\LibConexion.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\bin\Debug\LibConsultasComun.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\bin\Debug\LibConsultasComun.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\bin\Debug\LibConsultasComun.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\bin\Debug\LibComunVar.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\bin\Debug\LibComunVar.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\bin\Debug\LibConexion.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\bin\Debug\LibConexion.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.vbproj.AssemblyReference.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.ControlLista.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.frmError.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.frmUbigeo.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.Resources.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.Paginacion.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.TextNumeric.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.ToolbarComon.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.ucUbigeo.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.vbproj.GenerateResource.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.vbproj.CoreCompileInputs.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.vbproj.CopyComplete
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibControlUser\obj\Debug\LibControlUser.pdb

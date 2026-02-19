@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="IVM.dll" />
-			<Metadata Name="FileName" Value="Z:\FUENTE 2023\INSUGRAF\NOVAQ 2014\IVM\OBJ\DEBUG\IVM.DLL" />
+			<Metadata Name="FileName" Value="E:\PROYECTOS-GIT\INFORNET\INFORNET\NOVAQ 2014\IVM\OBJ\DEBUG\IVM.DLL" />
 			<Metadata Name="AssemblyName" Value="IVM" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="Z:\Fuente 2023\INSUGRAF\NovaQ 2014\IVM\obj\Debug\IVM.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\obj\Debug\IVM.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
@@ -12739,9 +12739,6 @@ ORDER BY ITEM]]></Value>
 				<Entry>
 					<References Name="[dbo].[CO_SP_S_CAJA_EGRE_DET].[@P_ID]" />
 				</Entry>
-				<Entry>
-					<References Name="[dbo].[RECEIVABLE_LIST_LINE_PAY].[ITEM]" />
-				</Entry>
 			</Relationship>
 			<Relationship Name="Parameters">
 				<Entry>
@@ -12879,9 +12876,6 @@ ORDER BY ITEM]]></Value>
 				</Entry>
 				<Entry>
 					<References Name="[dbo].[CO_SP_S_CAJA_ING_DET].[@P_ID]" />
-				</Entry>
-				<Entry>
-					<References Name="[dbo].[RECEIVABLE_LIST_LINE].[ITEM]" />
 				</Entry>
 			</Relationship>
 			<Relationship Name="Parameters">
@@ -13812,9 +13806,6 @@ ORDER BY CAST(ITEM AS INT)]]></Value>
 				</Entry>
 				<Entry>
 					<References ExternalSource="BuiltIns" Name="[int]" />
-				</Entry>
-				<Entry>
-					<References Name="[dbo].[PURCHASE_FACT_SUPPLIER_L].[ITEM]" />
 				</Entry>
 			</Relationship>
 			<Relationship Name="Parameters">
@@ -121190,21 +121181,38 @@ EXEC('SELECT *,M.DESCRIPTION,MO.CURRENCY_EXCHANGE,M.UNIT_OF_MEASUREMENT,T.NAME F
 		</Element>
 		<Element Type="SqlProcedure" Name="[dbo].[SAL_HLP_PTO_VENTA]">
 			<Property Name="BodyScript">
-				<Value><![CDATA[
-	
-	select s.sales_place_id,
-		   s.sales_place_description,
-		   s.warehouse_id,
-		   w.NAME,
-		   s.company_id
-	from SALES_PLACE s
-	inner join WAREHOUSE w
-		on s.WAREHOUSE_ID=w.ID
-	where s.COMPANY_ID=@cod_compania
-	order by s.SALES_PLACE_ID]]></Value>
+				<Value><![CDATA[   
+IF @cod_compania =''  
+ BEGIN   
+ select s.sales_place_id AS [CODIGO],  
+     s.sales_place_description AS [PUNTO_DE_VENTA],  
+     s.warehouse_id AS [IDE],  
+     w.NAME AS [ALMACEN] ,  
+     s.company_id  
+ from SALES_PLACE s  
+ inner join WAREHOUSE w  
+  on s.WAREHOUSE_ID=w.ID  
+  order by s.SALES_PLACE_ID  
+ END   
+ELSE  
+ BEGIN    
+  select s.sales_place_id AS [CODIGO],  
+     s.sales_place_description AS [PUNTO_DE_VENTA],  
+     s.warehouse_id AS [IDE],  
+     w.NAME AS [ALMACEN],  
+     s.company_id  
+ from SALES_PLACE s  
+ inner join WAREHOUSE w  
+  on s.WAREHOUSE_ID=w.ID  
+ where s.COMPANY_ID=@cod_compania  
+   order by s.SALES_PLACE_ID  
+ END]]></Value>
 			</Property>
 			<Property Name="IsAnsiNullsOn" Value="True" />
 			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[SAL_HLP_PTO_VENTA].[@cod_compania]" />
+				</Entry>
 				<Entry>
 					<References Name="[dbo].[SALES_PLACE]" />
 				</Entry>
@@ -121229,13 +121237,14 @@ EXEC('SELECT *,M.DESCRIPTION,MO.CURRENCY_EXCHANGE,M.UNIT_OF_MEASUREMENT,T.NAME F
 				<Entry>
 					<References Name="[dbo].[WAREHOUSE].[NAME]" />
 				</Entry>
-				<Entry />
-				<Entry />
 				<Entry>
-					<References Name="[dbo].[SAL_HLP_PTO_VENTA].[@cod_compania]" />
+					<References Name="[dbo].[SALES_PLACE].[COMPANY_ID]" />
 				</Entry>
 				<Entry>
 					<References Name="[dbo].[SALES_PLACE].[SALES_PLACE_ID]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[SALES_PLACE].[COMPANY_ID]" />
 				</Entry>
 			</Relationship>
 			<Relationship Name="Parameters">
@@ -121262,10 +121271,10 @@ EXEC('SELECT *,M.DESCRIPTION,MO.CURRENCY_EXCHANGE,M.UNIT_OF_MEASUREMENT,T.NAME F
 				</Entry>
 			</Relationship>
 			<Annotation Type="SysCommentsObjectAnnotation">
-				<Property Name="Length" Value="333" />
+				<Property Name="Length" Value="770" />
 				<Property Name="StartLine" Value="1" />
 				<Property Name="StartColumn" Value="1" />
-				<Property Name="HeaderContents" Value="create procedure [dbo].[SAL_HLP_PTO_VENTA]&#xD;&#xA;&#x9;(@cod_compania varchar(50))&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;as" />
+				<Property Name="HeaderContents" Value="CREATE procedure [dbo].[SAL_HLP_PTO_VENTA]  &#xD;&#xA; (@cod_compania varchar(50))  &#xD;&#xA; AS" />
 			</Annotation>
 		</Element>
 		<Element Type="SqlProcedure" Name="[dbo].[SAL_HLP_VENDEDORES]">
@@ -126994,6 +127003,22 @@ exec('ALTER TABLE tempdb.dbo.['+@IDE+'TEMPOFAC01] WITH NOCHECK ADD
 		<Element Type="SqlTable" Name="[dbo].[SALES_PLACE]">
 			<Property Name="IsAnsiNullsOn" Value="True" />
 			<Relationship Name="Columns">
+				<Entry>
+					<Element Type="SqlSimpleColumn" Name="[dbo].[SALES_PLACE].[COMPANY_ID]">
+						<Relationship Name="TypeSpecifier">
+							<Entry>
+								<Element Type="SqlTypeSpecifier">
+									<Property Name="Length" Value="50" />
+									<Relationship Name="Type">
+										<Entry>
+											<References ExternalSource="BuiltIns" Name="[varchar]" />
+										</Entry>
+									</Relationship>
+								</Element>
+							</Entry>
+						</Relationship>
+					</Element>
+				</Entry>
 				<Entry>
 					<Element Type="SqlSimpleColumn" Name="[dbo].[SALES_PLACE].[SALES_PLACE_ID]">
 						<Relationship Name="TypeSpecifier">
@@ -165268,6 +165293,8 @@ EXEC('SELECT * FROM [tempdb].dbo.COSTOS'+@PC+' ORDER BY PART_ID,DOCUMENT_ID,NUMB
 					<References Name="[NovaQ]" Disambiguator="3" />
 					<Annotation Type="PersistedResolvableAnnotation" Name="[NovaQ]">
 						<Property Name="TargetTypeStorage" Value="SqlSchema" />
+						<Property Name="Length" Value="7" />
+						<Property Name="Offset" Value="61" />
 					</Annotation>
 				</Entry>
 			</Relationship>

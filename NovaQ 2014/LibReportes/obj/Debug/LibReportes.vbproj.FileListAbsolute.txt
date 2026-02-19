@@ -194,3 +194,26 @@ Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.Gene
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.dll
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.xml
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\LibReportes\obj\Debug\LibReportes.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\bin\Debug\LibReportes.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\bin\Debug\LibReportes.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\bin\Debug\LibReportes.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\bin\Debug\LibConexion.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\bin\Debug\stdole.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\bin\Debug\LibComunVar.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\bin\Debug\LibConexion.pdb
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\bin\Debug\LibConexion.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.AssemblyReference.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\obj\Debug\Interop.CRAXDRT.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.ResolveComReference.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmError.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporte.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\obj\Debug\LibReportes.frmReporteI.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\obj\Debug\LibReportes.Resources.resources
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.GenerateResource.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.CoreCompileInputs.cache
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\obj\Debug\LibReportes.vbproj.CopyComplete
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\obj\Debug\LibReportes.dll
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\obj\Debug\LibReportes.xml
+E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\LibReportes\obj\Debug\LibReportes.pdb
