@@ -105,8 +105,10 @@ Public Class frmOrdenCompra
             '    DialogResult = System.Windows.Forms.DialogResult.OK
             'End If
         Else
+            MsgBox("Seleccione PDF de Orden de compra", MsgBoxStyle.Exclamation)
+            txt_SerieNumero.Text = ""
             pdfBytes = Nothing
-            DialogResult = System.Windows.Forms.DialogResult.OK
+            ' DialogResult = System.Windows.Forms.DialogResult.OK
 
         End If
 

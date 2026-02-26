@@ -3642,7 +3642,7 @@ Public Class FrmFacturacionRapida
                 Exit Try
             End If
 
-            If chkSinOC.Checked = False And txtordenCompra.Text = String.Empty Then
+            If chkSinOC.Checked = False And txtNumeroOrdenCompra.Text = String.Empty Then
                 MsgBox("Debe de ingresar la Orden de compra del cliente.", MsgBoxStyle.Information)
                 estado = False
                 btnOrdenCompra.Focus()
