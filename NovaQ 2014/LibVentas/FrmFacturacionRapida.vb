@@ -3649,29 +3649,29 @@ Public Class FrmFacturacionRapida
                 Exit Try
             End If
 
-            If txtFormaPago.Text = "00" Then
-                If txt_cod_transferencia.Text = String.Empty Then
-                    MsgBox("Debe elegir un Banco", MsgBoxStyle.Information)
-                    estado = False
-                    txt_cod_transferencia.Focus()
-                    Exit Try
-                End If
+            'If txtFormaPago.Text = "00" Then
+            '    If txt_cod_transferencia.Text = String.Empty Then
+            '        MsgBox("Debe elegir un Banco", MsgBoxStyle.Information)
+            '        estado = False
+            '        txt_cod_transferencia.Focus()
+            '        Exit Try
+            '    End If
 
-                If txt_n_operacion.Text = String.Empty Then
-                    MsgBox("Debe de ingresar el número de Operación", MsgBoxStyle.Information)
-                    estado = False
-                    txt_n_operacion.Focus()
-                    Exit Try
-                End If
+            '    If txt_n_operacion.Text = String.Empty Then
+            '        MsgBox("Debe de ingresar el número de Operación", MsgBoxStyle.Information)
+            '        estado = False
+            '        txt_n_operacion.Focus()
+            '        Exit Try
+            '    End If
 
-                If txtModoPago.Text = String.Empty Then
-                    MsgBox("Debe de ingresar el modo de pago", MsgBoxStyle.Information)
-                    estado = False
-                    txtModoPago.Focus()
-                    Exit Try
-                End If
+            '    If txtModoPago.Text = String.Empty Then
+            '        MsgBox("Debe de ingresar el modo de pago", MsgBoxStyle.Information)
+            '        estado = False
+            '        txtModoPago.Focus()
+            '        Exit Try
+            '    End If
 
-            End If
+            'End If
 
             If cboTipoDoc.Text = String.Empty Then
                 MessageBox.Show("Debe elegir el tipo de documento.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information)
