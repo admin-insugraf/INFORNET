@@ -656,6 +656,10 @@ Public Class ClsNegocio
             Return datos.Get_ManualVendedor_usuario(_Codigo)
         End Function
 
+        Public Function Get_ManualVendedor_cliente(ByVal _Codigo As String) As DataTable
+            Return datos.Get_ManualVendedor_cliente(_Codigo)
+        End Function
+
         Public Function Generar_Datos_Act_vendedor(ByVal _Tipodoc As String, ByVal _NumeroDocumento As String, ByVal _serieDocumento As String, _
                                                    ByVal _Usuario As String, ByVal _vendedor_Act As String, ByVal _fp_Act As String, ByVal _mp_Act As String) As Boolean
             Return datos.Generar_Datos_Act_Vendedor(_Tipodoc, _NumeroDocumento, _serieDocumento, _Usuario, _vendedor_Act, _fp_Act, _mp_Act)

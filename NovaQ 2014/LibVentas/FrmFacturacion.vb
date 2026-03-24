@@ -495,12 +495,29 @@ Public Class FrmFacturacion
             GbCabecera.Enabled = True
             gbOpciones.Enabled = True
             GbdetalleDocumento.Visible = False
-            txtPtoVenta.Enabled = True
+            'txtPtoVenta.Enabled = True
             ' gbGenerarCP.Visible = False
             btnGenerarCP.Visible = False
             Limpiar()
             GenerarColummnaDataTable()
             GenerarColummnaDataTable_Documento_Referencia()
+
+
+            clsFacturaCabBl = New ClsOperaciones.RECEIVABLE
+            dtCabeceraFact = New DataTable
+            dtCabeceraFact = clsFacturaCabBl.get_PuntoVenta_Default()
+            If dtCabeceraFact.Rows.Count > 0 Then
+                If LibComunVar.ClsVarComun.PUNTO_VENTA_ASIGNADO = "" Then
+                    txtPtoVenta.Text = dtCabeceraFact.Rows(0).Item("SALES_PLACE_ID").ToString
+                    lblPtoVenta.Text = dtCabeceraFact.Rows(0).Item("SALES_PLACE_DESCRIPTION").ToString
+                    txtAlmacen.Text = dtCabeceraFact.Rows(0).Item("WAREHOUSE_ID").ToString
+                    lblAlmacen.Text = dtCabeceraFact.Rows(0).Item("ALMACEN").ToString
+                Else
+                    txtPtoVenta.Text = LibComunVar.ClsVarComun.PUNTO_VENTA_ASIGNADO
+                End If
+            End If
+
+
         Catch ex As Exception
             MsgBox(ex.Message)
         End Try
@@ -3224,7 +3241,7 @@ Public Class FrmFacturacion
                     txtAlmacen.Text = dtDetalleFact.Rows(0).Item(2).ToString
                     lblAlmacen.Text = dtDetalleFact.Rows(0).Item(3).ToString
                 Else
-                    MsgBox("No hay informacion con el codigo especificado.", MsgBoxStyle.Critical)
+                    MsgBox("No hay información con el codigo especificado.", MsgBoxStyle.Critical)
                     txtPtoVenta.Text = String.Empty
                     lblPtoVenta.Text = String.Empty
                     txtAlmacen.Text = String.Empty
@@ -3549,14 +3566,14 @@ Public Class FrmFacturacion
         Dim estado As Boolean = True
         Try
             If txtPtoVenta.Text = String.Empty Then
-                MsgBox("Debe seleccionar un Punto de Venta.", MsgBoxStyle.Exclamation)
+                MsgBox("Debe de seleccionar un Punto de Venta.", MsgBoxStyle.Exclamation)
                 estado = False
                 txtPtoVenta.Focus()
                 Exit Try
             End If
 
             If txtAlmacen.Text = String.Empty Then
-                MsgBox("Debe seleccionar un Almacen, para poder continuar.", MsgBoxStyle.Exclamation)
+                MsgBox("Debe de seleccionar un Almacén, para poder continuar.", MsgBoxStyle.Exclamation)
                 estado = False
                 Exit Try
             End If
@@ -6095,6 +6112,7 @@ Public Class FrmFacturacion
             Dim facturabl As ClsOperaciones.RECEIVABLE
             facturabl = New ClsOperaciones.RECEIVABLE
             Dim dt_pedido_cab As New DataTable
+            Dim dt_Glosa As New DataTable
 
             'Dim frm_detalles As New FrmFacturacion_Detalles_Hab
             'frm_detalles._numero_requisicion = CODIGO
@@ -6109,6 +6127,11 @@ Public Class FrmFacturacion
             ''Cabecera
             Me.Cursor = Cursors.WaitCursor
             dt_pedido_cab = facturabl.Muestra_cabecera_pedido(CODIGO)
+            dt_Glosa = facturabl.Muestra_Glosa(True, False, False, False, True)
+
+            'GLOSAVENTASINSUMOS
+            txtGlosa.Text = dt_Glosa.Rows(0).Item("DESCRIPTION").ToString
+
             If dt_pedido_cab.Rows.Count() <> 0 Then
                 GbCabecera.Enabled = True
                 txtpedido.Text = dt_pedido_cab.Rows(0).Item("ID").ToString
@@ -6534,9 +6557,6 @@ Public Class FrmFacturacion
         End Try
     End Sub
 
-
-
-
     Private Sub txt_vehiculo_DoubleClick(sender As Object, e As EventArgs) Handles txt_vehiculo.DoubleClick
         Ayuda_Vehiculos()
     End Sub
@@ -6601,14 +6621,6 @@ Public Class FrmFacturacion
         If e.KeyCode = Keys.F1 Then
             Ayuda_Tramas()
         End If
-    End Sub
-
-    Private Sub dtpFechaFactura_LostFocus(sender As Object, e As EventArgs) Handles dtpFechaFactura.LostFocus
-
-    End Sub
-
-    Private Sub dtpFechaFactura_SystemColorsChanged(sender As Object, e As EventArgs) Handles dtpFechaFactura.SystemColorsChanged
-
     End Sub
 
     Private Sub dtpFechaFactura_ValueChanged(sender As Object, e As EventArgs) Handles dtpFechaFactura.ValueChanged

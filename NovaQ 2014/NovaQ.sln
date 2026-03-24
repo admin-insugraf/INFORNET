@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36227.6
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NovaQ", "NovaQ\NovaQ.vbproj", "{60E70347-D22F-4AD4-8746-55A3F4B86A31}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LibConexion", "LibConexion\LibConexion.vbproj", "{C4D1109C-6E79-4DE3-9BD4-A071B622A669}"
@@ -120,5 +122,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AC34F8F-4BF0-40FC-8529-73F332CADB33}
 	EndGlobalSection
 EndGlobal

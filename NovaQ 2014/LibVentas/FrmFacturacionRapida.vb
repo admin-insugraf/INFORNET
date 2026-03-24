@@ -182,11 +182,13 @@ Public Class FrmFacturacionRapida
         Call Cargar_Moneda()
         Call Cargar_TipoPedido()
 
-        'If LibComunVar.ClsVarComun.DESHACER_PEDIDO = "SI" Then
-        '    btn_deshacer_aprobar.Visible = True
-        'Else
-        '    btn_deshacer_aprobar.Visible = False
-        'End If
+
+        If LibComunVar.ClsVarComun.DESHACER_PEDIDO = "SI" Then
+            btn_deshacer_aprobar.Visible = True
+        Else
+            btn_deshacer_aprobar.Visible = False
+        End If
+
 
         txtFiltro.Select()
     End Sub
@@ -663,55 +665,99 @@ Public Class FrmFacturacionRapida
                     lblModoPago.Text = dtCabeceraFact.Rows(i).Item("MODO_PAGO_DESC").ToString
 
                     txt_provincia.Text = dtCabeceraFact.Rows(i).Item("PROVINCIA").ToString
-                    txt_cod_agencia_trans.Text = dtCabeceraFact.Rows(i).Item("AGENCIA_TRANSPORTE").ToString
-                    txt_des_agencia_trans.Text = dtCabeceraFact.Rows(i).Item("AGENCIA_TRANSPORTE_DES").ToString
 
-                    If dtCabeceraFact.Rows(i).Item("AGE_DOMI").ToString = "AGENCIA" Then
-                        rdb_agencia.Checked = True
-                        rdb_domicilio.Checked = False
-                        'rdb_local.Checked = False
-                        txtDireccionTransportistaDescripcion.Text = dtCabeceraFact.Rows(i).Item("GUIA").ToString
-                        txtDireccionEntregaCliente.Text = txtDireccionCliente.Text
-                    ElseIf dtCabeceraFact.Rows(i).Item("AGE_DOMI").ToString = "DOMICILIO" Then
-                        rdb_agencia.Checked = False
-                        rdb_domicilio.Checked = True
-                        'rdb_local.Checked = False
-                        txtDireccionEntregaCliente.Text = dtCabeceraFact.Rows(i).Item("GUIA").ToString
-                    ElseIf dtCabeceraFact.Rows(i).Item("AGE_DOMI").ToString = "LOCAL" Then
-                        rdb_agencia.Checked = False
-                        rdb_domicilio.Checked = False
-                        'rdb_local.Checked = True
-                        txtLocalDescripcion.Text = dtCabeceraFact.Rows(i).Item("GUIA").ToString
-                        txtDireccionEntregaCliente.Text = txtDireccionCliente.Text
-                    Else
-                        rdb_agencia.Checked = False
-                        rdb_domicilio.Checked = False
-                        'rdb_local.Checked = False
-                    End If
 
                     If dtCabeceraFact.Rows(i).Item("OPT_A_D").ToString = "Agencia" Then
                         rdb_opt_agencia.Checked = True
                         rdb_opt_domicilio.Checked = False
-                        rdb_opt_local.Checked = False
+                        rdb_opt_recojo.Checked = False
                         txtDireccionTransportistaDescripcion.Text = dtCabeceraFact.Rows(i).Item("GUIA").ToString
                         'txtDireccionEntregaCliente.Text = txtDireccionCliente.Text
-                    ElseIf dtCabeceraFact.Rows(i).Item("OPT_A_D").ToString = "Domicilio" Then
+                    ElseIf dtCabeceraFact.Rows(i).Item("OPT_A_D").ToString = "Agencia-Domicilio" Then
                         rdb_opt_agencia.Checked = False
                         rdb_opt_domicilio.Checked = True
-                        rdb_opt_local.Checked = False
+                        rdb_opt_recojo.Checked = False
                         'txtDireccionEntregaCliente.Text = dtCabeceraFact.Rows(i).Item("GUIA").ToString
-                    ElseIf dtCabeceraFact.Rows(i).Item("OPT_A_D").ToString = "Local" Then
+                    ElseIf dtCabeceraFact.Rows(i).Item("OPT_A_D").ToString = "Recojo" Then
                         rdb_opt_agencia.Checked = False
                         rdb_opt_domicilio.Checked = False
-                        rdb_opt_local.Checked = True
+                        rdb_opt_recojo.Checked = True
                         txtLocalDescripcion.Text = dtCabeceraFact.Rows(i).Item("GUIA").ToString
+                        'txtDireccionEntregaCliente.Text = txtDireccionCliente.Text
+                    ElseIf dtCabeceraFact.Rows(i).Item("OPT_A_D").ToString = "Lima" Then
+                        rdb_opt_agencia.Checked = False
+                        rdb_opt_domicilio.Checked = False
+                        rdb_opt_recojo.Checked = False
+                        rdb_opt_Lima.Checked = True
+                        txtDireccionEntregaCliente.Text = dtCabeceraFact.Rows(i).Item("DIRECCION_ENTREGA").ToString
                         'txtDireccionEntregaCliente.Text = txtDireccionCliente.Text
                     Else
                         rdb_opt_agencia.Checked = False
                         rdb_opt_domicilio.Checked = False
-                        rdb_opt_local.Checked = False
+                        rdb_opt_recojo.Checked = False
 
                     End If
+
+                    txt_cod_agencia_trans.Text = dtCabeceraFact.Rows(i).Item("AGENCIA_TRANSPORTE").ToString
+                    txt_des_agencia_trans.Text = dtCabeceraFact.Rows(i).Item("AGENCIA_TRANSPORTE_DES").ToString
+
+                    If dtCabeceraFact.Rows(i).Item("AGE_DOMI").ToString = "AGENCIA" Then
+                        rdb_opt_Lima.Checked = False
+                        rdb_opt_recojo.Checked = False
+                        rdb_opt_agencia.Checked = True
+                        rdb_opt_domicilio.Checked = False
+
+                        txtDireccionEntregaCliente.Text = String.Empty
+
+                        txt_cod_agencia_trans.Text = dtCabeceraFact.Rows(i).Item("AGENCIA_TRANSPORTE").ToString
+                        txt_des_agencia_trans.Text = dtCabeceraFact.Rows(i).Item("AGENCIA_TRANSPORTE_DES").ToString
+
+                        txtDireccionTransportista.Text = dtCabeceraFact.Rows(i).Item("IDAGENCIA").ToString
+                        txtDireccionTransportistaDescripcion.Text = dtCabeceraFact.Rows(i).Item("DIRECCIONAGENCIA").ToString
+                        'txtDireccionTransportistaDescripcion.Text = dtCabeceraFact.Rows(i).Item("GUIA").ToString
+
+                    ElseIf dtCabeceraFact.Rows(i).Item("AGE_DOMI").ToString = "DOMICILIO" Then
+                        rdb_opt_Lima.Checked = False
+                        rdb_opt_recojo.Checked = False
+                        rdb_opt_agencia.Checked = False
+                        rdb_opt_domicilio.Checked = True
+
+                        txtDireccionEntregaCliente.Text = dtCabeceraFact.Rows(i).Item("GUIA").ToString
+                        'txtDireccionEntregaCliente.Text = txtDireccionCliente.Text
+                        txt_cod_agencia_trans.Text = dtCabeceraFact.Rows(i).Item("AGENCIA_TRANSPORTE").ToString
+                        txt_des_agencia_trans.Text = dtCabeceraFact.Rows(i).Item("AGENCIA_TRANSPORTE_DES").ToString
+
+                        txtDireccionTransportista.Text = dtCabeceraFact.Rows(i).Item("IDAGENCIA").ToString
+                        txtDireccionTransportistaDescripcion.Text = dtCabeceraFact.Rows(i).Item("DIRECCIONAGENCIA").ToString
+
+
+                    ElseIf dtCabeceraFact.Rows(i).Item("AGE_DOMI").ToString = "LOCAL" Then
+
+                        rdb_opt_Lima.Checked = False
+                        rdb_opt_recojo.Checked = True
+                        rdb_opt_agencia.Checked = False
+                        rdb_opt_domicilio.Checked = False
+
+
+                        txt_cod_agencia_trans.Text = String.Empty
+                        txt_des_agencia_trans.Text = String.Empty
+
+                        txtDireccionTransportista.Text = String.Empty
+                        txtDireccionTransportistaDescripcion.Text = String.Empty
+
+
+                        txtLocalDescripcion.Text = dtCabeceraFact.Rows(i).Item("GUIA").ToString
+                        txtDireccionEntregaCliente.Text = txtDireccionCliente.Text
+
+
+                    Else
+                        rdb_opt_Lima.Checked = True
+                        rdb_opt_recojo.Checked = False
+                        rdb_opt_agencia.Checked = False
+                        rdb_opt_domicilio.Checked = False
+                    End If
+
+
 
                     txt_lt_ft.Text = dtCabeceraFact.Rows(i).Item("LT_FT").ToString
                     If dtCabeceraFact.Rows(i).Item("CHEQUE").ToString = "SI" Then
@@ -2125,8 +2171,8 @@ Public Class FrmFacturacionRapida
         txt_cod_agencia_trans.Text = ""
         txt_des_agencia_trans.Text = ""
         txt_guia.Text = ""
-        rdb_agencia.Checked = False
-        rdb_domicilio.Checked = False
+        'rdb_agencia.Checked = False
+        'rdb_domicilio.Checked = False
         txt_lt_ft.Text = ""
         chk_cheque.Checked = False
         txt_cod_transferencia.Text = ""
@@ -2232,9 +2278,11 @@ Public Class FrmFacturacionRapida
                         Flag_Verificar = False
                         NuevaVenta()
                         txt_buscador_productos.Focus()
-                        MsgBox("Transaccion no realizada Exitosamente.!", MsgBoxStyle.Information)
+                        MsgBox("Transaccion realizada Exitosamente.!", MsgBoxStyle.Information)
                         Me.Cursor = Cursors.Default
                     End If
+                    txtCod_Cliente.Enabled = True
+                    cboTipoDoc.Enabled = True
                 End If
             End If
 
@@ -2330,21 +2378,29 @@ Public Class FrmFacturacionRapida
                 .PROVINCIA = txt_provincia.Text
                 .AGENCIA_TRANSPORTE = txt_cod_agencia_trans.Text
                 '.GUIA = txt_guia.Text
-                If rdb_agencia.Checked Then
-                    .AGE_DOMI = "AGENCIA"
-                ElseIf rdb_domicilio.Checked Then
-                    .AGE_DOMI = "DOMICILIO"
-                End If
+
+                'If rdb_agencia.Checked Then
+                '    .AGE_DOMI = "AGENCIA"
+                'ElseIf rdb_domicilio.Checked Then
+                '    .AGE_DOMI = "DOMICILIO"
+                'End If
 
                 If rdb_opt_agencia.Checked Then
                     .OPT_A_D = rdb_opt_agencia.Text
                     .GUIA = txtDireccionTransportistaDescripcion.Text
+                    .AGE_DOMI = "AGENCIA"
                 ElseIf rdb_opt_domicilio.Checked Then
                     .OPT_A_D = rdb_opt_domicilio.Text
                     .GUIA = txtDireccionEntregaCliente.Text
-                ElseIf rdb_opt_local.Checked Then
+                    .AGE_DOMI = "DOMICILIO"
+                ElseIf rdb_opt_recojo.Checked Then
                     .GUIA = txtLocalDescripcion.Text
-                    .OPT_A_D = rdb_opt_local.Text
+                    .OPT_A_D = rdb_opt_recojo.Text
+                    .AGE_DOMI = "LOCAL"
+                ElseIf rdb_opt_Lima.Checked Then
+                    .GUIA = txtDireccionEntregaCliente.Text
+                    .OPT_A_D = rdb_opt_Lima.Text
+                    .AGE_DOMI = "LIMA"
                 End If
 
                 .LT_FT = txt_lt_ft.Text
@@ -3440,7 +3496,8 @@ Public Class FrmFacturacionRapida
 
             clsFacturaBl = New ClsNegocio.RECEIVABLE
             dtDetalleFact = New DataTable("Vendedor")
-            dtDetalleFact = clsFacturaBl.Get_ManualVendedor_usuario(LibComunVar.ClsVarComun.USUARIO)
+            'dtDetalleFact = clsFacturaBl.Get_ManualVendedor_usuario(LibComunVar.ClsVarComun.USUARIO)
+            dtDetalleFact = clsFacturaBl.Get_ManualVendedor_cliente(txtCod_Cliente.Text)
             If dtDetalleFact.Rows.Count() <> 0 Then
                 txtVendedor.Text = dtDetalleFact.Rows(0).Item("CODIGO").ToString
                 lblVendedor.Text = dtDetalleFact.Rows(0).Item("DESCRIPCION").ToString
@@ -3560,45 +3617,52 @@ Public Class FrmFacturacionRapida
                 Exit Try
             End If
 
-            If rdb_opt_local.Checked Then
-                If txtLocalDescripcion.Text = String.Empty Then
-                    MsgBox("Debe seleccionar un local", MsgBoxStyle.Information)
-                    estado = False
-                    Exit Try
-                End If
+
+            If txt_cod_agencia_trans.BackColor = System.Drawing.Color.Aquamarine And txt_cod_agencia_trans.Text = String.Empty Then
+                MsgBox("Debe seleccionar una Empresa de transporte", MsgBoxStyle.Information)
+                estado = False
+                Exit Try
             End If
-            If rdb_opt_agencia.Checked Then
-                If txt_cod_agencia_trans.Text = String.Empty Then
-                    MsgBox("Debe seleccionar una Empresa de transporte", MsgBoxStyle.Information)
-                    estado = False
-                    Exit Try
-                End If
-
-                If txtDireccionTransportistaDescripcion.Text = String.Empty Then
-                    MsgBox("Debe de indicar la dirección de la agencia", MsgBoxStyle.Information)
-                    estado = False
-                    Exit Try
-                End If
-
-                If txtContactoNombres.Text = String.Empty Then
-                    MsgBox("Indique el Nombre del Contacto", MsgBoxStyle.Information)
-                    estado = False
-                    Exit Try
-                End If
-
-                If txtContactoDNI.Text = String.Empty Then
-                    MsgBox("Indique el DNI del Contacto", MsgBoxStyle.Information)
-                    estado = False
-                    Exit Try
-                End If
-
-                If txtContactoCelular.Text = String.Empty Then
-                    MsgBox("Indique el Celular del Contacto", MsgBoxStyle.Information)
-                    estado = False
-                    Exit Try
-                End If
-
+            If txtDireccionTransportistaDescripcion.BackColor = System.Drawing.Color.Aquamarine And txtDireccionTransportistaDescripcion.Text = String.Empty Then
+                MsgBox("Debe de indicar la dirección de la agencia", MsgBoxStyle.Information)
+                estado = False
+                Exit Try
             End If
+
+            If txtDireccionEntregaCliente.BackColor = System.Drawing.Color.Aquamarine And txtDireccionEntregaCliente.Text = String.Empty Then
+                MsgBox("Debe de ingresar la Dirección de entrega del cliente", MsgBoxStyle.Information)
+                estado = False
+                Exit Try
+            End If
+
+            If txtLocalDescripcion.BackColor = System.Drawing.Color.Aquamarine And txtLocalDescripcion.Text = String.Empty Then
+                MsgBox("Debe seleccionar un local", MsgBoxStyle.Information)
+                estado = False
+                Exit Try
+            End If
+
+
+            If txtContactoNombres.Text = String.Empty Then
+                MsgBox("Indique el Nombre del Contacto", MsgBoxStyle.Information)
+                estado = False
+                Exit Try
+            End If
+
+            If txtContactoDNI.Text = String.Empty Then
+                MsgBox("Indique el DNI del Contacto", MsgBoxStyle.Information)
+                estado = False
+                Exit Try
+            End If
+
+            If txtContactoCelular.Text = String.Empty Then
+                MsgBox("Indique el Celular del Contacto", MsgBoxStyle.Information)
+                estado = False
+                Exit Try
+            End If
+
+
+
+
 
             If FechaFacturacion_Mes_anterior(dtpFechaFactura.Value.Month, dtpFechaFactura.Value.Year) = False Then
                 estado = False
@@ -7671,8 +7735,10 @@ Public Class FrmFacturacionRapida
 
             If dgvDocumentosFactura.CurrentRow.Cells("Situacion").Value = "EMITIDO" Then
                 btn_aprobar.Visible = True
+                btn_deshacer_aprobar.Visible = False
             Else
                 btn_aprobar.Visible = False
+                btn_deshacer_aprobar.Visible = True
             End If
         Catch ex As Exception
             MsgBox(ex.Message)
@@ -7710,6 +7776,32 @@ Public Class FrmFacturacionRapida
                 MessageBox.Show("El pedido ya se encuentra FACTURADO.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
                 Exit Sub
             End If
+
+            'Dim sql As String = String.Empty
+
+            'sql = "PED_SP_CONSULTA_STOCK"
+
+            'Dim frm As New frmComprometerStock
+            'Try
+            '    With frm
+            '        .txtnumeroPedido.Text = STRPedido
+            '        .CadenaConsulta = sql
+            '        .Filtros1 = STRPedido
+            '        .txtcliente.Text = dgvDocumentosFactura.CurrentRow.Cells("Cliente").Value
+            '        .txtalmacen.Text = dgvDocumentosFactura.CurrentRow.Cells("ALMACEN").Value
+            '    End With
+
+            '    frm.Titulo = "Consulta de Stock"
+            '    frm._Flag_Filtro = True
+            '    frm.ShowDialog()
+
+            'Catch ex As Exception
+            '    frm.Close()
+            '    MsgBox(ex.Message)
+            'End Try
+
+
+
 
 
             Dim _Id As String = String.Empty
@@ -8017,8 +8109,8 @@ Public Class FrmFacturacionRapida
 
     End Sub
 
-    Private Sub rdb_opt_local_CheckedChanged(sender As Object, e As EventArgs) Handles rdb_opt_local.CheckedChanged
-        If rdb_opt_local.Checked = True Then
+    Private Sub rdb_opt_local_CheckedChanged(sender As Object, e As EventArgs) Handles rdb_opt_recojo.CheckedChanged
+        If rdb_opt_recojo.Checked = True Then
             txt_cod_agencia_trans.Enabled = False
             txt_des_agencia_trans.Enabled = False
             txtDireccionTransportista.Enabled = False
@@ -8034,12 +8126,18 @@ Public Class FrmFacturacionRapida
             txtDireccionCliente.Text = String.Empty
             txtDireccionEntregaCliente.Text = String.Empty
 
+            txtContactoNombres.Text = String.Empty
+            txtContactoCelular.Text = String.Empty
+            txtContactoDNI.Text = String.Empty
+
 
             txtLocalDescripcion.Text = String.Empty
             txtLocal.Text = String.Empty
             txtLocal.Enabled = True
             txtLocalDescripcion.Enabled = True
 
+            txtDireccionTransportista.BackColor = System.Drawing.Color.White
+            txtDireccionTransportistaDescripcion.BackColor = System.Drawing.Color.White
             txt_cod_agencia_trans.BackColor = System.Drawing.Color.White
             txtDireccionTransportista.BackColor = System.Drawing.Color.White
 
@@ -8081,6 +8179,10 @@ Public Class FrmFacturacionRapida
             txtDireccionEntregaCliente.Text = String.Empty
 
 
+            txtContactoNombres.Text = String.Empty
+            txtContactoCelular.Text = String.Empty
+            txtContactoDNI.Text = String.Empty
+
             txtLocalDescripcion.Text = String.Empty
             txtLocal.Text = String.Empty
             txtLocal.Enabled = True
@@ -8094,6 +8196,10 @@ Public Class FrmFacturacionRapida
 
             txtLocal.BackColor = System.Drawing.Color.White
             txtLocalDescripcion.BackColor = System.Drawing.Color.White
+
+            txtContactoNombres.BackColor = System.Drawing.Color.Aquamarine
+            txtContactoCelular.BackColor = System.Drawing.Color.Aquamarine
+            txtContactoDNI.BackColor = System.Drawing.Color.Aquamarine
 
         Else
             txt_cod_agencia_trans.BackColor = System.Drawing.Color.White
@@ -8113,10 +8219,10 @@ Public Class FrmFacturacionRapida
     Private Sub rdb_opt_domicilio_CheckedChanged_1(sender As Object, e As EventArgs) Handles rdb_opt_domicilio.CheckedChanged
         If rdb_opt_domicilio.Checked = True Then
 
-            txt_cod_agencia_trans.Enabled = False
-            txt_des_agencia_trans.Enabled = False
-            txtDireccionTransportista.Enabled = False
-            txtDireccionTransportistaDescripcion.Enabled = False
+            txt_cod_agencia_trans.Enabled = True
+            txt_des_agencia_trans.Enabled = True
+            txtDireccionTransportista.Enabled = True
+            txtDireccionTransportistaDescripcion.Enabled = True
 
             txtDireccionCliente.Enabled = True
             txtDireccionEntregaCliente.Enabled = True
@@ -8129,15 +8235,21 @@ Public Class FrmFacturacionRapida
             txtDireccionEntregaCliente.Text = String.Empty
 
 
+            txtContactoNombres.Text = String.Empty
+            txtContactoCelular.Text = String.Empty
+            txtContactoDNI.Text = String.Empty
+
+
             txtLocalDescripcion.Text = String.Empty
             txtLocal.Text = String.Empty
             txtLocal.Enabled = True
 
-            txt_cod_agencia_trans.BackColor = System.Drawing.Color.White
-            txtDireccionTransportista.BackColor = System.Drawing.Color.White
+            txt_cod_agencia_trans.BackColor = System.Drawing.Color.Aquamarine
+            txtDireccionTransportista.BackColor = System.Drawing.Color.Aquamarine
 
             txtDireccionCliente.BackColor = System.Drawing.Color.Aquamarine
             txtDireccionEntregaCliente.BackColor = System.Drawing.Color.Aquamarine
+            txtDireccionTransportistaDescripcion.BackColor = System.Drawing.Color.Aquamarine
 
             txtLocal.BackColor = System.Drawing.Color.White
             txtLocalDescripcion.BackColor = System.Drawing.Color.White
@@ -8167,6 +8279,54 @@ Public Class FrmFacturacionRapida
 
     Private Sub GrpLugarEntrega_Enter(sender As Object, e As EventArgs) Handles GrpLugarEntrega.Enter
 
+    End Sub
+
+    Private Sub rdb_opt_Lima_CheckedChanged(sender As Object, e As EventArgs) Handles rdb_opt_Lima.CheckedChanged
+        If rdb_opt_Lima.Checked = True Then
+
+            txt_cod_agencia_trans.Enabled = False
+            txt_des_agencia_trans.Enabled = False
+            txtDireccionTransportista.Enabled = False
+            txtDireccionTransportistaDescripcion.Enabled = False
+            txtLocalDescripcion.Enabled = False
+            txtLocal.Enabled = False
+
+            txtDireccionCliente.Enabled = True
+            txtDireccionEntregaCliente.Enabled = True
+
+            txt_cod_agencia_trans.Text = String.Empty
+            txt_des_agencia_trans.Text = String.Empty
+            txtDireccionTransportista.Text = String.Empty
+            txtDireccionTransportistaDescripcion.Text = String.Empty
+            txtDireccionCliente.Text = String.Empty
+            txtDireccionEntregaCliente.Text = String.Empty
+
+            txtContactoNombres.Text = String.Empty
+            txtContactoCelular.Text = String.Empty
+            txtContactoDNI.Text = String.Empty
+
+
+            txtLocalDescripcion.Text = String.Empty
+            txtLocal.Text = String.Empty
+            txtLocal.Enabled = False
+
+            txt_cod_agencia_trans.BackColor = System.Drawing.Color.White
+            txtDireccionTransportista.BackColor = System.Drawing.Color.White
+            txtDireccionTransportistaDescripcion.BackColor = System.Drawing.Color.White
+
+            txtDireccionCliente.BackColor = System.Drawing.Color.Aquamarine
+            txtDireccionEntregaCliente.BackColor = System.Drawing.Color.Aquamarine
+
+
+            txtLocal.BackColor = System.Drawing.Color.White
+            txtLocalDescripcion.BackColor = System.Drawing.Color.White
+
+            ' Else
+            ' txtDireccionCliente.BackColor = System.Drawing.Color.White
+            'txtDireccionCliente.Enabled = False
+            'txtDireccionCliente.Text = String.Empty
+            'txtDireccionCliente.Text = String.Empty
+        End If
     End Sub
 
     Private Sub txt_cod_provincia_KeyDown(sender As Object, e As KeyEventArgs) Handles txt_cod_provincia.KeyDown
@@ -8446,26 +8606,43 @@ Public Class FrmFacturacionRapida
                     txt_cod_agencia_trans.Text = dtCabeceraFact.Rows(i).Item("AGENCIA_TRANSPORTE").ToString
                     txt_des_agencia_trans.Text = dtCabeceraFact.Rows(i).Item("AGENCIA_TRANSPORTE_DES").ToString
                     txt_guia.Text = dtCabeceraFact.Rows(i).Item("GUIA").ToString
-                    If dtCabeceraFact.Rows(i).Item("AGE_DOMI").ToString = "AGENCIA" Then
-                        rdb_agencia.Checked = True
-                        rdb_domicilio.Checked = False
-                    ElseIf dtCabeceraFact.Rows(i).Item("AGE_DOMI").ToString = "DOMICILIO" Then
-                        rdb_agencia.Checked = False
-                        rdb_domicilio.Checked = True
-                    Else
-                        rdb_agencia.Checked = False
-                        rdb_domicilio.Checked = False
-                    End If
+
+                    'Ya no se usa
+                    'If dtCabeceraFact.Rows(i).Item("AGE_DOMI").ToString = "AGENCIA" Then
+                    '    rdb_agencia.Checked = True
+                    '    rdb_domicilio.Checked = False
+
+                    'ElseIf dtCabeceraFact.Rows(i).Item("AGE_DOMI").ToString = "DOMICILIO" Then
+                    '    rdb_agencia.Checked = False
+                    '    rdb_domicilio.Checked = True
+                    'Else
+                    '    rdb_agencia.Checked = False
+                    '    rdb_domicilio.Checked = False
+                    'End If
+
 
                     If dtCabeceraFact.Rows(i).Item("OPT_A_D").ToString = "Agencia" Then
                         rdb_opt_agencia.Checked = True
                         rdb_opt_domicilio.Checked = False
-                    ElseIf dtCabeceraFact.Rows(i).Item("OPT_A_D").ToString = "Domicilio" Then
+                        rdb_opt_Lima.Checked = False
+                        rdb_opt_recojo.Checked = False
+
+                    ElseIf dtCabeceraFact.Rows(i).Item("OPT_A_D").ToString = "Agencia-Domicilio" Then
                         rdb_opt_agencia.Checked = False
                         rdb_opt_domicilio.Checked = True
+                        rdb_opt_Lima.Checked = False
+                        rdb_opt_recojo.Checked = False
+                    ElseIf dtCabeceraFact.Rows(i).Item("OPT_A_D").ToString = "Local" Then
+                        rdb_opt_agencia.Checked = False
+                        rdb_opt_domicilio.Checked = False
+                        rdb_opt_Lima.Checked = False
+                        rdb_opt_recojo.Checked = True
                     Else
                         rdb_opt_agencia.Checked = False
                         rdb_opt_domicilio.Checked = False
+                        rdb_opt_Lima.Checked = True
+                        rdb_opt_recojo.Checked = False
+
                     End If
 
                     txt_lt_ft.Text = dtCabeceraFact.Rows(i).Item("LT_FT").ToString

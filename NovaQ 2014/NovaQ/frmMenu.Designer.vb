@@ -418,6 +418,7 @@ Partial Class frmMenu
         Me.tssFecha = New System.Windows.Forms.ToolStripStatusLabel()
         Me.tssUsuario = New System.Windows.Forms.ToolStripStatusLabel()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
+        Me.ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.MnuPrin.SuspendLayout()
         Me.ssPrinMenu.SuspendLayout()
         Me.SuspendLayout()
@@ -735,7 +736,7 @@ Partial Class frmMenu
         '
         Me.mnuAlmFicheros.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuAlmFicherosArticulos, Me.mnuAlmFicherosAlmacenes, Me.mnuAlmFicherosTransportistas, Me.mnuAlmFicherosTiposDocumento, Me.mnuAlmFicherosUnidadesMedida, Me.mnuAlmFicherosFamilias, Me.mnuAlmFicherosTipoArticulos, Me.mnuAlmFicherosClaseArticulos, Me.mnuAlmFicherosColorArticulos, Me.mnuAlmFicherosTipTransacciones, Me.mnuAlmFicherosLotesArticulo})
         Me.mnuAlmFicheros.Name = "mnuAlmFicheros"
-        Me.mnuAlmFicheros.Size = New System.Drawing.Size(155, 22)
+        Me.mnuAlmFicheros.Size = New System.Drawing.Size(180, 22)
         Me.mnuAlmFicheros.Text = "Ficheros"
         '
         'mnuAlmFicherosArticulos
@@ -831,9 +832,9 @@ Partial Class frmMenu
         '
         'mnuAlmTransacciones
         '
-        Me.mnuAlmTransacciones.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuAlmTransIngresos, Me.mnuAlmTransEgresos, Me.mnuAlmTransTraslados, Me.TransadosMateriaPrimaToolStripMenuItem, Me.mnuAlmGuiasRemisiones, Me.GuiaDeRemisiónSUNAtToolStripMenuItem, Me.mnuAlmTransInvFisico, Me.mnuAlmTransIngrOC, Me.MovimientosGuiaAnalisisToolStripMenuItem, Me.DespachoDePedidosToolStripMenuItem, Me.ProgramaciónDeDespachosToolStripMenuItem, Me.ConsultaDeDescargasPorOPToolStripMenuItem1})
+        Me.mnuAlmTransacciones.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuAlmTransIngresos, Me.mnuAlmTransEgresos, Me.mnuAlmTransTraslados, Me.TransadosMateriaPrimaToolStripMenuItem, Me.mnuAlmGuiasRemisiones, Me.GuiaDeRemisiónSUNAtToolStripMenuItem, Me.mnuAlmTransInvFisico, Me.mnuAlmTransIngrOC, Me.MovimientosGuiaAnalisisToolStripMenuItem, Me.DespachoDePedidosToolStripMenuItem, Me.ToolStripMenuItem1, Me.ProgramaciónDeDespachosToolStripMenuItem, Me.ConsultaDeDescargasPorOPToolStripMenuItem1})
         Me.mnuAlmTransacciones.Name = "mnuAlmTransacciones"
-        Me.mnuAlmTransacciones.Size = New System.Drawing.Size(155, 22)
+        Me.mnuAlmTransacciones.Size = New System.Drawing.Size(180, 22)
         Me.mnuAlmTransacciones.Text = "Transacciones"
         '
         'mnuAlmTransIngresos
@@ -912,7 +913,7 @@ Partial Class frmMenu
         '
         Me.mnuAlmProcesos.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuAlmRevalorizacionInventarios, Me.mnuAlmRecalculoStock})
         Me.mnuAlmProcesos.Name = "mnuAlmProcesos"
-        Me.mnuAlmProcesos.Size = New System.Drawing.Size(155, 22)
+        Me.mnuAlmProcesos.Size = New System.Drawing.Size(180, 22)
         Me.mnuAlmProcesos.Text = "Procesos"
         '
         'mnuAlmRevalorizacionInventarios
@@ -931,7 +932,7 @@ Partial Class frmMenu
         '
         Me.mnuAlmReportes.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuAlmRptConsultaStock, Me.ConsultaDeStockAnualToolStripMenuItem, Me.InventarioEnUnidadesToolStripMenuItem, Me.InventarioValorizadoToolStripMenuItem, Me.DocumentosDeAlmacenToolStripMenuItem, Me.IngresosPorComprasToolStripMenuItem, Me.ConsumoPorCentroDeCostoToolStripMenuItem, Me.RepContablesToolStripMenuItem, Me.AuditoriaDeAlmacenToolStripMenuItem})
         Me.mnuAlmReportes.Name = "mnuAlmReportes"
-        Me.mnuAlmReportes.Size = New System.Drawing.Size(155, 22)
+        Me.mnuAlmReportes.Size = New System.Drawing.Size(180, 22)
         Me.mnuAlmReportes.Text = "Reportes"
         '
         'mnuAlmRptConsultaStock
@@ -1174,7 +1175,7 @@ Partial Class frmMenu
         '
         Me.RepAuditoriaToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.StockMensualToolStripMenuItem})
         Me.RepAuditoriaToolStripMenuItem.Name = "RepAuditoriaToolStripMenuItem"
-        Me.RepAuditoriaToolStripMenuItem.Size = New System.Drawing.Size(155, 22)
+        Me.RepAuditoriaToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.RepAuditoriaToolStripMenuItem.Text = "Rep. Auditoria"
         '
         'StockMensualToolStripMenuItem
@@ -2846,7 +2847,7 @@ Partial Class frmMenu
         Me.tssTipoCambio.BorderSides = System.Windows.Forms.ToolStripStatusLabelBorderSides.Right
         Me.tssTipoCambio.BorderStyle = System.Windows.Forms.Border3DStyle.Bump
         Me.tssTipoCambio.Name = "tssTipoCambio"
-        Me.tssTipoCambio.Size = New System.Drawing.Size(79, 19)
+        Me.tssTipoCambio.Size = New System.Drawing.Size(80, 19)
         Me.tssTipoCambio.Text = "Tipo Cambio"
         '
         'tssFecha
@@ -2862,6 +2863,12 @@ Partial Class frmMenu
         Me.tssUsuario.Name = "tssUsuario"
         Me.tssUsuario.Size = New System.Drawing.Size(47, 19)
         Me.tssUsuario.Text = "Usuario"
+        '
+        'ToolStripMenuItem1
+        '
+        Me.ToolStripMenuItem1.Name = "ToolStripMenuItem1"
+        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(248, 22)
+        Me.ToolStripMenuItem1.Text = "Hoja de Picking"
         '
         'frmMenu
         '
@@ -3282,4 +3289,5 @@ Partial Class frmMenu
     Friend WithEvents ReportesToolStripMenuItem2 As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ListadoDeParteDeEntregaToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents TiposDePedidoToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents ToolStripMenuItem1 As ToolStripMenuItem
 End Class

@@ -276,8 +276,13 @@ Public Class frmOrdenCompra
             If dtdocumentoPrin.Rows(0)("Archivo") IsNot DBNull.Value AndAlso Not String.IsNullOrWhiteSpace(dtdocumentoPrin.Rows(0)("Archivo").ToString()) Then
 
                 Dim archivoBytes As Byte() = CType(dtdocumentoPrin.Rows(0)("Archivo"), Byte())
-                Dim rutaDestino As String = Ruta_Reportes() & "\OC"
-                Dim nombreArchivo As String = "Orden_" & _NumeroPedido & ".pdf" ' o extraído si está disponible
+
+                Dim rutaDestino As String = Path.GetTempPath()
+                Dim nombreArchivo As String = "Orden_" & _NumeroPedido & DateTime.Now.ToString("HHmmss") & ".pdf" ' o extraído si está disponible
+
+
+                'Dim rutaDestino As String = Ruta_Reportes() & "\OC"
+                'Dim nombreArchivo As String = "Orden_" & _NumeroPedido & ".pdf" ' o extraído si está disponible
                 Dim rutaCompleta As String = Path.Combine(rutaDestino, nombreArchivo)
                 File.WriteAllBytes(rutaCompleta, archivoBytes)
                 txtRutaArchivo.Text = rutaCompleta

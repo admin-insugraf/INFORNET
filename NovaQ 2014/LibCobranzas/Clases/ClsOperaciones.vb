@@ -2269,7 +2269,7 @@ Public Class ClsOperaciones
 
         Public Function APROBAR_Pedido(ByVal STRNumPedido As String, ByVal USUARIO As String) As Boolean
             Try
-                SqlHelper.ExecuteNonQuery(cn, "PED_SP_S_APROBAR_PEDIDOS", STRNumPedido, Environment.MachineName, USUARIO)
+                SqlHelper.ExecuteNonQuery(cn, "PED_SP_S_APROBAR_PEDIDOSv2", STRNumPedido, Environment.MachineName, USUARIO)
                 Return True
             Catch ex As Exception
                 MsgBox(ex.Message)
@@ -2520,7 +2520,7 @@ Public Class ClsOperaciones
         Public Function get_DatosGeneralesPedido(ByVal _FECHA_INI As String, ByVal _FECHA_FIN As String, ByVal _OPCION As Integer, ByVal _vendedor As String, _
                                                  ByVal _tipo_vendedor As String, ByVal _acceso_vendedores As String) As DataTable
             Try
-                Return SqlHelper.ExecuteDataset(cn, "PED_SP_S_ORDERS_PRINCIPAL_I", _FECHA_INI, _FECHA_FIN, _OPCION, _vendedor, _tipo_vendedor, _acceso_vendedores).Tables(0)
+                Return SqlHelper.ExecuteDataset(cn, "PED_SP_S_ORDERS_PRINCIPAL_Iv2", _FECHA_INI, _FECHA_FIN, _OPCION, _vendedor, _tipo_vendedor, _acceso_vendedores).Tables(0)
             Catch ex As Exception
                 MsgBox(ex.Message)
             End Try
@@ -6588,10 +6588,10 @@ Public Class ClsOperaciones
                             CodigoAlm = CodigoAlm & """" & dtdetalle.Rows(i).Item(0).ToString & """" & ","
                         Next
                         CodigoAlm = Strings.Left(CodigoAlm, Len(CodigoAlm) - 1)
-                        Return SqlHelper.ExecuteDataset(cn, "PART_SP_S_PART_DATOS_LIBRES", _codigoPart, CodigoAlm).Tables(0)
+                        Return SqlHelper.ExecuteDataset(cn, "PART_SP_S_PART_DATOS_LIBRESv2", _codigoPart, CodigoAlm).Tables(0)
                     End If
                 Else
-                    Return SqlHelper.ExecuteDataset(cn, "PART_SP_S_PART_DATOS_LIBRES", _codigoPart, _Almacen).Tables(0)
+                    Return SqlHelper.ExecuteDataset(cn, "PART_SP_S_PART_DATOS_LIBRESv2", _codigoPart, _Almacen).Tables(0)
                 End If
 
             Catch ex As Exception
@@ -7611,7 +7611,15 @@ Public Class ClsOperaciones
                 Return SqlHelper.ExecuteDataset(cn, "FACT_SP_S_VENDEDOR_USUARIO", _Codigo).Tables(0)
             Catch ex As Exception
                 MsgBox(ex.Message)
-                
+
+            End Try
+        End Function
+        Public Function Get_ManualVendedor_cliente(ByVal _Codigo As String) As DataTable
+            Try
+                Return SqlHelper.ExecuteDataset(cn, "FACT_SP_S_VENDEDOR_CLIENTE", _Codigo).Tables(0)
+            Catch ex As Exception
+                MsgBox(ex.Message)
+
             End Try
         End Function
 
@@ -9761,7 +9769,7 @@ Public Class ClsOperaciones
 
         Public Function get_PuntoVenta_Default() As DataTable
             Try
-                Return SqlHelper.ExecuteDataset(cn, "FACT_SP_S_SALES_PLACE_DEFAULT").Tables(0)
+                Return SqlHelper.ExecuteDataset(cn, "FACT_SP_S_SALES_PLACE_DEFAULTv2").Tables(0)
             Catch ex As Exception
                 MsgBox(ex.Message)
                 
@@ -13139,7 +13147,13 @@ Public Class ClsOperaciones
 
             End Try
         End Sub
-
+        Public Function Muestra_Glosa(ByVal is_DocVenta As Boolean, ByVal is_guia As Boolean, ByVal is_NC As Boolean, ByVal is_ND As Boolean, ByVal Is_permanente As Boolean) As DataTable
+            Try
+                Return SqlHelper.ExecuteDataset(cn, "ADM_LISTA_LEYENDA", is_DocVenta, is_guia, is_NC, is_ND, Is_permanente).Tables(0)
+            Catch ex As Exception
+                MsgBox(ex.Message)
+            End Try
+        End Function
 
 
     End Class

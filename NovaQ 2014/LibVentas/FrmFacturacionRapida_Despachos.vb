@@ -5277,6 +5277,8 @@ Public Class FrmFacturacionRapida_Despachos
         _Id = dgvDocumentosFactura.CurrentRow.Cells("Numero").Value
         imprimir_pedido_Formato_TK(_Id)
     End Sub
+
+    <Obsolete>
     Private Sub imprimir_pedido_Formato_TK(ByVal _Codigo As String)
         Try
             reporteBL = New ClsBuscar
@@ -5294,8 +5296,7 @@ Public Class FrmFacturacionRapida_Despachos
                     STRmontotexto = UCase(NUMEROLETRAS(Math.Abs(CDbl(dtImprimir.Rows(0).Item("AMOUNT"))))) & " Dólares Americanos"
                 End If
 
-                crystalBL.Muestra_Reporte("SAL_PEDIDO_TK.rpt", dtImprimir, "", "", "@ID;" & _Codigo, _
-                                          "LETRAS;" & STRmontotexto)
+                crystalBL.Muestra_Reporte("SAL_PEDIDO_TK.rpt", dtImprimir, "", "", "@ID;" & _Codigo, "LETRAS;" & STRmontotexto)
             End If
             Me.Cursor = Cursors.Default
         Catch ex As Exception

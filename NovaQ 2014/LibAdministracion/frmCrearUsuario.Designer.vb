@@ -41,6 +41,7 @@ Partial Class frmCrearUsuario
         Me.dtpFecFinal = New System.Windows.Forms.DateTimePicker()
         Me.dtpFecInicio = New System.Windows.Forms.DateTimePicker()
         Me.gbUsuarios = New System.Windows.Forms.GroupBox()
+        Me.chk_hab_pe = New System.Windows.Forms.CheckBox()
         Me.chk_numeracion_fact = New System.Windows.Forms.CheckBox()
         Me.chk_manejo_cartera = New System.Windows.Forms.CheckBox()
         Me.chk_valida_stock = New System.Windows.Forms.CheckBox()
@@ -81,7 +82,6 @@ Partial Class frmCrearUsuario
         Me.gb_vendedores = New System.Windows.Forms.GroupBox()
         Me.checkVendedores = New System.Windows.Forms.CheckBox()
         Me.chklstVendedores = New System.Windows.Forms.CheckedListBox()
-        Me.chk_hab_pe = New System.Windows.Forms.CheckBox()
         Me.ToolOpc.SuspendLayout()
         Me.gbListaUsuario.SuspendLayout()
         CType(Me.dgUsuarios, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -317,6 +317,18 @@ Partial Class frmCrearUsuario
         Me.gbUsuarios.TabIndex = 24
         Me.gbUsuarios.TabStop = False
         Me.gbUsuarios.Text = "Datos de Usuario"
+        '
+        'chk_hab_pe
+        '
+        Me.chk_hab_pe.AutoSize = True
+        Me.chk_hab_pe.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
+        Me.chk_hab_pe.ForeColor = System.Drawing.Color.Navy
+        Me.chk_hab_pe.Location = New System.Drawing.Point(13, 306)
+        Me.chk_hab_pe.Name = "chk_hab_pe"
+        Me.chk_hab_pe.Size = New System.Drawing.Size(229, 17)
+        Me.chk_hab_pe.TabIndex = 40
+        Me.chk_hab_pe.Text = "Habilitado para Actualizar Parte de Entrega"
+        Me.chk_hab_pe.UseVisualStyleBackColor = True
         '
         'chk_numeracion_fact
         '
@@ -764,18 +776,6 @@ Partial Class frmCrearUsuario
         Me.chklstVendedores.Size = New System.Drawing.Size(290, 79)
         Me.chklstVendedores.TabIndex = 6
         '
-        'chk_hab_pe
-        '
-        Me.chk_hab_pe.AutoSize = True
-        Me.chk_hab_pe.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
-        Me.chk_hab_pe.ForeColor = System.Drawing.Color.Navy
-        Me.chk_hab_pe.Location = New System.Drawing.Point(13, 306)
-        Me.chk_hab_pe.Name = "chk_hab_pe"
-        Me.chk_hab_pe.Size = New System.Drawing.Size(229, 17)
-        Me.chk_hab_pe.TabIndex = 40
-        Me.chk_hab_pe.Text = "Habilitado para Actualizar Parte de Entrega"
-        Me.chk_hab_pe.UseVisualStyleBackColor = True
-        '
         'frmCrearUsuario
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -786,8 +786,8 @@ Partial Class frmCrearUsuario
         Me.Controls.Add(Me.gb_vendedores)
         Me.Controls.Add(Me.ToolOpc)
         Me.Controls.Add(Me.GroupBox1)
-        Me.Controls.Add(Me.gbUsuarios)
         Me.Controls.Add(Me.GbCabecera)
+        Me.Controls.Add(Me.gbUsuarios)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frmCrearUsuario"

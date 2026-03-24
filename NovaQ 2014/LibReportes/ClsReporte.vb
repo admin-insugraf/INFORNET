@@ -13,6 +13,7 @@ Imports LibConexion
 Imports System.Windows.Forms
 Imports System.IO
 
+
 Public Class ClsReporte
     Implements IDisposable
 
@@ -238,8 +239,9 @@ Public Class ClsReporte
         End Try
     End Sub
 
-    Public Sub Muestra_Reporte(ByVal STRnombreReporte As String, _
-            ByVal myDatos As DataTable, ByVal STRnombreTabla As String, _
+    <Obsolete>
+    Public Sub Muestra_Reporte(ByVal STRnombreReporte As String,
+            ByVal myDatos As DataTable, ByVal STRnombreTabla As String,
             ByVal STRfiltro As String, ByVal ParamArray Parametros() As String)
         Try
             Dim f As New frmReporte
@@ -465,6 +467,8 @@ Public Class ClsReporte
             Throw
         End Try
     End Function
+
+    <Obsolete>
     Private Function RutaReportes() As String
         mySetting = System.Configuration.ConfigurationSettings.AppSettings()
         STRRutaReportes = mySetting("Reportes")

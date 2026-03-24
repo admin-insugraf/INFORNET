@@ -25,6 +25,7 @@
     <OutputPath>bin\Debug\</OutputPath>
     <DocumentationFile>LibVentas.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -112,6 +113,12 @@
       <DependentUpon>FrmCobranza_Efectuada.vb</DependentUpon>
     </Compile>
     <Compile Include="FrmCobranza_Efectuada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComprometerStock.Designer.vb">
+      <DependentUpon>frmComprometerStock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmComprometerStock.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmDevolucion_Principal.Designer.vb">
@@ -656,6 +663,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmCobranza_Efectuada.resx">
       <DependentUpon>FrmCobranza_Efectuada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmComprometerStock.resx">
+      <DependentUpon>frmComprometerStock.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmDevolucion_Principal.resx">
       <DependentUpon>FrmDevolucion_Principal.vb</DependentUpon>

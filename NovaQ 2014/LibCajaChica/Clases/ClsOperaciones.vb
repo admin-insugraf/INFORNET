@@ -3282,10 +3282,10 @@ Public Class ClsOperaciones
                             CodigoAlm = CodigoAlm & """" & dtdetalle.Rows(i).Item(0).ToString & """" & ","
                         Next
                         CodigoAlm = Strings.Left(CodigoAlm, Len(CodigoAlm) - 1)
-                        Return SqlHelper.ExecuteDataset(cn, "PART_SP_S_PART_DATOS_LIBRES", _codigoPart, CodigoAlm).Tables(0)
+                        Return SqlHelper.ExecuteDataset(cn, "PART_SP_S_PART_DATOS_LIBRESv2", _codigoPart, CodigoAlm).Tables(0)
                     End If
                 Else
-                    Return SqlHelper.ExecuteDataset(cn, "PART_SP_S_PART_DATOS_LIBRES", _codigoPart, _Almacen).Tables(0)
+                    Return SqlHelper.ExecuteDataset(cn, "PART_SP_S_PART_DATOS_LIBRESv2", _codigoPart, _Almacen).Tables(0)
                 End If
 
             Catch ex As Exception

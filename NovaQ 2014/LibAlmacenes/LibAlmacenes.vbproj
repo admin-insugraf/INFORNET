@@ -25,6 +25,7 @@
     <OutputPath>bin\Debug\</OutputPath>
     <DocumentationFile>LibAlmacenes.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -80,8 +81,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clases\ClsBuscar.vb" />
+    <Compile Include="Clases\ClsEntidadesAlm.vb" />
+    <Compile Include="Clases\ClsOperacionesAlm.vb" />
     <Compile Include="Clases\ClsReporteGenerales.vb" />
-    <Compile Include="Clases\ClsTransacciones.vb" />
+    <Compile Include="Clases\ClsTransaccionesAlm.vb" />
     <Compile Include="Entidades\Almacen.vb" />
     <Compile Include="Entidades\Articulo.vb" />
     <Compile Include="Entidades\CentroCosto.vb" />
@@ -207,6 +210,12 @@
       <DependentUpon>FrmTransportistaAct_Direcciones.vb</DependentUpon>
     </Compile>
     <Compile Include="Ventanas\FrmTransportistaAct_Direcciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Hoja_Picking.Designer.vb">
+      <DependentUpon>Frm_Hoja_Picking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Frm_Hoja_Picking.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Ventanas\Frm_MA_Empresa_Transporte.Designer.vb">
@@ -443,6 +452,9 @@
     <EmbeddedResource Include="Ventanas\FrmTransportistaAct_Direcciones.resx">
       <DependentUpon>FrmTransportistaAct_Direcciones.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Frm_Hoja_Picking.resx">
+      <DependentUpon>Frm_Hoja_Picking.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Ventanas\Frm_MA_Empresa_Transporte.resx">
       <DependentUpon>Frm_MA_Empresa_Transporte.vb</DependentUpon>
     </EmbeddedResource>
@@ -532,6 +544,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.config" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -571,6 +584,10 @@
     <ProjectReference Include="..\LibConexion\LibConexion.vbproj">
       <Project>{c4d1109c-6e79-4de3-9bd4-a071b622a669}</Project>
       <Name>LibConexion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibContabilidad\LibContabilidad.vbproj">
+      <Project>{10273af9-6687-40c1-a70a-325a94fbe4d4}</Project>
+      <Name>LibContabilidad</Name>
     </ProjectReference>
     <ProjectReference Include="..\LibControlUser\LibControlUser.vbproj">
       <Project>{67e846dd-6072-49a3-9deb-9c8477ab2851}</Project>

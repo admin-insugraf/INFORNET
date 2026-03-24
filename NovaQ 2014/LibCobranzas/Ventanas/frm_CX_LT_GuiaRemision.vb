@@ -161,6 +161,7 @@ Public Class frm_CX_LT_GuiaRemision
         'Call Cargar_Moneda()
         Cargar_Almacen(cboAlmacenDestino)
         Cargar_Motivos_Traslado(cbo_motivo_traslado)
+        gbOpciones.Enabled = True
     End Sub
     Private Sub Cargar_Motivos_Traslado(ByVal Combobox As ComboBox)
         Dim almacenBL As New ClsOperaciones.WAREHOUSE
@@ -774,11 +775,11 @@ Public Class frm_CX_LT_GuiaRemision
             If CboTipoTransaccion.SelectedIndex = 0 Then
                 gbCabecera.Enabled = False
                 gbdetalle.Enabled = False
-                gbOpciones.Enabled = False
+                ' gbOpciones.Enabled = False
             Else
                 gbCabecera.Enabled = True
                 gbdetalle.Enabled = True
-                gbOpciones.Enabled = True
+                ' gbOpciones.Enabled = True
                 MostrandoTipoTransacciones()
             End If
         End If
@@ -1583,7 +1584,7 @@ Public Class frm_CX_LT_GuiaRemision
                     dgvDetalle.Columns(2).Width = 300
                     dgvDetalle.Columns(6).Visible = True
                     dgvDetalle.Columns(6).DefaultCellStyle.Format = "##,##0.00"
-                    gbOpciones.Enabled = True
+                    ' gbOpciones.Enabled = True
                     RehacerSecuencia()
                 Else
                     MsgBox("No hay informacion disponible para Mostrar en este Documento.", MsgBoxStyle.Information)
@@ -1639,8 +1640,8 @@ Public Class frm_CX_LT_GuiaRemision
                     dgvDetalle.Columns(2).Width = 300
                     dgvDetalle.Columns(6).Visible = True
                     dgvDetalle.Columns(6).DefaultCellStyle.Format = "##,##0.00"
-                    gbOpciones.Enabled = True
-                    'RehacerSecuencia()
+                    ' gbOpciones.Enabled = True
+
                 Else
                     MsgBox("No hay informacion disponible para Mostrar en este Documento.", MsgBoxStyle.Information)
                     GenerarColummnaDataTable()
@@ -2488,7 +2489,7 @@ Public Class frm_CX_LT_GuiaRemision
         GbTransaccion.Enabled = True
         gbCabecera.Enabled = True
         gbdetalle.Enabled = True
-        gbOpciones.Enabled = True
+        'gbOpciones.Enabled = True
         gbTipoGuia.Enabled = True
     End Sub
     Private Sub cboserieguia_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cboserieguia.SelectedIndexChanged
@@ -2760,9 +2761,9 @@ Public Class frm_CX_LT_GuiaRemision
     Private Sub btn_devolucion_salir_Click(sender As Object, e As EventArgs) Handles btn_devolucion_salir.Click
         txt_busqueda_dev.Text = ""
         pnl_devoluciones.Visible = False
-        'txtPtoVenta.Select()
+
         gbCabecera.Enabled = True
-        gbOpciones.Enabled = True
+        'gbOpciones.Enabled = True
         GbTransaccion.Enabled = True
         gbTipoGuia.Enabled = True
     End Sub
@@ -2874,6 +2875,7 @@ Public Class frm_CX_LT_GuiaRemision
                 btnPedidos.Enabled = True
                 CboTipoTransaccion.Enabled = True
                 'MostrandoDocumentoPedidos()
+                gbOpciones.Enabled = False
             Else
                 pnl_pedido.Visible = False
                 dtdetalleArticuloPrincipal.Rows.Clear()
@@ -2881,6 +2883,7 @@ Public Class frm_CX_LT_GuiaRemision
                 gbCabecera.Enabled = True
                 gbOpciones.Enabled = True
                 btnPedidos.Enabled = False
+
             End If
 
         End If
@@ -2958,7 +2961,7 @@ Public Class frm_CX_LT_GuiaRemision
         dgv_cab_ped.DataSource = Nothing
         txt_filtrar_pedido.Text = String.Empty
         gbCabecera.Enabled = True
-        gbOpciones.Enabled = True
+        '  gbOpciones.Enabled = True
 
     End Sub
 

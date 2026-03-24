@@ -23,12 +23,12 @@ Partial Class FrmFacturacionRapida
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmFacturacionRapida))
-        Dim DataGridViewCellStyle19 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle20 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle21 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle22 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle23 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle24 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle25 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle26 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle27 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle28 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle29 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle30 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.ToolStrip1 = New System.Windows.Forms.ToolStrip()
         Me.btnNuevo = New System.Windows.Forms.ToolStripButton()
         Me.btnConsultar = New System.Windows.Forms.ToolStripButton()
@@ -382,9 +382,10 @@ Partial Class FrmFacturacionRapida
         Me.txtDireccionTransportistaDescripcion = New System.Windows.Forms.TextBox()
         Me.lblDireccionAgencia = New System.Windows.Forms.Label()
         Me.GroupBox13 = New System.Windows.Forms.GroupBox()
+        Me.rdb_opt_Lima = New System.Windows.Forms.RadioButton()
         Me.rdb_opt_agencia = New System.Windows.Forms.RadioButton()
         Me.rdb_opt_domicilio = New System.Windows.Forms.RadioButton()
-        Me.rdb_opt_local = New System.Windows.Forms.RadioButton()
+        Me.rdb_opt_recojo = New System.Windows.Forms.RadioButton()
         Me.chk_efectivo = New System.Windows.Forms.CheckBox()
         Me.chk_transferencia = New System.Windows.Forms.CheckBox()
         Me.chk_letra_2 = New System.Windows.Forms.CheckBox()
@@ -615,7 +616,7 @@ Partial Class FrmFacturacionRapida
         '
         'ToolStrip1
         '
-        Me.ToolStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.btnNuevo, Me.btnConsultar, Me.btnGrabar, Me.btn_modificar, Me.btn_aprobar, Me.btnEliminar, Me.btn_imprimir_tk, Me.btn_deshacer_aprobar, Me.btn_cotizacion, Me.btnAnular, Me.btnImprimir, Me.btn_imprimir_fc, Me.btnCancelar, Me.btn_salir})
+        Me.ToolStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.btnNuevo, Me.btnConsultar, Me.btnGrabar, Me.btn_modificar, Me.btn_aprobar, Me.btnEliminar, Me.btn_imprimir_tk, Me.btnCancelar, Me.btn_deshacer_aprobar, Me.btn_cotizacion, Me.btnAnular, Me.btnImprimir, Me.btn_imprimir_fc, Me.btn_salir})
         Me.ToolStrip1.Location = New System.Drawing.Point(0, 0)
         Me.ToolStrip1.Name = "ToolStrip1"
         Me.ToolStrip1.Size = New System.Drawing.Size(1214, 25)
@@ -2339,8 +2340,8 @@ Partial Class FrmFacturacionRapida
         '
         'txtPtoVenta
         '
-        Me.txtPtoVenta.BackColor = System.Drawing.Color.Aquamarine
         Me.txtPtoVenta.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.txtPtoVenta.Enabled = False
         Me.txtPtoVenta.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.txtPtoVenta.ForeColor = System.Drawing.Color.SaddleBrown
         Me.txtPtoVenta.Location = New System.Drawing.Point(94, 18)
@@ -2650,37 +2651,37 @@ Partial Class FrmFacturacionRapida
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.dgvDetalle.BackgroundColor = System.Drawing.Color.White
         Me.dgvDetalle.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None
-        DataGridViewCellStyle19.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle19.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
-        DataGridViewCellStyle19.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle19.ForeColor = System.Drawing.Color.White
-        DataGridViewCellStyle19.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle19.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle19.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgvDetalle.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle19
+        DataGridViewCellStyle25.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle25.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
+        DataGridViewCellStyle25.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle25.ForeColor = System.Drawing.Color.White
+        DataGridViewCellStyle25.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle25.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle25.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvDetalle.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle25
         Me.dgvDetalle.ColumnHeadersHeight = 30
-        DataGridViewCellStyle20.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle20.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle20.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle20.ForeColor = System.Drawing.Color.Navy
-        DataGridViewCellStyle20.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle20.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle20.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dgvDetalle.DefaultCellStyle = DataGridViewCellStyle20
+        DataGridViewCellStyle26.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle26.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle26.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle26.ForeColor = System.Drawing.Color.Navy
+        DataGridViewCellStyle26.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle26.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle26.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgvDetalle.DefaultCellStyle = DataGridViewCellStyle26
         Me.dgvDetalle.EnableHeadersVisualStyles = False
         Me.dgvDetalle.Location = New System.Drawing.Point(8, 13)
         Me.dgvDetalle.Name = "dgvDetalle"
-        DataGridViewCellStyle21.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle21.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
-        DataGridViewCellStyle21.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle21.ForeColor = System.Drawing.Color.White
-        DataGridViewCellStyle21.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle21.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle21.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgvDetalle.RowHeadersDefaultCellStyle = DataGridViewCellStyle21
+        DataGridViewCellStyle27.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle27.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
+        DataGridViewCellStyle27.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle27.ForeColor = System.Drawing.Color.White
+        DataGridViewCellStyle27.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle27.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle27.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvDetalle.RowHeadersDefaultCellStyle = DataGridViewCellStyle27
         Me.dgvDetalle.RowHeadersVisible = False
-        DataGridViewCellStyle22.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.dgvDetalle.RowsDefaultCellStyle = DataGridViewCellStyle22
+        DataGridViewCellStyle28.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dgvDetalle.RowsDefaultCellStyle = DataGridViewCellStyle28
         Me.dgvDetalle.RowTemplate.DefaultCellStyle.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.dgvDetalle.RowTemplate.DefaultCellStyle.ForeColor = System.Drawing.Color.Navy
         Me.dgvDetalle.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
@@ -3763,27 +3764,27 @@ Partial Class FrmFacturacionRapida
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.dgv_lista_productos.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None
-        DataGridViewCellStyle23.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle23.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
-        DataGridViewCellStyle23.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        DataGridViewCellStyle23.ForeColor = System.Drawing.Color.White
-        DataGridViewCellStyle23.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle23.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle23.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgv_lista_productos.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle23
+        DataGridViewCellStyle29.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle29.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
+        DataGridViewCellStyle29.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        DataGridViewCellStyle29.ForeColor = System.Drawing.Color.White
+        DataGridViewCellStyle29.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle29.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle29.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgv_lista_productos.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle29
         Me.dgv_lista_productos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgv_lista_productos.EnableHeadersVisualStyles = False
         Me.dgv_lista_productos.Location = New System.Drawing.Point(12, 49)
         Me.dgv_lista_productos.Name = "dgv_lista_productos"
         Me.dgv_lista_productos.ReadOnly = True
-        DataGridViewCellStyle24.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle24.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
-        DataGridViewCellStyle24.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        DataGridViewCellStyle24.ForeColor = System.Drawing.Color.White
-        DataGridViewCellStyle24.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle24.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle24.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgv_lista_productos.RowHeadersDefaultCellStyle = DataGridViewCellStyle24
+        DataGridViewCellStyle30.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle30.BackColor = System.Drawing.Color.FromArgb(CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(66, Byte), Integer))
+        DataGridViewCellStyle30.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        DataGridViewCellStyle30.ForeColor = System.Drawing.Color.White
+        DataGridViewCellStyle30.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle30.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle30.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgv_lista_productos.RowHeadersDefaultCellStyle = DataGridViewCellStyle30
         Me.dgv_lista_productos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.dgv_lista_productos.Size = New System.Drawing.Size(1098, 119)
         Me.dgv_lista_productos.TabIndex = 189
@@ -5146,26 +5147,39 @@ Partial Class FrmFacturacionRapida
         'GroupBox13
         '
         Me.GroupBox13.BackColor = System.Drawing.Color.Gainsboro
+        Me.GroupBox13.Controls.Add(Me.rdb_opt_Lima)
         Me.GroupBox13.Controls.Add(Me.rdb_opt_agencia)
         Me.GroupBox13.Controls.Add(Me.rdb_opt_domicilio)
-        Me.GroupBox13.Controls.Add(Me.rdb_opt_local)
-        Me.GroupBox13.Location = New System.Drawing.Point(94, 10)
+        Me.GroupBox13.Controls.Add(Me.rdb_opt_recojo)
+        Me.GroupBox13.Location = New System.Drawing.Point(2, 10)
         Me.GroupBox13.Name = "GroupBox13"
-        Me.GroupBox13.Size = New System.Drawing.Size(298, 36)
+        Me.GroupBox13.Size = New System.Drawing.Size(388, 36)
         Me.GroupBox13.TabIndex = 236
         Me.GroupBox13.TabStop = False
+        '
+        'rdb_opt_Lima
+        '
+        Me.rdb_opt_Lima.AutoSize = True
+        Me.rdb_opt_Lima.Checked = True
+        Me.rdb_opt_Lima.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.rdb_opt_Lima.ForeColor = System.Drawing.Color.Navy
+        Me.rdb_opt_Lima.Location = New System.Drawing.Point(13, 10)
+        Me.rdb_opt_Lima.Name = "rdb_opt_Lima"
+        Me.rdb_opt_Lima.Size = New System.Drawing.Size(52, 17)
+        Me.rdb_opt_Lima.TabIndex = 230
+        Me.rdb_opt_Lima.TabStop = True
+        Me.rdb_opt_Lima.Text = "Lima"
+        Me.rdb_opt_Lima.UseVisualStyleBackColor = True
         '
         'rdb_opt_agencia
         '
         Me.rdb_opt_agencia.AutoSize = True
-        Me.rdb_opt_agencia.Checked = True
         Me.rdb_opt_agencia.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.rdb_opt_agencia.ForeColor = System.Drawing.Color.Navy
-        Me.rdb_opt_agencia.Location = New System.Drawing.Point(4, 10)
+        Me.rdb_opt_agencia.Location = New System.Drawing.Point(93, 10)
         Me.rdb_opt_agencia.Name = "rdb_opt_agencia"
         Me.rdb_opt_agencia.Size = New System.Drawing.Size(70, 17)
         Me.rdb_opt_agencia.TabIndex = 225
-        Me.rdb_opt_agencia.TabStop = True
         Me.rdb_opt_agencia.Text = "Agencia"
         Me.rdb_opt_agencia.UseVisualStyleBackColor = True
         '
@@ -5174,24 +5188,24 @@ Partial Class FrmFacturacionRapida
         Me.rdb_opt_domicilio.AutoSize = True
         Me.rdb_opt_domicilio.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.rdb_opt_domicilio.ForeColor = System.Drawing.Color.Navy
-        Me.rdb_opt_domicilio.Location = New System.Drawing.Point(118, 10)
+        Me.rdb_opt_domicilio.Location = New System.Drawing.Point(179, 10)
         Me.rdb_opt_domicilio.Name = "rdb_opt_domicilio"
-        Me.rdb_opt_domicilio.Size = New System.Drawing.Size(76, 17)
+        Me.rdb_opt_domicilio.Size = New System.Drawing.Size(126, 17)
         Me.rdb_opt_domicilio.TabIndex = 226
-        Me.rdb_opt_domicilio.Text = "Domicilio"
+        Me.rdb_opt_domicilio.Text = "Agencia-Domicilio"
         Me.rdb_opt_domicilio.UseVisualStyleBackColor = True
         '
-        'rdb_opt_local
+        'rdb_opt_recojo
         '
-        Me.rdb_opt_local.AutoSize = True
-        Me.rdb_opt_local.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
-        Me.rdb_opt_local.ForeColor = System.Drawing.Color.Navy
-        Me.rdb_opt_local.Location = New System.Drawing.Point(234, 10)
-        Me.rdb_opt_local.Name = "rdb_opt_local"
-        Me.rdb_opt_local.Size = New System.Drawing.Size(54, 17)
-        Me.rdb_opt_local.TabIndex = 229
-        Me.rdb_opt_local.Text = "Local"
-        Me.rdb_opt_local.UseVisualStyleBackColor = True
+        Me.rdb_opt_recojo.AutoSize = True
+        Me.rdb_opt_recojo.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
+        Me.rdb_opt_recojo.ForeColor = System.Drawing.Color.Navy
+        Me.rdb_opt_recojo.Location = New System.Drawing.Point(319, 10)
+        Me.rdb_opt_recojo.Name = "rdb_opt_recojo"
+        Me.rdb_opt_recojo.Size = New System.Drawing.Size(64, 17)
+        Me.rdb_opt_recojo.TabIndex = 229
+        Me.rdb_opt_recojo.Text = "Recojo"
+        Me.rdb_opt_recojo.UseVisualStyleBackColor = True
         '
         'chk_efectivo
         '
@@ -5369,7 +5383,7 @@ Partial Class FrmFacturacionRapida
         Me.rdb_domicilio.AutoSize = True
         Me.rdb_domicilio.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.rdb_domicilio.ForeColor = System.Drawing.Color.Navy
-        Me.rdb_domicilio.Location = New System.Drawing.Point(175, 54)
+        Me.rdb_domicilio.Location = New System.Drawing.Point(175, 274)
         Me.rdb_domicilio.Name = "rdb_domicilio"
         Me.rdb_domicilio.Size = New System.Drawing.Size(93, 17)
         Me.rdb_domicilio.TabIndex = 207
@@ -7662,7 +7676,7 @@ Partial Class FrmFacturacionRapida
     Friend WithEvents GroupBox13 As System.Windows.Forms.GroupBox
     Friend WithEvents rdb_opt_agencia As System.Windows.Forms.RadioButton
     Friend WithEvents rdb_opt_domicilio As System.Windows.Forms.RadioButton
-    Friend WithEvents rdb_opt_local As System.Windows.Forms.RadioButton
+    Friend WithEvents rdb_opt_recojo As System.Windows.Forms.RadioButton
     Friend WithEvents txtLocalDescripcion As System.Windows.Forms.TextBox
     Friend WithEvents Label142 As System.Windows.Forms.Label
     Friend WithEvents txtDireccionTransportistaDescripcion As System.Windows.Forms.TextBox
@@ -7677,4 +7691,5 @@ Partial Class FrmFacturacionRapida
     Friend WithEvents lblusuarioId As System.Windows.Forms.Label
     Friend WithEvents TxtFechaCreacion As System.Windows.Forms.TextBox
     Friend WithEvents txtUserID As System.Windows.Forms.TextBox
+    Friend WithEvents rdb_opt_Lima As System.Windows.Forms.RadioButton
 End Class

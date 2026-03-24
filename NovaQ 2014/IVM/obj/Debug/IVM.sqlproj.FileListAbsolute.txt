@@ -94,10 +94,6 @@ Z:\Fuente 2023\INSUGRAF\NovaQ 2014\IVM\obj\Debug\predeploy.sql
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\IVM\obj\Debug\IVM.dll
 Z:\Fuente 2023\INSUGRAF\NovaQ 2014\IVM\obj\Debug\IVM.pdb
 E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\bin\Debug\IVM.dacpac
-E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\obj\Debug\Model.xml
-E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\obj\Debug\refactor.xml
-E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\obj\Debug\postdeploy.sql
-E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\obj\Debug\predeploy.sql
 E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\obj\Debug\IVM.dll
 E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\obj\Debug\IVM.pdb
 E:\Proyectos-GIT\Infornet\INFORNET\NovaQ 2014\IVM\bin\Debug\IVM.dll

@@ -175,9 +175,20 @@ Public Class ClsBuscar
 
         End Try
     End Function
+
+    Public Function Get_ConsultaStockComprometido(ByVal _Cadena As String, ByVal _Filtro1 As String) As DataTable
+        Try
+            Return SqlHelper.ExecuteDataset(cn, _Cadena, _Filtro1).Tables(0)
+
+        Catch ex As Exception
+            MsgBox(ex.Message)
+
+        End Try
+    End Function
+
     '----------------
     '----------PEDIDOS--
- 
+
     Public Function Get_FormaCobro(ByVal Codigo As String) As String
         Dim Descripcion As String = String.Empty
         Try

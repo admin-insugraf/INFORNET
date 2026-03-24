@@ -2760,4 +2760,11 @@ Public Class frmMenu
     Private Sub mnuAlmTransacciones_Click(sender As Object, e As EventArgs) Handles mnuAlmTransacciones.Click
 
     End Sub
+
+    Private Sub ToolStripMenuItem1_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem1.Click
+
+        Dim FrmHojaPicking As New Frm_Hoja_Picking
+        FrmHojaPicking.MdiParent = Me
+        OpenSubForm(FrmHojaPicking)
+    End Sub
 End Class
